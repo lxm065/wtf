@@ -1,0 +1,124 @@
+VER 3 010000000000000C "冲锋pvp" "ABILITY_WARRIOR_CHARGE"
+#showtooltip 冲锋
+/cancelaura 保护之手
+/cast [target=focus,exists,mod:shift]冲锋;冲锋
+/startattack
+/cast 乘胜追击
+/cast 断筋
+/cancelaura 剑刃风暴
+/cancelaura 保护之手
+END
+VER 3 0100000000000017 "压制pvp" "ABILITY_MELEEDAMAGE"
+#showtooltip 压制
+/startattack
+/castsequence reset=0 0,0,巨人打击
+/castsequence reset=0 0,压制
+/cast 致死打击
+END
+VER 3 0100000000000009 "反盾pvp" "ABILITY_WARRIOR_SHIELDREFLECTION"
+#showtooltip 法术反射
+/equip 艾尔杰恩，锯齿新月斧
+/equip  钢铁之肤，齐昂的不动护盾
+/cast 法术反射
+/cast 群体法术反射
+END
+VER 3 010000000000000B "大爆发pvp" "WARRIOR_TALENT_ICON_AVATAR"
+#showtooltip 天神下凡
+/cast 战斗姿态
+/cast 天神下凡
+/cast 鲁莽
+/cast 浴血奋战
+/cast 颅骨战旗
+/use 13
+/use 10
+/cast 致命平静
+/cast 英勇打击
+END
+VER 3 0100000000000007 "大盾墙pvp" "INV_SHIELD_05"
+#showtooltip 盾墙
+/cast 防御姿态
+/equip 艾尔杰恩，锯齿新月斧
+/equip  钢铁之肤，齐昂的不动护盾
+/cast 盾墙
+/cast 集结呐喊
+/cast 治疗石
+/use 冷酷角斗士的顽强勋章
+END
+VER 3 0100000000000013 "小天神pvp" "ABILITY_WARRIOR_ENDLESSRAGE"
+/cast 狂暴之怒
+/cast 战斗怒吼
+/use 13
+/cast 浴血奋战
+/use 13
+/use 10
+/cast 致命平静
+/cast 英勇打击
+END
+VER 3 010000000000000E "巨人pvp" "ABILITY_WARRIOR_COLOSSUSSMASH"
+#showtooltips 巨人打击
+/cast 巨人打击
+/cast 致命平静
+/cast 浴血奋战
+/cast 斩杀
+END
+VER 3 0100000000000014 "怒击" "WARRIOR_WILD_STRIKE"
+/startattack
+/cast 怒击
+/startattack
+END
+VER 3 0100000000000016 "投掷pvp" "ABILITY_THROW"
+#showtooltip 焦点投掷
+/cast [target=focus][target=target] 投掷
+END
+VER 3 0100000000000006 "拳击pvp" "INV_GAUNTLETS_04"
+#showtooltip 拳击
+/startattack
+/cancelaura 剑刃风暴
+/stopcasting
+/cast 拳击
+/startattack 
+END
+VER 3 010000000000000A "捍卫pvp" "ABILITY_WARRIOR_SAFEGUARD"
+#showtooltip捍卫
+/cast [target=mouseover,nodead] 捍卫
+END
+VER 3 0100000000000018 "断筋pvp" "ABILITY_SHOCKWAVE"
+/cast 断筋
+/cast 破甲攻击
+END
+VER 3 0100000000000003 "旋风斩" "ABILITY_WHIRLWIND"
+#showtooltip 旋风斩
+/cast [nostance:3]狂暴姿态
+/cast 旋风斩
+END
+VER 3 010000000000000F "猛击pvp" "ABILITY_WARRIOR_DECISIVESTRIKE"
+#showtooltip 猛击
+/startattack
+/castsequence reset=0 0,猛击
+/cast 斩杀 
+END
+VER 3 0100000000000005 "致死pvp" "ABILITY_WARRIOR_SAVAGEBLOW"
+#showtooltip 致死打击
+/startattack
+#/equip 萨塔耶的刺剑
+/equip 碎星者
+/cast 致死打击
+/startattack 
+END
+VER 3 010000000000000D "英勇pvp" "ABILITY_ROGUE_AMBUSH"
+#showtooltip
+/startattack
+/cast 致命平静
+/cast 英勇打击
+END
+VER 3 0100000000000002 "雷霆" "SPELL_NATURE_THUNDERCLAP"
+#showtooltip 雷霆一击
+#/cast [nostance:1]战斗姿态
+/cast 雷霆一击
+/cast 顺劈斩
+END
+VER 3 0100000000000010 "飞跃pvp" "ABILITY_HEROICLEAP"
+#showtooltip 英勇飞跃
+/cast 碎裂投掷
+/cast !英勇飞跃
+END

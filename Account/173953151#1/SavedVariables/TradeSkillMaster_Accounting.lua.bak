@@ -1,0 +1,57 @@
+
+TradeSkillMaster_AccountingDB = {
+	["global"] = {
+		["itemStrings"] = {
+			["神秘精华"] = "item:74250:0:0:0:0:0:0",
+			["飘渺碎片"] = "item:74247:0:0:0:0:0:0",
+			["强效宇宙精华"] = "item:34055:0:0:0:0:0:0",
+			["香浓酸奶"] = "item:81409:0:0:0:0:0:0",
+			["附魔手套 - 强效急速"] = "item:74719:0:0:0:0:0:0",
+			["附魔羊皮纸"] = "item:38682:0:0:0:0:0:0",
+			["漩涡水晶"] = "item:52722:0:0:0:0:0:0",
+			["雪怒圣物"] = "item:79327:0:0:0:0:0:0",
+			["疯狂猢狲药剂"] = "item:76076:0:0:0:0:0:0",
+			["眼镜蛇药剂"] = "item:58092:0:0:0:0:0:0",
+			["珍珠奶茶"] = "item:81414:0:0:0:0:0:0",
+			["小块天界碎片"] = "item:52720:0:0:0:0:0:0",
+			["次级天界精华"] = "item:52718:0:0:0:0:0:0",
+			["美味风蛇"] = "item:6657:0:0:0:0:0:0",
+			["小块飘渺碎片"] = "item:74252:0:0:0:0:0:0",
+			["邪煞水晶"] = "item:74248:0:0:0:0:0:0",
+			["风绒布"] = "item:72988:0:0:0:0:0:0",
+			["清心书卷"] = "item:79249:0:0:0:0:0:0",
+			["附魔武器 - 元素之力"] = "item:74725:0:0:0:0:0:0",
+			["灵魂尘"] = "item:74249:0:0:0:0:0:0",
+			["遗忘王者战鼓"] = "item:49633:0:0:0:0:0:0",
+			["大师遗训（卷一）"] = "item:83078:0:0:0:0:0:0",
+			["强效天界精华"] = "item:52719:0:0:0:0:0:0",
+			["幸运药水"] = "item:93351:0:0:0:0:0:0",
+			["天界碎片"] = "item:52721:0:0:0:0:0:0",
+			["鱼竿"] = "item:6256:0:0:0:0:0:0",
+			["催眠之尘"] = "item:52555:0:0:0:0:0:0",
+			["深渊水晶"] = "item:34057:0:0:0:0:0:0",
+		},
+	},
+	["profileKeys"] = {
+		["赞达拉使者 - 火羽山"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - 火羽山"] = {
+			["csvExpired"] = "itemString,itemName,stackSize,quantity,player,time",
+			["goldLog"] = {
+				["赞达拉使者"] = {
+					{
+						["endMinute"] = 22950122,
+						["copper"] = 143474202,
+						["startMinute"] = 22950119,
+					}, -- [1]
+				},
+			},
+			["csvBuys"] = "itemString,itemName,stackSize,quantity,price,seller,player,time,source",
+			["csvSales"] = "itemString,itemName,stackSize,quantity,price,buyer,player,time,source",
+			["csvIncome"] = "type,amount,source,player,time",
+			["csvExpense"] = "type,amount,destination,player,time",
+			["csvCancelled"] = "itemString,itemName,stackSize,quantity,player,time",
+		},
+	},
+}

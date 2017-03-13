@@ -1,0 +1,10 @@
+VER 3 0100000000000001 "111" "136103"
+/invite 半岛夏娃
+/invite  血牙魔王
+END
+VER 3 0100000000000002 "暗言术" "136207"
+/cast 暗言术：痛
+END
+VER 3 0100000000000003 "痛" "136149"
+/cast [@mouseover,exists,harm][harm,nodead] [@focus,harm,nodead] [@targettarget,harm,nodead][]暗言术：痛
+END

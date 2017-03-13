@@ -1,0 +1,71 @@
+VER 3 0100000000000004 "1" "INV_Misc_QuestionMark"
+#showtooltip 鹰眼术
+/cast !鹰眼术
+END
+VER 3 0100000000000002 "e" "INV_MISC_QUESTIONMARK"
+/tar Edision
+END
+VER 3 0100000000000005 "冰怒" "132176"
+/tar 冰怒
+/cast 飞刃
+/cast 眼镜蛇射击
+END
+VER 3 0100000000000006 "准备就绪" "INV_Misc_QuestionMark"
+#showtooltip 准备就绪
+/施放 准备就绪
+/施放 疯乱
+/use 13
+/use 14
+/use 10
+/castsequence reset=5 杀戮命令,飞刃,山猫冲锋,凶暴野兽
+END
+VER 3 0100000000000007 "刷" "898350"
+/tar 僵尸化的躯体
+/cast 奥术射击
+END
+VER 3 0100000000000008 "打小怪" "132330"
+/tar 死亡骑士新兵
+/cast 多重射击
+END
+VER 3 0100000000000001 "斥候" "INV_WEAPON_BOW_02"
+/tar 赞达拉战斗斥候
+END
+VER 3 0100000000000009 "狂野怒火" "INV_Misc_QuestionMark"
+#showtooltip 狂野怒火
+/施放 急速射击
+/施放 狂野怒火
+/施放 疯乱
+/use 13
+/use 14
+/use 10
+/castsequence reset=10 杀戮命令,飞刃,山猫冲锋,凶暴野兽,群兽奔腾,奥术射击,杀戮命令
+END
+VER 3 010000000000000A "精英" "132270"
+/tar 死亡骑士精兵
+/cast 奥术射击
+END
+VER 3 010000000000000B "萨夫" "898350"
+/startattack
+/console Sound_EnableSFX 0
+/tar 萨芙
+/cancelaura BUFF
+/use [combat]饰品
+/castsequence reset=0 0,眼镜蛇射击
+/cast 拾回
+/script UIErrorsFrame:Clear()
+/console Sound_EnableSFX 1
+END
+VER 3 0100000000000003 "误导" "ABILITY_HUNTER_MISDIRECTION"
+/cast [target=pet]误导
+END
+VER 3 010000000000000C "误导" "INV_Misc_QuestionMark"
+#showtooltip 误导
+/cast 猎人印记
+/cast 硬化之壳
+/target [harm] targettarget
+/target [help] player
+/targetlasttarget [help]
+/cast [party][raid][target=pet] 误导
+/target [help] targettarget
+/cast [nopet][target=pet,exists,dead] 凤凰之心
+END

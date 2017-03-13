@@ -1,0 +1,15 @@
+Version: 1
+Frame: TMW_CursorAnchor
+FrameLevel: 11
+Anchor: CENTER
+X: 22
+Y: 36
+W: 24
+H: 24
+Frame: _NPCScanButton
+FrameLevel: 1
+Anchor: BOTTOM
+X: 0
+Y: 128
+W: 150
+H: 42

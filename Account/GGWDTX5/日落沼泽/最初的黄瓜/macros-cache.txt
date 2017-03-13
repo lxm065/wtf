@@ -1,0 +1,16 @@
+VER 3 0100000000000001 "dps1" "Ability_Hunter_RapidRegeneration"
+#showtooltip 稳固射击
+/施放 !自动射击
+/施放 [target=pettarget,exists]杀戮命令
+/castsequence reset=7.7 瞄准射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击,
+/施放 沉默射击
+/click MultiBarBottomRightButton12
+END
+VER 3 0100000000000002 "dps2" "Ability_Hunter_RapidKilling"
+/castsequence reset=9.7 奇美拉射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击,
+/click MultiBarBottomRightButton11
+END
+VER 3 0100000000000003 "dps3" "Ability_Hunter_Pet_Wasp"
+/castsequence reset=5.7 奥术射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击,
+/施放 稳固射击
+END

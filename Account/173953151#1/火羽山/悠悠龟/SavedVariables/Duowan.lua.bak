@@ -1,0 +1,12 @@
+
+Duowan_Character = {
+	["guild"] = "Loft",
+	["region"] = "cn3",
+	["class"] = "WARRIOR",
+	["race"] = "Goblin",
+	["name"] = "悠悠龟",
+	["faction"] = "Horde",
+	["level"] = 85,
+	["sex"] = 2,
+	["realm"] = "火羽山",
+}

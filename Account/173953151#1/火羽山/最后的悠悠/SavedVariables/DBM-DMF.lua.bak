@@ -1,0 +1,60 @@
+
+DBMDMF_SavedVars = {
+	["Gnoll"] = {
+		["specWarnHoggerSpecialWarningSound"] = 1,
+		["warnHogger"] = true,
+		["warnGnoll"] = false,
+		["Timer101612active"] = true,
+		["specWarnHogger"] = true,
+		["warnGameOver"] = true,
+		["CountdownFades101612"] = true,
+		["Enabled"] = true,
+	},
+	["Rings"] = {
+		["Enabled"] = true,
+		["Timer170820active"] = true,
+		["Announce170823count"] = false,
+		["CountdownFades170820"] = true,
+	},
+	["Cannon"] = {
+		["Enabled"] = true,
+		["CountdownFades102116"] = true,
+		["Timer102116fades"] = true,
+	},
+	["Shot"] = {
+		["Enabled"] = true,
+		["CountdownFades101871"] = true,
+		["Timer101871active"] = true,
+		["SetBubbles"] = true,
+	},
+	["Rabbit"] = {
+		["Enabled"] = true,
+		["HealthFrame"] = false,
+		["Announce114078target"] = true,
+		["SpeedKillTimer"] = false,
+		["Yell114078"] = true,
+	},
+	["Moonfang"] = {
+		["Enabled"] = true,
+		["SpecWarn144546youSpecialWarningSound"] = 1,
+		["HealthFrame"] = false,
+		["Announce144702spell"] = true,
+		["SpecWarn144702spellSpecialWarningSound"] = 2,
+		["Announce144590spell"] = true,
+		["SpecWarn144702spell"] = true,
+		["Yell144546"] = true,
+		["Announce144602spell"] = true,
+		["SpecWarn144546you"] = true,
+		["Announce144546target"] = true,
+		["SpeedKillTimer"] = false,
+	},
+	["Tonks"] = {
+		["Enabled"] = true,
+		["SpecWarn102341run2SpecialWarningSound"] = 4,
+		["Announce102341spell"] = true,
+		["Timer102178active"] = true,
+		["CountdownFades102178"] = true,
+		["SpecWarn102341run2"] = true,
+	},
+}
+DBMWorldDMF_SavedStats = nil

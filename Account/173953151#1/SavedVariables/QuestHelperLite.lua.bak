@@ -1,0 +1,21 @@
+
+QuestHelperLiteProfile = {
+	["悠悠龟|火羽山1"] = {
+		["arrow_textsize"] = 1,
+		["arrow_meters"] = true,
+		["arrow_hide"] = false,
+		["arrow"] = true,
+		["arrow_locked"] = false,
+		["arrow_pos_y"] = 300,
+		["arrow_size"] = 1,
+		["update_interval"] = 0.15,
+		["trail_show"] = true,
+		["track_change_offset"] = 0,
+		["track_quests"] = false,
+		["track_level_offset"] = 7,
+		["arrow_pos_x"] = 0,
+		["track_by_group"] = true,
+		["track_by_zone"] = false,
+		["track_by_level"] = true,
+	},
+}

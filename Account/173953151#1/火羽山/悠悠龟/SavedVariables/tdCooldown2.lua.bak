@@ -1,0 +1,13 @@
+
+tCDblackData = {
+}
+tCDcoolingData = {
+	{
+		["spell"] = "击倒",
+		["locked"] = true,
+		["start"] = 8555.874,
+		["duration"] = 45,
+		["icon"] = "INTERFACE\\ICONS\\inv_mace_62",
+		["rank"] = 0,
+	}, -- [1]
+}

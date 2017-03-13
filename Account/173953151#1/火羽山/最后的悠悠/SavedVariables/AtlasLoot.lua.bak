@@ -1,0 +1,11 @@
+
+AtlasLootCharDB = {
+	["namespaces"] = {
+		["WishList"] = {
+		},
+	},
+	["profileKeys"] = {
+		["最后的悠悠 - 火羽山"] = "最后的悠悠 - 火羽山",
+	},
+	["AtlasLootVersion"] = "70503",
+}

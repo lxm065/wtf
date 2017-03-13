@@ -1,0 +1,67 @@
+
+BlizzMoveDB = {
+	["GarrisonLandingPage"] = {
+	},
+	["QuestLogPopupDetailFrame"] = {
+	},
+	["AuctionFrame"] = {
+		["save"] = true,
+	},
+	["GarrisonMissionFrame"] = {
+	},
+	["GameMenuFrame"] = {
+	},
+	["RaidBrowserFrame"] = {
+	},
+	["CharacterFrame"] = {
+	},
+	["MailFrame"] = {
+	},
+	["CollectionsJournal"] = {
+	},
+	["GossipFrame"] = {
+	},
+	["GuildFrame"] = {
+	},
+	["FriendsFrame"] = {
+	},
+	["AchievementFrame"] = {
+		["save"] = true,
+	},
+	["ColorPickerFrame"] = {
+	},
+	["ObjectiveTrackerFrame"] = {
+	},
+	["MerchantFrame"] = {
+	},
+	["GarrisonCapacitiveDisplayFrame"] = {
+	},
+	["DressUpFrame"] = {
+	},
+	["WorldMapFrame"] = {
+	},
+	["InterfaceOptionsFrame"] = {
+	},
+	["PlayerTalentFrame"] = {
+	},
+	["GuildBankFrame"] = {
+		["save"] = true,
+	},
+	["SpellBookFrame"] = {
+	},
+	["LootFrame"] = {
+	},
+	["PVEFrame"] = {
+	},
+	["VideoOptionsFrame"] = {
+	},
+	["BankFrame"] = {
+	},
+	["TradeFrame"] = {
+	},
+	["CalendarFrame"] = {
+		["save"] = true,
+	},
+	["HelpFrame"] = {
+	},
+}

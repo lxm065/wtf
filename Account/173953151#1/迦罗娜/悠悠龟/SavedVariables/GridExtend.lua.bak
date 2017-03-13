@@ -1,0 +1,2 @@
+
+GridClickSetsForTalents = nil

@@ -1,0 +1,2 @@
+
+NewbieAssistantDB_Char = nil

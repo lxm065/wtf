@@ -1,0 +1,12 @@
+VER 3 0000000000000003 "BF_Mount" "ability_mount_charger"
+/bfmount
+END
+VER 3 0000000000000004 "BF_Pet" "achievement_worldevent_brewmaster"
+/BFPET
+END
+VER 3 0000000000000002 "Decursive" "1"
+/script DecursiveRootTable.Dcr:Println('没有相关技能')
+END
+VER 3 0000000000000001 "坐骑" "Ability_Mount_Charger"
+/tar 斯克里奇
+END

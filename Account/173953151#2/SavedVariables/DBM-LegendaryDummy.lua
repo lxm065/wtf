@@ -1,0 +1,4 @@
+
+DBMLegendaryDummyDB = {
+	["warning"] = true,
+}

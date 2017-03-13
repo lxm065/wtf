@@ -1,0 +1,20 @@
+
+tCDblackData = {
+}
+tCDcoolingData = {
+	{
+		["spell"] = "狂野怒火",
+		["start"] = 8749.675,
+		["duration"] = 90,
+		["icon"] = 132127,
+		["rank"] = 0,
+	}, -- [1]
+	{
+		["spell"] = "要塞炉石",
+		["name"] = "要塞炉石",
+		["start"] = 8785.161,
+		["duration"] = 1200,
+		["icon"] = 1041860,
+		["rank"] = 0,
+	}, -- [2]
+}

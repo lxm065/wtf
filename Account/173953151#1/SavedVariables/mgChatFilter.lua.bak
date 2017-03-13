@@ -1,0 +1,8 @@
+
+ChatFilterDB = {
+	["show"] = true,
+	["friendcatch"] = {
+	},
+	["whisper"] = false,
+	["BADBOY_LEVEL"] = 1,
+}

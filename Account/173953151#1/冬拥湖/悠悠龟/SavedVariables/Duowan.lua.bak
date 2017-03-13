@@ -1,0 +1,12 @@
+
+Duowan_Character = {
+	["region"] = "cn10",
+	["class"] = "WARLOCK",
+	["race"] = "Scourge",
+	["name"] = "悠悠龟",
+	["faction"] = "Horde",
+	["level"] = 1,
+	["sex"] = 2,
+	["realm"] = "冬拥湖",
+}
+DUOWAN_CHARACTER_INFO = ""

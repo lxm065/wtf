@@ -1,0 +1,10 @@
+
+RAIDBUILDER_CHARACTER_DB = {
+	["profileKeys"] = {
+		["Ggwdtx - 洛肯"] = "Ggwdtx - 洛肯",
+	},
+	["profiles"] = {
+		["Ggwdtx - 洛肯"] = {
+		},
+	},
+}

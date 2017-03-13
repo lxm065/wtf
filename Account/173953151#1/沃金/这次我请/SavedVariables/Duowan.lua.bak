@@ -1,0 +1,13 @@
+
+Duowan_Character = {
+	["guild"] = "英雄贵姓",
+	["region"] = "cn",
+	["class"] = "DEATHKNIGHT",
+	["race"] = "Orc",
+	["name"] = "这次我请",
+	["faction"] = "Horde",
+	["level"] = 55,
+	["sex"] = 2,
+	["realm"] = "沃金",
+}
+DUOWAN_CHARACTER_INFO = ""

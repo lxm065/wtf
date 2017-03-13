@@ -1,0 +1,62 @@
+VER 3 0100000000000001 "冰枪" "SPELL_FROST_FROSTBLAST"
+/stopcasting
+/cast 冰枪术
+/cast 水箭
+END
+VER 3 0100000000000002 "冰箱" "SPELL_FROST_FROST"
+#showtooltip 寒冰屏障
+/stopcasting
+/cast 寒冰屏障
+END
+VER 3 0100000000000003 "冰锥" "SPELL_FROST_GLACIER"
+/use 冰锥术
+END
+VER 3 0100000000000004 "冰霜" "SPELL_FROST_RING OF FROST"
+#showtooltips 冰霜之环
+/castsequence [nomod] reset=2 11,气定神闲
+/use 冰霜之环
+END
+VER 3 0100000000000005 "反制" "SPELL_FROST_ICESHOCK"
+/stopcasting
+/cast 法术反制
+END
+VER 3 0100000000000006 "咒术护盾" "SPELL_SHADOW_DETECTINVISIBILITY"
+/stopcasting
+/cast 寒冰护体
+/cast 咒术护盾
+END
+VER 3 0100000000000007 "急速冷却" "SPELL_FROST_WIZARDMARK"
+#showtooltips 急速冷却
+/施放 急速冷却
+/use 治疗石
+/use 神效治疗药水
+END
+VER 3 0100000000000008 "深结" "ABILITY_MAGE_DEEPFREEZE"
+/castsequence reset=0 11,冰枪术
+/use 深度冻结
+END
+VER 3 0100000000000009 "火冲" "SPELL_FIRE_FIREBALL"
+/use 火焰冲击
+END
+VER 3 010000000000000A "火球术" "SPELL_FIRE_FLAMEBOLT"
+/use 13
+/cast 火球术
+/use 10
+END
+VER 3 010000000000000B "爆发" "ABILITY_MAGE_TIMEWARP"
+/cast 时间扭曲
+/cast 镜像
+/cast 操控时间
+END
+VER 3 010000000000000C "珠宝" "SPELL_FROST_FROZENORB"
+#showtooltips 寒冰宝珠
+/use 13
+/施放 寒冰宝珠
+/施放 冰冷血脉
+/施放 镜像
+END
+VER 3 010000000000000D "霜火" "ABILITY_MAGE_FROSTFIREBOLT"
+/stopcasting
+/cast 霜火之箭
+/cast 水箭
+END

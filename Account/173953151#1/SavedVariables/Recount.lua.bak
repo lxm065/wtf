@@ -1,0 +1,28 @@
+
+RecountDB = {
+	["profileKeys"] = {
+		["悠悠龟 - 火羽山"] = "悠悠龟 - 火羽山",
+	},
+	["profiles"] = {
+		["悠悠龟 - 火羽山"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["w"] = 140.0000512349861,
+					["h"] = 199.9999541432721,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+		},
+	},
+}

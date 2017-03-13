@@ -1,0 +1,47 @@
+VER 3 0100000000000008 "3豆" "INV_MISC_QUESTIONMARK"
+#showtooltip 混乱之箭
+/cast 混乱之箭
+END
+VER 3 010000000000000B "b" "ACHIEVEMENT_GREATWALL"
+/cast 黑暗灵魂
+/use 虚无碎片
+END
+VER 3 0100000000000009 "biu～" "INV_MISC_QUESTIONMARK"
+#showtooltip 邪焰
+/cast 邪焰
+END
+VER 3 010000000000000A "bz" "ACHIEVEMENT_DUNGEON_MOGUPALACE"
+/use 导电者奖章
+/cast 黑暗灵魂
+END
+VER 3 0100000000000002 "pet" "INV_STAFF_2H_PANDARIAQUEST_B_02"
+/Petattack [target=mouseover,harm,exists]
+END
+VER 3 0100000000000003 "复制" "INV_MISC_QUESTIONMARK"
+#showtooltip 浩劫
+/tar player
+/targetlasttarget
+/targetenemy
+/castsequence reset=1 0,浩劫
+/targetlasttarget
+/targetlasttarget [help]
+END
+VER 3 0100000000000004 "斩杀" "INV_MISC_QUESTIONMARK"
+#showtooltip 暗影灼烧
+/stopcasting
+/cast 暗影灼烧
+END
+VER 3 0100000000000006 "火雨" "INV_MISC_QUESTIONMARK"
+#showtooltip 火焰之雨
+/cast 火焰之雨
+END
+VER 3 0100000000000005 "诅咒" "INV_MISC_QUESTIONMARK"
+/use [mod]Curse of the Elements;Curse of Enfeeblement
+END
+VER 3 0100000000000007 "读条" "INV_MISC_QUESTIONMARK"
+#showtooltip 烧尽
+/cast 烧尽
+END
+VER 3 0100000000000001 "附魔" "ABILITY_SHOOTWAND"
+/cast 附魔
+END

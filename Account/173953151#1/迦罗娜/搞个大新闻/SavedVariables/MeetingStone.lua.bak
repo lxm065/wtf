@@ -1,0 +1,10 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["搞个大新闻 - 迦罗娜"] = "搞个大新闻 - 迦罗娜",
+	},
+	["profiles"] = {
+		["搞个大新闻 - 迦罗娜"] = {
+		},
+	},
+}

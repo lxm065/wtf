@@ -1,0 +1,25 @@
+
+_NPCScanOptions = {
+	["CacheWarnings"] = true,
+	["EnableScan"] = true,
+	["Version"] = "4.1.0.0",
+}
+_NPCScanOverlayOptions = {
+	["ModulesAlpha"] = {
+		["Minimap"] = 0.5,
+		["BattlefieldMinimap"] = 0.800000011920929,
+		["WorldMap"] = 0.5,
+	},
+	["Version"] = "3.3.5.5",
+	["ShowAll"] = false,
+	["ModulesExtra"] = {
+		["Minimap"] = {
+			["RangeRing"] = true,
+		},
+	},
+	["Modules"] = {
+		["Minimap"] = false,
+		["BattlefieldMinimap"] = true,
+		["WorldMap"] = true,
+	},
+}

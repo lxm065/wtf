@@ -1,0 +1,21 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["赞达拉使者 - 火羽山"] = "赞达拉使者 - 火羽山",
+	},
+	["profiles"] = {
+		["赞达拉使者 - 火羽山"] = {
+			["settings"] = {
+				["storage"] = {
+					["y"] = -51.4530212553154,
+					["x"] = -2.7350618085303,
+					["scale"] = 1,
+				},
+			},
+			["lastSearchValue"] = "6-0-0-0",
+			["searchHistoryList"] = {
+				"6-0-0-0", -- [1]
+			},
+		},
+	},
+}

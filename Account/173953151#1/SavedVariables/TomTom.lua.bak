@@ -1,0 +1,26 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["悠悠龟 - 火羽山"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["poi"] = {
+				["setClosest"] = 1,
+			},
+			["block"] = {
+				["enable"] = 1,
+			},
+		},
+	},
+}
+TomTomWaypoints = nil
+TomTomWaypointsMF = {
+	["profileKeys"] = {
+		["悠悠龟 - 火羽山"] = "悠悠龟 - 火羽山",
+	},
+	["profiles"] = {
+		["悠悠龟 - 火羽山"] = {
+		},
+	},
+}

@@ -1,0 +1,29 @@
+VER 3 0100000000000005 "suosuo" "INV_MISC_QUESTIONMARK"
+/tar 劳·软足
+/tar 玛古克
+END
+VER 3 0100000000000007 "xiaoshi" "ACHIEVEMENT_GUILDPERK_HONORABLEMENTION_RANK2"
+/script UIErrorsFrame:Hide()
+END
+VER 3 0100000000000004 "偷取" "SPELL_ARCANE_ARCANE02"
+/stopcasting
+/cast 法术吸取
+END
+VER 3 0100000000000003 "冰箱" "SPELL_FROST_FROST"
+/stopcasting
+/cast 寒冰屏障
+/y 已交冰箱 注意治疗
+END
+VER 3 0100000000000002 "反制" "SPELL_FROST_ICESHOCK"
+/stopcasting
+/cast 法术反制
+/y 已打断
+END
+VER 3 0100000000000006 "时光气定" "SPELL_MAGE_ALTERTIME"
+/cast 气定神闲
+/cast 操控时间
+END
+VER 3 0100000000000001 "燃烧" "SPELL_FIRE_SEALOFFIRE"
+/stopcasting
+/cast 燃烧
+END

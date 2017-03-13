@@ -1,0 +1,22 @@
+
+EA_Config = {
+	["Version"] = "5.1.0.14",
+	["SpecPowerCheck"] = {
+	},
+}
+EA_Position = {
+}
+EA_Items = {
+	["DEMONHUNTER"] = {
+	},
+}
+EA_AltItems = {
+}
+EA_TarItems = {
+}
+EA_ScdItems = {
+}
+EA_GrpItems = {
+}
+EA_Pos = {
+}

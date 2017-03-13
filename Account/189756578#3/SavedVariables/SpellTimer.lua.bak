@@ -1,0 +1,16 @@
+
+SPELL_TIMER_SPELLS_DATE = {
+	["狂野怒火"] = {
+		["spell"] = "狂野怒火",
+		["guid"] = "Pet-0-3048-603-17425-88708-0102220B5C",
+		["duration"] = 15,
+		["flags"] = {
+			["live"] = 1,
+		},
+		["count"] = 0,
+		["target"] = "张翼德",
+		["startTime"] = 8749.714,
+		["texture"] = "Interface\\Icons\\Ability_Druid_FerociousBite",
+		["rank"] = "",
+	},
+}

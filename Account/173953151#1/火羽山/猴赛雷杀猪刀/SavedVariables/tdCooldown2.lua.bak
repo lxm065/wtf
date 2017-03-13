@@ -1,0 +1,12 @@
+
+tCDblackData = {
+}
+tCDcoolingData = {
+	{
+		["spell"] = "复活战斗宠物",
+		["start"] = 13039.058,
+		["duration"] = 480,
+		["icon"] = "Interface\\Icons\\spell_misc_petheal",
+		["rank"] = 0,
+	}, -- [1]
+}

@@ -1,0 +1,86 @@
+VER 3 0100000000000001 "af1" "136103"
+/castsequence [nochanneling]reset=target 虚空风暴,奥术冲击,奥术冲击,奥术冲击,奥术弹幕
+/castsequence [nochanneling]reset=0 奥术飞弹
+/cast 奥术强化
+/cast 气定神闲
+/施放 浮冰
+/Startattack
+END
+VER 3 0100000000000002 "bing" "236214"
+/cast 气定神闲
+/cast 冰霜之颌
+END
+VER 3 0100000000000003 "mao" "136187"
+/tar 猫丑丑-迦罗娜
+END
+VER 3 0100000000000004 "冰枪" "135844"
+/stopcasting
+/cast 冰枪术
+/cast 水箭
+END
+VER 3 0100000000000005 "冰箱" "INV_Misc_QuestionMark"
+#showtooltip 寒冰屏障
+/stopcasting
+/cast 寒冰屏障
+END
+VER 3 0100000000000006 "冰锥" "135852"
+/use 冰锥术
+END
+VER 3 0100000000000007 "冰霜" "INV_Misc_QuestionMark"
+#showtooltips 冰霜之环
+/castsequence [nomod] reset=2 11,气定神闲
+/use 冰霜之环
+END
+VER 3 0100000000000008 "反制" "135856"
+/stopcasting
+/cast 法术反制
+END
+VER 3 0100000000000009 "咒术护盾" "136152"
+/stopcasting
+/cast 寒冰护体
+/cast 咒术护盾
+END
+VER 3 010000000000000A "急速冷却" "INV_Misc_QuestionMark"
+#showtooltips 急速冷却
+/施放 急速冷却
+/use 治疗石
+/use 神效治疗药水
+END
+VER 3 010000000000000B "深结" "236214"
+/castsequence reset=0 11,冰枪术
+/use 深度冻结
+END
+VER 3 010000000000000C "火冲" "135807"
+/use 火焰冲击
+END
+VER 3 010000000000000D "火球术" "135812"
+/use 13
+/cast 火球术
+/use 10
+END
+VER 3 010000000000000E "炸弹" "236220"
+/use [nomod,@mouseover,exists,harm][]活动炸弹
+/targetenemy [mod] 
+END
+VER 3 010000000000000F "爆发" "458224"
+/cast 时间扭曲
+/cast 镜像
+/cast 操控时间
+END
+VER 3 0100000000000010 "珠宝" "INV_Misc_QuestionMark"
+#showtooltips 寒冰宝珠
+/use 13
+/施放 寒冰宝珠
+/施放 冰冷血脉
+/施放 镜像
+/use 10
+END
+VER 3 0100000000000011 "虚空风暴" "610471"
+/use [nomod,@mouseover,exists,harm][]虚空风暴
+/targetenemy [mod] 
+END
+VER 3 0100000000000012 "霜火" "236217"
+/stopcasting
+/cast 霜火之箭
+/cast 水箭
+END

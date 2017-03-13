@@ -1,0 +1,19 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["槐树下的海盗 - 霜狼"] = "槐树下的海盗 - 霜狼",
+	},
+	["profiles"] = {
+		["槐树下的海盗 - 霜狼"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["槐树下的海盗 - 霜狼"] = "槐树下的海盗 - 霜狼",
+	},
+	["profiles"] = {
+		["槐树下的海盗 - 霜狼"] = {
+		},
+	},
+}

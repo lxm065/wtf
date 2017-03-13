@@ -1,0 +1,13 @@
+
+Duowan_Character = {
+	["guild"] = "Loft",
+	["region"] = "cn3",
+	["class"] = "PALADIN",
+	["race"] = "BloodElf",
+	["name"] = "猴赛雷杀猪刀",
+	["faction"] = "Horde",
+	["level"] = 64,
+	["sex"] = 3,
+	["realm"] = "火羽山",
+}
+DUOWAN_CHARACTER_INFO = ""

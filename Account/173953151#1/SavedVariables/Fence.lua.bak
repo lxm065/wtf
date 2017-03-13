@@ -1,0 +1,20 @@
+
+FenceDB = {
+	["profiles"] = {
+		["Default"] = {
+			["Version"] = {
+				["Minor"] = 100,
+				["Update"] = true,
+			},
+		},
+	},
+}
+AuctionLiteDB = {
+	["profileKeys"] = {
+		["最初的悠悠 - 日落沼泽"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

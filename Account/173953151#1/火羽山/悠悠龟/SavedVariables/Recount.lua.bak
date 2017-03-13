@@ -1,0 +1,225 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["狼 <暗冥幻>"] = {
+			["Fights"] = {
+			},
+			["type"] = "Pet",
+			["Name"] = "狼",
+			["UnitLockout"] = 1328950252,
+			["level"] = 1,
+			["Owner"] = "暗冥幻",
+			["enClass"] = "PET",
+			["LastFightIn"] = 0,
+		},
+		["小七米利暗"] = {
+			["type"] = "Grouped",
+			["Owner"] = false,
+			["enClass"] = "PRIEST",
+			["unit"] = "小七米利暗",
+			["Name"] = "小七米利暗",
+			["Fights"] = {
+			},
+			["level"] = 85,
+			["UnitLockout"] = 1328950252,
+			["LastFightIn"] = 0,
+		},
+		["逗号句号"] = {
+			["type"] = "Grouped",
+			["Owner"] = false,
+			["enClass"] = "ROGUE",
+			["unit"] = "逗号句号",
+			["Name"] = "逗号句号",
+			["Fights"] = {
+			},
+			["level"] = 85,
+			["UnitLockout"] = 1328950252,
+			["LastFightIn"] = 0,
+		},
+		["暗冥幻"] = {
+			["type"] = "Grouped",
+			["Owner"] = false,
+			["enClass"] = "HUNTER",
+			["unit"] = "暗冥幻",
+			["Name"] = "暗冥幻",
+			["Pet"] = {
+				"狼 <暗冥幻>", -- [1]
+			},
+			["Fights"] = {
+			},
+			["level"] = 85,
+			["UnitLockout"] = 1328950252,
+			["LastFightIn"] = 0,
+		},
+		["血虫"] = {
+			["GUID"] = "0xF1306D7100000039",
+			["Name"] = "血虫",
+			["Fights"] = {
+			},
+			["Owner"] = false,
+			["UnitLockout"] = 1328950252,
+			["LastFightIn"] = 0,
+		},
+		["从此不缺德"] = {
+			["type"] = "Grouped",
+			["Owner"] = false,
+			["enClass"] = "DRUID",
+			["unit"] = "从此不缺德",
+			["Name"] = "从此不缺德",
+			["Fights"] = {
+			},
+			["level"] = 85,
+			["UnitLockout"] = 1328950252,
+			["LastFightIn"] = 0,
+		},
+		["血虫 <艾斯蒂尔>"] = {
+			["Fights"] = {
+			},
+			["type"] = "Pet",
+			["Name"] = "血虫",
+			["UnitLockout"] = 1328950252,
+			["level"] = 1,
+			["Owner"] = "艾斯蒂尔",
+			["enClass"] = "PET",
+			["LastFightIn"] = 0,
+		},
+		["逆鱗"] = {
+			["type"] = "Grouped",
+			["Owner"] = false,
+			["enClass"] = "PALADIN",
+			["unit"] = "逆鱗",
+			["Name"] = "逆鱗",
+			["Fights"] = {
+			},
+			["level"] = 85,
+			["UnitLockout"] = 1328950252,
+			["LastFightIn"] = 0,
+		},
+		["艾斯蒂尔"] = {
+			["type"] = "Grouped",
+			["TimeLast"] = {
+				["OVERALL"] = 1328950254,
+				["Ressed"] = 1328950254,
+			},
+			["Owner"] = false,
+			["enClass"] = "DEATHKNIGHT",
+			["unit"] = "艾斯蒂尔",
+			["TimeWindows"] = {
+				["Ressed"] = {
+					1, -- [1]
+				},
+			},
+			["LastActive"] = 1328950254,
+			["Name"] = "艾斯蒂尔",
+			["Pet"] = {
+				"血虫 <艾斯蒂尔>", -- [1]
+			},
+			["Fights"] = {
+				["CurrentFightData"] = {
+					["RessedWho"] = {
+						["悠悠龟"] = {
+							["Details"] = {
+								["群体复活"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["Ressed"] = 1,
+				},
+				["OverallData"] = {
+					["RessedWho"] = {
+						["悠悠龟"] = {
+							["Details"] = {
+								["群体复活"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["Ressed"] = 1,
+				},
+			},
+			["level"] = 85,
+			["UnitLockout"] = 1328950252,
+			["LastFightIn"] = 0,
+		},
+		["满天冰雹"] = {
+			["GUID"] = "0x030000000014BF42",
+			["type"] = "Grouped",
+			["TimeLast"] = {
+				["OVERALL"] = 1328950254,
+				["ManaGain"] = 1328950254,
+			},
+			["Owner"] = false,
+			["enClass"] = "MAGE",
+			["unit"] = "满天冰雹",
+			["TimeWindows"] = {
+				["ManaGain"] = {
+					292, -- [1]
+				},
+			},
+			["Name"] = "满天冰雹",
+			["LastActive"] = 1328950254,
+			["Fights"] = {
+				["CurrentFightData"] = {
+					["ManaGain"] = 292,
+					["ManaGainedFrom"] = {
+						["锋锐"] = {
+							["Details"] = {
+								["恢复"] = {
+									["count"] = 292,
+								},
+							},
+							["amount"] = 292,
+						},
+					},
+					["ManaGained"] = {
+						["恢复"] = {
+							["Details"] = {
+								["锋锐"] = {
+									["count"] = 292,
+								},
+							},
+							["amount"] = 292,
+						},
+					},
+				},
+				["OverallData"] = {
+					["ManaGain"] = 292,
+					["ManaGainedFrom"] = {
+						["锋锐"] = {
+							["Details"] = {
+								["恢复"] = {
+									["count"] = 292,
+								},
+							},
+							["amount"] = 292,
+						},
+					},
+					["ManaGained"] = {
+						["恢复"] = {
+							["Details"] = {
+								["锋锐"] = {
+									["count"] = 292,
+								},
+							},
+							["amount"] = 292,
+						},
+					},
+				},
+			},
+			["level"] = 85,
+			["UnitLockout"] = 1328950251,
+			["LastFightIn"] = 0,
+		},
+	},
+	["FightNum"] = 0,
+	["CombatTimes"] = {
+	},
+	["FoughtWho"] = {
+	},
+}

@@ -1,0 +1,10 @@
+
+MerchatAssistDB = {
+	["霜狼_槐树下的海盗"] = {
+		["autobuy"] = {
+		},
+		["autosell"] = {
+		},
+	},
+}
+MerchatAssistAutoBuy = nil

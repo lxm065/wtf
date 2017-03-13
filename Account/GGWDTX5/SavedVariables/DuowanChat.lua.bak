@@ -1,0 +1,19 @@
+
+DuowanChatDB = {
+	["namespaces"] = {
+		["CHATFRAME"] = {
+		},
+		["CHATCHANNEL"] = {
+		},
+		["ICONFRAME"] = {
+		},
+	},
+	["profileKeys"] = {
+		["影刃 - 火羽山"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["userPlaced"] = true,
+		},
+	},
+}

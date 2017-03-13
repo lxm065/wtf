@@ -1,0 +1,6 @@
+
+MerchatAssistDB = {
+	["火羽山_影刃"] = {
+	},
+}
+MerchatAssistAutoBuy = nil

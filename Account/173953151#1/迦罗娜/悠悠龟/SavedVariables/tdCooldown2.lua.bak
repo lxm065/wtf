@@ -1,0 +1,12 @@
+
+tCDblackData = {
+}
+tCDcoolingData = {
+	{
+		["spell"] = "化身：丛林之王",
+		["start"] = 1570.893,
+		["duration"] = 180,
+		["icon"] = 571586,
+		["rank"] = 0,
+	}, -- [1]
+}
