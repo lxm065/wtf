@@ -1,0 +1,20 @@
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip 法术反制
+/stopcasting 
+/cast 法术反制
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip 闪现术
+/stopcasting 
+/cast 闪现术 
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip 寒冰屏障
+/stopcasting 
+/cast 寒冰屏障 
+END
+VER 3 0100000000000004 "燃烧" "INV_MISC_QUESTIONMARK"
+#showtooltip 燃烧
+/stopcasting 
+/cast 燃烧
+END

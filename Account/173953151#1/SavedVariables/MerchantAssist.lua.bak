@@ -1,0 +1,10 @@
+
+MerchatAssistDB = {
+	["日落沼泽_最初的悠悠"] = {
+		["autobuy"] = {
+		},
+		["autosell"] = {
+		},
+	},
+}
+MerchatAssistAutoBuy = nil

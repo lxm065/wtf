@@ -1,0 +1,10 @@
+
+QuesterDB = {
+	["profileKeys"] = {
+		["影刃 - 火羽山"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

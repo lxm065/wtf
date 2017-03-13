@@ -1,0 +1,149 @@
+VER 3 0000000000000001 "BF_Mount" "Ability_Mage_FireStarter"
+/bfmount
+END
+VER 3 0000000000000020 "BF_Pet" "ACHIEVEMENT_WORLDEVENT_BREWMASTER"
+/click HelpFrameCharacterStuckStuck
+END
+VER 3 0000000000000018 "BF_Pet" "ACHIEVEMENT_WORLDEVENT_BREWMASTER"
+/invite 岩石一@火羽山
+/invite 半岛夏娃@火羽山
+END
+VER 3 0000000000000021 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 变形术;  [@mouseover,exists,mod:ctrl] 变形术; [@mouseover,exists,mod:shift] 变形术
+END
+VER 3 000000000000001E "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 变形术;  [@mouseover,exists,mod:ctrl] 变形术; [@mouseover,exists,mod:shift] 变形术
+END
+VER 3 0000000000000019 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 变形术;  [@mouseover,exists,mod:ctrl] 变形术; [@mouseover,exists,mod:shift] 变形术
+END
+VER 3 0000000000000002 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 变形术;  [@mouseover,exists,mod:ctrl] 变形术; [@mouseover,exists,mod:shift] 变形术
+END
+VER 3 000000000000001D "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 变形术;  [@mouseover,exists,mod:ctrl] 变形术; [@mouseover,exists,mod:shift] 变形术
+END
+VER 3 0000000000000007 "dps1" "Ability_BullRush"
+/cast 燃烧
+/use 瓶中的愿望
+END
+VER 3 0000000000000008 "dps2" "Ability_BackStab"
+/use  复苏饰物
+/cast 气定神闲
+/cast 奥数冲击
+/cast 镜像
+/cast 冰冷血脉
+/cast 奥数强化
+END
+VER 3 000000000000001A "f5" "INV_PET_BATTLEPETTRAINING"
+/cast 复活战斗宠物
+/tar 幸运的小艺
+/run AutoToPet()
+END
+VER 3 0000000000000004 "tab" "Spell_Shaman_Hex"
+#showtooltip
+/assist [help]
+/cast [harm] 奥术冲击
+END
+VER 3 0000000000000003 "test" "Spell_Frost_SummonWaterElemental_2"
+#showtooltip [target=pet,nodead,exists] 冰冻术;召唤水元素
+/cast 冰冻术
+/petpassive
+/petattack [harm]
+/petfollow [noharm]
+/stopmacro [target=pet,nodead,exists,nomod]
+/run if(GetSpellCooldown('急速冷却')==0) then PetDismiss() end
+/cast [mod:alt] 急速冷却
+/cast 召唤水元素
+END
+VER 3 0000000000000010 "test" "Ability_Warlock_MoltenCore"
+/cast [@mouseover,exists,harm][]活动炸弹
+/targetenemy
+END
+VER 3 0000000000000006 "一键驱散" "INV_Misc_QuestionMark"
+/stopcasting
+/cast [target=mouseover,nomod,exists] 解除诅咒;  [target=mouseover,exists,mod:ctrl] 变形术; [target=mouseover,exists,mod:shift] 解除诅咒
+END
+VER 3 0000000000000017 "冰环" "Spell_Frost_Glacier"
+/cast 冰锥术
+/cast 冰霜新星
+END
+VER 3 0000000000000012 "冰箱" "Ability_Warrior_ShieldMastery"
+/stopcasting
+/cast 寒冰屏障
+END
+VER 3 0000000000000009 "反制偷取" "Spell_Holy_Stoicism"
+/stopcasting
+/cast 法术吸取
+/cast 解除诅咒
+/cast 法术反制
+END
+VER 3 0000000000000005 "啊" "Ability_BackStab"
+/target 加拉克苏斯达王
+/施放 法术吸取
+END
+VER 3 000000000000001F "坐骑" "ABILITY_MOUNT_CHARGER"
+/RandomMount
+END
+VER 3 000000000000000C "坐骑" "Ability_Mount_Charger"
+/RandomMount
+END
+VER 3 0000000000000022 "坐骑" "ABILITY_MOUNT_CHARGER"
+/RandomMount
+END
+VER 3 000000000000000A "坐骑象" "Ability_Mount_Mammoth_Black_3seater"
+/y 出来吧，我的草泥象~
+/cast 黑色猛犸战象
+END
+VER 3 0000000000000016 "奥术光辉" "Spell_Holy_ArcaneIntellect"
+/target 悠悠龟
+/use 奥术光辉
+/use 法师护甲
+END
+VER 3 000000000000001B "手" "INV_GLOVE_RAIDMAGE_L_01"
+/use 10
+END
+VER 3 000000000000000E "火法" "Ability_Mage_Burnout"
+/cast 镜像
+/cast 时间扭曲
+/cast 烈焰宝珠
+/cast 冰霜之环
+END
+VER 3 000000000000000F "着烧炸弹" "Spell_Fire_SoulBurn"
+/cast 活动炸弹
+/cast 灼烧
+/cast 燃烧
+END
+VER 3 0000000000000015 "缓落术" "Ability_Druid_ImprovedTreeForm"
+/target 悠悠龟
+/cast 缓落术
+END
+VER 3 000000000000001C "跑" "INV_BELT_CLOTH_RAIDWARLOCK_L_01"
+/use 6
+END
+VER 3 0000000000000013 "隐身" "Spell_Arcane_PrismaticCloak"
+/stopcasting
+/cast 隐形术
+END
+VER 3 0000000000000014 "青蛙" "Ability_Creature_Poison_05"
+/use 疣无忧唇膏
+/target 湖蛙
+/kiss
+END
+VER 3 000000000000000B "青铜幼龙" "Ability_Mount_Drake_Bronze"
+/y 出来吧，我的小龙女~
+/cast 青铜幼龙
+END
+VER 3 0000000000000011 "面包" "Spell_Misc_Food"
+/y 老板，面包要向阳坊还是安德鲁森？~
+/cast 召唤餐桌
+END
+VER 3 000000000000000D "马" "Ability_Mount_NightmareHorse"
+/y 驾，李刚来了，快让开！~
+/cast 迅捷白马
+END

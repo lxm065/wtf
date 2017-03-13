@@ -1,0 +1,202 @@
+VER 3 0000000000000003 "BF_Mount" "ABILITY_MOUNT_CHARGER"
+/bfmount
+END
+VER 3 0000000000000022 "BF_Mount" "132226"
+/click HelpFrameCharacterStuckStuck
+END
+VER 3 0000000000000004 "BF_Pet" "ACHIEVEMENT_WORLDEVENT_BREWMASTER"
+/BFPET
+END
+VER 3 0000000000000023 "BF_Pet" "236701"
+/invite 岩石一
+/invite 悠悠龟@血牙魔王
+/invite 悠悠龟@冬拥湖
+/invite 悠悠战@火羽山
+/invite 下次我请@火羽山
+/invite 最后的悠悠@丽丽(四川)
+/invite 最后的悠悠@晴日峰(江苏)
+/invite 妈蛋@火羽山
+/invite wcnmd
+END
+VER 3 0000000000000024 "cjq1" "INV_Misc_QuestionMark"
+#showtooltip
+/castsequence reset=6/combat 十字军打击,审判,圣殿骑士的裁决,十字军打击,神圣棱镜,审判,十字军打击,圣殿骑士的裁决,十字军打击,审判,十字军打击,圣殿骑士的裁决,审判,十字军打击,圣殿骑士的裁决,十字军打击,审判,十字军打击,圣殿骑士的裁决
+/startattack
+/changeactionbar 2
+END
+VER 3 0000000000000025 "CJQaoe" "INV_Misc_QuestionMark"
+#showtooltip
+/castsequence reset=6/combat 正义之锤,审判,神圣风暴,正义之锤,神圣棱镜,审判,正义之锤,神圣风暴,正义之锤,审判,正义之锤,神圣风暴,审判,正义之锤,神圣风暴,正义之锤,审判,正义之锤,神圣风暴
+/startattack
+/changeactionbar 2
+END
+VER 3 0000000000000026 "cjqbf" "133040"
+/cast 神圣复仇者
+/cast 复仇之怒
+END
+VER 3 0000000000000027 "cz" "413582"
+/run ResetInstances()
+END
+VER 3 0000000000000008 "d" "INV_SWORD_27"
+/startattack
+/cast 破甲攻击
+END
+VER 3 000000000000001F "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 驱散魔法;  [@mouseover,exists,mod:ctrl] 净化疾病; [@mouseover,exists,mod:shift] 驱散魔法
+END
+VER 3 0000000000000009 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 驱散魔法;  [@mouseover,exists,mod:ctrl] 驱散魔法; [@mouseover,exists,mod:shift] 驱散魔法
+END
+VER 3 0000000000000002 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 驱散魔法;  [@mouseover,exists,mod:ctrl] 净化疾病; [@mouseover,exists,mod:shift] 驱散魔法
+END
+VER 3 000000000000000A "f" "ABILITY_WARRIOR_ENDLESSRAGE"
+/cast 狂暴之怒
+/cast 战斗怒吼
+/cast 致命平静
+/use 腐败之颅
+END
+VER 3 0000000000000005 "f5" "INV_PET_BATTLEPETTRAINING"
+/cast 复活战斗宠物
+/tar 幸运的小艺
+/run AutoToPet()
+END
+VER 3 000000000000000B "f5" "SPELL_NATURE_SWIFTNESS"
+/施放 复活战斗宠物
+/目标 幸运的小艺
+/run AutoToPet()
+END
+VER 3 0000000000000028 "ff" "134291"
+/ffeiths
+END
+VER 3 0000000000000021 "hhhhhh" "SPELL_MISC_PETHEAL"
+/click StaticPopup1Button1
+/click DropDownList2Button2
+END
+VER 3 0000000000000029 "ss" "INV_Misc_QuestionMark"
+#showtooltip
+/castsequence [nochanneling:吸取灵魂]reset=/combat/target 痛苦无常,腐蚀术,痛楚,吸取灵魂,吸取灵魂,吸取灵魂,吸取灵魂,痛苦无常,腐蚀术,痛楚,吸取灵魂,吸取灵魂,吸取灵魂,吸取灵魂,生命分流
+/cast 鬼影缠身
+/cast 黑暗灵魂：哀难
+/Startattack
+/petattack [nogroup]
+END
+VER 3 000000000000000C "w" "SPELL_NATURE_THUNDERCLAP"
+/cast 雷霆一击
+/cast 顺劈斩
+END
+VER 3 000000000000000D "一键驱散" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [target=mouseover,nomod,exists] 清洁术;  [target=mouseover,exists,mod:ctrl] 清洁术; [target=mouseover,exists,mod:shift] 清洁术
+END
+VER 3 000000000000000E "乘胜追击" "ABILITY_THROW"
+/cast 乘胜追击
+/cast 投掷
+END
+VER 3 000000000000000F "冰霜" "SPELL_DEATHKNIGHT_ICETOUCH"
+/cast 冰霜触摸
+/cast 传染
+END
+VER 3 0000000000000010 "冰霜支柱" "ABILITY_DEATHKNIGHT_PILLAROFFROST"
+/cast 冰霜之柱
+/cast 血性狂怒
+/cast 寒冬号角
+/cast 腐败之颅
+END
+VER 3 0000000000000011 "嗜血" "SPELL_NATURE_BLOODLUST"
+/startattack
+/cast 嗜血
+/startattack
+END
+VER 3 0000000000000012 "嘲讽" "SPELL_NATURE_REINCARNATION"
+/cast 防御姿态
+/cast 嘲讽
+END
+VER 3 0000000000000001 "坐骑" "Ability_Mount_Charger"
+/RandomMount
+END
+VER 3 0000000000000006 "手" "INV_GLOVE_RAIDMAGE_L_01"
+/use 10
+END
+VER 3 0000000000000013 "无敌牺牲" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast 圣盾术
+/cast 神圣牺牲
+END
+VER 3 0000000000000014 "武器" "INV_SWORD_27"
+#showtooltip 致死打击
+/startattack
+#/equip 萨塔耶的刺剑
+/equip  恶毒角斗士的巨剑
+/cast 致死打击
+/startattack 
+END
+VER 3 0000000000000015 "盾牌猛击" "ABILITY_WARRIOR_DEFENSIVESTANCE"
+#showtooltip 盾牌猛击 
+/startattack 
+/castsequence reset=0 0,0,0,0,命令怒吼 
+/castsequence reset=0 0,0,0,盾牌猛击,0 
+/castsequence reset=0 0,0,毁灭打击,0,0 
+/castsequence reset=0 0,复仇,0,0,0 
+/castsequence reset=0 盾牌猛击,0,0,0,0
+END
+VER 3 000000000000002A "盾牌猛击" "INV_Misc_QuestionMark"
+#showtooltip 盾牌猛击 
+/startattack 
+/castsequence reset=0 0,0,0,0,战斗怒吼 
+/castsequence reset=0 0,0,0,盾牌猛击,0 
+/castsequence reset=0 0,0,毁灭打击,0,0 
+/castsequence reset=0 0,复仇,0,0,0 
+/castsequence reset=0 盾牌猛击,0,0,0,0
+END
+VER 3 0000000000000020 "研磨" "INV_MISC_QUESTIONMARK"
+/CAST 研磨
+/use 绿茶叶
+END
+VER 3 000000000000002B "研磨" "134400"
+/CAST 研磨
+/use 雪百合
+END
+VER 3 0000000000000016 "破釜沉船" "ABILITY_WARRIOR_STRENGTHOFARMS"
+/cast 破釜沉舟
+/use 敏锐咒符
+/y 我已开启破釜沉舟，我在你在，我倒你倒！
+END
+VER 3 0000000000000017 "神恩" "INV_MISC_QUESTIONMARK"
+/cast 神恩术
+/cast 神启
+/cast 神圣震击
+/cast 圣光闪现
+END
+VER 3 0000000000000018 "缓落披风" "INV_CAPE_PANDARIA_D_01"
+/use 15
+END
+VER 3 0000000000000019 "羊" "ABILITY_MOUNT_MOUNTAINRAM"
+/y 出来吧，我的草尼羊~
+/use 迅捷棕山羊
+END
+VER 3 0000000000000007 "跑" "INV_BELT_CLOTH_RAIDWARLOCK_L_01"
+/use 6
+END
+VER 3 000000000000001A "跪拜" "ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2"
+/下跪
+END
+VER 3 000000000000001B "震荡波" "ABILITY_WARRIOR_SHOCKWAVE"
+/stopcasting
+/cast 震荡波
+END
+VER 3 000000000000001C "马" "ABILITY_MOUNT_NIGHTMAREHORSE"
+/y 驾，李刚来了，快散开~
+/use 战马
+END
+VER 3 000000000000001D "鸟" "ABILITY_MOUNT_SNOWYGRYPHON"
+/y 出来吧，我的大鸟~
+/use 迅捷红色狮鹫
+END
+VER 3 000000000000001E "龙" "ABILITY_MOUNT_DRAKE_BRONZE"
+/y 出来吧，我的小龙女~
+/cast 青铜幼龙
+END

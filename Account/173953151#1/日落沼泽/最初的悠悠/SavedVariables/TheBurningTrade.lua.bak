@@ -1,0 +1,6 @@
+
+DuowanAddon_TradeLog_TradesHistory = {
+}
+DuowanAddon_TRADE_LOG_BUTTON_POS = nil
+DuowanAddon_TradeLog_Announce_Checked = nil
+DuowanAddon_TradeLog_AnnounceChannel = "WHISPER"

@@ -1,0 +1,12 @@
+
+tCDblackData = {
+}
+tCDcoolingData = {
+	{
+		["spell"] = "爆炸酒桶",
+		["start"] = 34848.302,
+		["duration"] = 75,
+		["icon"] = 1266518,
+		["rank"] = 0,
+	}, -- [1]
+}

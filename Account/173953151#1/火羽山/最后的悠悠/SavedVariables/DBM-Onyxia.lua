@@ -1,0 +1,42 @@
+
+DBMOnyxia_SavedVars = {
+	["Onyxia"] = {
+		["WarnWhelpsSoon"] = true,
+		["HealthFrame"] = false,
+		["Announce2phase"] = true,
+		["Announce3phase"] = true,
+		["SpecWarn18584spellSpecialWarningSound"] = 2,
+		["SoundWTF"] = false,
+		["Timer18435Onyxia0"] = true,
+		["Timer4406Onyxia5"] = true,
+		["SpecWarn18584spell"] = true,
+		["Sound68958"] = true,
+		["WarnPhase2Soon"] = true,
+		["SpeedKillTimer"] = false,
+		["WarnPhase3Soon"] = true,
+		["Timer18584Onyxia1"] = true,
+		["SpecWarn68958runSpecialWarningSound"] = 1,
+		["SpecWarn68958run"] = true,
+		["TimerWhelps"] = true,
+		["Timer4405Onyxia4"] = true,
+		["Timer18584Onyxia2"] = true,
+		["Sound18584"] = true,
+		["Enabled"] = true,
+	},
+}
+DBMOnyxia_SavedStats = {
+	["Onyxia"] = {
+		["heroic25Pulls"] = 0,
+		["lfr25Pulls"] = 0,
+		["normal25Pulls"] = 0,
+		["normalPulls"] = 0,
+		["heroicPulls"] = 0,
+		["heroic25Kills"] = 0,
+		["heroicKills"] = 0,
+		["challengePulls"] = 0,
+		["normal25Kills"] = 0,
+		["normalKills"] = 0,
+		["challengeKills"] = 0,
+		["lfr25Kills"] = 0,
+	},
+}

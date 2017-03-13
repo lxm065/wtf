@@ -1,0 +1,62 @@
+
+SPELL_TIMER_SPELLS_DATE = {
+	["白骨之盾"] = {
+		["spell"] = "白骨之盾",
+		["guid"] = "Player-810-032B3DAB",
+		["duration"] = 30,
+		["flags"] = {
+			["live"] = 1,
+		},
+		["count"] = 3,
+		["target"] = "Mseve",
+		["startTime"] = 12656.666,
+		["texture"] = "INTERFACE\\ICONS\\ability_deathknight_boneshield",
+		["rank"] = "",
+	},
+	["冰霜疫病"] = {
+		["rank"] = "",
+		["spell"] = "冰霜疫病",
+		["count"] = 0,
+		["guid"] = "Creature-0-3124-1-4123-112512-0000397BBC",
+		["target"] = "邪能指挥官玛兹加洛",
+		["startTime"] = 41157.082,
+		["duration"] = 24,
+		["texture"] = "Interface\\Icons\\Spell_DeathKnight_FrostFever",
+	},
+	["血之疫病"] = {
+		["texture"] = "Interface\\Icons\\Spell_DeathKnight_BloodPlague",
+		["spell"] = "血之疫病",
+		["count"] = 0,
+		["guid"] = "Creature-0-2139-870-10205-70007-000071C433",
+		["target"] = "幼年原始魔暴龙",
+		["startTime"] = 13092.652,
+		["duration"] = 24,
+		["rank"] = "",
+	},
+	["吸血鬼之血"] = {
+		["spell"] = "吸血鬼之血",
+		["guid"] = "Player-810-032B3DAB",
+		["duration"] = 10,
+		["flags"] = {
+			["live"] = 1,
+		},
+		["count"] = 0,
+		["target"] = "Mseve",
+		["startTime"] = 39559.504,
+		["rank"] = "",
+		["texture"] = "Interface\\Icons\\Spell_Shadow_LifeDrain",
+	},
+	["反魔法护罩"] = {
+		["spell"] = "反魔法护罩",
+		["guid"] = "Player-810-032B3DAB",
+		["duration"] = 5,
+		["flags"] = {
+			["live"] = 1,
+		},
+		["count"] = 0,
+		["target"] = "Mseve",
+		["startTime"] = 11306.2,
+		["texture"] = "Interface\\Icons\\Spell_Shadow_AntiMagicShell",
+		["rank"] = "",
+	},
+}

@@ -1,0 +1,47 @@
+VER 3 0100000000000001 "lk" "SPELL_HOLY_CRUSADERSTRIKE"
+/目标 巫妖王
+/cast 十字军打击
+/cast 正义盾击
+END
+VER 3 0100000000000002 "p2" "SPELL_HOLY_AVENGERSSHIELD"
+/tar player
+/targetlasttarget
+/tar 寒冰之球
+/cast 复仇者之盾
+/targetlasttarget
+/targetlasttarget [help]
+/CAST 正义盾击
+END
+VER 3 0100000000000003 "p4" "SPELL_HOLY_AVENGINEWRATH"
+#showtooltip 圣盾术
+/stopcasting
+/cancelaura 圣盾术
+/cast 圣盾术
+/CAST 复仇之怒
+/CAST 神圣复仇者
+/USE 13
+/USE 14
+END
+VER 3 0100000000000004 "保命" "ABILITY_CREATURE_CURSED_05"
+/cast 远古列王守卫   
+/use 13
+/use 14
+/cast 复仇之怒
+/cast 炽热防御者
+END
+VER 3 0100000000000005 "审" "SPELL_HOLY_RIGHTEOUSFURY"
+/tar player
+/targetlasttarget
+/tar 寒冰之球
+/cast 审判
+/targetlasttarget
+/targetlasttarget [help]
+END
+VER 3 0100000000000006 "神盾" "SPELL_HOLY_DIVINEPROTECTION"
+/cast 圣佑术
+/cast 异端裁决 
+END
+VER 3 0100000000000007 "饰品" "CREATUREPORTRAIT_CYCLONE_NODEBRIS"
+/use 14
+/cast 异端裁决
+END

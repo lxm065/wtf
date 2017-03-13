@@ -1,0 +1,12 @@
+
+tCDblackData = {
+}
+tCDcoolingData = {
+	{
+		["spell"] = "反魔法护罩",
+		["start"] = 41158.946,
+		["duration"] = 60,
+		["icon"] = 136120,
+		["rank"] = 0,
+	}, -- [1]
+}

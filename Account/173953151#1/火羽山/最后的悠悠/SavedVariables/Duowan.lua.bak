@@ -1,0 +1,12 @@
+
+Duowan_Character = {
+	["guild"] = "Loft",
+	["region"] = "cn3",
+	["class"] = "DEATHKNIGHT",
+	["race"] = "Orc",
+	["name"] = "最后的悠悠",
+	["faction"] = "Horde",
+	["level"] = 85,
+	["sex"] = 2,
+	["realm"] = "火羽山",
+}

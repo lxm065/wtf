@@ -1,0 +1,11 @@
+
+DBT_PersistentOptions = {
+	["DBM"] = {
+		["HugeTimerPoint"] = "CENTER",
+		["TimerPoint"] = "TOPRIGHT",
+		["TimerX"] = -223.000024735929,
+		["HugeTimerX"] = 0,
+		["HugeTimerY"] = -119.99998807907,
+		["TimerY"] = -259.999996423721,
+	},
+}

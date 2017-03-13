@@ -1,0 +1,10 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["帅帅爹 - 末日祷告祭坛"] = "帅帅爹 - 末日祷告祭坛",
+	},
+	["profiles"] = {
+		["帅帅爹 - 末日祷告祭坛"] = {
+		},
+	},
+}

@@ -1,0 +1,497 @@
+
+JamPlatesAccessoriesDB = {
+	["spells"] = {
+		[2649] = {
+			["name"] = "低吼",
+			["icon"] = "Interface\\Icons\\Ability_Physical_Taunt",
+		},
+		[32240] = {
+			["name"] = "雪色狮鹫",
+			["icon"] = "Interface\\Icons\\ability_mount_snowygryphon",
+		},
+		[26273] = {
+			["name"] = "PX-238冬幕欢乐制造器",
+			["icon"] = "Interface\\Icons\\Spell_Frost_FrostShock",
+		},
+		[189999] = {
+			["name"] = "林地守卫者",
+			["icon"] = "Interface\\Icons\\inv_moosemount",
+		},
+		[201334] = {
+			["name"] = "进食充分",
+			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+		},
+		[176458] = {
+			["name"] = "铁砧之歌",
+			["icon"] = "Interface\\Icons\\inv_blacksmith_anvil",
+		},
+		[127230] = {
+			["name"] = "癫狂视觉",
+			["icon"] = "INTERFACE\\ICONS\\spell_shadow_mindflay",
+		},
+		[142073] = {
+			["name"] = "炉石天马",
+			["icon"] = "Interface\\Icons\\inv_pegasusmount",
+		},
+		[231291] = {
+			["name"] = "虫罐鱼漂",
+			["icon"] = "INTERFACE\\ICONS\\ability_hunter_pet_worm",
+		},
+		[23126] = {
+			["name"] = "世界放大器",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_AntiShadow",
+		},
+		[8326] = {
+			["name"] = "鬼魂",
+			["icon"] = "Interface\\Icons\\Ability_Vanish",
+		},
+		[19574] = {
+			["name"] = "狂野怒火",
+			["icon"] = "Interface\\Icons\\Ability_Druid_FerociousBite",
+		},
+		[134359] = {
+			["name"] = "飞天魔像",
+			["icon"] = "Interface\\Icons\\ability_mount_shreddermount",
+		},
+		[88742] = {
+			["name"] = "北风幼龙",
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_stormdragonpale",
+		},
+		[783] = {
+			["name"] = "旅行形态",
+			["icon"] = "Interface\\Icons\\Ability_Druid_TravelForm",
+		},
+		[32292] = {
+			["name"] = "迅捷紫色狮鹫",
+			["icon"] = "Interface\\Icons\\Ability_Mount_Gryphon_01",
+		},
+		[192225] = {
+			["name"] = "多面硬币",
+			["icon"] = "Interface\\Icons\\INV_Misc_Coin_16",
+		},
+		[142204] = {
+			["name"] = "次级宠物糕点",
+			["icon"] = "Interface\\Icons\\inv_misc_food_53",
+		},
+		[136505] = {
+			["name"] = "幽灵军马",
+			["icon"] = "Interface\\Icons\\inv_ghostlycharger",
+		},
+		[231390] = {
+			["name"] = "开拓者",
+			["icon"] = "Interface\\Icons\\Ability_Hunter_AspectMastery",
+		},
+		[227723] = {
+			["name"] = "魔力探测石",
+			["icon"] = "Interface\\Icons\\INV_Misc_Rune_10",
+		},
+		[208086] = {
+			["name"] = "巨人打击",
+			["icon"] = "INTERFACE\\ICONS\\ability_warrior_colossussmash",
+		},
+		[35079] = {
+			["name"] = "误导",
+			["icon"] = "Interface\\Icons\\Ability_Hunter_Misdirection",
+		},
+		[57820] = {
+			["name"] = "黑锋勇士",
+			["icon"] = "Interface\\Icons\\INV_Sword_126",
+		},
+		[209563] = {
+			["name"] = "邪钢马镫",
+			["icon"] = "Interface\\Icons\\inv_blacksmith_demonsteelstirrups",
+		},
+		[156779] = {
+			["name"] = "神经抑制器",
+			["icon"] = "Interface\\Icons\\Spell_Nature_MentalQuickness",
+		},
+		[148540] = {
+			["name"] = "暴风雪",
+			["icon"] = "Interface\\Icons\\spell_frost_icestorm",
+		},
+		[148429] = {
+			["name"] = "护火者之誓",
+			["icon"] = "Interface\\Icons\\INV_SummerFest_FireDrink",
+		},
+		[235313] = {
+			["name"] = "烈焰护体",
+			["icon"] = "Interface\\Icons\\Ability_Mage_MoltenArmor",
+			["debuffType"] = "Magic",
+		},
+		[115192] = {
+			["name"] = "诡诈",
+			["icon"] = "Interface\\Icons\\rogue_subterfuge",
+		},
+		[2823] = {
+			["name"] = "致命药膏",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_DualWeild",
+		},
+		[108366] = {
+			["name"] = "灵魂榨取",
+			["icon"] = "Interface\\Icons\\warlock_siphonlife",
+		},
+		[183117] = {
+			["name"] = "腐化恐翼鸦",
+			["icon"] = "Interface\\Icons\\inv_feldreadravenmount",
+		},
+		[115804] = {
+			["name"] = "致死之伤",
+			["icon"] = "Interface\\Icons\\Ability_CriticalStrike",
+		},
+		[164354] = {
+			["name"] = "萨格雷伪装",
+			["icon"] = "Interface\\Icons\\spell_fel_incinerate",
+		},
+		[181642] = {
+			["name"] = "保镖微缩装置",
+			["icon"] = "Interface\\Icons\\ability_siege_engineer_magnetic_lasso",
+		},
+		[228775] = {
+			["name"] = "训练有素",
+			["icon"] = "Interface\\Icons\\Ability_Mage_StudentOfTheMind",
+		},
+		[72807] = {
+			["name"] = "缚寒冰霜征服者",
+			["icon"] = "Interface\\Icons\\ability_mount_redfrostwyrm_01",
+		},
+		[120694] = {
+			["name"] = "凶暴野兽",
+			["icon"] = "Interface\\Icons\\Ability_Hunter_Longevity",
+		},
+		[81340] = {
+			["name"] = "末日突降",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_PainSpike",
+		},
+		[57821] = {
+			["name"] = "肯瑞托勇士",
+			["icon"] = "Interface\\Icons\\Spell_Holy_MindSooth",
+		},
+		[97493] = {
+			["name"] = "纯血火鹰",
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_orb_05",
+		},
+		[97501] = {
+			["name"] = "魔能火鹰",
+			["icon"] = "Interface\\Icons\\Inv_Misc_SummerFest_BrazierGreen",
+		},
+		[59996] = {
+			["name"] = "蓝色始祖幼龙",
+			["icon"] = "Interface\\Icons\\Ability_Mount_Drake_Proto",
+		},
+		[207472] = {
+			["name"] = "萨瓦里克的杰作",
+			["icon"] = "Interface\\Icons\\ability_vehicle_shellshieldgenerator",
+		},
+		[161006] = {
+			["name"] = "Update Interactions",
+			["icon"] = "Interface\\Icons\\Trade_Engineering",
+		},
+		[215632] = {
+			["name"] = "专注闪电",
+			["icon"] = "Interface\\Icons\\Spell_Nature_ChainLightning",
+		},
+		[176151] = {
+			["name"] = "疯狂耳语",
+			["icon"] = "INTERFACE\\ICONS\\spell_shadow_mindflay",
+		},
+		[231428] = {
+			["name"] = "燃烬巨龙",
+			["icon"] = "Interface\\ICONS\\INV_Nightbane2Mount",
+		},
+		[58500] = {
+			["name"] = "愤怒",
+			["icon"] = "Interface\\Icons\\Spell_Misc_EmotionAngry",
+		},
+		[208981] = {
+			["name"] = "莎拉达希尔的滋养",
+			["icon"] = "Interface\\Icons\\Ability_Druid_Nourish",
+		},
+		[176644] = {
+			["name"] = "锻炉的慰藉",
+			["icon"] = "INTERFACE\\ICONS\\achievement_dungeon_blackrockcaverns",
+		},
+		[126434] = {
+			["name"] = "土水派勇士",
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_tournaments_tabard_human",
+		},
+		[209569] = {
+			["name"] = "扎卡兹的腐化之血",
+			["icon"] = "Interface\\Icons\\inv_artifact_corruptedbloodofzakajz",
+			["debuffType"] = "Magic",
+		},
+		[163024] = {
+			["name"] = "战火梦魇兽",
+			["icon"] = "Interface\\Icons\\ability_mount_clockworkhorse",
+		},
+		[40192] = {
+			["name"] = "奥的灰烬",
+			["icon"] = "Interface\\Icons\\Inv_Misc_SummerFest_BrazierOrange",
+		},
+		[143625] = {
+			["name"] = "搏击冠军",
+			["icon"] = "Interface\\Icons\\inv_weapon_hand_30",
+		},
+		[201350] = {
+			["name"] = "进食充分",
+			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+		},
+		[207844] = {
+			["name"] = "卡库善的风暴之鳞腕轮",
+			["icon"] = "Interface\\ICONS\\INV_Gloves_Plate_DeathKnight_M_01",
+		},
+		[88746] = {
+			["name"] = "琉璃石幼龙",
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_stonedragonblue",
+		},
+		[153592] = {
+			["name"] = "闪光步伐",
+			["icon"] = "Interface\\Icons\\Spell_DeathKnight_PathOfFrost",
+		},
+		[175901] = {
+			["name"] = "白骨之盾",
+			["icon"] = "INTERFACE\\ICONS\\ability_deathknight_boneshield",
+		},
+		[53365] = {
+			["name"] = "不洁之力",
+			["icon"] = "Interface\\Icons\\Spell_Holy_BlessingOfStrength",
+		},
+		[188031] = {
+			["name"] = "耳语契约合剂",
+			["icon"] = "Interface\\Icons\\inv_alchemy_70_flask03purple",
+		},
+		[123992] = {
+			["name"] = "碧蓝云端翔龙",
+			["icon"] = "Interface\\Icons\\inv_pandarenserpentmount_blue",
+		},
+		[72968] = {
+			["name"] = "小宝的丝带",
+			["icon"] = "Interface\\Icons\\INV_Misc_Ribbon_01",
+		},
+		[215159] = {
+			["name"] = "失落已久的角鹰兽",
+			["icon"] = "Interface\\Icons\\Ability_Mount_WarHippogryph",
+		},
+		[24858] = {
+			["name"] = "枭兽形态",
+			["icon"] = "Interface\\Icons\\Spell_Nature_ForceOfNature",
+		},
+		[203533] = {
+			["name"] = "黑冰闪耀",
+			["icon"] = "Interface\\Icons\\inv_misc_cutgemnormal2",
+		},
+		[225788] = {
+			["name"] = "使者印记",
+			["icon"] = "Interface\\Icons\\Achievement_Reputation_08",
+		},
+		[17619] = {
+			["name"] = "炼金石",
+			["icon"] = "Interface\\Icons\\INV_Misc_Orb_02",
+		},
+		[230987] = {
+			["name"] = "奥术师的魔刃豹",
+			["icon"] = "Interface\\ICONS\\INV_SuramarMount",
+		},
+		[158486] = {
+			["name"] = "狩猎帽",
+			["icon"] = "Interface\\Icons\\inv_helm_cloth_petsafari_a_01",
+		},
+		[108211] = {
+			["name"] = "吸血药膏",
+			["icon"] = "Interface\\Icons\\rogue_leeching_poison",
+		},
+		[2479] = {
+			["name"] = "无荣誉目标",
+			["icon"] = "Interface\\Icons\\Spell_Magic_LesserInvisibilty",
+		},
+		[232698] = {
+			["name"] = "暗影形态",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Shadowform",
+		},
+		[60233] = {
+			["name"] = "敏捷",
+			["icon"] = "INTERFACE\\ICONS\\ability_hunter_onewithnature",
+		},
+		[58615] = {
+			["name"] = "野蛮角斗士的虚空幼龙",
+			["icon"] = "Interface\\Icons\\Ability_Mount_NetherDrakeElite",
+		},
+	},
+	["default"] = {
+		["tracker"] = {
+			["BPR"] = 6,
+			["direction"] = true,
+			["scale"] = 1,
+			["showHostileBuff"] = true,
+			["showFriendlyDebuff"] = true,
+			["yOffset"] = 14,
+			["showPlayerDebuff"] = true,
+			["ShowBorder"] = true,
+			["showTime"] = true,
+			["enabled"] = true,
+			["showPetBuff"] = true,
+			["anchor"] = "TOPRIGHT",
+			["showDefaultTime"] = false,
+			["xOffset"] = 0,
+			["relative"] = "LEFT",
+			["growth"] = false,
+			["width"] = 17,
+			["y"] = 0,
+			["x"] = 0,
+			["showPetDebuff"] = true,
+			["filter"] = {
+			},
+			["height"] = 17,
+			["showFriendlyBuff"] = true,
+			["showHostileDebuff"] = true,
+			["showPlayerBuff"] = true,
+		},
+		["threat"] = {
+			["y"] = 10,
+			["x"] = -1,
+			["enabled"] = false,
+			["scale"] = 1,
+			["anchor"] = "LEFT",
+			["relative"] = "BOTTOMRIGHT",
+			["height"] = 32,
+			["width"] = 32,
+		},
+		["name"] = "default",
+		["aura"] = {
+			["BPR"] = 6,
+			["direction"] = false,
+			["xOffset"] = -5,
+			["showHostileBuff"] = false,
+			["showFriendlyDebuff"] = false,
+			["showPetDebuff"] = true,
+			["showPlayerDebuff"] = false,
+			["anchor"] = "BOTTOMLEFT",
+			["showTime"] = true,
+			["yOffset"] = 0,
+			["enabled"] = true,
+			["showPetBuff"] = true,
+			["showPlayerBuff"] = false,
+			["showDefaultTime"] = false,
+			["y"] = 0,
+			["relative"] = "TOPLEFT",
+			["growth"] = false,
+			["defaultEnabled"] = false,
+			["showHostileDebuff"] = false,
+			["x"] = 0,
+			["showFriendlyBuff"] = false,
+			["filter"] = {
+			},
+			["height"] = 17,
+			["width"] = 17,
+			["scale"] = 1,
+			["ShowBorder"] = true,
+		},
+		["id"] = "default",
+		["resource"] = {
+			["enabled"] = true,
+			["x"] = 0,
+			["anchor"] = "TOP",
+			["relative"] = "CENTER",
+			["scale"] = 1,
+			["y"] = -2,
+		},
+		["combat"] = {
+			["y"] = 0,
+			["x"] = 0,
+			["enabled"] = true,
+			["scale"] = 1,
+			["anchor"] = "LEFT",
+			["relative"] = "RIGHT",
+			["height"] = 25,
+			["width"] = 25,
+		},
+	},
+	["Player-810-02D40AA3"] = {
+		["tracker"] = {
+			["BPR"] = 6,
+			["direction"] = true,
+			["scale"] = 1,
+			["showHostileBuff"] = true,
+			["showFriendlyDebuff"] = true,
+			["yOffset"] = 14,
+			["showPlayerDebuff"] = true,
+			["ShowBorder"] = true,
+			["showTime"] = true,
+			["enabled"] = true,
+			["showPetBuff"] = true,
+			["anchor"] = "TOPRIGHT",
+			["showDefaultTime"] = false,
+			["xOffset"] = 0,
+			["relative"] = "LEFT",
+			["growth"] = false,
+			["width"] = 17,
+			["y"] = 0,
+			["x"] = 0,
+			["showPetDebuff"] = true,
+			["filter"] = {
+			},
+			["height"] = 17,
+			["showFriendlyBuff"] = true,
+			["showHostileDebuff"] = true,
+			["showPlayerBuff"] = true,
+		},
+		["threat"] = {
+			["y"] = 10,
+			["x"] = -1,
+			["enabled"] = false,
+			["anchor"] = "LEFT",
+			["height"] = 32,
+			["relative"] = "BOTTOMRIGHT",
+			["scale"] = 1,
+			["width"] = 32,
+		},
+		["name"] = "黑市一号",
+		["aura"] = {
+			["BPR"] = 6,
+			["direction"] = false,
+			["xOffset"] = -5,
+			["showHostileBuff"] = false,
+			["showFriendlyDebuff"] = false,
+			["showPetDebuff"] = true,
+			["showPlayerDebuff"] = false,
+			["anchor"] = "BOTTOMLEFT",
+			["showTime"] = true,
+			["yOffset"] = 0,
+			["enabled"] = true,
+			["showPetBuff"] = true,
+			["showPlayerBuff"] = false,
+			["showDefaultTime"] = false,
+			["y"] = 0,
+			["relative"] = "TOPLEFT",
+			["growth"] = false,
+			["defaultEnabled"] = false,
+			["showHostileDebuff"] = false,
+			["x"] = 0,
+			["showFriendlyBuff"] = false,
+			["filter"] = {
+			},
+			["height"] = 17,
+			["width"] = 17,
+			["scale"] = 1,
+			["ShowBorder"] = true,
+		},
+		["id"] = "Player-810-02D40AA3",
+		["combat"] = {
+			["y"] = 0,
+			["x"] = 0,
+			["enabled"] = true,
+			["anchor"] = "LEFT",
+			["height"] = 25,
+			["relative"] = "RIGHT",
+			["scale"] = 1,
+			["width"] = 25,
+		},
+		["resource"] = {
+			["enabled"] = true,
+			["x"] = 0,
+			["anchor"] = "TOP",
+			["relative"] = "CENTER",
+			["scale"] = 1,
+			["y"] = -2,
+		},
+	},
+}

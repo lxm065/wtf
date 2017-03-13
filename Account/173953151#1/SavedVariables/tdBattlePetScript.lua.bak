@@ -1,0 +1,112 @@
+
+TD_DB_BATTLEPETSCRIPT_GLOBAL = {
+	["global"] = {
+		["scripts"] = {
+			["Base"] = {
+				["1387;1387;1211:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 3",
+					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
+				},
+				["85;1211:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 4",
+					["code"] = "if [ self(步行炸弹).active ]\n    ability(毒烟) [ self.round = 1 ]\n    ability(猛击) [ self.round = 2 ]\n    ability(猛击) [ self.round = 3 ]\n    ability(猛击) [ self.round = 4 ]\n    ability(自爆) [ self.round = 5 ]\nendif",
+				},
+				["85;1885:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 6",
+					["code"] = "if [ self(步行炸弹).active ]\n    ability(毒烟) [ self.round = 1 ]\n    ability(猛击) [ self.round = 2 ]\n    ability(猛击) [ self.round = 3 ]\n    ability(猛击) [ self.round = 4 ]\n    ability(自爆) [ self.round = 5 ]\nendif",
+				},
+				["85;1634:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 13",
+					["code"] = "if [ self(步行炸弹).active ]\n    ability(毒烟) [ self.round = 1 ]\n    ability(猛击) [ self.round = 2 ]\n    ability(猛击) [ self.round = 3 ]\n    ability(猛击) [ self.round = 4 ]\n    ability(自爆) [ self.round = 5 ]\nendif",
+				},
+				["85;1387;1885:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 7",
+					["code"] = "if [ self(步行炸弹).active ]\n    ability(毒烟) [ self.round = 1 ]\n    ability(猛击) [ self.round = 2 ]\n    ability(猛击) [ self.round = 3 ]\n    ability(猛击) [ self.round = 4 ]\n    ability(自爆) [ self.round = 5 ]\nendif",
+				},
+				["1387;1211:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 2",
+					["code"] = "if [self(钢铁星弹).active]\nability(旋紧发条) [self.round = 1]\nability(毒烟) [self.round = 2]\nability(旋紧发条) [self.round = 3]\nability(自爆) [self.round = 4]\nendif",
+				},
+				["1387;1387;1634:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 9",
+					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
+				},
+				["1387;85;1537:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 16",
+					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
+				},
+				["1387;1537:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 14",
+					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
+				},
+				["1387;1885:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 5",
+					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
+				},
+				["1387;1387;1885:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 10",
+					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
+				},
+				["1532;1537;1537:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 18",
+					["code"] = "change(next) [ self.dead ]\nif [ self(伊奇).active ]\nability(黑爪) [ self.round = 1 ]\nability(黑爪) [ self.round = 2]\nability(群殴) [ self.round = 3 ]\nendif\nif [ self(伊奇).active ]\nability(黑爪) [ self.round = 1 ]\nability(黑爪) [ self.round = 2]\nability(群殴) [ self.round = 3 ]\nendif\nability(自爆)",
+				},
+				["1387;1387;1537:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 15",
+					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
+				},
+				["85;1537:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 17",
+					["code"] = "if [ self(步行炸弹).active ]\n    ability(毒烟) [ self.round = 1 ]\n    ability(猛击) [ self.round = 2 ]\n    ability(猛击) [ self.round = 3 ]\n    ability(猛击) [ self.round = 4 ]\n    ability(自爆) [ self.round = 5 ]\nendif",
+				},
+				["1387;85;1634:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 12",
+					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
+				},
+				["1387;1634:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 8",
+					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
+				},
+				["1387;85;1885:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 11",
+					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
+				},
+				["1387;1387;627:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 1",
+					["code"] = "if [self(钢铁星弹).active]\nability(旋紧发条)\nability(毒烟)\nability(旋紧发条)\nability(自爆)\nendif",
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["悠悠龟 - 火羽山"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["position"] = {
+				["y"] = 127.606262207031,
+				["x"] = 161.738525390625,
+				["point"] = "LEFT",
+				["scale"] = 1,
+			},
+		},
+	},
+}

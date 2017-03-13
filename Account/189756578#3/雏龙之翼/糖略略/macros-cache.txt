@@ -1,0 +1,64 @@
+VER 3 0100000000000005 "1" "INV_MISC_QUESTIONMARK"
+#show 十字军打击
+/console Sound_EnableSFX 0
+/targetenemy [noharm][dead]
+/startattack
+/castsequence reset=6/combat 十字军打击,审判,圣殿骑士的裁决,十字军打击,神圣棱镜,审判,十字军打击,圣殿骑士的裁决,十字军打击,审判,十字军打击,圣殿骑士的裁决,审判,十字军打击,圣殿骑士的裁决,十字军打击,审判,十字军打击,圣殿骑士的裁决
+/changeactionbar 2
+/script UIErr
+END
+VER 3 0100000000000006 "2" "INV_MISC_QUESTIONMARK"
+#show 正义之锤
+/console Sound_EnableSFX 0
+/targetenemy [noharm][dead]
+/startattack
+/castsequence reset=6/combat 正义之锤,审判,神圣风暴,正义之锤,神圣棱镜,审判,正义之锤,神圣风暴,正义之锤,审判,正义之锤,神圣风暴,审判,正义之锤,神圣风暴,正义之锤,审判,正义之锤,神圣风暴
+/changeactionbar 2
+/script UIErrorsFrame:Clear()
+/console Soun
+END
+VER 3 0100000000000007 "3" "INV_MISC_QUESTIONMARK"
+#show 驱邪术
+/console Sound_EnableSFX 0
+/targetenemy [noharm][dead]
+/startattack
+/cast !驱邪术
+/cast !圣佑术
+/cast !复仇之怒
+/changeactionbar 3
+/script UIErrorsFrame:Clear()
+/console Sound_EnableSFX 1
+END
+VER 3 0100000000000008 "4" "INV_MISC_QUESTIONMARK"
+#show 愤怒之锤
+/console Sound_EnableSFX 0
+/targetenemy [noharm][dead]
+/startattack
+/cast !愤怒之锤
+/cast !神圣复仇者
+/changeactionbar 1
+/script UIErrorsFrame:Clear()
+/console Sound_EnableSFX 1
+END
+VER 3 0100000000000003 "圣疗" "SPELL_HOLY_LAYONHANDS"
+/cast 圣疗术
+/y 已交圣疗
+END
+VER 3 0100000000000001 "打断" "SPELL_HOLY_REBUKE"
+/stopcasting
+/cast 责难
+/y 已打断
+END
+VER 3 0100000000000002 "无敌" "SPELL_HOLY_DIVINESHIELD"
+/cast 圣盾术
+/y 我已开无敌 
+/in 2 /y [无敌]还剩6秒……
+/in 4 /y [无敌]还剩4秒……
+/in 6 /y [无敌]还剩2秒……
+/in 8 /y [无敌]结束
+END
+VER 3 0100000000000004 "群体免伤" "SPELL_HOLY_AURAMASTERY"
+/stopcasting
+/cast 虔诚光环
+/y 虔诚光环已交
+END

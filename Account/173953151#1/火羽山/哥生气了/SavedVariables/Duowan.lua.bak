@@ -1,0 +1,12 @@
+
+Duowan_Character = {
+	["region"] = "cn3",
+	["class"] = "WARLOCK",
+	["race"] = "Gnome",
+	["name"] = "哥生气了",
+	["faction"] = "Alliance",
+	["level"] = 1,
+	["sex"] = 2,
+	["realm"] = "火羽山",
+}
+DUOWAN_CHARACTER_INFO = ""

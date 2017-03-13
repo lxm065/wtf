@@ -1,0 +1,25 @@
+
+LoveDB = {
+	["火羽山_Horde_影刃"] = {
+		["FriendsLogDB"] = {
+		},
+		["RaidMark"] = {
+			["locked"] = false,
+		},
+	},
+}
+ezIconsDB = {
+	["profileKeys"] = {
+		["影刃 - 火羽山"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+FlashTaskbarDB = {
+	["ready_check"] = true,
+	["arena_queue"] = true,
+	["bg_queue"] = true,
+}
+ACHIEVEMENTSEARCH_DB = nil

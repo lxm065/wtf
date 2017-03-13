@@ -1,0 +1,10 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["打小怪的 - 迦罗娜"] = "打小怪的 - 迦罗娜",
+	},
+	["profiles"] = {
+		["打小怪的 - 迦罗娜"] = {
+		},
+	},
+}

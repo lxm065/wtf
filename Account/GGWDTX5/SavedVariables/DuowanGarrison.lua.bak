@@ -1,0 +1,14 @@
+
+SV_GarrisonMissionManager = nil
+MasterPlanAG = {
+	["IgnoreRewards"] = {
+	},
+	["火羽山"] = {
+		["Mseve"] = {
+			["lastCacheTime"] = 1475462765,
+			["class"] = "DEATHKNIGHT",
+			["curRes"] = 1651,
+			["faction"] = "Horde",
+		},
+	},
+}

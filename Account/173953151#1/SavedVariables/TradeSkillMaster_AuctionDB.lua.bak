@@ -1,0 +1,16 @@
+
+TradeSkillMaster_AuctionDBDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["赞达拉使者 - 火羽山"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - 火羽山"] = {
+			["time"] = 10,
+			["scanData"] = "",
+		},
+	},
+}

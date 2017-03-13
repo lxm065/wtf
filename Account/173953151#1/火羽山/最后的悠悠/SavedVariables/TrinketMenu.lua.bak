@@ -1,0 +1,48 @@
+
+TrinketMenuPerOptions = {
+	["Visible"] = "ON",
+	["MainScale"] = 1,
+	["XPos"] = 566.0003051757813,
+	["Alpha"] = 1,
+	["MainOrient"] = "HORIZONTAL",
+	["FirstUse"] = true,
+	["ItemsUsed"] = {
+	},
+	["Hidden"] = {
+	},
+	["MenuScale"] = 1,
+	["MainDock"] = "BOTTOMRIGHT",
+	["YPos"] = 167.0001220703125,
+	["MenuDock"] = "BOTTOMLEFT",
+	["MenuOrient"] = "VERTICAL",
+}
+TrinketMenuQueue = {
+	["Enabled"] = {
+	},
+	["Stats"] = {
+	},
+	["Sort"] = {
+		{
+			"84490", -- [1]
+			"84495", -- [2]
+			"77201", -- [3]
+			"40483", -- [4]
+			"85181", -- [5]
+			"81264", -- [6]
+			"81243", -- [7]
+			0, -- [8]
+		}, -- [1]
+		[0] = {
+			"84495", -- [1]
+			"84490", -- [2]
+			"77201", -- [3]
+			"40483", -- [4]
+			"85181", -- [5]
+			"81264", -- [6]
+			"81243", -- [7]
+			0, -- [8]
+		},
+	},
+	["Profiles"] = {
+	},
+}

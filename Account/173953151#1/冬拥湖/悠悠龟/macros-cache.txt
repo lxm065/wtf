@@ -1,0 +1,47 @@
+VER 3 0100000000000001 "3豆" "INV_Misc_QuestionMark"
+#showtooltip 混乱之箭
+/cast 混乱之箭
+END
+VER 3 0100000000000002 "b" "603962"
+/cast 黑暗灵魂
+/use 虚无碎片
+END
+VER 3 0100000000000003 "biu～" "INV_Misc_QuestionMark"
+#showtooltip 邪焰
+/cast 邪焰
+END
+VER 3 0100000000000004 "bz" "615499"
+/use 导电者奖章
+/cast 黑暗灵魂
+END
+VER 3 0100000000000005 "pet" "652090"
+/Petattack [target=mouseover,harm,exists]
+END
+VER 3 0100000000000006 "复制" "INV_Misc_QuestionMark"
+#showtooltip 浩劫
+/tar player
+/targetlasttarget
+/targetenemy
+/castsequence reset=1 0,浩劫
+/targetlasttarget
+/targetlasttarget [help]
+END
+VER 3 0100000000000007 "斩杀" "INV_Misc_QuestionMark"
+#showtooltip 暗影灼烧
+/stopcasting
+/cast 暗影灼烧
+END
+VER 3 0100000000000008 "火雨" "INV_Misc_QuestionMark"
+#showtooltip 火焰之雨
+/cast 火焰之雨
+END
+VER 3 0100000000000009 "诅咒" "134400"
+/use [mod]Curse of the Elements;Curse of Enfeeblement
+END
+VER 3 010000000000000A "读条" "INV_Misc_QuestionMark"
+#showtooltip 烧尽
+/cast 烧尽
+END
+VER 3 010000000000000B "附魔" "132317"
+/cast 附魔
+END

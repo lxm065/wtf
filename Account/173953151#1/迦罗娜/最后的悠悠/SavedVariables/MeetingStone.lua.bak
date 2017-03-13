@@ -1,0 +1,10 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["最后的悠悠 - 迦罗娜"] = "最后的悠悠 - 迦罗娜",
+	},
+	["profiles"] = {
+		["最后的悠悠 - 迦罗娜"] = {
+		},
+	},
+}

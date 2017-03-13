@@ -1,0 +1,13 @@
+
+tCDblackData = {
+}
+tCDcoolingData = {
+	{
+		["spell"] = "热流铁砧",
+		["name"] = "热流铁砧",
+		["start"] = 1010.697,
+		["duration"] = 300,
+		["icon"] = 136241,
+		["rank"] = 0,
+	}, -- [1]
+}

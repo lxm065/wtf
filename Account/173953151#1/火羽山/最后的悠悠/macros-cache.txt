@@ -1,0 +1,32 @@
+VER 3 0100000000000004 "冰球" "INV_MISC_QUESTIONMARK"
+//不切换目标死缠打冰球宏
+/target 寒冰之球
+/cast 凋零缠绕
+/targetlasttarget
+/startattack
+END
+VER 3 0100000000000001 "凌风" "SPELL_FROST_ARCTICWINDS"
+/cast 凛风冲击
+/cast 血液沸腾
+END
+VER 3 0100000000000002 "反魔法" "SPELL_SHADOW_ANTIMAGICSHELL"
+/cast 反魔法护罩
+/cast  巫妖之躯
+END
+VER 3 0100000000000003 "灵界打击" "SPELL_DEATHKNIGHT_BUTCHER2"
+/cast 死亡虹吸
+/cast 灵界打击
+END
+VER 3 0100000000000006 "爆发" "INV_MISC_QUESTIONMARK"
+//一键爆发宏
+/cast 符文刃舞
+//显示一个计时器，方便计算狂暴的时间
+/sw
+END
+VER 3 0100000000000005 "符文" "INV_MISC_QUESTIONMARK"
+//不切换目标符打打冰球宏
+/target 寒冰之球
+/cast 符文打击
+/targetlasttarget
+/startattack
+END

@@ -1,0 +1,33 @@
+
+LoveDB = {
+	["霜狼_Horde_槐树下的海盗"] = {
+		["FriendsLogDB"] = {
+			"一剑飘香", -- [1]
+			"大宝灬明天见", -- [2]
+			"槐树下的船长", -- [3]
+			"無傷", -- [4]
+			"爱在西元-迦玛兰", -- [5]
+			"谁知我无敌", -- [6]
+			"阴影丶", -- [7]
+			"阿凡达归来", -- [8]
+		},
+		["RaidMark"] = {
+			["locked"] = false,
+		},
+	},
+}
+ezIconsDB = {
+	["profileKeys"] = {
+		["槐树下的海盗 - 霜狼"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+FlashTaskbarDB = {
+	["ready_check"] = true,
+	["arena_queue"] = true,
+	["bg_queue"] = true,
+}
+ACHIEVEMENTSEARCH_DB = nil

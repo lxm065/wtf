@@ -1,0 +1,47 @@
+VER 3 0100000000000001 "lk" "135891"
+/目标 巫妖王
+/cast 十字军打击
+/cast 正义盾击
+END
+VER 3 0100000000000002 "p2" "135874"
+/tar player
+/targetlasttarget
+/tar 寒冰之球
+/cast 复仇者之盾
+/targetlasttarget
+/targetlasttarget [help]
+/CAST 正义盾击
+END
+VER 3 0100000000000003 "p4" "INV_Misc_QuestionMark"
+#showtooltip 圣盾术
+/stopcasting
+/cancelaura 圣盾术
+/cast 圣盾术
+/CAST 复仇之怒
+/CAST 神圣复仇者
+/USE 咔啡压榨机
+/USE 铁腹炒锅
+END
+VER 3 0100000000000004 "保命" "132097"
+/cast 远古列王守卫   
+/use 13
+/use 14
+/cast 复仇之怒
+/cast 炽热防御者
+END
+VER 3 0100000000000005 "审" "135959"
+/tar player
+/targetlasttarget
+/tar 寒冰之球
+/cast 审判
+/targetlasttarget
+/targetlasttarget [help]
+END
+VER 3 0100000000000006 "神盾" "524353"
+/cast 圣佑术
+/cast 异端裁决 
+END
+VER 3 0100000000000007 "饰品" "511543"
+/use 14
+/cast 异端裁决
+END
