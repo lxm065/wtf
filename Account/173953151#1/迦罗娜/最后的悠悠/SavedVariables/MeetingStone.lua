@@ -12,6 +12,15 @@ MEETINGSTONE_CHARACTER_DB = {
 					["scale"] = 1,
 				},
 			},
+<<<<<<< HEAD
+=======
+			["searchHistoryList"] = {
+				"3-15-400-0", -- [1]
+				"3-110-412-0", -- [2]
+				"3-15-0-0", -- [3]
+				"6-0-0-0", -- [4]
+			},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["recent"] = {
 				["3-110-412-0"] = {
 					{
@@ -972,6 +981,7 @@ MEETINGSTONE_CHARACTER_DB = {
 					}, -- [78]
 				},
 			},
+<<<<<<< HEAD
 			["searchHistoryList"] = {
 				"3-110-412-0", -- [1]
 				"3-15-400-0", -- [2]
@@ -979,6 +989,9 @@ MEETINGSTONE_CHARACTER_DB = {
 				"6-0-0-0", -- [4]
 			},
 			["lastSearchValue"] = "3-110-412-0",
+=======
+			["lastSearchValue"] = "3-15-400-0",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["worldQuestHelp"] = true,
 			["chatGroupListening"] = {
 				["APP_WHISPER"] = {

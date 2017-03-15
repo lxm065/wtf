@@ -6,6 +6,7 @@ X: -4
 Y: -134
 W: 160
 H: 28
+<<<<<<< HEAD
 Frame: RematchPetCard
 FrameLevel: 1
 Anchor: TOP
@@ -13,6 +14,8 @@ X: 78
 Y: -130
 W: 260
 H: 428
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: WhisperPopFrame
 FrameLevel: 1
 Anchor: LEFT
@@ -20,6 +23,7 @@ X: 20
 Y: -79
 W: 165
 H: 262
+<<<<<<< HEAD
 Frame: _NPCScanButton
 FrameLevel: 1
 Anchor: TOP
@@ -27,6 +31,8 @@ X: 0
 Y: -90
 W: 150
 H: 42
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: DBMMinimapButton
 FrameLevel: 8
 Anchor: TOPRIGHT
@@ -41,3 +47,20 @@ X: 234
 Y: 57
 W: 345
 H: 480
+<<<<<<< HEAD
+=======
+Frame: RematchPetCard
+FrameLevel: 1
+Anchor: TOP
+X: 78
+Y: -130
+W: 260
+H: 423
+Frame: _NPCScanButton
+FrameLevel: 1
+Anchor: TOP
+X: 0
+Y: -90
+W: 150
+H: 42
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53

@@ -10,7 +10,11 @@ SET showPartyPets "1"
 SET cameraSavedDistance "28.499987"
 SET cameraSavedVehicleDistance "50.000000"
 SET cameraSavedPetBattleDistance "15.000"
+<<<<<<< HEAD
 SET cameraSavedPitch "38.103508"
+=======
+SET cameraSavedPitch "24.903530"
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 SET showBattlefieldMinimap "2"
 SET talentPointsSpent "1"
 SET guildRosterView "playerStatus"

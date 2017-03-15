@@ -48,6 +48,7 @@ X: -210
 Y: -163
 W: 31
 H: 31
+<<<<<<< HEAD
 Frame: RematchDialog
 FrameLevel: 1
 Anchor: BOTTOM
@@ -55,6 +56,8 @@ X: -87
 Y: 98
 W: 300
 H: 310
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: CombuctorFrameinventory
 FrameLevel: 1
 Anchor: RIGHT

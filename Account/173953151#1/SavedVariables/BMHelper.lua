@@ -27,12 +27,19 @@ Teleportie_DB = {
 		},
 		["texpath_direction"] = "Interface\\AddOns\\BMHelper\\Media\\Direction1.blp",
 		["font_height"] = 12,
+<<<<<<< HEAD
+=======
+		["decimals"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["textColor_near"] = {
 			0.0784313725490196, -- [1]
 			1, -- [2]
 			0.313725490196078, -- [3]
 		},
+<<<<<<< HEAD
 		["decimals"] = 1,
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["textColor_far"] = {
 			1, -- [1]
 			0.0588235294117647, -- [2]
@@ -67,12 +74,19 @@ Teleportie_DB = {
 		},
 		["texpath_direction"] = "Interface\\AddOns\\BMHelper\\Media\\Direction1.blp",
 		["font_height"] = 12,
+<<<<<<< HEAD
 		["decimals"] = 1,
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["textColor_near"] = {
 			0.0784313725490196, -- [1]
 			1, -- [2]
 			0.313725490196078, -- [3]
 		},
+<<<<<<< HEAD
+=======
+		["decimals"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["textColor_far"] = {
 			1, -- [1]
 			0.0588235294117647, -- [2]
@@ -107,12 +121,19 @@ Teleportie_DB = {
 		},
 		["texpath_direction"] = "Interface\\AddOns\\BMHelper\\Media\\Direction1.blp",
 		["font_height"] = 12,
+<<<<<<< HEAD
 		["decimals"] = 1,
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["textColor_near"] = {
 			0.0784313725490196, -- [1]
 			1, -- [2]
 			0.313725490196078, -- [3]
 		},
+<<<<<<< HEAD
+=======
+		["decimals"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["textColor_far"] = {
 			1, -- [1]
 			0.0588235294117647, -- [2]

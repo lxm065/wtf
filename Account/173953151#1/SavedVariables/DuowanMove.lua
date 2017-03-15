@@ -54,8 +54,13 @@ BlizzMoveDB = {
 		["relativePoint"] = "LEFT",
 		["yOfs"] = 123.427291870117,
 		["xOfs"] = 2.52986001968384,
+<<<<<<< HEAD
 		["save"] = true,
 		["point"] = "LEFT",
+=======
+		["point"] = "LEFT",
+		["save"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	},
 	["MacroFrame"] = {
 	},
@@ -70,8 +75,13 @@ BlizzMoveDB = {
 		["relativePoint"] = "LEFT",
 		["yOfs"] = 78.230583190918,
 		["xOfs"] = 77.5383987426758,
+<<<<<<< HEAD
 		["save"] = true,
 		["point"] = "LEFT",
+=======
+		["point"] = "LEFT",
+		["save"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	},
 	["AchievementFrame"] = {
 		["default"] = {
@@ -84,8 +94,13 @@ BlizzMoveDB = {
 		["relativePoint"] = "LEFT",
 		["yOfs"] = 15.1406523669155,
 		["xOfs"] = 154.611177123259,
+<<<<<<< HEAD
 		["save"] = true,
 		["point"] = "LEFT",
+=======
+		["point"] = "LEFT",
+		["save"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	},
 	["PVPUIFrame"] = {
 	},
@@ -141,8 +156,13 @@ BlizzMoveDB = {
 		["relativePoint"] = "LEFT",
 		["yOfs"] = 81.7293701171875,
 		["xOfs"] = 56.7138481140137,
+<<<<<<< HEAD
 		["save"] = true,
 		["point"] = "LEFT",
+=======
+		["point"] = "LEFT",
+		["save"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	},
 	["SpellBookFrame"] = {
 		["default"] = {
@@ -225,8 +245,13 @@ BlizzMoveDB = {
 		["relativePoint"] = "TOP",
 		["yOfs"] = -88.0000228881836,
 		["xOfs"] = 146.461441040039,
+<<<<<<< HEAD
 		["save"] = false,
 		["point"] = "TOP",
+=======
+		["point"] = "TOP",
+		["save"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	},
 	["LFRParentFrame"] = {
 		["default"] = {
@@ -258,7 +283,22 @@ BlizzMoveDB = {
 		["xOfs"] = -31.604944229126,
 		["point"] = "CENTER",
 	},
+<<<<<<< HEAD
 	["ArchaeologyFrame"] = {
+=======
+	["QuestFrame"] = {
+		["default"] = {
+			["relativeTo"] = "UIParent",
+			["point"] = "TOPLEFT",
+			["relativePoint"] = "TOPLEFT",
+			["yOfs"] = -115.999994809479,
+			["xOfs"] = 16.000001221299,
+		},
+		["relativePoint"] = "TOPLEFT",
+		["yOfs"] = -91.3845402827585,
+		["xOfs"] = 100.786358164928,
+		["point"] = "TOPLEFT",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	},
 	["GameMenuFrame"] = {
 		["default"] = {
@@ -273,7 +313,24 @@ BlizzMoveDB = {
 		["xOfs"] = -79.1111297607422,
 		["point"] = "TOP",
 	},
+<<<<<<< HEAD
 	["GuildFrame"] = {
+=======
+	["VoidStorageFrame"] = {
+	},
+	["GossipFrame"] = {
+		["default"] = {
+			["relativeTo"] = "UIParent",
+			["point"] = "TOPLEFT",
+			["relativePoint"] = "TOPLEFT",
+			["yOfs"] = -115.999994809479,
+			["xOfs"] = 16.000001221299,
+		},
+		["relativePoint"] = "LEFT",
+		["yOfs"] = -31.9876251220703,
+		["xOfs"] = 34.9045906066895,
+		["point"] = "LEFT",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	},
 	["KeyBindingFrame"] = {
 		["default"] = {
@@ -288,6 +345,7 @@ BlizzMoveDB = {
 		["xOfs"] = 184.615279711204,
 		["point"] = "BOTTOM",
 	},
+<<<<<<< HEAD
 	["FriendsFrame"] = {
 		["default"] = {
 			["relativeTo"] = "UIParent",
@@ -304,6 +362,12 @@ BlizzMoveDB = {
 	["ColorPickerFrame"] = {
 	},
 	["TransmogrifyFrame"] = {
+=======
+	["ColorPickerFrame"] = {
+	},
+	["PVEFrame"] = {
+		["save"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	},
 	["ObjectiveTrackerFrame"] = {
 		["default"] = {
@@ -320,6 +384,7 @@ BlizzMoveDB = {
 	},
 	["LFDParentFrame"] = {
 	},
+<<<<<<< HEAD
 	["MerchantFrame"] = {
 		["default"] = {
 			["relativeTo"] = "UIParent",
@@ -332,6 +397,20 @@ BlizzMoveDB = {
 		["yOfs"] = 132.252243041992,
 		["xOfs"] = 93.9815368652344,
 		["point"] = "LEFT",
+=======
+	["WorldMapFrame"] = {
+		["default"] = {
+			["relativeTo"] = "WorldMapScreenAnchor",
+			["point"] = "TOPLEFT",
+			["relativePoint"] = "TOPLEFT",
+			["yOfs"] = 0,
+			["xOfs"] = 0,
+		},
+		["relativePoint"] = "CENTER",
+		["yOfs"] = 148.138473510742,
+		["xOfs"] = 42.3137855529785,
+		["point"] = "CENTER",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	},
 	["DressUpFrame"] = {
 		["default"] = {
@@ -344,6 +423,7 @@ BlizzMoveDB = {
 		["relativePoint"] = "TOPLEFT",
 		["yOfs"] = -162.101516723633,
 		["xOfs"] = 29.5202922821045,
+<<<<<<< HEAD
 		["save"] = true,
 		["point"] = "TOPLEFT",
 	},
@@ -353,6 +433,13 @@ BlizzMoveDB = {
 	},
 	["PVPFrame"] = {
 	},
+=======
+		["point"] = "TOPLEFT",
+		["save"] = true,
+	},
+	["TimeManagerFrame"] = {
+	},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	["LootFrame"] = {
 		["default"] = {
 			["yOfs"] = 502.999984875322,
@@ -363,8 +450,17 @@ BlizzMoveDB = {
 		["relativePoint"] = "CENTER",
 		["yOfs"] = 84.8830261230469,
 		["xOfs"] = -114.508117675781,
+<<<<<<< HEAD
 		["point"] = "CENTER",
 		["save"] = false,
+=======
+		["save"] = false,
+		["point"] = "CENTER",
+	},
+	["PVPFrame"] = {
+	},
+	["QuestLogPopupDetailFrame"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	},
 	["LookingForGuildFrame"] = {
 		["default"] = {
@@ -379,6 +475,7 @@ BlizzMoveDB = {
 		["xOfs"] = 52.846076965332,
 		["point"] = "TOP",
 	},
+<<<<<<< HEAD
 	["WorldMapFrame"] = {
 		["default"] = {
 			["relativeTo"] = "WorldMapScreenAnchor",
@@ -396,10 +493,14 @@ BlizzMoveDB = {
 		["save"] = true,
 	},
 	["GossipFrame"] = {
+=======
+	["MerchantFrame"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["default"] = {
 			["relativeTo"] = "UIParent",
 			["point"] = "TOPLEFT",
 			["relativePoint"] = "TOPLEFT",
+<<<<<<< HEAD
 			["yOfs"] = -115.999994809479,
 			["xOfs"] = 16.000001221299,
 		},
@@ -413,10 +514,24 @@ BlizzMoveDB = {
 	["EncounterJournal"] = {
 	},
 	["QuestFrame"] = {
+=======
+			["yOfs"] = -115.999992370605,
+			["xOfs"] = 16.0000019073486,
+		},
+		["relativePoint"] = "LEFT",
+		["yOfs"] = 132.252243041992,
+		["xOfs"] = 93.9815368652344,
+		["point"] = "LEFT",
+	},
+	["TransmogrifyFrame"] = {
+	},
+	["FriendsFrame"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["default"] = {
 			["relativeTo"] = "UIParent",
 			["point"] = "TOPLEFT",
 			["relativePoint"] = "TOPLEFT",
+<<<<<<< HEAD
 			["yOfs"] = -115.999994809479,
 			["xOfs"] = 16.000001221299,
 		},
@@ -425,6 +540,22 @@ BlizzMoveDB = {
 		["xOfs"] = 100.786358164928,
 		["point"] = "TOPLEFT",
 	},
+=======
+			["yOfs"] = -116.000002086163,
+			["xOfs"] = 16,
+		},
+		["relativePoint"] = "TOPLEFT",
+		["yOfs"] = -134.904693603516,
+		["xOfs"] = 26.6338710784912,
+		["point"] = "TOPLEFT",
+	},
+	["GuildFrame"] = {
+	},
+	["EncounterJournal"] = {
+	},
+	["ArchaeologyFrame"] = {
+	},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	["HelpFrame"] = {
 		["default"] = {
 			["relativeTo"] = "UIParent",

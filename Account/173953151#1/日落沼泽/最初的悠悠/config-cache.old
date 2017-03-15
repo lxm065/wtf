@@ -9,7 +9,11 @@ SET lockedWorldMap "0"
 SET cameraSavedDistance "28.500000"
 SET cameraSavedVehicleDistance "50.000000"
 SET cameraSavedPetBattleDistance "15.000"
+<<<<<<< HEAD
 SET cameraSavedPitch "20.307280"
+=======
+SET cameraSavedPitch "22.424051"
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 SET nameplateShowEnemies "0"
 SET playerStatLeftDropdown "PLAYERSTAT_MELEE_COMBAT"
 SET playerStatRightDropdown "PLAYERSTAT_DEFENSES"

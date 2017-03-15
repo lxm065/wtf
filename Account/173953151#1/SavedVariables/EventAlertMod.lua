@@ -90,13 +90,21 @@ EA_Items = {
 		[48707] = {
 			["enable"] = true,
 		},
+<<<<<<< HEAD
 		[96171] = {
+=======
+		[81141] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["enable"] = true,
 		},
 		[51124] = {
 			["enable"] = true,
 		},
+<<<<<<< HEAD
 		[81141] = {
+=======
+		[96171] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["enable"] = true,
 		},
 		[49039] = {
@@ -165,7 +173,11 @@ EA_Items = {
 		[122510] = {
 			["enable"] = true,
 		},
+<<<<<<< HEAD
 		[32216] = {
+=======
+		[46916] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["enable"] = true,
 		},
 		[131116] = {
@@ -178,7 +190,11 @@ EA_Items = {
 			["enable"] = true,
 			["stack"] = 3,
 		},
+<<<<<<< HEAD
 		[46916] = {
+=======
+		[32216] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["enable"] = true,
 		},
 	},
@@ -227,10 +243,17 @@ EA_Items = {
 		[79683] = {
 			["enable"] = true,
 		},
+<<<<<<< HEAD
 		[48108] = {
 			["enable"] = true,
 		},
 		[87023] = {
+=======
+		[87023] = {
+			["enable"] = true,
+		},
+		[48108] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["enable"] = true,
 		},
 	},
@@ -347,10 +370,17 @@ EA_Items = {
 		[82705] = {
 			["enable"] = true,
 		},
+<<<<<<< HEAD
 		[92222] = {
 			["enable"] = true,
 		},
 		[89091] = {
+=======
+		[89091] = {
+			["enable"] = true,
+		},
+		[92222] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["enable"] = true,
 		},
 		[88518] = {
@@ -440,22 +470,37 @@ EA_Items = {
 		[177668] = {
 			["enable"] = true,
 		},
+<<<<<<< HEAD
 		[3045] = {
 			["enable"] = true,
 		},
 		[19615] = {
+=======
+		[19263] = {
+			["enable"] = true,
+		},
+		[136] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["enable"] = true,
 		},
 		[19574] = {
 			["enable"] = true,
 		},
+<<<<<<< HEAD
 		[19263] = {
+=======
+		[3045] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["enable"] = true,
 		},
 		[168980] = {
 			["enable"] = true,
 		},
+<<<<<<< HEAD
 		[136] = {
+=======
+		[19615] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["enable"] = true,
 		},
 	},
@@ -603,7 +648,11 @@ EA_TarItems = {
 			["enable"] = true,
 			["self"] = false,
 		},
+<<<<<<< HEAD
 		[12654] = {
+=======
+		[31589] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["enable"] = true,
 			["self"] = true,
 		},
@@ -619,7 +668,11 @@ EA_TarItems = {
 			["enable"] = true,
 			["self"] = true,
 		},
+<<<<<<< HEAD
 		[31589] = {
+=======
+		[12654] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["enable"] = true,
 			["self"] = true,
 		},
@@ -651,7 +704,11 @@ EA_TarItems = {
 			["enable"] = true,
 			["self"] = true,
 		},
+<<<<<<< HEAD
 		[224509] = {
+=======
+		[206491] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["enable"] = true,
 			["self"] = false,
 		},
@@ -667,7 +724,11 @@ EA_TarItems = {
 			["enable"] = true,
 			["self"] = false,
 		},
+<<<<<<< HEAD
 		[206491] = {
+=======
+		[224509] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["enable"] = true,
 			["self"] = false,
 		},
@@ -731,14 +792,24 @@ EA_TarItems = {
 			["enable"] = true,
 			["self"] = false,
 		},
+<<<<<<< HEAD
 		[117737] = {
 			["enable"] = true,
 			["self"] = false,
 		},
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		[93402] = {
 			["enable"] = true,
 			["self"] = true,
 		},
+<<<<<<< HEAD
+=======
+		[117737] = {
+			["enable"] = true,
+			["self"] = false,
+		},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		[126958] = {
 			["enable"] = true,
 			["self"] = false,
@@ -849,16 +920,27 @@ EA_ScdItems = {
 		[204596] = {
 			["enable"] = false,
 		},
+<<<<<<< HEAD
 		[218256] = {
 			["enable"] = false,
 		},
 		[195072] = {
+=======
+		[204021] = {
+			["enable"] = false,
+		},
+		[187827] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["enable"] = false,
 		},
 		[185245] = {
 			["enable"] = false,
 		},
+<<<<<<< HEAD
 		[187827] = {
+=======
+		[195072] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["enable"] = false,
 		},
 		[162794] = {
@@ -867,7 +949,11 @@ EA_ScdItems = {
 		[204157] = {
 			["enable"] = false,
 		},
+<<<<<<< HEAD
 		[204021] = {
+=======
+		[218256] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["enable"] = false,
 		},
 		[203720] = {
@@ -880,16 +966,27 @@ EA_ScdItems = {
 	["DEATHKNIGHT"] = {
 	},
 	["DRUID"] = {
+<<<<<<< HEAD
 		[78674] = {
+=======
+		[48438] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["enable"] = false,
 		},
 		[29166] = {
 			["enable"] = false,
 		},
+<<<<<<< HEAD
 		[18562] = {
 			["enable"] = false,
 		},
 		[48438] = {
+=======
+		[78674] = {
+			["enable"] = false,
+		},
+		[18562] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["enable"] = false,
 		},
 	},
@@ -1238,6 +1335,7 @@ EA_GrpItems = {
 								}, -- [1]
 								{
 									["SubCheckResult"] = false,
+<<<<<<< HEAD
 									["EventType"] = "UNIT_AURA",
 									["StackLessThanValue"] = 2,
 									["SubCheckAndOp"] = false,
@@ -1245,6 +1343,15 @@ EA_GrpItems = {
 									["CastByPlayer"] = true,
 									["StackCompType"] = 2,
 									["UnitType"] = "target",
+=======
+									["CheckAuraExist"] = 33745,
+									["UnitType"] = "target",
+									["SubCheckAndOp"] = false,
+									["EventType"] = "UNIT_AURA",
+									["CastByPlayer"] = true,
+									["StackCompType"] = 2,
+									["StackLessThanValue"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["TimeLessThanValue"] = 3,
@@ -1253,8 +1360,13 @@ EA_GrpItems = {
 									["SubCheckAndOp"] = false,
 									["SubCheckResult"] = false,
 									["CastByPlayer"] = true,
+<<<<<<< HEAD
 									["CheckAuraExist"] = 33745,
 									["EventType"] = "UNIT_AURA",
+=======
+									["EventType"] = "UNIT_AURA",
+									["CheckAuraExist"] = 33745,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [3]
 							},
 							["CheckResult"] = false,
@@ -1298,8 +1410,13 @@ EA_GrpItems = {
 									["UnitType"] = "player",
 									["SubCheckAndOp"] = true,
 									["SubCheckResult"] = false,
+<<<<<<< HEAD
 									["CheckAuraExist"] = 80951,
 									["EventType"] = "UNIT_AURA",
+=======
+									["EventType"] = "UNIT_AURA",
+									["CheckAuraExist"] = 80951,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["SubCheckResult"] = false,

@@ -4,7 +4,11 @@ SET assistAttack "1"
 SET autoQuestPopUps "v##$"
 SET trackedQuests "v'e)'fA#ms#n+&HP'Jv"
 SET hardTrackedQuests "v"
+<<<<<<< HEAD
 SET trackedWorldQuests "v'kW"
+=======
+SET trackedWorldQuests "v"
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 SET hardTrackedWorldQuests "v"
 SET trackedAchievements "v"
 SET lockedWorldMap "0"
@@ -12,7 +16,11 @@ SET showPartyPets "1"
 SET cameraSavedDistance "28.500000"
 SET cameraSavedVehicleDistance "50.000000"
 SET cameraSavedPetBattleDistance "15.000"
+<<<<<<< HEAD
 SET cameraSavedPitch "52.853477"
+=======
+SET cameraSavedPitch "28.654301"
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 SET talentPointsSpent "1"
 SET guildRosterView "playerStatus"
 SET currencyCategoriesCollapsed "v"

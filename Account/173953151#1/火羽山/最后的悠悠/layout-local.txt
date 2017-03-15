@@ -1,4 +1,5 @@
 Version: 1
+<<<<<<< HEAD
 Frame: TomTomCrazyArrow
 FrameLevel: 1
 Anchor: LEFT
@@ -13,6 +14,8 @@ X: -76
 Y: 218
 W: 230
 H: 285
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: GridLayoutFrame
 FrameLevel: 0
 Anchor: LEFT
@@ -20,6 +23,16 @@ X: 26
 Y: -109
 W: 72
 H: 68
+<<<<<<< HEAD
+=======
+Frame: TomTomCrazyArrow
+FrameLevel: 1
+Anchor: LEFT
+X: 77
+Y: -183
+W: 56
+H: 42
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: RaidAlerter_Attack_Frame
 FrameLevel: 1
 Anchor: TOP
@@ -55,6 +68,16 @@ X: -59
 Y: 149
 W: 232
 H: 100
+<<<<<<< HEAD
+=======
+Frame: LootFrame
+FrameLevel: 11
+Anchor: CENTER
+X: -95
+Y: -34
+W: 170
+H: 240
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: DuowanConfigFrame
 FrameLevel: 12
 Anchor: CENTER
@@ -83,6 +106,7 @@ X: 228
 Y: 100
 W: 560
 H: 650
+<<<<<<< HEAD
 Frame: _NPCScanButton
 FrameLevel: 1
 Anchor: TOP
@@ -97,6 +121,8 @@ X: 52
 Y: 5
 W: 170
 H: 240
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: CombuctorFrameinventory
 FrameLevel: 1
 Anchor: RIGHT
@@ -104,3 +130,13 @@ X: -156
 Y: 82
 W: 384
 H: 512
+<<<<<<< HEAD
+=======
+Frame: _NPCScanButton
+FrameLevel: 1
+Anchor: TOP
+X: 0
+Y: -90
+W: 150
+H: 42
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53

@@ -1,6 +1,10 @@
 SET autoLootDefault "1"
 SET autoQuestPopUps "v##$"
+<<<<<<< HEAD
 SET trackedQuests "v'Jp#ms&HP&I='Us'\}'f?'fA'wg'wh"
+=======
+SET trackedQuests "v'wg'wh'\}'f?'Us'fA#ms&HP&I="
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 SET hardTrackedQuests "v"
 SET trackedWorldQuests "v"
 SET hardTrackedWorldQuests "v"
@@ -8,7 +12,11 @@ SET trackedAchievements "v"
 SET showPartyPets "1"
 SET cameraSavedDistance "28.500000"
 SET cameraSavedPetBattleDistance "15.000"
+<<<<<<< HEAD
 SET cameraSavedPitch "20.870247"
+=======
+SET cameraSavedPitch "35.196205"
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 SET currencyCategoriesCollapsed "v"
 SET showTokenFrame "1"
 SET lfgSelectedRoles "8"

@@ -20,6 +20,16 @@ X: 37
 Y: -236
 W: 160
 H: 28
+<<<<<<< HEAD
+=======
+Frame: RematchPetCard
+FrameLevel: 1
+Anchor: CENTER
+X: -293
+Y: -73
+W: 260
+H: 428
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: WhisperPopFrame
 FrameLevel: 1
 Anchor: LEFT
@@ -41,6 +51,7 @@ X: -210
 Y: -163
 W: 31
 H: 31
+<<<<<<< HEAD
 Frame: RematchDialog
 FrameLevel: 1
 Anchor: BOTTOM
@@ -55,6 +66,8 @@ X: 240
 Y: 143
 W: 260
 H: 416
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: CombuctorFrameinventory
 FrameLevel: 1
 Anchor: RIGHT

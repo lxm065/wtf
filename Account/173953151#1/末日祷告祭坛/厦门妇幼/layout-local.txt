@@ -1,4 +1,14 @@
 Version: 1
+<<<<<<< HEAD
+=======
+Frame: GridLayoutFrame
+FrameLevel: 0
+Anchor: LEFT
+X: 62
+Y: -61
+W: 72
+H: 68
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: BMHelperAuraRightFrame
 FrameLevel: 1
 Anchor: BOTTOM
@@ -13,6 +23,7 @@ X: 0
 Y: 165
 W: 300
 H: 150
+<<<<<<< HEAD
 Frame: GridLayoutFrame
 FrameLevel: 0
 Anchor: LEFT
@@ -20,6 +31,8 @@ X: 62
 Y: -61
 W: 72
 H: 68
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: SpellTimerMainFrame
 FrameLevel: 1
 Anchor: RIGHT
@@ -48,6 +61,7 @@ X: 20
 Y: -114
 W: 165
 H: 262
+<<<<<<< HEAD
 Frame: _NPCScanButton
 FrameLevel: 1
 Anchor: TOP
@@ -55,6 +69,8 @@ X: 0
 Y: -90
 W: 150
 H: 42
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: DBMMinimapButton
 FrameLevel: 8
 Anchor: TOPRIGHT
@@ -64,8 +80,23 @@ W: 31
 H: 31
 Frame: CombuctorFrameinventory
 FrameLevel: 1
+<<<<<<< HEAD
 Anchor: BOTTOM
 X: -77
 Y: 56
 W: 345
 H: 480
+=======
+Anchor: RIGHT
+X: -259
+Y: -165
+W: 345
+H: 480
+Frame: _NPCScanButton
+FrameLevel: 1
+Anchor: TOP
+X: 0
+Y: -90
+W: 150
+H: 42
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53

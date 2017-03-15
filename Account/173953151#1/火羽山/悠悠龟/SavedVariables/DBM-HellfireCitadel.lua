@@ -1,15 +1,26 @@
 
 DBMHellfireCitadel_SavedStats = {
+<<<<<<< HEAD
 	["1396"] = {
 		["mythicBestTime"] = 27.75,
 		["normalPulls"] = 0,
 		["challengeKills"] = 0,
 		["mythicPulls"] = 2,
 		["mythicKills"] = 2,
+=======
+	["1438"] = {
+		["heroicLastTime"] = 327.599999999999,
+		["mythicBestTime"] = 46.0439999999999,
+		["normalPulls"] = 0,
+		["challengeKills"] = 0,
+		["normal25Kills"] = 0,
+		["mythicKills"] = 8,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["lfr25Kills"] = 0,
 		["heroic25Pulls"] = 0,
 		["lfr25Pulls"] = 0,
 		["normal25Pulls"] = 0,
+<<<<<<< HEAD
 		["normalKills"] = 0,
 		["mythicLastTime"] = 27.75,
 		["heroic25Kills"] = 0,
@@ -27,11 +38,31 @@ DBMHellfireCitadel_SavedStats = {
 		["challengeKills"] = 0,
 		["mythicPulls"] = 2,
 		["mythicKills"] = 2,
+=======
+		["mythicLastTime"] = 60.6410000000005,
+		["normalKills"] = 0,
+		["heroicBestTime"] = 327.599999999999,
+		["heroic25Kills"] = 0,
+		["timewalkerPulls"] = 0,
+		["heroicKills"] = 1,
+		["heroicPulls"] = 2,
+		["mythicPulls"] = 8,
+		["timewalkerKills"] = 0,
+		["challengeBestRank"] = 0,
+		["challengePulls"] = 0,
+	},
+	["HellfireCitadelTrash"] = {
+		["normalPulls"] = 0,
+		["challengeKills"] = 0,
+		["mythicPulls"] = 0,
+		["mythicKills"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["lfr25Kills"] = 0,
 		["heroic25Pulls"] = 0,
 		["lfr25Pulls"] = 0,
 		["normal25Pulls"] = 0,
 		["normalKills"] = 0,
+<<<<<<< HEAD
 		["mythicLastTime"] = 27.1549999999988,
 		["heroic25Kills"] = 0,
 		["challengeBestRank"] = 0,
@@ -44,6 +75,19 @@ DBMHellfireCitadel_SavedStats = {
 	},
 	["1447"] = {
 		["mythicBestTime"] = 28.7619999999988,
+=======
+		["heroic25Kills"] = 0,
+		["challengeBestRank"] = 0,
+		["heroicKills"] = 0,
+		["timewalkerPulls"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["normal25Kills"] = 0,
+		["challengePulls"] = 0,
+	},
+	["1394"] = {
+		["mythicBestTime"] = 47.8559999999998,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["normalPulls"] = 0,
 		["challengeKills"] = 0,
 		["mythicPulls"] = 2,
@@ -53,6 +97,7 @@ DBMHellfireCitadel_SavedStats = {
 		["lfr25Pulls"] = 0,
 		["normal25Pulls"] = 0,
 		["normalKills"] = 0,
+<<<<<<< HEAD
 		["mythicLastTime"] = 29.9080000000031,
 		["heroic25Kills"] = 0,
 		["challengeBestRank"] = 0,
@@ -61,6 +106,16 @@ DBMHellfireCitadel_SavedStats = {
 		["heroicPulls"] = 0,
 		["timewalkerKills"] = 0,
 		["timewalkerPulls"] = 0,
+=======
+		["mythicLastTime"] = 47.8559999999998,
+		["heroic25Kills"] = 0,
+		["heroicKills"] = 0,
+		["timewalkerPulls"] = 0,
+		["normal25Kills"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["challengeBestRank"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["challengePulls"] = 0,
 	},
 	["1391"] = {
@@ -76,12 +131,21 @@ DBMHellfireCitadel_SavedStats = {
 		["normalKills"] = 0,
 		["mythicLastTime"] = 23.9509999999973,
 		["heroic25Kills"] = 0,
+<<<<<<< HEAD
 		["challengeBestRank"] = 0,
 		["heroicKills"] = 0,
 		["normal25Kills"] = 0,
 		["heroicPulls"] = 0,
 		["timewalkerKills"] = 0,
 		["timewalkerPulls"] = 0,
+=======
+		["heroicKills"] = 0,
+		["timewalkerPulls"] = 0,
+		["normal25Kills"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["challengeBestRank"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["challengePulls"] = 0,
 	},
 	["1425"] = {
@@ -92,6 +156,7 @@ DBMHellfireCitadel_SavedStats = {
 		["mythicKills"] = 2,
 		["lfr25Kills"] = 2,
 		["heroic25Pulls"] = 0,
+<<<<<<< HEAD
 		["lfr25BestTime"] = 249.161999999997,
 		["lfr25Pulls"] = 2,
 		["normal25Pulls"] = 0,
@@ -126,6 +191,40 @@ DBMHellfireCitadel_SavedStats = {
 		["heroicKills"] = 0,
 		["heroicPulls"] = 0,
 		["timewalkerPulls"] = 0,
+=======
+		["challengePulls"] = 0,
+		["lfr25Pulls"] = 2,
+		["normal25Pulls"] = 0,
+		["challengeBestRank"] = 0,
+		["normalKills"] = 0,
+		["lfr25LastTime"] = 249.161999999997,
+		["heroic25Kills"] = 0,
+		["heroicKills"] = 0,
+		["timewalkerPulls"] = 0,
+		["heroicPulls"] = 0,
+		["mythicPulls"] = 2,
+		["timewalkerKills"] = 0,
+		["mythicLastTime"] = 21.8410000000004,
+		["lfr25BestTime"] = 249.161999999997,
+	},
+	["1372"] = {
+		["mythicBestTime"] = 47.4160000000011,
+		["normalPulls"] = 0,
+		["challengeKills"] = 0,
+		["mythicPulls"] = 2,
+		["mythicKills"] = 2,
+		["lfr25Kills"] = 0,
+		["heroic25Pulls"] = 0,
+		["lfr25Pulls"] = 0,
+		["normal25Pulls"] = 0,
+		["normalKills"] = 0,
+		["mythicLastTime"] = 47.4160000000011,
+		["heroic25Kills"] = 0,
+		["heroicKills"] = 0,
+		["timewalkerPulls"] = 0,
+		["normal25Kills"] = 0,
+		["heroicPulls"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["timewalkerKills"] = 0,
 		["challengeBestRank"] = 0,
 		["challengePulls"] = 0,
@@ -143,12 +242,21 @@ DBMHellfireCitadel_SavedStats = {
 		["normalKills"] = 0,
 		["mythicLastTime"] = 45.1049999999996,
 		["heroic25Kills"] = 0,
+<<<<<<< HEAD
 		["challengeBestRank"] = 0,
 		["heroicKills"] = 0,
 		["normal25Kills"] = 0,
 		["heroicPulls"] = 0,
 		["timewalkerKills"] = 0,
 		["timewalkerPulls"] = 0,
+=======
+		["heroicKills"] = 0,
+		["timewalkerPulls"] = 0,
+		["normal25Kills"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["challengeBestRank"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["challengePulls"] = 0,
 	},
 	["1433"] = {
@@ -164,6 +272,7 @@ DBMHellfireCitadel_SavedStats = {
 		["normalKills"] = 0,
 		["mythicLastTime"] = 128.598999999998,
 		["heroic25Kills"] = 0,
+<<<<<<< HEAD
 		["challengeBestRank"] = 0,
 		["heroicKills"] = 0,
 		["normal25Kills"] = 0,
@@ -174,6 +283,18 @@ DBMHellfireCitadel_SavedStats = {
 	},
 	["1394"] = {
 		["mythicBestTime"] = 47.8559999999998,
+=======
+		["heroicKills"] = 0,
+		["timewalkerPulls"] = 0,
+		["normal25Kills"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["challengeBestRank"] = 0,
+		["challengePulls"] = 0,
+	},
+	["1447"] = {
+		["mythicBestTime"] = 28.7619999999988,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["normalPulls"] = 0,
 		["challengeKills"] = 0,
 		["mythicPulls"] = 2,
@@ -183,6 +304,7 @@ DBMHellfireCitadel_SavedStats = {
 		["lfr25Pulls"] = 0,
 		["normal25Pulls"] = 0,
 		["normalKills"] = 0,
+<<<<<<< HEAD
 		["mythicLastTime"] = 47.8559999999998,
 		["heroic25Kills"] = 0,
 		["challengeBestRank"] = 0,
@@ -191,6 +313,16 @@ DBMHellfireCitadel_SavedStats = {
 		["heroicPulls"] = 0,
 		["timewalkerKills"] = 0,
 		["timewalkerPulls"] = 0,
+=======
+		["mythicLastTime"] = 29.9080000000031,
+		["heroic25Kills"] = 0,
+		["heroicKills"] = 0,
+		["timewalkerPulls"] = 0,
+		["normal25Kills"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["challengeBestRank"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["challengePulls"] = 0,
 	},
 	["1395"] = {
@@ -206,6 +338,7 @@ DBMHellfireCitadel_SavedStats = {
 		["normalKills"] = 0,
 		["mythicLastTime"] = 45.5659999999998,
 		["heroic25Kills"] = 0,
+<<<<<<< HEAD
 		["challengeBestRank"] = 0,
 		["heroicKills"] = 0,
 		["normal25Kills"] = 0,
@@ -236,6 +369,38 @@ DBMHellfireCitadel_SavedStats = {
 		["timewalkerKills"] = 0,
 		["heroicBestTime"] = 327.599999999999,
 		["challengePulls"] = 0,
+=======
+		["heroicKills"] = 0,
+		["timewalkerPulls"] = 0,
+		["normal25Kills"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["challengeBestRank"] = 0,
+		["challengePulls"] = 0,
+	},
+	["1432"] = {
+		["mythicBestTime"] = 67.1820000000007,
+		["normalPulls"] = 0,
+		["challengeKills"] = 0,
+		["normal25Kills"] = 0,
+		["mythicKills"] = 2,
+		["lfr25Kills"] = 1,
+		["heroic25Pulls"] = 0,
+		["challengePulls"] = 0,
+		["lfr25Pulls"] = 1,
+		["normal25Pulls"] = 0,
+		["challengeBestRank"] = 0,
+		["normalKills"] = 0,
+		["lfr25LastTime"] = 342.868000000002,
+		["heroic25Kills"] = 0,
+		["heroicKills"] = 0,
+		["timewalkerPulls"] = 0,
+		["heroicPulls"] = 0,
+		["mythicPulls"] = 2,
+		["timewalkerKills"] = 0,
+		["mythicLastTime"] = 67.1820000000007,
+		["lfr25BestTime"] = 342.868000000002,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	},
 	["1426"] = {
 		["mythicBestTime"] = 384.511000000002,
@@ -245,6 +410,7 @@ DBMHellfireCitadel_SavedStats = {
 		["mythicKills"] = 2,
 		["lfr25Kills"] = 2,
 		["heroic25Pulls"] = 0,
+<<<<<<< HEAD
 		["challengePulls"] = 0,
 		["lfr25Pulls"] = 2,
 		["normal25Pulls"] = 0,
@@ -265,11 +431,35 @@ DBMHellfireCitadel_SavedStats = {
 		["challengeKills"] = 0,
 		["mythicPulls"] = 0,
 		["mythicKills"] = 0,
+=======
+		["lfr25BestTime"] = 301.679,
+		["lfr25Pulls"] = 2,
+		["normal25Pulls"] = 0,
+		["challengeBestRank"] = 0,
+		["normalKills"] = 0,
+		["normal25Kills"] = 0,
+		["heroic25Kills"] = 0,
+		["heroicKills"] = 0,
+		["timewalkerPulls"] = 0,
+		["heroicPulls"] = 0,
+		["lfr25LastTime"] = 301.679,
+		["timewalkerKills"] = 0,
+		["mythicLastTime"] = 385.698,
+		["challengePulls"] = 0,
+	},
+	["1392"] = {
+		["mythicBestTime"] = 27.1549999999988,
+		["normalPulls"] = 0,
+		["challengeKills"] = 0,
+		["mythicPulls"] = 2,
+		["mythicKills"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["lfr25Kills"] = 0,
 		["heroic25Pulls"] = 0,
 		["lfr25Pulls"] = 0,
 		["normal25Pulls"] = 0,
 		["normalKills"] = 0,
+<<<<<<< HEAD
 		["heroic25Kills"] = 0,
 		["challengeBestRank"] = 0,
 		["heroicKills"] = 0,
@@ -281,6 +471,20 @@ DBMHellfireCitadel_SavedStats = {
 	},
 	["1372"] = {
 		["mythicBestTime"] = 47.4160000000011,
+=======
+		["mythicLastTime"] = 27.1549999999988,
+		["heroic25Kills"] = 0,
+		["heroicKills"] = 0,
+		["timewalkerPulls"] = 0,
+		["normal25Kills"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["challengeBestRank"] = 0,
+		["challengePulls"] = 0,
+	},
+	["1396"] = {
+		["mythicBestTime"] = 27.75,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["normalPulls"] = 0,
 		["challengeKills"] = 0,
 		["mythicPulls"] = 2,
@@ -290,6 +494,7 @@ DBMHellfireCitadel_SavedStats = {
 		["lfr25Pulls"] = 0,
 		["normal25Pulls"] = 0,
 		["normalKills"] = 0,
+<<<<<<< HEAD
 		["mythicLastTime"] = 47.4160000000011,
 		["heroic25Kills"] = 0,
 		["challengeBestRank"] = 0,
@@ -298,6 +503,16 @@ DBMHellfireCitadel_SavedStats = {
 		["heroicPulls"] = 0,
 		["timewalkerKills"] = 0,
 		["timewalkerPulls"] = 0,
+=======
+		["mythicLastTime"] = 27.75,
+		["heroic25Kills"] = 0,
+		["heroicKills"] = 0,
+		["timewalkerPulls"] = 0,
+		["normal25Kills"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["challengeBestRank"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["challengePulls"] = 0,
 	},
 }

@@ -8,7 +8,11 @@ SET trackedAchievements "v"
 SET showPartyPets "1"
 SET cameraSavedDistance "28.480038"
 SET cameraSavedPetBattleDistance "15.000"
+<<<<<<< HEAD
 SET cameraSavedPitch "30.505999"
+=======
+SET cameraSavedPitch "37.106030"
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 SET nameplateShowFriends "1"
 SET talentPointsSpent "1"
 SET currencyCategoriesCollapsed "v"

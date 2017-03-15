@@ -4,7 +4,11 @@ SET assistAttack "1"
 SET autoQuestPopUps "v##$"
 SET trackedQuests "v'e)'fA#ms#n+&HP'Jv"
 SET hardTrackedQuests "v"
+<<<<<<< HEAD
 SET trackedWorldQuests "v"
+=======
+SET trackedWorldQuests "v'kW"
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 SET hardTrackedWorldQuests "v"
 SET trackedAchievements "v"
 SET lockedWorldMap "0"
@@ -12,7 +16,11 @@ SET showPartyPets "1"
 SET cameraSavedDistance "28.500000"
 SET cameraSavedVehicleDistance "50.000000"
 SET cameraSavedPetBattleDistance "15.000"
+<<<<<<< HEAD
 SET cameraSavedPitch "33.503395"
+=======
+SET cameraSavedPitch "52.853477"
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 SET talentPointsSpent "1"
 SET guildRosterView "playerStatus"
 SET currencyCategoriesCollapsed "v"
@@ -34,6 +42,10 @@ SET closedInfoFrames "@eo~@rFO"
 SET dangerousShipyardMissionWarningAlreadyShown "1"
 SET EJLootClass "6"
 SET EJLootSpec "250"
+<<<<<<< HEAD
 SET EJRaidDifficulty "16"
+=======
+SET EJRaidDifficulty "1"
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 SET EJDungeonDifficulty "1"
 SET splashScreenNormal "8"

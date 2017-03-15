@@ -39,7 +39,11 @@ SET environmentDetail "50.000000"
 SET terrainLodDist "250.000000"
 SET RAIDsettingsEnabled "1"
 SET realmName "丽丽 (四川)"
+<<<<<<< HEAD
 SET gameTip "13"
+=======
+SET gameTip "140"
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 SET mouseSpeed "1"
 SET ChatMusicVolume "0.29999998211861"
 SET ChatSoundVolume "0.39999997615814"
@@ -157,4 +161,7 @@ SET graphicsDepthEffects "1"
 SET graphicsLightingQuality "1"
 SET graphicsOutlineMode "1"
 SET expandUpgradePanel "0"
+<<<<<<< HEAD
 SET lastCharacterIndex "3"
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53

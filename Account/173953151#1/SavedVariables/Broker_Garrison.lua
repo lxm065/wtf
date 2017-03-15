@@ -1,5 +1,6 @@
 
 Broker_GarrisonDB = {
+<<<<<<< HEAD
 	["profileKeys"] = {
 		["悠悠龟 - 暗影裂口"] = "Default",
 		["悠悠战 - 末日祷告祭坛"] = "Default",
@@ -44,6 +45,8 @@ Broker_GarrisonDB = {
 		["悠悠龟 - 迦罗娜"] = "Default",
 		["最后的悠悠 - 迦罗娜"] = "Default",
 	},
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	["global"] = {
 		["data"] = {
 			["回音山"] = {
@@ -59,23 +62,38 @@ Broker_GarrisonDB = {
 					["buildingsExpanded"] = true,
 					["buildings"] = {
 					},
+<<<<<<< HEAD
 					["lootedNextReset"] = 1489618799,
 					["currencyApexisAmount"] = 0,
 					["order"] = 5,
+=======
+					["lootedNextReset"] = 1489445999,
+					["currencyApexisAmount"] = 0,
+					["notificationEnabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["trackWeekly"] = {
 					},
 					["info"] = {
 						["playerName"] = "弹弹堂一号",
 						["playerFaction"] = "Horde",
+<<<<<<< HEAD
 						["realmName"] = "回音山",
 						["playerClass"] = "WARRIOR",
+=======
+						["playerClass"] = "WARRIOR",
+						["realmName"] = "回音山",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					},
 					["trackDaily"] = {
 					},
 					["missionsExpanded"] = true,
 					["weeklyNextReset"] = 1489618799,
 					["currencyAmount"] = 0,
+<<<<<<< HEAD
 					["notificationEnabled"] = true,
+=======
+					["order"] = 5,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				},
 			},
 			["金色平原"] = {
@@ -96,14 +114,22 @@ Broker_GarrisonDB = {
 					["trackWeekly"] = {
 					},
 					["currencyApexisAmount"] = 0,
+<<<<<<< HEAD
 					["lootedNextReset"] = 1489618799,
 					["tooltipEnabled"] = true,
 					["weeklyNextReset"] = 1489618799,
 					["currencyOil"] = 0,
+=======
+					["missionsExpanded"] = true,
+					["tooltipEnabled"] = true,
+					["ldbEnabled"] = true,
+					["notificationEnabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["currencySealOfInevitableFateAmount"] = 0,
 					["info"] = {
 						["playerName"] = "悠悠乳",
 						["playerFaction"] = "Horde",
+<<<<<<< HEAD
 						["realmName"] = "金色平原",
 						["playerClass"] = "HUNTER",
 					},
@@ -113,6 +139,17 @@ Broker_GarrisonDB = {
 					["ldbEnabled"] = true,
 					["currencyAmount"] = 0,
 					["missionsExpanded"] = true,
+=======
+						["playerClass"] = "HUNTER",
+						["realmName"] = "金色平原",
+					},
+					["trackDaily"] = {
+					},
+					["currencyOil"] = 0,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				},
 			},
 			["冬拥湖"] = {
@@ -131,7 +168,11 @@ Broker_GarrisonDB = {
 					["buildingsExpanded"] = true,
 					["notificationEnabled"] = true,
 					["cacheSize"] = 500,
+<<<<<<< HEAD
 					["order"] = 5,
+=======
+					["currencyOil"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["currencyOrderResourcesAmount"] = 0,
 					["trackWeekly"] = {
 					},
@@ -150,10 +191,17 @@ Broker_GarrisonDB = {
 							["id"] = 365,
 							["researchCurrency"] = 1220,
 							["name"] = "奴役魔典",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[366] = {
 							["isBeingResearched"] = false,
@@ -169,10 +217,17 @@ Broker_GarrisonDB = {
 							["id"] = 366,
 							["researchCurrency"] = 1220,
 							["name"] = "恶魔祭品",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[367] = {
 							["isBeingResearched"] = false,
@@ -188,10 +243,17 @@ Broker_GarrisonDB = {
 							["id"] = 367,
 							["researchCurrency"] = 1220,
 							["name"] = "释放地狱火",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[368] = {
 							["isBeingResearched"] = false,
@@ -207,10 +269,17 @@ Broker_GarrisonDB = {
 							["id"] = 368,
 							["researchCurrency"] = 1220,
 							["name"] = "邪能传说",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[358] = {
 							["isBeingResearched"] = false,
@@ -226,10 +295,17 @@ Broker_GarrisonDB = {
 							["id"] = 358,
 							["researchCurrency"] = 1220,
 							["name"] = "黑暗交易",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[359] = {
 							["isBeingResearched"] = false,
@@ -256,11 +332,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "召唤末日守卫",
+<<<<<<< HEAD
 							["id"] = 359,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 359,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[360] = {
 							["isBeingResearched"] = false,
@@ -287,11 +371,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "召唤仪式",
+<<<<<<< HEAD
 							["id"] = 360,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 360,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[361] = {
 							["isBeingResearched"] = false,
@@ -318,11 +410,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "训练场",
+<<<<<<< HEAD
 							["id"] = 361,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["id"] = 361,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[362] = {
 							["isBeingResearched"] = false,
@@ -338,10 +438,17 @@ Broker_GarrisonDB = {
 							["id"] = 362,
 							["researchCurrency"] = 1220,
 							["name"] = "黑暗精通",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[363] = {
 							["isBeingResearched"] = false,
@@ -368,11 +475,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "恐怖收割",
+<<<<<<< HEAD
 							["id"] = 363,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 363,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[364] = {
 							["isBeingResearched"] = false,
@@ -388,19 +503,34 @@ Broker_GarrisonDB = {
 							["id"] = 364,
 							["researchCurrency"] = 1220,
 							["name"] = "暗影契约",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 					},
 					["looseShipments"] = {
 					},
+<<<<<<< HEAD
 					["currencyApexisAmount"] = 0,
 					["followerShipments"] = {
 					},
 					["currencyAncientManaAmount"] = 0,
 					["missionsExpanded"] = true,
+=======
+					["currencyAncientManaAmount"] = 0,
+					["followerShipments"] = {
+					},
+					["currencyApexisAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["currencyArtifactKnowledge"] = 0,
 					["currencySealOfInevitableFateAmount"] = 0,
 					["orderhallExpanded"] = true,
@@ -409,6 +539,7 @@ Broker_GarrisonDB = {
 					["info"] = {
 						["playerName"] = "悠悠龟",
 						["playerFaction"] = "Horde",
+<<<<<<< HEAD
 						["realmName"] = "冬拥湖",
 						["playerClass"] = "WARLOCK",
 					},
@@ -418,6 +549,17 @@ Broker_GarrisonDB = {
 					["weeklyNextReset"] = 1489618799,
 					["currencyAmount"] = 0,
 					["currencyOil"] = 0,
+=======
+						["playerClass"] = "WARLOCK",
+						["realmName"] = "冬拥湖",
+					},
+					["trackDaily"] = {
+					},
+					["missionsExpanded"] = true,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 0,
+					["order"] = 5,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				},
 			},
 			["迦罗娜"] = {
@@ -675,6 +817,7 @@ Broker_GarrisonDB = {
 					},
 					["configVersion"] = 3,
 					["missions"] = {
+<<<<<<< HEAD
 						[360] = {
 							["type"] = "战斗",
 							["statusComplete"] = true,
@@ -704,6 +847,31 @@ Broker_GarrisonDB = {
 									["name"] = "薇拉·海林",
 									["id"] = "0x00000000011547BE",
 									["iconId"] = 1066458,
+=======
+						[305] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "4小时",
+							["id"] = 305,
+							["rewards"] = {
+								{
+									["itemID"] = 120302,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "幽灵争斗者",
+							["followerTypeID"] = 1,
+							["start"] = 1488027769,
+							["followers"] = {
+								{
+									["name"] = "安哈克萨",
+									["id"] = "0x00000000011547AE",
+									["iconId"] = 1086435,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -711,6 +879,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 104,
 											["name"] = "闷棍",
 											["icon"] = 132310,
@@ -737,6 +906,34 @@ Broker_GarrisonDB = {
 									["name"] = "莫提娜",
 									["id"] = "0x00000000011547B1",
 									["iconId"] = 1066419,
+=======
+											["id"] = 148,
+											["name"] = "驱散魔法",
+											["icon"] = 135894,
+										}, -- [2]
+										{
+											["id"] = 41,
+											["name"] = "元素克星",
+											["icon"] = 254652,
+										}, -- [3]
+										{
+											["id"] = 10,
+											["name"] = "信仰飞跃",
+											["icon"] = 463835,
+										}, -- [4]
+										{
+											["id"] = 221,
+											["name"] = "史诗坐骑",
+											["icon"] = 631718,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [1]
+								{
+									["name"] = "勒斯特·碎怒",
+									["id"] = "0x00000000011547BA",
+									["iconId"] = 1066421,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -744,6 +941,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 100,
 											["name"] = "嘲讽",
 											["icon"] = 136080,
@@ -752,6 +950,16 @@ Broker_GarrisonDB = {
 											["id"] = 79,
 											["name"] = "拾荒者",
 											["icon"] = 413571,
+=======
+											["id"] = 121,
+											["name"] = "拳击",
+											["icon"] = 132938,
+										}, -- [2]
+										{
+											["id"] = 8,
+											["name"] = "冰冷血脉",
+											["icon"] = 236833,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [3]
 										{
 											["id"] = 120,
@@ -759,17 +967,29 @@ Broker_GarrisonDB = {
 											["icon"] = 132338,
 										}, -- [4]
 										{
+<<<<<<< HEAD
 											["id"] = 4,
 											["name"] = "兽人克星",
 											["icon"] = 897144,
+=======
+											["id"] = 39,
+											["name"] = "原兽克星",
+											["icon"] = 254105,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [5]
 									},
 									["classIcon"] = "GarrMission_ClassIcon-Warrior",
 								}, -- [2]
 								{
+<<<<<<< HEAD
 									["name"] = "卡蒂·草蹄",
 									["id"] = "0x00000000011547B7",
 									["iconId"] = 1066334,
+=======
+									["name"] = "赞提卡",
+									["id"] = "0x00000000011547BD",
+									["iconId"] = 1066223,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -782,9 +1002,15 @@ Broker_GarrisonDB = {
 											["icon"] = 136100,
 										}, -- [2]
 										{
+<<<<<<< HEAD
 											["id"] = 71,
 											["name"] = "死亡诱惑",
 											["icon"] = 236457,
+=======
+											["id"] = 42,
+											["name"] = "虚空克星",
+											["icon"] = 298680,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [3]
 										{
 											["id"] = 136,
@@ -792,15 +1018,22 @@ Broker_GarrisonDB = {
 											["icon"] = 236288,
 										}, -- [4]
 										{
+<<<<<<< HEAD
 											["id"] = 221,
 											["name"] = "史诗坐骑",
 											["icon"] = 631718,
+=======
+											["id"] = 37,
+											["name"] = "野兽克星",
+											["icon"] = 298659,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [5]
 									},
 									["classIcon"] = "GarrMission_ClassIcon-Druid",
 								}, -- [3]
 							},
 							["missionState"] = 0,
+<<<<<<< HEAD
 							["duration"] = 18000,
 						},
 						[665] = {
@@ -828,6 +1061,35 @@ Broker_GarrisonDB = {
 									["name"] = "库玛·雷鬃",
 									["id"] = "0x00000000011547B8",
 									["iconId"] = 1066272,
+=======
+							["duration"] = 14400,
+						},
+						[191] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "1小时",
+							["id"] = 191,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 42,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["level"] = 96,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "自然的烦恼",
+							["followerTypeID"] = 1,
+							["start"] = 1488027767,
+							["followers"] = {
+								{
+									["name"] = "霍米佳",
+									["id"] = "0x00000000011547B9",
+									["iconId"] = 1066275,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -835,6 +1097,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 182,
 											["name"] = "急奔",
 											["icon"] = 132120,
@@ -853,10 +1116,31 @@ Broker_GarrisonDB = {
 											["id"] = 69,
 											["name"] = "酒鬼",
 											["icon"] = 626190,
+=======
+											["id"] = 134,
+											["name"] = "纠缠根须",
+											["icon"] = 136100,
+										}, -- [2]
+										{
+											["id"] = 9,
+											["name"] = "废土行者",
+											["icon"] = 236846,
+										}, -- [3]
+										{
+											["id"] = 132,
+											["name"] = "树皮术",
+											["icon"] = 136097,
+										}, -- [4]
+										{
+											["id"] = 41,
+											["name"] = "元素克星",
+											["icon"] = 254652,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [5]
 									},
 									["classIcon"] = "GarrMission_ClassIcon-Druid",
 								}, -- [1]
+<<<<<<< HEAD
 								{
 									["name"] = "卡萨·凋蹄",
 									["id"] = "0x00000000011547AF",
@@ -985,6 +1269,43 @@ Broker_GarrisonDB = {
 									["name"] = "苏兹",
 									["id"] = "0x00000000011547BC",
 									["iconId"] = 1066389,
+=======
+							},
+							["missionState"] = 0,
+							["duration"] = 3600,
+						},
+						[214] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "2小时",
+							["id"] = 214,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 1500,
+									["tooltip"] = "+1,500经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+1,500经验值",
+								}, -- [1]
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 275,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [2]
+							},
+							["level"] = 99,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "逃出生天",
+							["followerTypeID"] = 1,
+							["start"] = 1488027753,
+							["followers"] = {
+								{
+									["name"] = "托尔加",
+									["id"] = "0x00000000011547B6",
+									["iconId"] = 1086410,
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -992,6 +1313,41 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+											["id"] = 142,
+											["name"] = "真气波",
+											["icon"] = 606541,
+										}, -- [2]
+										{
+											["id"] = 75,
+											["name"] = "经济学家",
+											["icon"] = 632354,
+										}, -- [3]
+										{
+											["id"] = 145,
+											["name"] = "清创生血",
+											["icon"] = 460692,
+										}, -- [4]
+										{
+											["id"] = 7,
+											["name"] = "登山家",
+											["icon"] = 236848,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+								}, -- [1]
+								{
+									["name"] = "莫提娜",
+									["id"] = "0x00000000011547B1",
+									["iconId"] = 1066419,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+<<<<<<< HEAD
 											["id"] = 156,
 											["name"] = "幽魂之狼",
 											["icon"] = 136095,
@@ -1018,6 +1374,34 @@ Broker_GarrisonDB = {
 									["name"] = "阿瓦丽·唤焰",
 									["id"] = "0x00000000011547B5",
 									["iconId"] = 1086389,
+=======
+											["id"] = 100,
+											["name"] = "嘲讽",
+											["icon"] = 136080,
+										}, -- [2]
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [3]
+										{
+											["id"] = 120,
+											["name"] = "顺劈斩",
+											["icon"] = 132338,
+										}, -- [4]
+										{
+											["id"] = 4,
+											["name"] = "兽人克星",
+											["icon"] = 897144,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+								}, -- [2]
+								{
+									["name"] = "贾卡玛",
+									["id"] = "0x00000000011547B3",
+									["iconId"] = 1066284,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -1025,6 +1409,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 173,
 											["name"] = "时间扭曲",
 											["icon"] = 458224,
@@ -1110,6 +1495,118 @@ Broker_GarrisonDB = {
 									["name"] = "赞提卡",
 									["id"] = "0x00000000011547BD",
 									["iconId"] = 1066223,
+=======
+											["id"] = 138,
+											["name"] = "狂暴",
+											["icon"] = 236149,
+										}, -- [2]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [3]
+										{
+											["id"] = 132,
+											["name"] = "树皮术",
+											["icon"] = 136097,
+										}, -- [4]
+										{
+											["id"] = 49,
+											["name"] = "平原旅人",
+											["icon"] = 236712,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 7200,
+						},
+						[278] = {
+							["type"] = "寻宝",
+							["typeAtlas"] = "GarrMission_MissionIcon-Trading",
+							["timeLeft"] = "1小时",
+							["id"] = 278,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 50,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["level"] = 93,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "汽痕强盗",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["followers"] = {
+								{
+									["name"] = "布鲁托",
+									["id"] = "0x00000000011547AB",
+									["iconId"] = 1066096,
+									["abilities"] = {
+										{
+											["id"] = 140,
+											["name"] = "嚎镇八方",
+											["icon"] = 620830,
+										}, -- [1]
+										{
+											["id"] = 41,
+											["name"] = "元素克星",
+											["icon"] = 254652,
+										}, -- [2]
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [3]
+										{
+											["id"] = 147,
+											["name"] = "切喉手",
+											["icon"] = 608940,
+										}, -- [4]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 3600,
+						},
+						[245] = {
+							["type"] = "巡逻",
+							["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+							["timeLeft"] = "1小时",
+							["id"] = 245,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 1500,
+									["tooltip"] = "+1,500经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+1,500经验值",
+								}, -- [1]
+							},
+							["level"] = 99,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "鲁格多尔的匪帮",
+							["followerTypeID"] = 1,
+							["start"] = 1488027773,
+							["followers"] = {
+								{
+									["name"] = "哈雷·苏布雷特",
+									["id"] = "0x00000000011547B0",
+									["iconId"] = 1066400,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -1117,6 +1614,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 134,
 											["name"] = "纠缠根须",
 											["icon"] = 136100,
@@ -1185,10 +1683,81 @@ Broker_GarrisonDB = {
 								{
 									["icon"] = "Interface\\Icons\\inv_garrison_resource",
 									["quantity"] = 38,
+=======
+											["id"] = 148,
+											["name"] = "驱散魔法",
+											["icon"] = 135894,
+										}, -- [2]
+										{
+											["id"] = 75,
+											["name"] = "经济学家",
+											["icon"] = 632354,
+										}, -- [3]
+										{
+											["id"] = 150,
+											["name"] = "精神灼烧",
+											["icon"] = 237565,
+										}, -- [4]
+										{
+											["id"] = 314,
+											["name"] = "油猴子",
+											["icon"] = 252178,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [1]
+								{
+									["name"] = "卡萨·凋蹄",
+									["id"] = "0x00000000011547AF",
+									["iconId"] = 1086373,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 116,
+											["name"] = "枯萎凋零",
+											["icon"] = 136144,
+										}, -- [2]
+										{
+											["id"] = 46,
+											["name"] = "游击队员",
+											["icon"] = 236850,
+										}, -- [3]
+										{
+											["id"] = 118,
+											["name"] = "符文武器增效",
+											["icon"] = 135372,
+										}, -- [4]
+										{
+											["id"] = 49,
+											["name"] = "平原旅人",
+											["icon"] = 236712,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["duration"] = 3600,
+						},
+						[179] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "30分钟",
+							["id"] = 179,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 42,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["title"] = "货币奖励",
 									["currencyID"] = 824,
 								}, -- [1]
 							},
+<<<<<<< HEAD
 							["level"] = 94,
 							["timeLeftCalc"] = 0,
 							["statusComplete"] = true,
@@ -1201,6 +1770,20 @@ Broker_GarrisonDB = {
 									["name"] = "勒斯特·碎怒",
 									["id"] = "0x00000000011547BA",
 									["iconId"] = 1066421,
+=======
+							["level"] = 96,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "黄金储备",
+							["followerTypeID"] = 1,
+							["start"] = 1488027761,
+							["followers"] = {
+								{
+									["name"] = "卡蒂·草蹄",
+									["id"] = "0x00000000011547B7",
+									["iconId"] = 1066334,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -1208,6 +1791,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 121,
 											["name"] = "拳击",
 											["icon"] = 132938,
@@ -1259,6 +1843,90 @@ Broker_GarrisonDB = {
 									["name"] = "托尔加",
 									["id"] = "0x00000000011547B6",
 									["iconId"] = 1086410,
+=======
+											["id"] = 134,
+											["name"] = "纠缠根须",
+											["icon"] = 136100,
+										}, -- [2]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [3]
+										{
+											["id"] = 136,
+											["name"] = "自然之愈",
+											["icon"] = 236288,
+										}, -- [4]
+										{
+											["id"] = 221,
+											["name"] = "史诗坐骑",
+											["icon"] = 631718,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 1800,
+						},
+						[313] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "8小时",
+							["id"] = 313,
+							["rewards"] = {
+								{
+									["itemID"] = 118529,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "悬槌堡团队副本",
+							["followerTypeID"] = 1,
+							["start"] = 1488027764,
+							["followers"] = {
+								{
+									["name"] = "卡拉",
+									["id"] = "0x00000000011547A7",
+									["iconId"] = 1066122,
+									["abilities"] = {
+										{
+											["id"] = 159,
+											["name"] = "闪避",
+											["icon"] = 136205,
+										}, -- [1]
+										{
+											["id"] = 105,
+											["name"] = "脚踢",
+											["icon"] = 132219,
+										}, -- [2]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [3]
+										{
+											["id"] = 42,
+											["name"] = "虚空克星",
+											["icon"] = 298680,
+										}, -- [4]
+										{
+											["id"] = 38,
+											["name"] = "食人魔克星",
+											["icon"] = 236695,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+								}, -- [1]
+								{
+									["name"] = "阿瓦丽·唤焰",
+									["id"] = "0x00000000011547B5",
+									["iconId"] = 1086389,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -1266,6 +1934,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 142,
 											["name"] = "真气波",
 											["icon"] = 606541,
@@ -1288,6 +1957,30 @@ Broker_GarrisonDB = {
 									},
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
 								}, -- [1]
+=======
+											["id"] = 173,
+											["name"] = "时间扭曲",
+											["icon"] = 458224,
+										}, -- [2]
+										{
+											["id"] = 69,
+											["name"] = "酒鬼",
+											["icon"] = 626190,
+										}, -- [3]
+										{
+											["id"] = 170,
+											["name"] = "闪现术",
+											["icon"] = 135736,
+										}, -- [4]
+										{
+											["id"] = 41,
+											["name"] = "元素克星",
+											["icon"] = 254652,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+								}, -- [2]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								{
 									["name"] = "赞特比",
 									["id"] = "0x00000000011547B4",
@@ -1320,6 +2013,7 @@ Broker_GarrisonDB = {
 										}, -- [5]
 									},
 									["classIcon"] = "GarrMission_ClassIcon-Druid",
+<<<<<<< HEAD
 								}, -- [2]
 							},
 							["missionState"] = 0,
@@ -1334,10 +2028,27 @@ Broker_GarrisonDB = {
 								{
 									["icon"] = "Interface\\Icons\\inv_garrison_resource",
 									["quantity"] = 48,
+=======
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 28800,
+						},
+						[218] = {
+							["type"] = "寻宝",
+							["typeAtlas"] = "GarrMission_MissionIcon-Trading",
+							["timeLeft"] = "30分钟",
+							["id"] = 218,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 45,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["title"] = "货币奖励",
 									["currencyID"] = 824,
 								}, -- [1]
 							},
+<<<<<<< HEAD
 							["timeLeft"] = "1小时",
 							["level"] = 91,
 							["timeLeftCalc"] = 0,
@@ -1350,6 +2061,20 @@ Broker_GarrisonDB = {
 									["name"] = "哈雷·苏布雷特",
 									["id"] = "0x00000000011547B0",
 									["iconId"] = 1066400,
+=======
+							["level"] = 90,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "我的宝贝",
+							["followerTypeID"] = 1,
+							["start"] = 1488027758,
+							["followers"] = {
+								{
+									["name"] = "库玛·雷鬃",
+									["id"] = "0x00000000011547B8",
+									["iconId"] = 1066272,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -1357,6 +2082,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 148,
 											["name"] = "驱散魔法",
 											["icon"] = 135894,
@@ -1448,6 +2174,58 @@ Broker_GarrisonDB = {
 									["name"] = "安哈克萨",
 									["id"] = "0x00000000011547AE",
 									["iconId"] = 1086435,
+=======
+											["id"] = 182,
+											["name"] = "急奔",
+											["icon"] = 132120,
+										}, -- [2]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [3]
+										{
+											["id"] = 108,
+											["name"] = "咆哮",
+											["icon"] = 132270,
+										}, -- [4]
+										{
+											["id"] = 69,
+											["name"] = "酒鬼",
+											["icon"] = 626190,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 1800,
+						},
+						[194] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "1小时30分钟",
+							["id"] = 194,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 48,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["level"] = 99,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "难受的元素",
+							["followerTypeID"] = 1,
+							["start"] = 1488027757,
+							["followers"] = {
+								{
+									["name"] = "苏兹",
+									["id"] = "0x00000000011547BC",
+									["iconId"] = 1066389,
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -1455,6 +2233,122 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+											["id"] = 156,
+											["name"] = "幽魂之狼",
+											["icon"] = 136095,
+										}, -- [2]
+										{
+											["id"] = 73,
+											["name"] = "巫术狂信徒",
+											["icon"] = 236456,
+										}, -- [3]
+										{
+											["id"] = 106,
+											["name"] = "治疗链",
+											["icon"] = 136042,
+										}, -- [4]
+										{
+											["id"] = 44,
+											["name"] = "自然学家",
+											["icon"] = 236830,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 5400,
+						},
+						[175] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "45分钟",
+							["id"] = 175,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 34,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["level"] = 92,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "打破枷锁",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["followers"] = {
+								{
+									["name"] = "薇拉·海林",
+									["id"] = "0x00000000011547BE",
+									["iconId"] = 1066458,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 104,
+											["name"] = "闷棍",
+											["icon"] = 132310,
+										}, -- [2]
+										{
+											["id"] = 76,
+											["name"] = "持久耐力",
+											["icon"] = 135987,
+										}, -- [3]
+										{
+											["id"] = 159,
+											["name"] = "闪避",
+											["icon"] = 136205,
+										}, -- [4]
+										{
+											["id"] = 7,
+											["name"] = "登山家",
+											["icon"] = 236848,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 2700,
+						},
+						[128] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "8小时",
+							["id"] = 128,
+							["rewards"] = {
+								{
+									["itemID"] = 114616,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "斩首行动",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["followers"] = {
+								{
+									["name"] = "洛克里格·魔奴",
+									["id"] = "0x00000000011547B2",
+									["iconId"] = 1066324,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+<<<<<<< HEAD
 											["id"] = 148,
 											["name"] = "驱散魔法",
 											["icon"] = 135894,
@@ -1473,11 +2367,65 @@ Broker_GarrisonDB = {
 											["id"] = 221,
 											["name"] = "史诗坐骑",
 											["icon"] = 631718,
+=======
+											["id"] = 179,
+											["name"] = "法术封锁",
+											["icon"] = 136174,
+										}, -- [2]
+										{
+											["id"] = 7,
+											["name"] = "登山家",
+											["icon"] = 236848,
+										}, -- [3]
+										{
+											["id"] = 177,
+											["name"] = "恶魔变形",
+											["icon"] = 236293,
+										}, -- [4]
+										{
+											["id"] = 40,
+											["name"] = "戈隆克星",
+											["icon"] = 236412,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+								}, -- [1]
+								{
+									["name"] = "乌娜·斯莱舍",
+									["id"] = "0x00000000011547A8",
+									["iconId"] = 1066198,
+									["abilities"] = {
+										{
+											["id"] = 148,
+											["name"] = "驱散魔法",
+											["icon"] = 135894,
+										}, -- [1]
+										{
+											["id"] = 150,
+											["name"] = "精神灼烧",
+											["icon"] = 237565,
+										}, -- [2]
+										{
+											["id"] = 75,
+											["name"] = "经济学家",
+											["icon"] = 632354,
+										}, -- [3]
+										{
+											["id"] = 36,
+											["name"] = "恶魔克星",
+											["icon"] = 254651,
+										}, -- [4]
+										{
+											["id"] = 46,
+											["name"] = "游击队员",
+											["icon"] = 236850,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [5]
 									},
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
 								}, -- [2]
 								{
+<<<<<<< HEAD
 									["name"] = "贾卡玛",
 									["id"] = "0x00000000011547B3",
 									["iconId"] = 1066284,
@@ -1517,11 +2465,53 @@ Broker_GarrisonDB = {
 					},
 					["tooltipEnabled"] = true,
 					["order"] = 5,
+=======
+									["name"] = "艾苏克之魂",
+									["id"] = "0x00000000011547AC",
+									["iconId"] = 1066335,
+									["abilities"] = {
+										{
+											["id"] = 104,
+											["name"] = "闷棍",
+											["icon"] = 132310,
+										}, -- [1]
+										{
+											["id"] = 161,
+											["name"] = "刀扇",
+											["icon"] = 236273,
+										}, -- [2]
+										{
+											["id"] = 36,
+											["name"] = "恶魔克星",
+											["icon"] = 254651,
+										}, -- [3]
+										{
+											["id"] = 38,
+											["name"] = "食人魔克星",
+											["icon"] = 236695,
+										}, -- [4]
+										{
+											["id"] = 43,
+											["name"] = "利爪克星",
+											["icon"] = 952507,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 28800,
+						},
+					},
+					["tooltipEnabled"] = true,
+					["garrisonCacheLastLooted"] = 1488612187,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["currencySealOfTemperedFateAmount"] = 3,
 					["invasion"] = {
 						["available"] = false,
 					},
 					["buildingsExpanded"] = true,
+<<<<<<< HEAD
 					["missionsExpanded"] = true,
 					["buildings"] = {
 						[24] = {
@@ -1529,11 +2519,21 @@ Broker_GarrisonDB = {
 							["buildingState"] = 0,
 							["id"] = 10,
 							["plotID"] = 24,
+=======
+					["buildings"] = {
+						[24] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["shipment"] = {
 								["shipmentCapacity"] = 26,
 								["name"] = "战争工坊",
 								["texture"] = 975736,
 							},
+<<<<<<< HEAD
+=======
+							["id"] = 10,
+							["plotID"] = 24,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["plotSize"] = 3,
 							["buildTime"] = 3600,
 							["canActivate"] = false,
@@ -1545,15 +2545,24 @@ Broker_GarrisonDB = {
 							["rank"] = 3,
 						},
 						[25] = {
+<<<<<<< HEAD
 							["hasFollowerSlot"] = false,
 							["buildingState"] = 0,
 							["id"] = 111,
 							["plotID"] = 25,
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["shipment"] = {
 								["shipmentCapacity"] = 12,
 								["name"] = "货栈",
 								["texture"] = 975746,
 							},
+<<<<<<< HEAD
+=======
+							["id"] = 111,
+							["plotID"] = 25,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["plotSize"] = 2,
 							["buildTime"] = 3600,
 							["canActivate"] = false,
@@ -1565,12 +2574,20 @@ Broker_GarrisonDB = {
 							["rank"] = 1,
 						},
 						[81] = {
+<<<<<<< HEAD
 							["hasFollowerSlot"] = false,
 							["buildingState"] = 0,
 							["id"] = 42,
 							["plotID"] = 81,
 							["shipment"] = {
 							},
+=======
+							["shipment"] = {
+							},
+							["id"] = 42,
+							["plotID"] = 81,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["plotSize"] = 2,
 							["buildTime"] = 3600,
 							["canActivate"] = false,
@@ -1582,17 +2599,26 @@ Broker_GarrisonDB = {
 							["rank"] = 1,
 						},
 						[18] = {
+<<<<<<< HEAD
 							["hasFollowerSlot"] = true,
 							["buildingState"] = 0,
 							["follower"] = {
 							},
 							["id"] = 120,
 							["plotID"] = 18,
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["shipment"] = {
 								["shipmentCapacity"] = 26,
 								["name"] = "炼金实验室",
 								["texture"] = 136240,
 							},
+<<<<<<< HEAD
+=======
+							["id"] = 120,
+							["plotID"] = 18,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["plotSize"] = 1,
 							["buildTime"] = 3600,
 							["canActivate"] = false,
@@ -1604,15 +2630,24 @@ Broker_GarrisonDB = {
 							["rank"] = 3,
 						},
 						[19] = {
+<<<<<<< HEAD
 							["hasFollowerSlot"] = false,
 							["buildingState"] = 0,
 							["id"] = 91,
 							["plotID"] = 19,
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["shipment"] = {
 								["shipmentCapacity"] = 12,
 								["name"] = "工坊",
 								["texture"] = 136243,
 							},
+<<<<<<< HEAD
+=======
+							["id"] = 91,
+							["plotID"] = 19,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["plotSize"] = 1,
 							["buildTime"] = 3600,
 							["canActivate"] = false,
@@ -1624,12 +2659,20 @@ Broker_GarrisonDB = {
 							["rank"] = 1,
 						},
 						[20] = {
+<<<<<<< HEAD
 							["hasFollowerSlot"] = false,
 							["buildingState"] = 0,
 							["id"] = 51,
 							["plotID"] = 20,
 							["shipment"] = {
 							},
+=======
+							["shipment"] = {
+							},
+							["id"] = 51,
+							["plotID"] = 20,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["plotSize"] = 1,
 							["buildTime"] = 3600,
 							["canActivate"] = false,
@@ -1641,10 +2684,13 @@ Broker_GarrisonDB = {
 							["rank"] = 1,
 						},
 						[98] = {
+<<<<<<< HEAD
 							["hasFollowerSlot"] = false,
 							["id"] = 205,
 							["plotID"] = 98,
 							["buildingState"] = 0,
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["shipment"] = {
 								["shipmentsAvailable"] = 1,
 								["shipmentsTotal"] = 1,
@@ -1656,6 +2702,12 @@ Broker_GarrisonDB = {
 								["notificationDismissed"] = false,
 								["texture"] = 1126431,
 							},
+<<<<<<< HEAD
+=======
+							["id"] = 205,
+							["plotID"] = 98,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 0,
 							["canActivate"] = false,
 							["name"] = "霜壁船坞",
@@ -1666,12 +2718,20 @@ Broker_GarrisonDB = {
 							["rank"] = 1,
 						},
 						[22] = {
+<<<<<<< HEAD
 							["hasFollowerSlot"] = false,
 							["buildingState"] = 0,
 							["id"] = 36,
 							["plotID"] = 22,
 							["shipment"] = {
 							},
+=======
+							["shipment"] = {
+							},
+							["id"] = 36,
+							["plotID"] = 22,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["plotSize"] = 2,
 							["buildTime"] = 3600,
 							["canActivate"] = false,
@@ -1683,17 +2743,26 @@ Broker_GarrisonDB = {
 							["rank"] = 3,
 						},
 						[59] = {
+<<<<<<< HEAD
 							["hasFollowerSlot"] = true,
 							["buildingState"] = 0,
 							["follower"] = {
 							},
 							["id"] = 62,
 							["plotID"] = 59,
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["shipment"] = {
 								["shipmentCapacity"] = 19,
 								["name"] = "霜壁矿井",
 								["texture"] = 136248,
 							},
+<<<<<<< HEAD
+=======
+							["id"] = 62,
+							["plotID"] = 59,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["plotSize"] = 2,
 							["buildTime"] = 3600,
 							["canActivate"] = false,
@@ -1705,6 +2774,7 @@ Broker_GarrisonDB = {
 							["rank"] = 2,
 						},
 						[23] = {
+<<<<<<< HEAD
 							["hasFollowerSlot"] = true,
 							["buildingState"] = 0,
 							["follower"] = {
@@ -1713,6 +2783,13 @@ Broker_GarrisonDB = {
 							["plotID"] = 23,
 							["shipment"] = {
 							},
+=======
+							["shipment"] = {
+							},
+							["id"] = 27,
+							["plotID"] = 23,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["plotSize"] = 3,
 							["buildTime"] = 3600,
 							["canActivate"] = false,
@@ -1724,6 +2801,7 @@ Broker_GarrisonDB = {
 							["rank"] = 2,
 						},
 					},
+<<<<<<< HEAD
 					["ldbEnabled"] = true,
 					["shipments"] = {
 					},
@@ -1733,6 +2811,19 @@ Broker_GarrisonDB = {
 					},
 					["currencyOrderResourcesAmount"] = 715,
 					["lootedNextReset"] = 1489618799,
+=======
+					["missionsExpanded"] = true,
+					["weeklyNextReset"] = 1489618799,
+					["shipments"] = {
+					},
+					["lootedToday"] = {
+					},
+					["currencyOrderResourcesAmount"] = 715,
+					["trackWeekly"] = {
+						["WARMILL_SOTF"] = false,
+						["BONUS_ROLL_QUESTS"] = 0,
+					},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["notificationEnabled"] = true,
 					["looseShipments"] = {
 					},
@@ -1740,11 +2831,19 @@ Broker_GarrisonDB = {
 					["followerShipments"] = {
 					},
 					["currencyApexisAmount"] = 18270,
+<<<<<<< HEAD
 					["currencyAncientManaAmount"] = 10,
 					["currencyArtifactKnowledge"] = 0,
 					["currencySealOfInevitableFateAmount"] = 16,
 					["orderhallExpanded"] = true,
 					["currencyOil"] = 10240,
+=======
+					["currencyOil"] = 10240,
+					["currencyArtifactKnowledge"] = 0,
+					["currencySealOfInevitableFateAmount"] = 18,
+					["orderhallExpanded"] = true,
+					["currencyAncientManaAmount"] = 10,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["info"] = {
 						["bonusEnabled"] = true,
 						["playerClass"] = "MAGE",
@@ -1754,11 +2853,18 @@ Broker_GarrisonDB = {
 					},
 					["trackDaily"] = {
 					},
+<<<<<<< HEAD
 					["lootedToday"] = {
 					},
 					["weeklyNextReset"] = 1489618799,
 					["currencyAmount"] = 887,
 					["garrisonCacheLastLooted"] = 1489494162,
+=======
+					["lootedNextReset"] = 1489445999,
+					["ldbEnabled"] = true,
+					["currencyAmount"] = 7104,
+					["order"] = 5,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				},
 				["最初的悠悠"] = {
 					["categories"] = {
@@ -1778,10 +2884,17 @@ Broker_GarrisonDB = {
 							["id"] = 380,
 							["researchCurrency"] = 1220,
 							["name"] = "奥术起源",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[381] = {
 							["isBeingResearched"] = false,
@@ -1808,11 +2921,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "冰霜新星",
+<<<<<<< HEAD
 							["id"] = 381,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 381,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[382] = {
 							["isBeingResearched"] = false,
@@ -1839,11 +2960,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "闪现术",
+<<<<<<< HEAD
 							["id"] = 382,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 382,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[383] = {
 							["isBeingResearched"] = false,
@@ -1870,11 +2999,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "奥术图书馆",
+<<<<<<< HEAD
 							["id"] = 383,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["id"] = 383,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[384] = {
 							["isBeingResearched"] = false,
@@ -1890,10 +3027,17 @@ Broker_GarrisonDB = {
 							["id"] = 384,
 							["researchCurrency"] = 1220,
 							["name"] = "元素能量",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[385] = {
 							["isBeingResearched"] = false,
@@ -1909,10 +3053,17 @@ Broker_GarrisonDB = {
 							["id"] = 385,
 							["researchCurrency"] = 1220,
 							["name"] = "进修",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[386] = {
 							["isBeingResearched"] = false,
@@ -1928,10 +3079,17 @@ Broker_GarrisonDB = {
 							["id"] = 386,
 							["researchCurrency"] = 1220,
 							["name"] = "传送中枢",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[387] = {
 							["isBeingResearched"] = false,
@@ -1947,10 +3105,17 @@ Broker_GarrisonDB = {
 							["id"] = 387,
 							["researchCurrency"] = 1220,
 							["name"] = "奥术占卜",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[388] = {
 							["isBeingResearched"] = false,
@@ -1966,10 +3131,17 @@ Broker_GarrisonDB = {
 							["id"] = 388,
 							["researchCurrency"] = 1220,
 							["name"] = "达拉然之力",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[389] = {
 							["isBeingResearched"] = false,
@@ -1985,10 +3157,17 @@ Broker_GarrisonDB = {
 							["id"] = 389,
 							["researchCurrency"] = 1220,
 							["name"] = "奥术装备",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[390] = {
 							["isBeingResearched"] = false,
@@ -2004,10 +3183,17 @@ Broker_GarrisonDB = {
 							["id"] = 390,
 							["researchCurrency"] = 1220,
 							["name"] = "秘法会传说",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 					},
 					["configVersion"] = 3,
@@ -2018,6 +3204,7 @@ Broker_GarrisonDB = {
 					["invasion"] = {
 					},
 					["buildingsExpanded"] = true,
+<<<<<<< HEAD
 					["lootedToday"] = {
 					},
 					["missionsExpanded"] = true,
@@ -2029,6 +3216,19 @@ Broker_GarrisonDB = {
 					["trackWeekly"] = {
 					},
 					["cacheSize"] = 500,
+=======
+					["buildings"] = {
+					},
+					["missionsExpanded"] = true,
+					["trackWeekly"] = {
+					},
+					["shipments"] = {
+					},
+					["ldbEnabled"] = true,
+					["currencyOrderResourcesAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+					["notificationEnabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["looseShipments"] = {
 					},
 					["currencyOil"] = 0,
@@ -2037,6 +3237,7 @@ Broker_GarrisonDB = {
 					["currencyApexisAmount"] = 0,
 					["currencyAncientManaAmount"] = 0,
 					["currencyArtifactKnowledge"] = 0,
+<<<<<<< HEAD
 					["currencySealOfInevitableFateAmount"] = 0,
 					["orderhallExpanded"] = true,
 					["order"] = 5,
@@ -2052,6 +3253,23 @@ Broker_GarrisonDB = {
 					["ldbEnabled"] = true,
 					["currencyAmount"] = 0,
 					["buildings"] = {
+=======
+					["order"] = 5,
+					["orderhallExpanded"] = true,
+					["currencySealOfInevitableFateAmount"] = 0,
+					["info"] = {
+						["playerName"] = "最初的悠悠",
+						["playerFaction"] = "Horde",
+						["playerClass"] = "MAGE",
+						["realmName"] = "迦罗娜",
+					},
+					["trackDaily"] = {
+					},
+					["cacheSize"] = 500,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 0,
+					["lootedToday"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					},
 				},
 				["悠悠龟"] = {
@@ -2083,11 +3301,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "休眠",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["id"] = 350,
+=======
+							["id"] = 350,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[351] = {
 							["isBeingResearched"] = false,
@@ -2103,10 +3329,17 @@ Broker_GarrisonDB = {
 							["id"] = 351,
 							["researchCurrency"] = 1220,
 							["name"] = "欢笑姐妹",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[352] = {
 							["isBeingResearched"] = false,
@@ -2122,10 +3355,17 @@ Broker_GarrisonDB = {
 							["id"] = 352,
 							["researchCurrency"] = 1220,
 							["name"] = "森林之力",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[353] = {
 							["isBeingResearched"] = false,
@@ -2152,11 +3392,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "根须",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["id"] = 353,
+=======
+							["id"] = 353,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[354] = {
 							["isBeingResearched"] = false,
@@ -2172,10 +3420,17 @@ Broker_GarrisonDB = {
 							["id"] = 354,
 							["researchCurrency"] = 1220,
 							["name"] = "常青",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[355] = {
 							["isBeingResearched"] = false,
@@ -2191,10 +3446,17 @@ Broker_GarrisonDB = {
 							["id"] = 355,
 							["researchCurrency"] = 1220,
 							["name"] = "艾露恩的选择",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[356] = {
 							["isBeingResearched"] = false,
@@ -2210,10 +3472,17 @@ Broker_GarrisonDB = {
 							["id"] = 356,
 							["researchCurrency"] = 1220,
 							["name"] = "战争古树",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[357] = {
 							["isBeingResearched"] = false,
@@ -2229,10 +3498,17 @@ Broker_GarrisonDB = {
 							["id"] = 357,
 							["researchCurrency"] = 1220,
 							["name"] = "自然传说",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[347] = {
 							["isBeingResearched"] = false,
@@ -2248,10 +3524,17 @@ Broker_GarrisonDB = {
 							["id"] = 347,
 							["researchCurrency"] = 1220,
 							["name"] = "艾露恩的眷顾",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[348] = {
 							["isBeingResearched"] = false,
@@ -2278,11 +3561,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "回收",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["id"] = 348,
+=======
+							["id"] = 348,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[349] = {
 							["isBeingResearched"] = false,
@@ -2309,17 +3600,26 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "旅行形态",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["id"] = 349,
+=======
+							["id"] = 349,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 					},
 					["configVersion"] = 3,
 					["missions"] = {
 						[133] = {
 							["type"] = "战斗",
+<<<<<<< HEAD
 							["duration"] = 21600,
 							["missionState"] = 0,
 							["id"] = 133,
@@ -2331,11 +3631,28 @@ Broker_GarrisonDB = {
 									["currencyID"] = 824,
 								}, -- [1]
 							},
+=======
+							["timeLeft"] = "6小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 133,
+							["duration"] = 21600,
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "元素的地盘",
+							["followerTypeID"] = 1,
+							["start"] = 1488078305,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "萨维",
 									["id"] = "0x00000000011EA95D",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Druid",
+=======
+									["iconId"] = 1066150,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -2363,12 +3680,20 @@ Broker_GarrisonDB = {
 											["icon"] = 413571,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066150,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "苏尔卡",
 									["id"] = "0x00000000011EA957",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
+=======
+									["iconId"] = 1066137,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -2396,6 +3721,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236456,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066137,
 								}, -- [2]
 							},
@@ -2422,11 +3748,43 @@ Broker_GarrisonDB = {
 									["currencyID"] = 824,
 								}, -- [1]
 							},
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 175,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+						},
+						[281] = {
+							["type"] = "寻宝",
+							["timeLeft"] = "45分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Trading",
+							["id"] = 281,
+							["duration"] = 2700,
+							["level"] = 97,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "来自奸商的利润",
+							["followerTypeID"] = 1,
+							["start"] = 1488078307,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "奇里克斯·佐布斯基",
 									["id"] = "0x00000000011EA956",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+=======
+									["iconId"] = 1066486,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -2454,12 +3812,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236712,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066486,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "萨拉纳·悲日",
 									["id"] = "0x00000000011EA95E",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+=======
+									["iconId"] = 1066217,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -2487,6 +3853,7 @@ Broker_GarrisonDB = {
 											["icon"] = 136088,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066217,
 								}, -- [2]
 							},
@@ -2513,11 +3880,43 @@ Broker_GarrisonDB = {
 									["currencyID"] = 824,
 								}, -- [1]
 							},
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 65,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+						},
+						[179] = {
+							["type"] = "战斗",
+							["timeLeft"] = "1小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 179,
+							["duration"] = 3600,
+							["level"] = 96,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "黄金储备",
+							["followerTypeID"] = 1,
+							["start"] = 1488078309,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "袁梦天",
 									["id"] = "0x00000000011EA952",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
+=======
+									["iconId"] = 1086414,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -2545,6 +3944,7 @@ Broker_GarrisonDB = {
 											["icon"] = 298659,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086414,
 								}, -- [1]
 							},
@@ -2574,6 +3974,39 @@ Broker_GarrisonDB = {
 									["name"] = "迪尼佐·雹击",
 									["id"] = "0x00000000011EA95C",
 									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 42,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+						},
+						[116] = {
+							["type"] = "战斗",
+							["timeLeft"] = "8小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 116,
+							["duration"] = 28800,
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "钢铁部落的党羽",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["followers"] = {
+								{
+									["name"] = "塞尔莉娅·晨风",
+									["id"] = "0x00000000011EA958",
+									["iconId"] = 1066168,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -2581,6 +4014,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 116,
 											["name"] = "枯萎凋零",
 											["icon"] = 136144,
@@ -2607,6 +4041,34 @@ Broker_GarrisonDB = {
 									["name"] = "托尔加",
 									["id"] = "0x00000000011EA954",
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
+=======
+											["id"] = 125,
+											["name"] = "清洁术",
+											["icon"] = 135949,
+										}, -- [2]
+										{
+											["id"] = 46,
+											["name"] = "游击队员",
+											["icon"] = 236850,
+										}, -- [3]
+										{
+											["id"] = 128,
+											["name"] = "圣光普照",
+											["icon"] = 457654,
+										}, -- [4]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+								}, -- [1]
+								{
+									["name"] = "不忠的露西娅",
+									["id"] = "0x00000000011EA959",
+									["iconId"] = 1066291,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -2614,6 +4076,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 142,
 											["name"] = "真气波",
 											["icon"] = 606541,
@@ -2697,11 +4160,97 @@ Broker_GarrisonDB = {
 									["quantity"] = 1,
 								}, -- [2]
 							},
+=======
+											["id"] = 150,
+											["name"] = "精神灼烧",
+											["icon"] = 237565,
+										}, -- [2]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [3]
+										{
+											["id"] = 11,
+											["name"] = "治疗祷言",
+											["icon"] = 135943,
+										}, -- [4]
+										{
+											["id"] = 69,
+											["name"] = "酒鬼",
+											["icon"] = 626190,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [2]
+								{
+									["name"] = "芳妮",
+									["id"] = "0x00000000011EA95F",
+									["iconId"] = 1066254,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 103,
+											["name"] = "急速射击",
+											["icon"] = 132208,
+										}, -- [2]
+										{
+											["id"] = 39,
+											["name"] = "原兽克星",
+											["icon"] = 254105,
+										}, -- [3]
+										{
+											["id"] = 167,
+											["name"] = "冰冻陷阱",
+											["icon"] = 135834,
+										}, -- [4]
+										{
+											["id"] = 37,
+											["name"] = "野兽克星",
+											["icon"] = 298659,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 8000,
+									["tooltip"] = "+8,000经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+8,000经验值",
+								}, -- [1]
+							},
+						},
+						[360] = {
+							["type"] = "战斗",
+							["timeLeft"] = "10小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 360,
+							["duration"] = 36000,
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "热砂保护协会的差事",
+							["followerTypeID"] = 1,
+							["start"] = 1488078304,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "迪娜·邪语",
 									["id"] = "0x00000000011EA950",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+=======
+									["iconId"] = 1066483,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -2729,12 +4278,20 @@ Broker_GarrisonDB = {
 											["icon"] = 413571,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066483,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "卡恩·钢蹄",
 									["id"] = "0x00000000011EA955",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+=======
+									["iconId"] = 1066216,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -2762,12 +4319,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236819,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066216,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "康·棘杖",
 									["id"] = "0x00000000011EA95A",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
+=======
+									["iconId"] = 1066081,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -2795,6 +4360,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236846,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066081,
 								}, -- [3]
 							},
@@ -2871,6 +4437,97 @@ Broker_GarrisonDB = {
 							["duration"] = 5400,
 							["missionState"] = 0,
 							["id"] = 159,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 250,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+								{
+									["itemID"] = 118100,
+									["quantity"] = 1,
+								}, -- [2]
+							},
+						},
+						[160] = {
+							["type"] = "战斗",
+							["timeLeft"] = "45分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 160,
+							["duration"] = 2700,
+							["level"] = 96,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "碾压白鬼",
+							["followerTypeID"] = 1,
+							["start"] = 1488078315,
+							["followers"] = {
+								{
+									["name"] = "奥林·利刃",
+									["id"] = "0x00000000011EA951",
+									["iconId"] = 1066032,
+									["abilities"] = {
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [1]
+										{
+											["id"] = 116,
+											["name"] = "枯萎凋零",
+											["icon"] = 136144,
+										}, -- [2]
+										{
+											["id"] = 46,
+											["name"] = "游击队员",
+											["icon"] = 236850,
+										}, -- [3]
+										{
+											["id"] = 117,
+											["name"] = "心灵冰冻",
+											["icon"] = 237527,
+										}, -- [4]
+										{
+											["id"] = 42,
+											["name"] = "虚空克星",
+											["icon"] = 298680,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+								}, -- [1]
+								{
+									["name"] = "贾卡拉",
+									["id"] = "0x0000000001D570DF",
+									["iconId"] = 1066299,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 135,
+											["name"] = "野性成长",
+											["icon"] = 236153,
+										}, -- [2]
+										{
+											["id"] = 4,
+											["name"] = "兽人克星",
+											["icon"] = 897144,
+										}, -- [3]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["rewards"] = {
 								{
 									["title"] = "奖励追随者经验",
@@ -2880,11 +4537,33 @@ Broker_GarrisonDB = {
 									["name"] = "+700经验值",
 								}, -- [1]
 							},
+<<<<<<< HEAD
 							["followers"] = {
 								{
 									["name"] = "琪尔加·悲歌",
 									["id"] = "0x00000000011EA953",
 									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+=======
+						},
+						[129] = {
+							["type"] = "战斗",
+							["timeLeft"] = "4小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 129,
+							["duration"] = 14400,
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "刃月的秘密",
+							["followerTypeID"] = 1,
+							["start"] = 1488078312,
+							["followers"] = {
+								{
+									["name"] = "迪尼佐·雹击",
+									["id"] = "0x00000000011EA95C",
+									["iconId"] = 1066355,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -2892,6 +4571,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 118,
 											["name"] = "符文武器增效",
 											["icon"] = 135372,
@@ -2936,11 +4616,127 @@ Broker_GarrisonDB = {
 									["quantity"] = 1,
 								}, -- [1]
 							},
+=======
+											["id"] = 116,
+											["name"] = "枯萎凋零",
+											["icon"] = 136144,
+										}, -- [2]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [3]
+										{
+											["id"] = 119,
+											["name"] = "反魔法护罩",
+											["icon"] = 136120,
+										}, -- [4]
+										{
+											["id"] = 49,
+											["name"] = "平原旅人",
+											["icon"] = 236712,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+								}, -- [1]
+								{
+									["name"] = "托尔加",
+									["id"] = "0x00000000011EA954",
+									["iconId"] = 1086410,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 142,
+											["name"] = "真气波",
+											["icon"] = 606541,
+										}, -- [2]
+										{
+											["id"] = 48,
+											["name"] = "沼泽行者",
+											["icon"] = 236819,
+										}, -- [3]
+										{
+											["id"] = 143,
+											["name"] = "滚地翻",
+											["icon"] = 574574,
+										}, -- [4]
+										{
+											["id"] = 221,
+											["name"] = "史诗坐骑",
+											["icon"] = 631718,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+								}, -- [2]
+								{
+									["name"] = "薇薇安",
+									["id"] = "0x00000000011EA94C",
+									["iconId"] = 1066126,
+									["abilities"] = {
+										{
+											["id"] = 231,
+											["name"] = "看家护院",
+											["icon"] = 1037260,
+										}, -- [1]
+										{
+											["id"] = 5,
+											["name"] = "暴风雪",
+											["icon"] = 135857,
+										}, -- [2]
+										{
+											["id"] = 76,
+											["name"] = "持久耐力",
+											["icon"] = 135987,
+										}, -- [3]
+										{
+											["id"] = 171,
+											["name"] = "法术反制",
+											["icon"] = 135856,
+										}, -- [4]
+										{
+											["id"] = 41,
+											["name"] = "元素克星",
+											["icon"] = 254652,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["itemID"] = 114616,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+						},
+						[127] = {
+							["type"] = "战斗",
+							["timeLeft"] = "4小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 127,
+							["duration"] = 14400,
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "奔向自由！",
+							["followerTypeID"] = 1,
+							["start"] = 1488078318,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "乌娜·斯莱舍",
 									["id"] = "0x00000000011EA94E",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
+=======
+									["iconId"] = 1066198,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 148,
@@ -2968,12 +4764,20 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066198,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "提格瓦",
 									["id"] = "0x00000000011EA95B",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Mage",
+=======
+									["iconId"] = 1066522,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -3001,6 +4805,7 @@ Broker_GarrisonDB = {
 											["icon"] = 626190,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066522,
 								}, -- [2]
 							},
@@ -3115,6 +4920,36 @@ Broker_GarrisonDB = {
 									["name"] = "塞尔莉娅·晨风",
 									["id"] = "0x00000000011EA958",
 									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["itemID"] = 120301,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+						},
+						[175] = {
+							["type"] = "战斗",
+							["timeLeft"] = "45分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 175,
+							["duration"] = 2700,
+							["level"] = 92,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "打破枷锁",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["followers"] = {
+								{
+									["name"] = "苏提拉",
+									["id"] = "0x00000000011EA960",
+									["iconId"] = 1080916,
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -3122,6 +4957,66 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+											["id"] = 136,
+											["name"] = "自然之愈",
+											["icon"] = 236288,
+										}, -- [2]
+										{
+											["id"] = 9,
+											["name"] = "废土行者",
+											["icon"] = 236846,
+										}, -- [3]
+										{
+											["id"] = 135,
+											["name"] = "野性成长",
+											["icon"] = 236153,
+										}, -- [4]
+										{
+											["id"] = 48,
+											["name"] = "沼泽行者",
+											["icon"] = 236819,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 34,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+						},
+						[159] = {
+							["type"] = "战斗",
+							["timeLeft"] = "1小时30分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 159,
+							["duration"] = 5400,
+							["level"] = 96,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "美妙的痛苦",
+							["followerTypeID"] = 1,
+							["start"] = 1488078323,
+							["followers"] = {
+								{
+									["name"] = "琪尔加·悲歌",
+									["id"] = "0x00000000011EA953",
+									["iconId"] = 1066210,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+<<<<<<< HEAD
 											["id"] = 125,
 											["name"] = "清洁术",
 											["icon"] = 135949,
@@ -3225,11 +5120,51 @@ Broker_GarrisonDB = {
 					["tooltipEnabled"] = true,
 					["lootedToday"] = {
 					},
+=======
+											["id"] = 118,
+											["name"] = "符文武器增效",
+											["icon"] = 135372,
+										}, -- [2]
+										{
+											["id"] = 9,
+											["name"] = "废土行者",
+											["icon"] = 236846,
+										}, -- [3]
+										{
+											["id"] = 117,
+											["name"] = "心灵冰冻",
+											["icon"] = 237527,
+										}, -- [4]
+										{
+											["id"] = 314,
+											["name"] = "油猴子",
+											["icon"] = 252178,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 700,
+									["tooltip"] = "+700经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+700经验值",
+								}, -- [1]
+							},
+						},
+					},
+					["tooltipEnabled"] = true,
+					["garrisonCacheLastLooted"] = 1489151367,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["currencySealOfTemperedFateAmount"] = 12,
 					["invasion"] = {
 						["available"] = false,
 					},
 					["buildingsExpanded"] = true,
+<<<<<<< HEAD
 					["currencySealOfInevitableFateAmount"] = 2,
 					["missionsExpanded"] = true,
 					["weeklyNextReset"] = 1489618799,
@@ -3247,11 +5182,58 @@ Broker_GarrisonDB = {
 								["shipmentCapacity"] = 0,
 							},
 							["isBuilding"] = false,
+=======
+					["missionsExpanded"] = true,
+					["currencySealOfInevitableFateAmount"] = 2,
+					["ldbEnabled"] = true,
+					["shipments"] = {
+					},
+					["lootedNextReset"] = 1489445999,
+					["currencyOrderResourcesAmount"] = 61,
+					["trackWeekly"] = {
+						["WARMILL_SOTF"] = false,
+						["BONUS_ROLL_QUESTS"] = 0,
+					},
+					["cacheSize"] = 500,
+					["looseShipments"] = {
+					},
+					["notificationEnabled"] = true,
+					["followerShipments"] = {
+					},
+					["currencyApexisAmount"] = 11004,
+					["currencyOil"] = 6025,
+					["currencyArtifactKnowledge"] = 0,
+					["order"] = 5,
+					["orderhallExpanded"] = true,
+					["currencyAncientManaAmount"] = 0,
+					["info"] = {
+						["playerFaction"] = "Horde",
+						["playerClass"] = "DRUID",
+						["bonusEnabled"] = true,
+						["playerName"] = "悠悠龟",
+						["realmName"] = "迦罗娜",
+					},
+					["trackDaily"] = {
+					},
+					["buildings"] = {
+						[24] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["id"] = 8,
+							["plotID"] = 24,
+							["shipment"] = {
+								["shipmentCapacity"] = 0,
+								["name"] = "战争工坊",
+								["texture"] = 975736,
+							},
+							["plotSize"] = 3,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "战争工坊",
 							["timeStart"] = 1453248998,
 							["texPrefix"] = "GarrBuilding_Armory_1_H",
+<<<<<<< HEAD
 							["plotSize"] = 3,
 							["icon"] = 975736,
 							["buildingState"] = 0,
@@ -3267,11 +5249,29 @@ Broker_GarrisonDB = {
 								["shipmentCapacity"] = 7,
 							},
 							["isBuilding"] = false,
+=======
+							["isBuilding"] = false,
+							["icon"] = 975736,
+							["rank"] = 1,
+						},
+						[25] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["id"] = 111,
+							["plotID"] = 25,
+							["shipment"] = {
+								["shipmentCapacity"] = 7,
+								["name"] = "货栈",
+								["texture"] = 975746,
+							},
+							["plotSize"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "货栈",
 							["timeStart"] = 1462007055,
 							["texPrefix"] = "GarrBuilding_TradingPost_1_H",
+<<<<<<< HEAD
 							["plotSize"] = 2,
 							["icon"] = 975746,
 							["buildingState"] = 0,
@@ -3279,16 +5279,30 @@ Broker_GarrisonDB = {
 						[22] = {
 							["hasFollowerSlot"] = false,
 							["rank"] = 3,
+=======
+							["isBuilding"] = false,
+							["icon"] = 975746,
+							["rank"] = 1,
+						},
+						[22] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["id"] = 36,
 							["plotID"] = 22,
 							["shipment"] = {
 							},
+<<<<<<< HEAD
 							["isBuilding"] = false,
+=======
+							["plotSize"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "霜壁旅社",
 							["timeStart"] = 1455953092,
 							["texPrefix"] = "GarrBuilding_Inn_3_H",
+<<<<<<< HEAD
 							["plotSize"] = 2,
 							["icon"] = 134414,
 							["buildingState"] = 0,
@@ -3296,16 +5310,30 @@ Broker_GarrisonDB = {
 						[81] = {
 							["hasFollowerSlot"] = false,
 							["rank"] = 1,
+=======
+							["isBuilding"] = false,
+							["icon"] = 134414,
+							["rank"] = 3,
+						},
+						[81] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["id"] = 42,
 							["plotID"] = 81,
 							["shipment"] = {
 							},
+<<<<<<< HEAD
 							["isBuilding"] = false,
+=======
+							["plotSize"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "宠物小窝",
 							["timeStart"] = 1487425638,
 							["texPrefix"] = "GarrBuilding_PetStable_1_H",
+<<<<<<< HEAD
 							["plotSize"] = 2,
 							["icon"] = 975741,
 							["buildingState"] = 0,
@@ -3313,16 +5341,30 @@ Broker_GarrisonDB = {
 						[23] = {
 							["hasFollowerSlot"] = false,
 							["rank"] = 1,
+=======
+							["isBuilding"] = false,
+							["icon"] = 975741,
+							["rank"] = 1,
+						},
+						[23] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["id"] = 26,
 							["plotID"] = 23,
 							["shipment"] = {
 							},
+<<<<<<< HEAD
 							["isBuilding"] = false,
+=======
+							["plotSize"] = 3,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "兵营",
 							["timeStart"] = 1451737279,
 							["texPrefix"] = "GarrBuilding_Barracks_1_H",
+<<<<<<< HEAD
 							["plotSize"] = 3,
 							["icon"] = 975738,
 							["buildingState"] = 0,
@@ -3358,6 +5400,17 @@ Broker_GarrisonDB = {
 					["ldbEnabled"] = true,
 					["currencyAmount"] = 3442,
 					["garrisonCacheLastLooted"] = 1489151367,
+=======
+							["isBuilding"] = false,
+							["icon"] = 975738,
+							["rank"] = 1,
+						},
+					},
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 3442,
+					["lootedToday"] = {
+					},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				},
 				["打小怪的"] = {
 					["categories"] = {
@@ -3625,6 +5678,7 @@ Broker_GarrisonDB = {
 					["missions"] = {
 						[277] = {
 							["type"] = "寻宝",
+<<<<<<< HEAD
 							["rewards"] = {
 								{
 									["title"] = "货币奖励",
@@ -3636,11 +5690,35 @@ Broker_GarrisonDB = {
 							["missionState"] = 0,
 							["id"] = 277,
 							["duration"] = 3600,
+=======
+							["typeAtlas"] = "GarrMission_MissionIcon-Trading",
+							["timeLeft"] = "1小时",
+							["id"] = 277,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 50,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["level"] = 92,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "蛛后阿兰妮艾",
+							["followerTypeID"] = 1,
+							["start"] = 1488891279,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "哈里森·琼斯",
 									["id"] = "0x000000000116D26E",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+=======
+									["iconId"] = 1341766,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 248,
@@ -3668,6 +5746,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236454,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1341766,
 								}, -- [1]
 							},
@@ -3694,11 +5773,43 @@ Broker_GarrisonDB = {
 							["missionState"] = 0,
 							["id"] = 177,
 							["duration"] = 2700,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 3600,
+						},
+						[177] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "45分钟",
+							["id"] = 177,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 38,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["level"] = 94,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "金光闪闪",
+							["followerTypeID"] = 1,
+							["start"] = 1488891286,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "法维拉·熊皮",
 									["id"] = "0x000000000116D258",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
+=======
+									["iconId"] = 1086406,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -3726,6 +5837,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236819,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086406,
 								}, -- [1]
 							},
@@ -3752,11 +5864,43 @@ Broker_GarrisonDB = {
 							["missionState"] = 0,
 							["id"] = 445,
 							["duration"] = 28800,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 2700,
+						},
+						[445] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "8小时",
+							["id"] = 445,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_apexis_draenor",
+									["quantity"] = 400,
+									["title"] = "货币奖励",
+									["currencyID"] = 823,
+								}, -- [1]
+							},
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "索克雷萨破坏行动",
+							["followerTypeID"] = 1,
+							["start"] = 1488891284,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "梵拉",
 									["id"] = "0x000000000116D263",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+=======
+									["iconId"] = 1086444,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 314,
@@ -3784,12 +5928,20 @@ Broker_GarrisonDB = {
 											["icon"] = 135987,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086444,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "穆维里克",
 									["id"] = "0x000000000116D23A",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+=======
+									["iconId"] = 1066106,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 167,
@@ -3817,6 +5969,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236695,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066106,
 								}, -- [2]
 							},
@@ -3843,11 +5996,43 @@ Broker_GarrisonDB = {
 							["missionState"] = 0,
 							["id"] = 281,
 							["duration"] = 2700,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["duration"] = 28800,
+						},
+						[281] = {
+							["type"] = "寻宝",
+							["typeAtlas"] = "GarrMission_MissionIcon-Trading",
+							["timeLeft"] = "45分钟",
+							["id"] = 281,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 65,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["level"] = 97,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "来自奸商的利润",
+							["followerTypeID"] = 1,
+							["start"] = 1488891277,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "加兹拉",
 									["id"] = "0x000000000116D255",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+=======
+									["iconId"] = 1066164,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -3875,12 +6060,20 @@ Broker_GarrisonDB = {
 											["icon"] = 626190,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066164,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "塔帕·迅掌",
 									["id"] = "0x000000000116D252",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Druid",
+=======
+									["iconId"] = 1066229,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -3908,6 +6101,7 @@ Broker_GarrisonDB = {
 											["icon"] = 631718,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066229,
 								}, -- [2]
 							},
@@ -3923,12 +6117,26 @@ Broker_GarrisonDB = {
 						},
 						[267] = {
 							["type"] = "战斗",
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["duration"] = 2700,
+						},
+						[267] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "4小时",
+							["id"] = 267,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["rewards"] = {
 								{
 									["itemID"] = 120301,
 									["quantity"] = 1,
 								}, -- [1]
 							},
+<<<<<<< HEAD
 							["missionState"] = 0,
 							["id"] = 267,
 							["duration"] = 14400,
@@ -3937,6 +6145,20 @@ Broker_GarrisonDB = {
 									["name"] = "半兽人迦罗娜",
 									["id"] = "0x000000000116D26D",
 									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+=======
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "伏击督军",
+							["followerTypeID"] = 1,
+							["start"] = 1488891296,
+							["followers"] = {
+								{
+									["name"] = "半兽人迦罗娜",
+									["id"] = "0x000000000116D26D",
+									["iconId"] = 1108817,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 47,
@@ -3964,12 +6186,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236440,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1108817,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "莱可·静息",
 									["id"] = "0x000000000116D24E",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+=======
+									["iconId"] = 1066347,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -3997,6 +6227,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236412,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066347,
 								}, -- [2]
 							},
@@ -4012,20 +6243,47 @@ Broker_GarrisonDB = {
 						},
 						[313] = {
 							["type"] = "战斗",
+=======
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["duration"] = 14400,
+						},
+						[313] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "8小时",
+							["id"] = 313,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["rewards"] = {
 								{
 									["itemID"] = 118529,
 									["quantity"] = 1,
 								}, -- [1]
 							},
+<<<<<<< HEAD
 							["missionState"] = 0,
 							["id"] = 313,
 							["duration"] = 28800,
+=======
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "悬槌堡团队副本",
+							["followerTypeID"] = 1,
+							["start"] = 1488891290,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "守护者安托希",
 									["id"] = "0x000000000116D253",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Druid",
+=======
+									["iconId"] = 1066273,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -4053,12 +6311,20 @@ Broker_GarrisonDB = {
 											["icon"] = 135987,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066273,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "卡加·速射",
 									["id"] = "0x000000000116D24C",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+=======
+									["iconId"] = 1066062,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 70,
@@ -4086,12 +6352,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236454,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066062,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "莫提娜",
 									["id"] = "0x000000000116D259",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+=======
+									["iconId"] = 1066419,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 314,
@@ -4119,6 +6393,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236848,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066419,
 								}, -- [3]
 							},
@@ -4151,6 +6426,39 @@ Broker_GarrisonDB = {
 									["name"] = "维拉·阿纳尔",
 									["id"] = "0x000000000116D250",
 									["classIcon"] = "GarrMission_ClassIcon-Mage",
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 28800,
+						},
+						[192] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "1小时",
+							["id"] = 192,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 44,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["level"] = 97,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "到此为止",
+							["followerTypeID"] = 1,
+							["start"] = 1488891283,
+							["followers"] = {
+								{
+									["name"] = "罗宾·弗雷德里克森",
+									["id"] = "0x000000000116D251",
+									["iconId"] = 1066384,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -4158,9 +6466,15 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 173,
 											["name"] = "时间扭曲",
 											["icon"] = 458224,
+=======
+											["id"] = 148,
+											["name"] = "驱散魔法",
+											["icon"] = 135894,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [2]
 										{
 											["id"] = 48,
@@ -4168,6 +6482,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236819,
 										}, -- [3]
 										{
+<<<<<<< HEAD
 											["id"] = 172,
 											["name"] = "变形术",
 											["icon"] = 136071,
@@ -4352,6 +6667,135 @@ Broker_GarrisonDB = {
 											["id"] = 118,
 											["name"] = "符文武器增效",
 											["icon"] = 135372,
+=======
+											["id"] = 11,
+											["name"] = "治疗祷言",
+											["icon"] = 135943,
+										}, -- [4]
+										{
+											["id"] = 37,
+											["name"] = "野兽克星",
+											["icon"] = 298659,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 3600,
+						},
+						[666] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "4小时",
+							["id"] = 666,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\garrison_oil",
+									["quantity"] = 25,
+									["title"] = "货币奖励",
+									["currencyID"] = 1101,
+								}, -- [1]
+							},
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "不安的亡灵",
+							["followerTypeID"] = 1,
+							["start"] = 1488891292,
+							["followers"] = {
+								{
+									["name"] = "戈隆追猎者洛卡什",
+									["id"] = "0x000000000116D23C",
+									["iconId"] = 1066110,
+									["abilities"] = {
+										{
+											["id"] = 167,
+											["name"] = "冰冻陷阱",
+											["icon"] = 135834,
+										}, -- [1]
+										{
+											["id"] = 75,
+											["name"] = "经济学家",
+											["icon"] = 632354,
+										}, -- [2]
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [3]
+										{
+											["id"] = 103,
+											["name"] = "急速射击",
+											["icon"] = 132208,
+										}, -- [4]
+										{
+											["id"] = 74,
+											["name"] = "精灵一族",
+											["icon"] = 236440,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+								}, -- [1]
+								{
+									["name"] = "阿兰妮·逐血",
+									["id"] = "0x000000000116D249",
+									["iconId"] = 1066183,
+									["abilities"] = {
+										{
+											["id"] = 118,
+											["name"] = "符文武器增效",
+											["icon"] = 135372,
+										}, -- [1]
+										{
+											["id"] = 117,
+											["name"] = "心灵冰冻",
+											["icon"] = 237527,
+										}, -- [2]
+										{
+											["id"] = 48,
+											["name"] = "沼泽行者",
+											["icon"] = 236819,
+										}, -- [3]
+										{
+											["id"] = 8,
+											["name"] = "冰冷血脉",
+											["icon"] = 236833,
+										}, -- [4]
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+								}, -- [2]
+								{
+									["name"] = "尤恩·虎噬",
+									["id"] = "0x000000000116D268",
+									["iconId"] = 1066527,
+									["abilities"] = {
+										{
+											["id"] = 314,
+											["name"] = "油猴子",
+											["icon"] = 252178,
+										}, -- [1]
+										{
+											["id"] = 142,
+											["name"] = "真气波",
+											["icon"] = 606541,
+										}, -- [2]
+										{
+											["id"] = 73,
+											["name"] = "巫术狂信徒",
+											["icon"] = 236456,
+										}, -- [3]
+										{
+											["id"] = 141,
+											["name"] = "金钟罩",
+											["icon"] = 611417,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [4]
 										{
 											["id"] = 80,
@@ -4359,6 +6803,7 @@ Broker_GarrisonDB = {
 											["icon"] = 975743,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066212,
 								}, -- [1]
 							},
@@ -4432,20 +6877,47 @@ Broker_GarrisonDB = {
 						},
 						[430] = {
 							["type"] = "战斗",
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 14400,
+						},
+						[430] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "4小时",
+							["id"] = 430,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["rewards"] = {
 								{
 									["itemID"] = 122484,
 									["quantity"] = 1,
 								}, -- [1]
 							},
+<<<<<<< HEAD
 							["missionState"] = 0,
 							["id"] = 430,
 							["duration"] = 14400,
+=======
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "黑手的熔炉",
+							["followerTypeID"] = 1,
+							["start"] = 1488891288,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "艾伊",
 									["id"] = "0x000000000116D24A",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Druid",
+=======
+									["iconId"] = 1066278,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 70,
@@ -4473,12 +6945,20 @@ Broker_GarrisonDB = {
 											["icon"] = 135987,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066278,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "塔瓦",
 									["id"] = "0x000000000116D24B",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+=======
+									["iconId"] = 1086441,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 126,
@@ -4506,12 +6986,20 @@ Broker_GarrisonDB = {
 											["icon"] = 252178,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086441,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "奥格里兹·钩喉",
 									["id"] = "0x000000000116D264",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+=======
+									["iconId"] = 1086377,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 314,
@@ -4539,6 +7027,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236695,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086377,
 								}, -- [3]
 							},
@@ -4694,6 +7183,97 @@ Broker_GarrisonDB = {
 									["name"] = "罗宾·弗雷德里克森",
 									["id"] = "0x000000000116D251",
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 14400,
+						},
+						[159] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "1小时30分钟",
+							["id"] = 159,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 700,
+									["tooltip"] = "+700经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+700经验值",
+								}, -- [1]
+							},
+							["level"] = 96,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "美妙的痛苦",
+							["followerTypeID"] = 1,
+							["start"] = 1488891300,
+							["followers"] = {
+								{
+									["name"] = "奥拉夫·布莱特比尔",
+									["id"] = "0x000000000116D256",
+									["iconId"] = 1066212,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 117,
+											["name"] = "心灵冰冻",
+											["icon"] = 237527,
+										}, -- [2]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [3]
+										{
+											["id"] = 118,
+											["name"] = "符文武器增效",
+											["icon"] = 135372,
+										}, -- [4]
+										{
+											["id"] = 80,
+											["name"] = "额外训练",
+											["icon"] = 975743,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 5400,
+						},
+						[189] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "45分钟",
+							["id"] = 189,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 38,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["level"] = 94,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "多数人的需求",
+							["followerTypeID"] = 1,
+							["start"] = 1488891281,
+							["followers"] = {
+								{
+									["name"] = "不忠的露西娅",
+									["id"] = "0x000000000116D24F",
+									["iconId"] = 1066291,
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -4706,11 +7286,200 @@ Broker_GarrisonDB = {
 											["icon"] = 135894,
 										}, -- [2]
 										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [3]
+										{
+											["id"] = 11,
+											["name"] = "治疗祷言",
+											["icon"] = 135943,
+										}, -- [4]
+										{
+											["id"] = 69,
+											["name"] = "酒鬼",
+											["icon"] = 626190,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 2700,
+						},
+						[499] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "10小时",
+							["id"] = 499,
+							["rewards"] = {
+								{
+									["itemID"] = 122583,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "你，机器人",
+							["followerTypeID"] = 1,
+							["start"] = 1488891294,
+							["followers"] = {
+								{
+									["name"] = "莱奥纳斯·日怒",
+									["id"] = "0x000000000116D254",
+									["iconId"] = 1066323,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 6,
+											["name"] = "盾墙",
+											["icon"] = 132362,
+										}, -- [2]
+										{
+											["id"] = 39,
+											["name"] = "原兽克星",
+											["icon"] = 254105,
+										}, -- [3]
+										{
+											["id"] = 121,
+											["name"] = "拳击",
+											["icon"] = 132938,
+										}, -- [4]
+										{
+											["id"] = 46,
+											["name"] = "游击队员",
+											["icon"] = 236850,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+								}, -- [1]
+								{
+									["name"] = "塔玛·天蹄",
+									["id"] = "0x000000000116D257",
+									["iconId"] = 1066264,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 139,
+											["name"] = "超凡之盟",
+											["icon"] = 136060,
+										}, -- [2]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [3]
+										{
+											["id"] = 182,
+											["name"] = "急奔",
+											["icon"] = 132120,
+										}, -- [4]
+										{
+											["id"] = 46,
+											["name"] = "游击队员",
+											["icon"] = 236850,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+								}, -- [2]
+								{
+									["name"] = "卡拉",
+									["id"] = "0x000000000116D239",
+									["iconId"] = 1066122,
+									["abilities"] = {
+										{
+											["id"] = 159,
+											["name"] = "闪避",
+											["icon"] = 136205,
+										}, -- [1]
+										{
+											["id"] = 105,
+											["name"] = "脚踢",
+											["icon"] = 132219,
+										}, -- [2]
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [3]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [4]
+										{
+											["id"] = 7,
+											["name"] = "登山家",
+											["icon"] = 236848,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 36000,
+						},
+						[157] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "30分钟",
+							["id"] = 157,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 600,
+									["tooltip"] = "+600经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+600经验值",
+								}, -- [1]
+							},
+							["level"] = 95,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "盗匪绝迹",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["followers"] = {
+								{
+									["name"] = "维拉·阿纳尔",
+									["id"] = "0x000000000116D250",
+									["iconId"] = 1066158,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+<<<<<<< HEAD
+											["id"] = 148,
+											["name"] = "驱散魔法",
+											["icon"] = 135894,
+=======
+											["id"] = 173,
+											["name"] = "时间扭曲",
+											["icon"] = 458224,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+										}, -- [2]
+										{
 											["id"] = 48,
 											["name"] = "沼泽行者",
 											["icon"] = 236819,
 										}, -- [3]
 										{
+<<<<<<< HEAD
 											["id"] = 11,
 											["name"] = "治疗祷言",
 											["icon"] = 135943,
@@ -4737,22 +7506,50 @@ Broker_GarrisonDB = {
 					},
 					["tooltipEnabled"] = true,
 					["garrisonCacheLastLooted"] = 1489066572,
+=======
+											["id"] = 172,
+											["name"] = "变形术",
+											["icon"] = 136071,
+										}, -- [4]
+										{
+											["id"] = 69,
+											["name"] = "酒鬼",
+											["icon"] = 626190,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 1800,
+						},
+					},
+					["tooltipEnabled"] = true,
+					["order"] = 5,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["currencySealOfTemperedFateAmount"] = 15,
 					["invasion"] = {
 						["available"] = false,
 					},
 					["buildingsExpanded"] = true,
+<<<<<<< HEAD
 					["buildings"] = {
 						[24] = {
 							["hasFollowerSlot"] = false,
 							["rank"] = 3,
 							["id"] = 10,
 							["plotID"] = 24,
+=======
+					["missionsExpanded"] = true,
+					["buildings"] = {
+						[24] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["shipment"] = {
 								["texture"] = 975736,
 								["name"] = "战争工坊",
 								["shipmentCapacity"] = 26,
 							},
+<<<<<<< HEAD
 							["isBuilding"] = false,
 							["buildTime"] = 3600,
 							["canActivate"] = false,
@@ -4760,19 +7557,35 @@ Broker_GarrisonDB = {
 							["timeStart"] = 1422963394,
 							["texPrefix"] = "GarrBuilding_Armory_3_H",
 							["plotSize"] = 3,
+=======
+							["id"] = 10,
+							["plotID"] = 24,
+							["rank"] = 3,
+							["plotSize"] = 3,
+							["buildTime"] = 3600,
+							["isBuilding"] = false,
+							["name"] = "战争工坊",
+							["timeStart"] = 1422963394,
+							["texPrefix"] = "GarrBuilding_Armory_3_H",
+							["canActivate"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["icon"] = 975736,
 							["buildingState"] = 0,
 						},
 						[25] = {
+<<<<<<< HEAD
 							["hasFollowerSlot"] = false,
 							["rank"] = 3,
 							["id"] = 145,
 							["plotID"] = 25,
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["shipment"] = {
 								["texture"] = 975746,
 								["name"] = "货栈",
 								["shipmentCapacity"] = 26,
 							},
+<<<<<<< HEAD
 							["isBuilding"] = false,
 							["buildTime"] = 3600,
 							["canActivate"] = false,
@@ -4830,21 +7643,101 @@ Broker_GarrisonDB = {
 							["id"] = 207,
 							["plotID"] = 98,
 							["rank"] = 3,
+=======
+							["id"] = 145,
+							["plotID"] = 25,
+							["rank"] = 3,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["isBuilding"] = false,
+							["name"] = "货栈",
+							["timeStart"] = 1450511362,
+							["texPrefix"] = "GarrBuilding_TradingPost_3_H",
+							["canActivate"] = false,
+							["icon"] = 975746,
+							["buildingState"] = 0,
+						},
+						[63] = {
+							["shipment"] = {
+								["shipmentsAvailable"] = 15,
+								["itemName"] = "药圃",
+								["texture"] = 134221,
+								["shipmentCapacity"] = 19,
+								["notificationValue"] = 4,
+								["duration"] = 0,
+								["shipmentsReadyEstimate"] = 4,
+								["notification"] = 1,
+								["shipmentsInProgress"] = 0,
+								["notificationDismissed"] = false,
+								["name"] = "药圃",
+								["shipmentsTotal"] = 4,
+								["itemID"] = 116054,
+								["creationTime"] = 0,
+								["shipmentsReady"] = 4,
+								["itemQuality"] = 1,
+							},
+							["id"] = 136,
+							["plotID"] = 63,
+							["rank"] = 2,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["isBuilding"] = false,
+							["name"] = "药圃",
+							["timeStart"] = 1428104461,
+							["texPrefix"] = "GarrBuilding_Farm_1_H",
+							["canActivate"] = false,
+							["icon"] = 134221,
+							["buildingState"] = 0,
+						},
+						[18] = {
+							["shipment"] = {
+								["texture"] = 133611,
+								["name"] = "制革厂",
+								["shipmentCapacity"] = 19,
+							},
+							["id"] = 121,
+							["plotID"] = 18,
+							["rank"] = 2,
+							["plotSize"] = 1,
+							["buildTime"] = 3600,
+							["isBuilding"] = false,
+							["name"] = "制革厂",
+							["timeStart"] = 1422628344,
+							["texPrefix"] = "GarrBuilding_Leatherworking_2_H",
+							["canActivate"] = false,
+							["icon"] = 133611,
+							["buildingState"] = 0,
+						},
+						[98] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["shipment"] = {
 								["texture"] = 1126431,
 								["name"] = "霜壁船坞",
 								["shipmentCapacity"] = 1,
 							},
+<<<<<<< HEAD
 							["buildTime"] = 0,
 							["isBuilding"] = false,
 							["name"] = "霜壁船坞",
 							["timeStart"] = 1441886755,
 							["texPrefix"] = "GarrBuilding_Armory_1_A",
 							["canActivate"] = false,
+=======
+							["id"] = 207,
+							["plotID"] = 98,
+							["rank"] = 3,
+							["buildTime"] = 0,
+							["canActivate"] = false,
+							["name"] = "霜壁船坞",
+							["isBuilding"] = false,
+							["texPrefix"] = "GarrBuilding_Armory_1_A",
+							["timeStart"] = 1441886755,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["icon"] = 1126431,
 							["buildingState"] = 0,
 						},
 						[20] = {
+<<<<<<< HEAD
 							["hasFollowerSlot"] = false,
 							["rank"] = 1,
 							["id"] = 51,
@@ -4917,10 +7810,60 @@ Broker_GarrisonDB = {
 							["timeStart"] = 1430997928,
 							["texPrefix"] = "GarrBuilding_Inn_3_H",
 							["plotSize"] = 2,
+=======
+							["shipment"] = {
+							},
+							["id"] = 51,
+							["plotID"] = 20,
+							["rank"] = 1,
+							["plotSize"] = 1,
+							["buildTime"] = 3600,
+							["isBuilding"] = false,
+							["name"] = "仓库",
+							["timeStart"] = 1428285709,
+							["texPrefix"] = "GarrBuilding_Storehouse_1_H",
+							["canActivate"] = false,
+							["icon"] = 975745,
+							["buildingState"] = 0,
+						},
+						[59] = {
+							["shipment"] = {
+								["texture"] = 136248,
+								["name"] = "霜壁矿井",
+								["shipmentCapacity"] = 12,
+							},
+							["id"] = 61,
+							["plotID"] = 59,
+							["rank"] = 1,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["isBuilding"] = false,
+							["name"] = "霜壁矿井",
+							["timeStart"] = 1422761066,
+							["texPrefix"] = "GarrBuilding_Mine_1_H",
+							["canActivate"] = false,
+							["icon"] = 136248,
+							["buildingState"] = 0,
+						},
+						[22] = {
+							["shipment"] = {
+							},
+							["id"] = 36,
+							["plotID"] = 22,
+							["rank"] = 3,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["isBuilding"] = false,
+							["name"] = "霜壁旅社",
+							["timeStart"] = 1430997928,
+							["texPrefix"] = "GarrBuilding_Inn_3_H",
+							["canActivate"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["icon"] = 134414,
 							["buildingState"] = 0,
 						},
 						[23] = {
+<<<<<<< HEAD
 							["hasFollowerSlot"] = true,
 							["rank"] = 3,
 							["icon"] = 975738,
@@ -4953,10 +7896,41 @@ Broker_GarrisonDB = {
 							["timeStart"] = 1422883138,
 							["texPrefix"] = "GarrBuilding_SalvageYard_1_H",
 							["plotSize"] = 1,
+=======
+							["shipment"] = {
+							},
+							["id"] = 28,
+							["plotID"] = 23,
+							["rank"] = 3,
+							["plotSize"] = 3,
+							["buildTime"] = 3600,
+							["isBuilding"] = false,
+							["name"] = "兵营",
+							["timeStart"] = 1425553566,
+							["texPrefix"] = "GarrBuilding_Barracks_3_H",
+							["canActivate"] = false,
+							["icon"] = 975738,
+							["buildingState"] = 0,
+						},
+						[19] = {
+							["shipment"] = {
+							},
+							["id"] = 141,
+							["plotID"] = 19,
+							["rank"] = 3,
+							["plotSize"] = 1,
+							["buildTime"] = 3600,
+							["isBuilding"] = false,
+							["name"] = "废品站",
+							["timeStart"] = 1422883138,
+							["texPrefix"] = "GarrBuilding_SalvageYard_1_H",
+							["canActivate"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["icon"] = 975742,
 							["buildingState"] = 0,
 						},
 					},
+<<<<<<< HEAD
 					["missionsExpanded"] = true,
 					["weeklyNextReset"] = 1489618799,
 					["shipments"] = {
@@ -4967,6 +7941,15 @@ Broker_GarrisonDB = {
 						["WARMILL_SOTF"] = false,
 						["BONUS_ROLL_QUESTS"] = 0,
 					},
+=======
+					["ldbEnabled"] = true,
+					["shipments"] = {
+					},
+					["lootedToday"] = {
+					},
+					["currencyOrderResourcesAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["notificationEnabled"] = true,
 					["looseShipments"] = {
 					},
@@ -4974,11 +7957,19 @@ Broker_GarrisonDB = {
 					["followerShipments"] = {
 					},
 					["currencyApexisAmount"] = 60249,
+<<<<<<< HEAD
 					["currencyOil"] = 2240,
 					["currencyArtifactKnowledge"] = 0,
 					["currencySealOfInevitableFateAmount"] = 12,
 					["orderhallExpanded"] = true,
 					["currencyAncientManaAmount"] = 0,
+=======
+					["currencyAncientManaAmount"] = 0,
+					["currencyArtifactKnowledge"] = 0,
+					["currencySealOfInevitableFateAmount"] = 12,
+					["orderhallExpanded"] = true,
+					["currencyOil"] = 2240,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["info"] = {
 						["realmName"] = "迦罗娜",
 						["playerClass"] = "HUNTER",
@@ -4988,11 +7979,21 @@ Broker_GarrisonDB = {
 					},
 					["trackDaily"] = {
 					},
+<<<<<<< HEAD
 					["lootedToday"] = {
 					},
 					["ldbEnabled"] = true,
 					["currencyAmount"] = 3324,
 					["order"] = 5,
+=======
+					["trackWeekly"] = {
+						["BONUS_ROLL_QUESTS"] = 0,
+						["WARMILL_SOTF"] = false,
+					},
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 2143,
+					["garrisonCacheLastLooted"] = 1489066572,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				},
 				["Bbxl"] = {
 					["categories"] = {
@@ -5023,11 +8024,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "亡灵群攻",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["id"] = 425,
+=======
+							["id"] = 425,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[426] = {
 							["isBeingResearched"] = false,
@@ -5054,11 +8063,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "死神脚步",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["id"] = 426,
+=======
+							["id"] = 426,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[427] = {
 							["isBeingResearched"] = false,
@@ -5085,11 +8102,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "墓穴的召唤",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["id"] = 427,
+=======
+							["id"] = 427,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[428] = {
 							["isBeingResearched"] = false,
@@ -5105,10 +8130,17 @@ Broker_GarrisonDB = {
 							["id"] = 428,
 							["researchCurrency"] = 1220,
 							["name"] = "构造区",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[429] = {
 							["isBeingResearched"] = false,
@@ -5124,10 +8156,17 @@ Broker_GarrisonDB = {
 							["id"] = 429,
 							["researchCurrency"] = 1220,
 							["name"] = "仗剑为生",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[430] = {
 							["isBeingResearched"] = false,
@@ -5143,10 +8182,17 @@ Broker_GarrisonDB = {
 							["id"] = 430,
 							["researchCurrency"] = 1220,
 							["name"] = "黑暗骑士",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[431] = {
 							["isBeingResearched"] = false,
@@ -5173,11 +8219,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "复活憎恶",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["id"] = 431,
+=======
+							["id"] = 431,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[432] = {
 							["isBeingResearched"] = false,
@@ -5193,10 +8247,17 @@ Broker_GarrisonDB = {
 							["id"] = 432,
 							["researchCurrency"] = 1220,
 							["name"] = "冰霜巨龙",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[433] = {
 							["isBeingResearched"] = false,
@@ -5212,10 +8273,17 @@ Broker_GarrisonDB = {
 							["id"] = 433,
 							["researchCurrency"] = 1220,
 							["name"] = "兄弟同袍",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[434] = {
 							["isBeingResearched"] = false,
@@ -5231,10 +8299,17 @@ Broker_GarrisonDB = {
 							["id"] = 434,
 							["researchCurrency"] = 1220,
 							["name"] = "墓穴传说",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[424] = {
 							["isBeingResearched"] = false,
@@ -5250,10 +8325,17 @@ Broker_GarrisonDB = {
 							["id"] = 424,
 							["researchCurrency"] = 1220,
 							["name"] = "死亡的恩赐",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 					},
 					["configVersion"] = 3,
@@ -5264,6 +8346,7 @@ Broker_GarrisonDB = {
 					["invasion"] = {
 					},
 					["buildingsExpanded"] = true,
+<<<<<<< HEAD
 					["missionsExpanded"] = true,
 					["buildings"] = {
 					},
@@ -5275,6 +8358,19 @@ Broker_GarrisonDB = {
 					["currencyOrderResourcesAmount"] = 0,
 					["lootedNextReset"] = 1489618799,
 					["notificationEnabled"] = true,
+=======
+					["lootedToday"] = {
+					},
+					["missionsExpanded"] = true,
+					["lootedNextReset"] = 1489445999,
+					["shipments"] = {
+					},
+					["weeklyNextReset"] = 1489618799,
+					["currencyOrderResourcesAmount"] = 0,
+					["trackWeekly"] = {
+					},
+					["cacheSize"] = 500,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["looseShipments"] = {
 					},
 					["currencyOil"] = 0,
@@ -5283,6 +8379,7 @@ Broker_GarrisonDB = {
 					["currencyApexisAmount"] = 0,
 					["currencyAncientManaAmount"] = 0,
 					["currencyArtifactKnowledge"] = 0,
+<<<<<<< HEAD
 					["order"] = 5,
 					["orderhallExpanded"] = true,
 					["currencySealOfInevitableFateAmount"] = 0,
@@ -5298,6 +8395,23 @@ Broker_GarrisonDB = {
 					["weeklyNextReset"] = 1489618799,
 					["currencyAmount"] = 0,
 					["lootedToday"] = {
+=======
+					["currencySealOfInevitableFateAmount"] = 0,
+					["orderhallExpanded"] = true,
+					["order"] = 5,
+					["info"] = {
+						["playerName"] = "Bbxl",
+						["playerFaction"] = "Horde",
+						["realmName"] = "迦罗娜",
+						["playerClass"] = "DEATHKNIGHT",
+					},
+					["trackDaily"] = {
+					},
+					["notificationEnabled"] = true,
+					["ldbEnabled"] = true,
+					["currencyAmount"] = 0,
+					["buildings"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					},
 				},
 				["最后的悠悠"] = {
@@ -5318,10 +8432,17 @@ Broker_GarrisonDB = {
 							["id"] = 369,
 							["researchCurrency"] = 1220,
 							["name"] = "粗犷升级",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[370] = {
 							["isBeingResearched"] = false,
@@ -5348,11 +8469,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "百步穿杨",
+<<<<<<< HEAD
 							["id"] = 370,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 370,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[371] = {
 							["isBeingResearched"] = false,
@@ -5379,11 +8508,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "逃脱",
+<<<<<<< HEAD
 							["id"] = 371,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 371,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[372] = {
 							["isBeingResearched"] = false,
@@ -5410,11 +8547,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "牢固营帐",
+<<<<<<< HEAD
 							["id"] = 372,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["id"] = 372,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[373] = {
 							["isBeingResearched"] = false,
@@ -5430,10 +8575,17 @@ Broker_GarrisonDB = {
 							["id"] = 373,
 							["researchCurrency"] = 1220,
 							["name"] = "鹰眼",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[374] = {
 							["isBeingResearched"] = false,
@@ -5449,10 +8601,17 @@ Broker_GarrisonDB = {
 							["id"] = 374,
 							["researchCurrency"] = 1220,
 							["name"] = "荒野呼唤",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[375] = {
 							["isBeingResearched"] = false,
@@ -5468,10 +8627,17 @@ Broker_GarrisonDB = {
 							["id"] = 375,
 							["researchCurrency"] = 1220,
 							["name"] = "巨鹰盟友",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[376] = {
 							["isBeingResearched"] = false,
@@ -5498,11 +8664,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "寻觅补给",
+<<<<<<< HEAD
 							["id"] = 376,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 376,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[377] = {
 							["isBeingResearched"] = false,
@@ -5518,10 +8692,17 @@ Broker_GarrisonDB = {
 							["id"] = 377,
 							["researchCurrency"] = 1220,
 							["name"] = "隐秘通途",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[378] = {
 							["isBeingResearched"] = false,
@@ -5537,10 +8718,17 @@ Broker_GarrisonDB = {
 							["id"] = 378,
 							["researchCurrency"] = 1220,
 							["name"] = "箭弹工场",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[379] = {
 							["isBeingResearched"] = false,
@@ -5556,16 +8744,24 @@ Broker_GarrisonDB = {
 							["id"] = 379,
 							["researchCurrency"] = 1220,
 							["name"] = "荒野传说",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 					},
 					["configVersion"] = 3,
 					["missions"] = {
 						[663] = {
 							["type"] = "战斗",
+<<<<<<< HEAD
 							["rewards"] = {
 								{
 									["title"] = "货币奖励",
@@ -5577,11 +8773,35 @@ Broker_GarrisonDB = {
 							["missionState"] = 0,
 							["id"] = 663,
 							["duration"] = 7200,
+=======
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "2小时",
+							["id"] = 663,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\garrison_oil",
+									["quantity"] = 25,
+									["title"] = "货币奖励",
+									["currencyID"] = 1101,
+								}, -- [1]
+							},
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "沼泽荧光虫蜜",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "切莉",
 									["id"] = "0x00000000011C2AC8",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+=======
+									["iconId"] = 1086364,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -5609,12 +8829,20 @@ Broker_GarrisonDB = {
 											["icon"] = 631718,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086364,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "梵拉",
 									["id"] = "0x00000000011C2ACA",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+=======
+									["iconId"] = 1086444,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -5642,12 +8870,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236830,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086444,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "欧林·棕皮",
 									["id"] = "0x00000000011C2ACB",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+=======
+									["iconId"] = 1066111,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 100,
@@ -5675,6 +8911,7 @@ Broker_GarrisonDB = {
 											["icon"] = 252178,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066111,
 								}, -- [3]
 							},
@@ -5690,20 +8927,47 @@ Broker_GarrisonDB = {
 						},
 						[200] = {
 							["type"] = "战斗",
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 7200,
+						},
+						[200] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "45分钟",
+							["id"] = 200,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["rewards"] = {
 								{
 									["itemID"] = 114094,
 									["quantity"] = 1,
 								}, -- [1]
 							},
+<<<<<<< HEAD
 							["missionState"] = 0,
 							["id"] = 200,
 							["duration"] = 2700,
+=======
+							["level"] = 95,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "恶魔的报应",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "奥姆利尔·锋刃",
 									["id"] = "0x00000000011C2ADB",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+=======
+									["iconId"] = 1066451,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -5731,12 +8995,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236440,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066451,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "“晨星”墨丘鲁斯",
 									["id"] = "0x00000000011C2AD8",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Mage",
+=======
+									["iconId"] = 1086388,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -5764,12 +9036,20 @@ Broker_GarrisonDB = {
 											["icon"] = 897144,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086388,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "沃莫图",
 									["id"] = "0x00000000011C2AD4",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
+=======
+									["iconId"] = 1066371,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 79,
@@ -5797,6 +9077,7 @@ Broker_GarrisonDB = {
 											["icon"] = 952507,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066371,
 								}, -- [3]
 							},
@@ -5823,11 +9104,43 @@ Broker_GarrisonDB = {
 							["missionState"] = 0,
 							["id"] = 285,
 							["duration"] = 21600,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 2700,
+						},
+						[285] = {
+							["type"] = "寻宝",
+							["typeAtlas"] = "GarrMission_MissionIcon-Trading",
+							["timeLeft"] = "6小时",
+							["id"] = 285,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 100,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "至高无上的荆棘大王",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "提格瓦",
 									["id"] = "0x00000000011C2ADC",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Mage",
+=======
+									["iconId"] = 1066522,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -5855,12 +9168,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236440,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066522,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "娜迪娅·暗日",
 									["id"] = "0x00000000011C2ADD",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+=======
+									["iconId"] = 1066498,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -5888,6 +9209,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236454,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066498,
 								}, -- [2]
 							},
@@ -5914,11 +9236,43 @@ Broker_GarrisonDB = {
 							["missionState"] = 0,
 							["id"] = 279,
 							["duration"] = 3600,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["duration"] = 21600,
+						},
+						[279] = {
+							["type"] = "寻宝",
+							["typeAtlas"] = "GarrMission_MissionIcon-Trading",
+							["timeLeft"] = "1小时",
+							["id"] = 279,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 60,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["level"] = 94,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "圣光之墓",
+							["followerTypeID"] = 1,
+							["start"] = 1487161592,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "秋·蛮心",
 									["id"] = "0x00000000011C2AD6",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+=======
+									["iconId"] = 1066489,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -5946,6 +9300,7 @@ Broker_GarrisonDB = {
 											["icon"] = 298659,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066489,
 								}, -- [1]
 							},
@@ -5961,20 +9316,47 @@ Broker_GarrisonDB = {
 						},
 						[129] = {
 							["type"] = "战斗",
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 3600,
+						},
+						[129] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "2小时",
+							["id"] = 129,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["rewards"] = {
 								{
 									["itemID"] = 114616,
 									["quantity"] = 1,
 								}, -- [1]
 							},
+<<<<<<< HEAD
 							["missionState"] = 0,
 							["id"] = 129,
 							["duration"] = 7200,
+=======
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "刃月的秘密",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "泰拉·碎脉",
 									["id"] = "0x00000000011C2ADA",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Mage",
+=======
+									["iconId"] = 1066359,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -6002,12 +9384,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236456,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066359,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "奥利维拉·洛根",
 									["id"] = "0x00000000011C2ADF",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+=======
+									["iconId"] = 1066398,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -6035,12 +9425,20 @@ Broker_GarrisonDB = {
 											["icon"] = 631718,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066398,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "乌娜·斯莱舍",
 									["id"] = "0x00000000011C2ACE",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
+=======
+									["iconId"] = 1066198,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 148,
@@ -6068,6 +9466,7 @@ Broker_GarrisonDB = {
 											["icon"] = 897144,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066198,
 								}, -- [3]
 							},
@@ -6099,6 +9498,39 @@ Broker_GarrisonDB = {
 									["name"] = "法维拉·熊皮",
 									["id"] = "0x00000000011C2AD2",
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 7200,
+						},
+						[189] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "45分钟",
+							["id"] = 189,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 38,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["level"] = 94,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "多数人的需求",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["followers"] = {
+								{
+									["name"] = "法维拉·熊皮",
+									["id"] = "0x00000000011C2AD2",
+									["iconId"] = 1086406,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -6126,6 +9558,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236848,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086406,
 								}, -- [1]
 							},
@@ -6142,11 +9575,24 @@ Broker_GarrisonDB = {
 					},
 					["tooltipEnabled"] = true,
 					["garrisonCacheLastLooted"] = 1489201433,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 2700,
+						},
+					},
+					["tooltipEnabled"] = true,
+					["lootedToday"] = {
+					},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["currencySealOfTemperedFateAmount"] = 7,
 					["invasion"] = {
 						["available"] = false,
 					},
 					["buildingsExpanded"] = true,
+<<<<<<< HEAD
 					["missionsExpanded"] = true,
 					["buildings"] = {
 						[24] = {
@@ -6157,10 +9603,24 @@ Broker_GarrisonDB = {
 								["itemName"] = "锻造好的武器和护甲",
 								["shipmentsInProgress"] = 0,
 								["shipmentsTotal"] = 12,
+=======
+					["buildings"] = {
+						[24] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 2,
+							["id"] = 9,
+							["plotID"] = 24,
+							["shipment"] = {
+								["shipmentsAvailable"] = 7,
+								["itemName"] = "锻造好的武器和护甲",
+								["texture"] = 975736,
+								["shipmentCapacity"] = 19,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								["notificationValue"] = 12,
 								["duration"] = 0,
 								["shipmentsReadyEstimate"] = 12,
 								["notification"] = 1,
+<<<<<<< HEAD
 								["itemID"] = 120204,
 								["notificationDismissed"] = false,
 								["name"] = "战争工坊",
@@ -6173,11 +9633,24 @@ Broker_GarrisonDB = {
 							["id"] = 9,
 							["plotID"] = 24,
 							["plotSize"] = 3,
+=======
+								["notificationDismissed"] = false,
+								["shipmentsInProgress"] = 0,
+								["itemID"] = 120204,
+								["shipmentsTotal"] = 12,
+								["name"] = "战争工坊",
+								["creationTime"] = 0,
+								["shipmentsReady"] = 12,
+								["itemQuality"] = 1,
+							},
+							["isBuilding"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "战争工坊",
 							["timeStart"] = 1460508371,
 							["texPrefix"] = "GarrBuilding_Armory_2_H",
+<<<<<<< HEAD
 							["isBuilding"] = false,
 							["icon"] = 975736,
 							["rank"] = 2,
@@ -6190,10 +9663,27 @@ Broker_GarrisonDB = {
 								["itemName"] = "矿镐",
 								["shipmentsInProgress"] = 0,
 								["shipmentsTotal"] = 3,
+=======
+							["plotSize"] = 3,
+							["icon"] = 975736,
+							["buildingState"] = 0,
+						},
+						[59] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 1,
+							["id"] = 61,
+							["plotID"] = 59,
+							["shipment"] = {
+								["shipmentsAvailable"] = 9,
+								["itemName"] = "矿镐",
+								["texture"] = 136248,
+								["shipmentCapacity"] = 12,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								["notificationValue"] = 3,
 								["duration"] = 0,
 								["shipmentsReadyEstimate"] = 3,
 								["notification"] = 1,
+<<<<<<< HEAD
 								["itemID"] = 116055,
 								["notificationDismissed"] = false,
 								["name"] = "霜壁矿井",
@@ -6206,11 +9696,24 @@ Broker_GarrisonDB = {
 							["id"] = 61,
 							["plotID"] = 59,
 							["plotSize"] = 2,
+=======
+								["notificationDismissed"] = false,
+								["shipmentsInProgress"] = 0,
+								["itemID"] = 116055,
+								["shipmentsTotal"] = 3,
+								["name"] = "霜壁矿井",
+								["creationTime"] = 0,
+								["shipmentsReady"] = 3,
+								["itemQuality"] = 1,
+							},
+							["isBuilding"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "霜壁矿井",
 							["timeStart"] = 1451724454,
 							["texPrefix"] = "GarrBuilding_Mine_1_H",
+<<<<<<< HEAD
 							["isBuilding"] = false,
 							["icon"] = 136248,
 							["rank"] = 1,
@@ -6223,11 +9726,26 @@ Broker_GarrisonDB = {
 							["id"] = 51,
 							["plotID"] = 18,
 							["plotSize"] = 1,
+=======
+							["plotSize"] = 2,
+							["icon"] = 136248,
+							["buildingState"] = 0,
+						},
+						[18] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 1,
+							["id"] = 51,
+							["plotID"] = 18,
+							["shipment"] = {
+							},
+							["isBuilding"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "仓库",
 							["timeStart"] = 1452779194,
 							["texPrefix"] = "GarrBuilding_Storehouse_1_H",
+<<<<<<< HEAD
 							["isBuilding"] = false,
 							["icon"] = 975745,
 							["rank"] = 1,
@@ -6240,11 +9758,26 @@ Broker_GarrisonDB = {
 							["id"] = 36,
 							["plotID"] = 22,
 							["plotSize"] = 2,
+=======
+							["plotSize"] = 1,
+							["icon"] = 975745,
+							["buildingState"] = 0,
+						},
+						[22] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 3,
+							["id"] = 36,
+							["plotID"] = 22,
+							["shipment"] = {
+							},
+							["isBuilding"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "霜壁旅社",
 							["timeStart"] = 1459990670,
 							["texPrefix"] = "GarrBuilding_Inn_3_H",
+<<<<<<< HEAD
 							["isBuilding"] = false,
 							["icon"] = 134414,
 							["rank"] = 3,
@@ -6252,17 +9785,33 @@ Broker_GarrisonDB = {
 						[81] = {
 							["hasFollowerSlot"] = false,
 							["buildingState"] = 0,
+=======
+							["plotSize"] = 2,
+							["icon"] = 134414,
+							["buildingState"] = 0,
+						},
+						[81] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 3,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["shipment"] = {
 							},
 							["id"] = 168,
 							["plotID"] = 81,
+<<<<<<< HEAD
 							["plotSize"] = 2,
 							["buildTime"] = 3600,
 							["canActivate"] = false,
+=======
+							["isBuilding"] = false,
+							["canActivate"] = false,
+							["buildTime"] = 3600,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["notification"] = 1,
 							["name"] = "宠物小窝",
 							["timeStart"] = 1488211151,
 							["texPrefix"] = "GarrBuilding_PetStable_1_H",
+<<<<<<< HEAD
 							["isBuilding"] = false,
 							["icon"] = 975741,
 							["rank"] = 3,
@@ -6297,11 +9846,48 @@ Broker_GarrisonDB = {
 							["id"] = 111,
 							["plotID"] = 25,
 							["plotSize"] = 2,
+=======
+							["plotSize"] = 2,
+							["icon"] = 975741,
+							["buildingState"] = 0,
+						},
+						[23] = {
+							["hasFollowerSlot"] = true,
+							["rank"] = 3,
+							["icon"] = 975738,
+							["id"] = 28,
+							["plotID"] = 23,
+							["isBuilding"] = false,
+							["plotSize"] = 3,
+							["buildTime"] = 3600,
+							["timeStart"] = 1460032737,
+							["name"] = "兵营",
+							["canActivate"] = false,
+							["texPrefix"] = "GarrBuilding_Barracks_3_H",
+							["shipment"] = {
+							},
+							["follower"] = {
+							},
+							["buildingState"] = 0,
+						},
+						[25] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 1,
+							["id"] = 111,
+							["plotID"] = 25,
+							["shipment"] = {
+								["texture"] = 975746,
+								["name"] = "货栈",
+								["shipmentCapacity"] = 12,
+							},
+							["isBuilding"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "货栈",
 							["timeStart"] = 1460032757,
 							["texPrefix"] = "GarrBuilding_TradingPost_1_H",
+<<<<<<< HEAD
 							["isBuilding"] = false,
 							["icon"] = 975746,
 							["rank"] = 1,
@@ -6316,6 +9902,20 @@ Broker_GarrisonDB = {
 						["WARMILL_SOTF"] = false,
 						["BONUS_ROLL_QUESTS"] = 0,
 					},
+=======
+							["plotSize"] = 2,
+							["icon"] = 975746,
+							["buildingState"] = 0,
+						},
+					},
+					["missionsExpanded"] = true,
+					["weeklyNextReset"] = 1489618799,
+					["shipments"] = {
+					},
+					["cacheSize"] = 500,
+					["currencyOrderResourcesAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["notificationEnabled"] = true,
 					["looseShipments"] = {
 					},
@@ -6323,11 +9923,19 @@ Broker_GarrisonDB = {
 					["followerShipments"] = {
 					},
 					["currencyApexisAmount"] = 9659,
+<<<<<<< HEAD
 					["currencyAncientManaAmount"] = 0,
 					["currencyArtifactKnowledge"] = 0,
 					["order"] = 5,
 					["orderhallExpanded"] = true,
 					["currencySealOfInevitableFateAmount"] = 4,
+=======
+					["currencySealOfInevitableFateAmount"] = 4,
+					["currencyArtifactKnowledge"] = 0,
+					["order"] = 5,
+					["orderhallExpanded"] = true,
+					["currencyAncientManaAmount"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["info"] = {
 						["realmName"] = "迦罗娜",
 						["playerClass"] = "HUNTER",
@@ -6338,11 +9946,21 @@ Broker_GarrisonDB = {
 					["trackDaily"] = {
 						["WARMILL_IRONSCRAPS"] = false,
 					},
+<<<<<<< HEAD
 					["cacheSize"] = 500,
 					["weeklyNextReset"] = 1489618799,
 					["currencyAmount"] = 3484,
 					["lootedToday"] = {
 					},
+=======
+					["trackWeekly"] = {
+						["BONUS_ROLL_QUESTS"] = 0,
+						["WARMILL_SOTF"] = false,
+					},
+					["ldbEnabled"] = true,
+					["currencyAmount"] = 3484,
+					["garrisonCacheLastLooted"] = 1489201433,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				},
 				["云飞"] = {
 					["categories"] = {
@@ -6362,10 +9980,17 @@ Broker_GarrisonDB = {
 							["id"] = 369,
 							["researchCurrency"] = 1220,
 							["name"] = "粗犷升级",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[370] = {
 							["isBeingResearched"] = false,
@@ -6392,11 +10017,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "百步穿杨",
+<<<<<<< HEAD
 							["id"] = 370,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 370,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[371] = {
 							["isBeingResearched"] = false,
@@ -6423,11 +10056,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "逃脱",
+<<<<<<< HEAD
 							["id"] = 371,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 371,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[372] = {
 							["isBeingResearched"] = false,
@@ -6454,11 +10095,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "牢固营帐",
+<<<<<<< HEAD
 							["id"] = 372,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["id"] = 372,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[373] = {
 							["isBeingResearched"] = false,
@@ -6474,10 +10123,17 @@ Broker_GarrisonDB = {
 							["id"] = 373,
 							["researchCurrency"] = 1220,
 							["name"] = "鹰眼",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[374] = {
 							["isBeingResearched"] = false,
@@ -6493,10 +10149,17 @@ Broker_GarrisonDB = {
 							["id"] = 374,
 							["researchCurrency"] = 1220,
 							["name"] = "荒野呼唤",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[375] = {
 							["isBeingResearched"] = false,
@@ -6512,10 +10175,17 @@ Broker_GarrisonDB = {
 							["id"] = 375,
 							["researchCurrency"] = 1220,
 							["name"] = "巨鹰盟友",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[376] = {
 							["isBeingResearched"] = false,
@@ -6542,11 +10212,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "寻觅补给",
+<<<<<<< HEAD
 							["id"] = 376,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 376,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[377] = {
 							["isBeingResearched"] = false,
@@ -6562,10 +10240,17 @@ Broker_GarrisonDB = {
 							["id"] = 377,
 							["researchCurrency"] = 1220,
 							["name"] = "隐秘通途",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[378] = {
 							["isBeingResearched"] = false,
@@ -6581,10 +10266,17 @@ Broker_GarrisonDB = {
 							["id"] = 378,
 							["researchCurrency"] = 1220,
 							["name"] = "箭弹工场",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[379] = {
 							["isBeingResearched"] = false,
@@ -6600,16 +10292,24 @@ Broker_GarrisonDB = {
 							["id"] = 379,
 							["researchCurrency"] = 1220,
 							["name"] = "荒野传说",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 					},
 					["configVersion"] = 3,
 					["missions"] = {
 						[176] = {
 							["type"] = "战斗",
+<<<<<<< HEAD
 							["timeLeft"] = "22分钟",
 							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 							["id"] = 176,
@@ -6621,11 +10321,28 @@ Broker_GarrisonDB = {
 							["name"] = "独眼魔泄密事件",
 							["followerTypeID"] = 1,
 							["start"] = 1487510777,
+=======
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 36,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 176,
+							["duration"] = 1350,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "克拉吉兹",
 									["id"] = "0x00000000011D7F6D",
+<<<<<<< HEAD
 									["iconId"] = 1066382,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -6653,6 +10370,7 @@ Broker_GarrisonDB = {
 											["icon"] = 631718,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Mage",
 								}, -- [1]
 							},
@@ -6679,11 +10397,43 @@ Broker_GarrisonDB = {
 							["name"] = "斩杀裂蹄牛",
 							["followerTypeID"] = 1,
 							["start"] = 1487510809,
+=======
+									["iconId"] = 1066382,
+								}, -- [1]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "独眼魔泄密事件",
+							["followerTypeID"] = 1,
+							["start"] = 1487510777,
+							["level"] = 93,
+							["timeLeft"] = "22分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[184] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 30,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 184,
+							["duration"] = 1800,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "卡蒂·草蹄",
 									["id"] = "0x00000000011D7F71",
+<<<<<<< HEAD
 									["iconId"] = 1066334,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -6711,6 +10461,7 @@ Broker_GarrisonDB = {
 											["icon"] = 626190,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Druid",
 								}, -- [1]
 							},
@@ -6737,11 +10488,41 @@ Broker_GarrisonDB = {
 							["name"] = "钢铁部落之心",
 							["followerTypeID"] = 1,
 							["start"] = 0,
+=======
+									["iconId"] = 1066334,
+								}, -- [1]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "斩杀裂蹄牛",
+							["followerTypeID"] = 1,
+							["start"] = 1487510809,
+							["level"] = 90,
+							["timeLeft"] = "30分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[119] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["itemID"] = 120301,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 119,
+							["duration"] = 14400,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "阿佳·破魔",
 									["id"] = "0x00000000011D7F78",
+<<<<<<< HEAD
 									["iconId"] = 1066477,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -6769,12 +10550,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236457,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+=======
+									["iconId"] = 1066477,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "卡努玛",
 									["id"] = "0x00000000011D7F69",
+<<<<<<< HEAD
 									["iconId"] = 1066369,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 79,
@@ -6802,16 +10591,35 @@ Broker_GarrisonDB = {
 											["icon"] = 409595,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warrior",
 								}, -- [2]
 							},
 							["missionState"] = 0,
+=======
+									["iconId"] = 1066369,
+								}, -- [2]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "钢铁部落之心",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 100,
+							["timeLeft"] = "4小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[127] = {
+							["type"] = "战斗",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["rewards"] = {
 								{
 									["itemID"] = 120301,
 									["quantity"] = 1,
 								}, -- [1]
 							},
+<<<<<<< HEAD
 						},
 						[127] = {
 							["type"] = "战斗",
@@ -6826,11 +10634,20 @@ Broker_GarrisonDB = {
 							["name"] = "奔向自由！",
 							["followerTypeID"] = 1,
 							["start"] = 1487510811,
+=======
+							["missionState"] = 0,
+							["id"] = 127,
+							["duration"] = 14400,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "奥术师杜克罗格",
 									["id"] = "0x00000000011D7F6A",
+<<<<<<< HEAD
 									["iconId"] = 1086382,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 79,
@@ -6858,12 +10675,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236848,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Mage",
+=======
+									["iconId"] = 1086382,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "乌娜·斯莱舍",
 									["id"] = "0x00000000011D7F64",
+<<<<<<< HEAD
 									["iconId"] = 1066198,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 148,
@@ -6891,6 +10716,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236456,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
 								}, -- [2]
 							},
@@ -6915,11 +10741,43 @@ Broker_GarrisonDB = {
 							["name"] = "燧皮的皮",
 							["followerTypeID"] = 1,
 							["start"] = 0,
+=======
+									["iconId"] = 1066198,
+								}, -- [2]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "奔向自由！",
+							["followerTypeID"] = 1,
+							["start"] = 1487510811,
+							["level"] = 100,
+							["timeLeft"] = "4小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[282] = {
+							["type"] = "寻宝",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 70,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 282,
+							["duration"] = 7200,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "罗宾·弗雷德里克森",
 									["id"] = "0x00000000011D7F6B",
+<<<<<<< HEAD
 									["iconId"] = 1066384,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -6947,12 +10805,20 @@ Broker_GarrisonDB = {
 											["icon"] = 135987,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
+=======
+									["iconId"] = 1066384,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "艾拉·寒刃",
 									["id"] = "0x00000000011D7F74",
+<<<<<<< HEAD
 									["iconId"] = 1066387,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -6980,6 +10846,7 @@ Broker_GarrisonDB = {
 											["icon"] = 298659,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Rogue",
 								}, -- [2]
 							},
@@ -7006,11 +10873,43 @@ Broker_GarrisonDB = {
 							["name"] = "至高无上的荆棘大王",
 							["followerTypeID"] = 1,
 							["start"] = 1487510798,
+=======
+									["iconId"] = 1066387,
+								}, -- [2]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "燧皮的皮",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 98,
+							["timeLeft"] = "2小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Trading",
+						},
+						[285] = {
+							["type"] = "寻宝",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 100,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 285,
+							["duration"] = 10800,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "盖亚安祖母",
 									["id"] = "0x00000000011D7F67",
+<<<<<<< HEAD
 									["iconId"] = 1084770,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 107,
@@ -7038,12 +10937,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236454,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+=======
+									["iconId"] = 1084770,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "菲德拉·哈特班德",
 									["id"] = "0x00000000011D7F6E",
+<<<<<<< HEAD
 									["iconId"] = 1066295,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -7071,6 +10978,7 @@ Broker_GarrisonDB = {
 											["icon"] = 631718,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
 								}, -- [2]
 							},
@@ -7102,6 +11010,39 @@ Broker_GarrisonDB = {
 									["name"] = "乌特娜·狼眼",
 									["id"] = "0x00000000011D7F75",
 									["iconId"] = 1066240,
+=======
+									["iconId"] = 1066295,
+								}, -- [2]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "至高无上的荆棘大王",
+							["followerTypeID"] = 1,
+							["start"] = 1487510798,
+							["level"] = 100,
+							["timeLeft"] = "3小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Trading",
+						},
+						[665] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 25,
+									["icon"] = "Interface\\Icons\\garrison_oil",
+									["currencyID"] = 1101,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 665,
+							["duration"] = 14400,
+							["followers"] = {
+								{
+									["name"] = "霍米佳",
+									["id"] = "0x00000000011D7F70",
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -7109,6 +11050,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 107,
 											["name"] = "净化灵魂",
 											["icon"] = 236288,
@@ -7160,6 +11102,132 @@ Broker_GarrisonDB = {
 									["name"] = "布拉克·碎盾",
 									["id"] = "0x00000000011D7F73",
 									["iconId"] = 1066512,
+=======
+											["id"] = 134,
+											["name"] = "纠缠根须",
+											["icon"] = 136100,
+										}, -- [2]
+										{
+											["id"] = 70,
+											["name"] = "德拉诺之子",
+											["icon"] = 236451,
+										}, -- [3]
+										{
+											["id"] = 108,
+											["name"] = "咆哮",
+											["icon"] = 132270,
+										}, -- [4]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [5]
+									},
+									["iconId"] = 1066275,
+								}, -- [1]
+								{
+									["name"] = "哈雷·苏布雷特",
+									["id"] = "0x00000000011D7F77",
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 152,
+											["name"] = "能量灌注",
+											["icon"] = 135939,
+										}, -- [2]
+										{
+											["id"] = 49,
+											["name"] = "平原旅人",
+											["icon"] = 236712,
+										}, -- [3]
+										{
+											["id"] = 148,
+											["name"] = "驱散魔法",
+											["icon"] = 135894,
+										}, -- [4]
+										{
+											["id"] = 4,
+											["name"] = "兽人克星",
+											["icon"] = 897144,
+										}, -- [5]
+									},
+									["iconId"] = 1066400,
+								}, -- [2]
+								{
+									["name"] = "马斯卡",
+									["id"] = "0x00000000011D7F76",
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 120,
+											["name"] = "顺劈斩",
+											["icon"] = 132338,
+										}, -- [2]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [3]
+										{
+											["id"] = 102,
+											["name"] = "英勇飞跃",
+											["icon"] = 236171,
+										}, -- [4]
+										{
+											["id"] = 41,
+											["name"] = "元素克星",
+											["icon"] = 254652,
+										}, -- [5]
+									},
+									["iconId"] = 1066502,
+								}, -- [3]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "烂脸",
+							["followerTypeID"] = 1,
+							["start"] = 1487510819,
+							["level"] = 100,
+							["timeLeft"] = "4小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[212] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 1200,
+									["tooltip"] = "+1,200经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+1,200经验值",
+								}, -- [1]
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 225,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["id"] = 212,
+							["duration"] = 3375,
+							["followers"] = {
+								{
+									["name"] = "布拉克·碎盾",
+									["id"] = "0x00000000011D7F73",
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -7187,12 +11255,20 @@ Broker_GarrisonDB = {
 											["icon"] = 897144,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+=======
+									["iconId"] = 1066512,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "丘克·死界",
 									["id"] = "0x00000000011D7F6F",
+<<<<<<< HEAD
 									["iconId"] = 1086380,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -7220,12 +11296,20 @@ Broker_GarrisonDB = {
 											["icon"] = 631718,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Mage",
+=======
+									["iconId"] = 1086380,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "加其兹·爆哮",
 									["id"] = "0x00000000011D7F72",
+<<<<<<< HEAD
 									["iconId"] = 1066080,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -7253,6 +11337,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236846,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
 								}, -- [3]
 							},
@@ -7286,11 +11371,43 @@ Broker_GarrisonDB = {
 							["name"] = "不安的亡灵",
 							["followerTypeID"] = 1,
 							["start"] = 1487510816,
+=======
+									["iconId"] = 1066080,
+								}, -- [3]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "猫抓热",
+							["followerTypeID"] = 1,
+							["start"] = 1487510780,
+							["level"] = 97,
+							["timeLeft"] = "56分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[666] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 25,
+									["icon"] = "Interface\\Icons\\garrison_oil",
+									["currencyID"] = 1101,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 666,
+							["duration"] = 14400,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "卡玛·箭泉",
 									["id"] = "0x00000000011D7F79",
+<<<<<<< HEAD
 									["iconId"] = 1086378,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -7318,12 +11435,20 @@ Broker_GarrisonDB = {
 											["icon"] = 252178,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+=======
+									["iconId"] = 1086378,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "迪娜·邪语",
 									["id"] = "0x00000000011D7F6C",
+<<<<<<< HEAD
 									["iconId"] = 1066483,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -7351,12 +11476,20 @@ Broker_GarrisonDB = {
 											["icon"] = 975743,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+=======
+									["iconId"] = 1066483,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "暗影猎手莱拉",
 									["id"] = "0x00000000011D7F66",
+<<<<<<< HEAD
 									["iconId"] = 1066105,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 103,
@@ -7384,6 +11517,7 @@ Broker_GarrisonDB = {
 											["icon"] = 413571,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Hunter",
 								}, -- [3]
 							},
@@ -7415,6 +11549,39 @@ Broker_GarrisonDB = {
 									["name"] = "霍米佳",
 									["id"] = "0x00000000011D7F70",
 									["iconId"] = 1066275,
+=======
+									["iconId"] = 1066105,
+								}, -- [3]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "不安的亡灵",
+							["followerTypeID"] = 1,
+							["start"] = 1487510816,
+							["level"] = 100,
+							["timeLeft"] = "4小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[194] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 48,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 194,
+							["duration"] = 2700,
+							["followers"] = {
+								{
+									["name"] = "乌特娜·狼眼",
+									["id"] = "0x00000000011D7F75",
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -7422,6 +11589,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 134,
 											["name"] = "纠缠根须",
 											["icon"] = 136100,
@@ -7525,11 +11693,50 @@ Broker_GarrisonDB = {
 					["tooltipEnabled"] = true,
 					["lootedToday"] = {
 					},
+=======
+											["id"] = 107,
+											["name"] = "净化灵魂",
+											["icon"] = 236288,
+										}, -- [2]
+										{
+											["id"] = 40,
+											["name"] = "戈隆克星",
+											["icon"] = 236412,
+										}, -- [3]
+										{
+											["id"] = 106,
+											["name"] = "治疗链",
+											["icon"] = 136042,
+										}, -- [4]
+										{
+											["id"] = 221,
+											["name"] = "史诗坐骑",
+											["icon"] = 631718,
+										}, -- [5]
+									},
+									["iconId"] = 1066240,
+								}, -- [1]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "难受的元素",
+							["followerTypeID"] = 1,
+							["start"] = 1487510804,
+							["level"] = 99,
+							["timeLeft"] = "45分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+					},
+					["tooltipEnabled"] = true,
+					["garrisonCacheLastLooted"] = 1489151502,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["currencySealOfTemperedFateAmount"] = 6,
 					["invasion"] = {
 						["available"] = false,
 					},
 					["buildingsExpanded"] = true,
+<<<<<<< HEAD
 					["buildings"] = {
 						[24] = {
 							["hasFollowerSlot"] = false,
@@ -7542,11 +11749,27 @@ Broker_GarrisonDB = {
 								["texture"] = 975736,
 							},
 							["plotSize"] = 3,
+=======
+					["missionsExpanded"] = true,
+					["buildings"] = {
+						[24] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 2,
+							["id"] = 9,
+							["plotID"] = 24,
+							["shipment"] = {
+								["texture"] = 975736,
+								["name"] = "战争工坊",
+								["shipmentCapacity"] = 19,
+							},
+							["isBuilding"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "战争工坊",
 							["timeStart"] = 1459340054,
 							["texPrefix"] = "GarrBuilding_Armory_2_H",
+<<<<<<< HEAD
 							["isBuilding"] = false,
 							["icon"] = 975736,
 							["rank"] = 2,
@@ -7562,11 +11785,29 @@ Broker_GarrisonDB = {
 								["texture"] = 975746,
 							},
 							["plotSize"] = 2,
+=======
+							["plotSize"] = 3,
+							["icon"] = 975736,
+							["buildingState"] = 0,
+						},
+						[25] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 1,
+							["id"] = 111,
+							["plotID"] = 25,
+							["shipment"] = {
+								["texture"] = 975746,
+								["name"] = "货栈",
+								["shipmentCapacity"] = 12,
+							},
+							["isBuilding"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "货栈",
 							["timeStart"] = 1458655831,
 							["texPrefix"] = "GarrBuilding_TradingPost_1_H",
+<<<<<<< HEAD
 							["isBuilding"] = false,
 							["icon"] = 975746,
 							["rank"] = 1,
@@ -7574,16 +11815,30 @@ Broker_GarrisonDB = {
 						[22] = {
 							["hasFollowerSlot"] = false,
 							["buildingState"] = 0,
+=======
+							["plotSize"] = 2,
+							["icon"] = 975746,
+							["buildingState"] = 0,
+						},
+						[22] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 3,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["id"] = 36,
 							["plotID"] = 22,
 							["shipment"] = {
 							},
+<<<<<<< HEAD
 							["plotSize"] = 2,
+=======
+							["isBuilding"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "霜壁旅社",
 							["timeStart"] = 1465264429,
 							["texPrefix"] = "GarrBuilding_Inn_3_H",
+<<<<<<< HEAD
 							["isBuilding"] = false,
 							["icon"] = 134414,
 							["rank"] = 3,
@@ -7591,16 +11846,30 @@ Broker_GarrisonDB = {
 						[19] = {
 							["hasFollowerSlot"] = false,
 							["buildingState"] = 0,
+=======
+							["plotSize"] = 2,
+							["icon"] = 134414,
+							["buildingState"] = 0,
+						},
+						[19] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["id"] = 51,
 							["plotID"] = 19,
 							["shipment"] = {
 							},
+<<<<<<< HEAD
 							["plotSize"] = 1,
+=======
+							["isBuilding"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "仓库",
 							["timeStart"] = 1458655844,
 							["texPrefix"] = "GarrBuilding_Storehouse_1_H",
+<<<<<<< HEAD
 							["isBuilding"] = false,
 							["icon"] = 975745,
 							["rank"] = 1,
@@ -7608,16 +11877,30 @@ Broker_GarrisonDB = {
 						[23] = {
 							["hasFollowerSlot"] = false,
 							["buildingState"] = 0,
+=======
+							["plotSize"] = 1,
+							["icon"] = 975745,
+							["buildingState"] = 0,
+						},
+						[23] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["id"] = 26,
 							["plotID"] = 23,
 							["shipment"] = {
 							},
+<<<<<<< HEAD
 							["plotSize"] = 3,
+=======
+							["isBuilding"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "兵营",
 							["timeStart"] = 1452692565,
 							["texPrefix"] = "GarrBuilding_Barracks_1_H",
+<<<<<<< HEAD
 							["isBuilding"] = false,
 							["icon"] = 975738,
 							["rank"] = 1,
@@ -7625,17 +11908,33 @@ Broker_GarrisonDB = {
 						[81] = {
 							["hasFollowerSlot"] = false,
 							["buildingState"] = 0,
+=======
+							["plotSize"] = 3,
+							["icon"] = 975738,
+							["buildingState"] = 0,
+						},
+						[81] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["shipment"] = {
 							},
 							["id"] = 167,
 							["plotID"] = 81,
+<<<<<<< HEAD
 							["plotSize"] = 2,
 							["buildTime"] = 3600,
 							["canActivate"] = false,
+=======
+							["isBuilding"] = false,
+							["canActivate"] = false,
+							["buildTime"] = 3600,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["notification"] = 1,
 							["name"] = "宠物小窝",
 							["timeStart"] = 1488207003,
 							["texPrefix"] = "GarrBuilding_PetStable_1_H",
+<<<<<<< HEAD
 							["isBuilding"] = false,
 							["icon"] = 975741,
 							["rank"] = 2,
@@ -7650,6 +11949,21 @@ Broker_GarrisonDB = {
 					["trackWeekly"] = {
 						["WARMILL_SOTF"] = false,
 						["BONUS_ROLL_QUESTS"] = 2,
+=======
+							["plotSize"] = 2,
+							["icon"] = 975741,
+							["buildingState"] = 0,
+						},
+					},
+					["weeklyNextReset"] = 1489618799,
+					["shipments"] = {
+					},
+					["lootedNextReset"] = 1489445999,
+					["currencyOrderResourcesAmount"] = 0,
+					["trackWeekly"] = {
+						["BONUS_ROLL_QUESTS"] = 2,
+						["WARMILL_SOTF"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					},
 					["cacheSize"] = 500,
 					["looseShipments"] = {
@@ -7658,11 +11972,19 @@ Broker_GarrisonDB = {
 					["followerShipments"] = {
 					},
 					["currencyApexisAmount"] = 11160,
+<<<<<<< HEAD
 					["order"] = 5,
 					["currencyArtifactKnowledge"] = 0,
 					["currencySealOfInevitableFateAmount"] = 5,
 					["orderhallExpanded"] = true,
 					["currencyAncientManaAmount"] = 0,
+=======
+					["currencyAncientManaAmount"] = 0,
+					["currencyArtifactKnowledge"] = 0,
+					["currencySealOfInevitableFateAmount"] = 5,
+					["orderhallExpanded"] = true,
+					["order"] = 5,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["info"] = {
 						["realmName"] = "迦罗娜",
 						["playerClass"] = "HUNTER",
@@ -7672,10 +11994,18 @@ Broker_GarrisonDB = {
 					},
 					["trackDaily"] = {
 					},
+<<<<<<< HEAD
 					["lootedNextReset"] = 1489618799,
 					["weeklyNextReset"] = 1489618799,
 					["currencyAmount"] = 3280,
 					["garrisonCacheLastLooted"] = 1489151502,
+=======
+					["notificationEnabled"] = true,
+					["ldbEnabled"] = true,
+					["currencyAmount"] = 3280,
+					["lootedToday"] = {
+					},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				},
 				["搞个大新闻"] = {
 					["categories"] = {
@@ -7706,11 +12036,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "亡灵群攻",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["id"] = 425,
+=======
+							["id"] = 425,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[426] = {
 							["isBeingResearched"] = false,
@@ -7737,11 +12075,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "死神脚步",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["id"] = 426,
+=======
+							["id"] = 426,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[427] = {
 							["isBeingResearched"] = false,
@@ -7768,11 +12114,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "墓穴的召唤",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["id"] = 427,
+=======
+							["id"] = 427,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[428] = {
 							["isBeingResearched"] = false,
@@ -7788,10 +12142,17 @@ Broker_GarrisonDB = {
 							["id"] = 428,
 							["researchCurrency"] = 1220,
 							["name"] = "构造区",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[429] = {
 							["isBeingResearched"] = false,
@@ -7807,10 +12168,17 @@ Broker_GarrisonDB = {
 							["id"] = 429,
 							["researchCurrency"] = 1220,
 							["name"] = "仗剑为生",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[430] = {
 							["isBeingResearched"] = false,
@@ -7826,10 +12194,17 @@ Broker_GarrisonDB = {
 							["id"] = 430,
 							["researchCurrency"] = 1220,
 							["name"] = "黑暗骑士",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[431] = {
 							["isBeingResearched"] = false,
@@ -7856,11 +12231,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "复活憎恶",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["id"] = 431,
+=======
+							["id"] = 431,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[432] = {
 							["isBeingResearched"] = false,
@@ -7876,10 +12259,17 @@ Broker_GarrisonDB = {
 							["id"] = 432,
 							["researchCurrency"] = 1220,
 							["name"] = "冰霜巨龙",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[433] = {
 							["isBeingResearched"] = false,
@@ -7895,10 +12285,17 @@ Broker_GarrisonDB = {
 							["id"] = 433,
 							["researchCurrency"] = 1220,
 							["name"] = "兄弟同袍",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[434] = {
 							["isBeingResearched"] = false,
@@ -7914,10 +12311,17 @@ Broker_GarrisonDB = {
 							["id"] = 434,
 							["researchCurrency"] = 1220,
 							["name"] = "墓穴传说",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[424] = {
 							["isBeingResearched"] = false,
@@ -7933,10 +12337,17 @@ Broker_GarrisonDB = {
 							["id"] = 424,
 							["researchCurrency"] = 1220,
 							["name"] = "死亡的恩赐",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 					},
 					["configVersion"] = 3,
@@ -7948,6 +12359,7 @@ Broker_GarrisonDB = {
 						["available"] = false,
 					},
 					["buildingsExpanded"] = true,
+<<<<<<< HEAD
 					["lootedToday"] = {
 					},
 					["buildings"] = {
@@ -7962,6 +12374,21 @@ Broker_GarrisonDB = {
 						["BONUS_ROLL_QUESTS"] = 0,
 					},
 					["cacheSize"] = 500,
+=======
+					["missionsExpanded"] = true,
+					["buildings"] = {
+					},
+					["trackWeekly"] = {
+						["BONUS_ROLL_QUESTS"] = 0,
+						["WARMILL_SOTF"] = false,
+					},
+					["shipments"] = {
+					},
+					["ldbEnabled"] = true,
+					["currencyOrderResourcesAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+					["notificationEnabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["looseShipments"] = {
 					},
 					["currencyOil"] = 0,
@@ -7970,6 +12397,7 @@ Broker_GarrisonDB = {
 					["currencyApexisAmount"] = 0,
 					["currencyAncientManaAmount"] = 0,
 					["currencyArtifactKnowledge"] = 0,
+<<<<<<< HEAD
 					["currencySealOfInevitableFateAmount"] = 0,
 					["orderhallExpanded"] = true,
 					["order"] = 5,
@@ -7985,6 +12413,25 @@ Broker_GarrisonDB = {
 					["ldbEnabled"] = true,
 					["currencyAmount"] = 0,
 					["missionsExpanded"] = true,
+=======
+					["order"] = 5,
+					["orderhallExpanded"] = true,
+					["currencySealOfInevitableFateAmount"] = 0,
+					["info"] = {
+						["playerName"] = "搞个大新闻",
+						["playerFaction"] = "Horde",
+						["playerClass"] = "DEATHKNIGHT",
+						["realmName"] = "迦罗娜",
+					},
+					["trackDaily"] = {
+						["WARMILL_IRONSCRAPS"] = false,
+					},
+					["cacheSize"] = 500,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 0,
+					["lootedToday"] = {
+					},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				},
 				["梁帅"] = {
 					["categories"] = {
@@ -8004,10 +12451,17 @@ Broker_GarrisonDB = {
 							["id"] = 369,
 							["researchCurrency"] = 1220,
 							["name"] = "粗犷升级",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[370] = {
 							["isBeingResearched"] = false,
@@ -8034,11 +12488,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "百步穿杨",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["id"] = 370,
+=======
+							["id"] = 370,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[371] = {
 							["isBeingResearched"] = false,
@@ -8065,11 +12527,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "逃脱",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["id"] = 371,
+=======
+							["id"] = 371,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[372] = {
 							["isBeingResearched"] = false,
@@ -8096,11 +12566,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "牢固营帐",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["id"] = 372,
+=======
+							["id"] = 372,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[373] = {
 							["isBeingResearched"] = false,
@@ -8116,10 +12594,17 @@ Broker_GarrisonDB = {
 							["id"] = 373,
 							["researchCurrency"] = 1220,
 							["name"] = "鹰眼",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[374] = {
 							["isBeingResearched"] = false,
@@ -8135,10 +12620,17 @@ Broker_GarrisonDB = {
 							["id"] = 374,
 							["researchCurrency"] = 1220,
 							["name"] = "荒野呼唤",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[375] = {
 							["isBeingResearched"] = false,
@@ -8154,10 +12646,17 @@ Broker_GarrisonDB = {
 							["id"] = 375,
 							["researchCurrency"] = 1220,
 							["name"] = "巨鹰盟友",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[376] = {
 							["isBeingResearched"] = false,
@@ -8184,11 +12683,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "寻觅补给",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["id"] = 376,
+=======
+							["id"] = 376,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[377] = {
 							["isBeingResearched"] = false,
@@ -8204,10 +12711,17 @@ Broker_GarrisonDB = {
 							["id"] = 377,
 							["researchCurrency"] = 1220,
 							["name"] = "隐秘通途",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[378] = {
 							["isBeingResearched"] = false,
@@ -8223,10 +12737,17 @@ Broker_GarrisonDB = {
 							["id"] = 378,
 							["researchCurrency"] = 1220,
 							["name"] = "箭弹工场",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[379] = {
 							["isBeingResearched"] = false,
@@ -8242,16 +12763,24 @@ Broker_GarrisonDB = {
 							["id"] = 379,
 							["researchCurrency"] = 1220,
 							["name"] = "荒野传说",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 					},
 					["configVersion"] = 3,
 					["missions"] = {
 						[260] = {
 							["type"] = "战斗",
+<<<<<<< HEAD
 							["timeLeft"] = "4小时",
 							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 							["id"] = 260,
@@ -8263,11 +12792,26 @@ Broker_GarrisonDB = {
 							["name"] = "钢花四溅",
 							["followerTypeID"] = 1,
 							["start"] = 1488025332,
+=======
+							["rewards"] = {
+								{
+									["itemID"] = 120302,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 260,
+							["duration"] = 14400,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "乌特娜·狼眼",
 									["id"] = "0x0000000001171BF6",
+<<<<<<< HEAD
 									["iconId"] = 1066240,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -8295,12 +12839,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236833,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+=======
+									["iconId"] = 1066240,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "阿霍特",
 									["id"] = "0x0000000001171BF8",
+<<<<<<< HEAD
 									["iconId"] = 1066434,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -8328,6 +12880,7 @@ Broker_GarrisonDB = {
 											["icon"] = 135987,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
 								}, -- [2]
 							},
@@ -8352,11 +12905,44 @@ Broker_GarrisonDB = {
 							["name"] = "刃拳堡",
 							["followerTypeID"] = 1,
 							["start"] = 1488025342,
+=======
+									["iconId"] = 1066434,
+								}, -- [2]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "钢花四溅",
+							["followerTypeID"] = 1,
+							["start"] = 1488025332,
+							["level"] = 100,
+							["timeLeft"] = "4小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[276] = {
+							["type"] = "巡逻",
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 15000,
+									["tooltip"] = "+15,000经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+15,000经验值",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 276,
+							["duration"] = 36000,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "杰娜·壮蹄",
 									["id"] = "0x0000000001171C01",
+<<<<<<< HEAD
 									["iconId"] = 1066152,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -8384,12 +12970,20 @@ Broker_GarrisonDB = {
 											["icon"] = 975743,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Druid",
+=======
+									["iconId"] = 1066152,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "洛卡拉",
 									["id"] = "0x0000000001171BEE",
+<<<<<<< HEAD
 									["iconId"] = 1066101,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 157,
@@ -8417,12 +13011,20 @@ Broker_GarrisonDB = {
 											["icon"] = 952507,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+=======
+									["iconId"] = 1066101,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "克拉吉兹",
 									["id"] = "0x0000000001171BFA",
+<<<<<<< HEAD
 									["iconId"] = 1066382,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -8450,6 +13052,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236833,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Mage",
 								}, -- [3]
 							},
@@ -8477,11 +13080,41 @@ Broker_GarrisonDB = {
 							["name"] = "萨格拉斯教派",
 							["followerTypeID"] = 1,
 							["start"] = 1488025313,
+=======
+									["iconId"] = 1066382,
+								}, -- [3]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "刃拳堡",
+							["followerTypeID"] = 1,
+							["start"] = 1488025342,
+							["level"] = 100,
+							["timeLeft"] = "10小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+						},
+						[126] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["itemID"] = 120302,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 126,
+							["duration"] = 14400,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "尤恩·虎噬",
 									["id"] = "0x0000000001171BFF",
+<<<<<<< HEAD
 									["iconId"] = 1066527,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -8509,12 +13142,20 @@ Broker_GarrisonDB = {
 											["icon"] = 135987,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
+=======
+									["iconId"] = 1066527,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "乌娜·斯莱舍",
 									["id"] = "0x0000000001171BEB",
+<<<<<<< HEAD
 									["iconId"] = 1066198,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 148,
@@ -8542,6 +13183,7 @@ Broker_GarrisonDB = {
 											["icon"] = 254652,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
 								}, -- [2]
 							},
@@ -8566,11 +13208,44 @@ Broker_GarrisonDB = {
 							["name"] = "鲁格多尔的匪帮",
 							["followerTypeID"] = 1,
 							["start"] = 1488025344,
+=======
+									["iconId"] = 1066198,
+								}, -- [2]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "萨格拉斯教派",
+							["followerTypeID"] = 1,
+							["start"] = 1488025313,
+							["level"] = 100,
+							["timeLeft"] = "4小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[245] = {
+							["type"] = "巡逻",
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 1500,
+									["tooltip"] = "+1,500经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+1,500经验值",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 245,
+							["duration"] = 3600,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "索罗·白蹄",
 									["id"] = "0x0000000001171C02",
+<<<<<<< HEAD
 									["iconId"] = 1066046,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -8598,12 +13273,20 @@ Broker_GarrisonDB = {
 											["icon"] = 975743,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Druid",
+=======
+									["iconId"] = 1066046,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "奇里克斯·佐布斯基",
 									["id"] = "0x0000000001171BF2",
+<<<<<<< HEAD
 									["iconId"] = 1066486,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -8631,6 +13314,7 @@ Broker_GarrisonDB = {
 											["icon"] = 952507,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warlock",
 								}, -- [2]
 							},
@@ -8658,11 +13342,43 @@ Broker_GarrisonDB = {
 							["name"] = "不能就这么回家",
 							["followerTypeID"] = 1,
 							["start"] = 1488025300,
+=======
+									["iconId"] = 1066486,
+								}, -- [2]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "鲁格多尔的匪帮",
+							["followerTypeID"] = 1,
+							["start"] = 1488025344,
+							["level"] = 99,
+							["timeLeft"] = "1小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+						},
+						[311] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 300,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 311,
+							["duration"] = 10800,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "安哈克萨",
 									["id"] = "0x0000000001171BF4",
+<<<<<<< HEAD
 									["iconId"] = 1086435,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -8690,12 +13406,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236850,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
+=======
+									["iconId"] = 1086435,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "摩哈·石皮",
 									["id"] = "0x0000000001171BF1",
+<<<<<<< HEAD
 									["iconId"] = 1066270,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 79,
@@ -8723,12 +13447,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236457,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Druid",
+=======
+									["iconId"] = 1066270,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "艾拉·寒刃",
 									["id"] = "0x0000000001171BF9",
+<<<<<<< HEAD
 									["iconId"] = 1066387,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -8756,6 +13488,7 @@ Broker_GarrisonDB = {
 											["icon"] = 631718,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Rogue",
 								}, -- [3]
 							},
@@ -8782,11 +13515,43 @@ Broker_GarrisonDB = {
 							["name"] = "谁说了算？",
 							["followerTypeID"] = 1,
 							["start"] = 1488025302,
+=======
+									["iconId"] = 1066387,
+								}, -- [3]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "不能就这么回家",
+							["followerTypeID"] = 1,
+							["start"] = 1488025300,
+							["level"] = 100,
+							["timeLeft"] = "3小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[268] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 225,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 268,
+							["duration"] = 14400,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "奥姆利尔·锋刃",
 									["id"] = "0x0000000001171C03",
+<<<<<<< HEAD
 									["iconId"] = 1066451,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -8814,12 +13579,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236454,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+=======
+									["iconId"] = 1066451,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "萨哈勒",
 									["id"] = "0x0000000001171BF3",
+<<<<<<< HEAD
 									["iconId"] = 1086450,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -8847,6 +13620,7 @@ Broker_GarrisonDB = {
 											["icon"] = 135987,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Paladin",
 								}, -- [2]
 							},
@@ -8873,11 +13647,43 @@ Broker_GarrisonDB = {
 							["name"] = "无能者乌戈洛克",
 							["followerTypeID"] = 1,
 							["start"] = 0,
+=======
+									["iconId"] = 1086450,
+								}, -- [2]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "谁说了算？",
+							["followerTypeID"] = 1,
+							["start"] = 1488025302,
+							["level"] = 100,
+							["timeLeft"] = "4小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[284] = {
+							["type"] = "寻宝",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 100,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 284,
+							["duration"] = 21600,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "娜迪娅·暗日",
 									["id"] = "0x0000000001171BFD",
+<<<<<<< HEAD
 									["iconId"] = 1066498,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -8905,12 +13711,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236451,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+=======
+									["iconId"] = 1066498,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "伊斯卡",
 									["id"] = "0x0000000001171C00",
+<<<<<<< HEAD
 									["iconId"] = 1086408,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -8938,6 +13752,7 @@ Broker_GarrisonDB = {
 											["icon"] = 409595,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
 								}, -- [2]
 							},
@@ -9002,6 +13817,39 @@ Broker_GarrisonDB = {
 									["name"] = "莫西恩·落日",
 									["id"] = "0x0000000001171BF7",
 									["iconId"] = 1066290,
+=======
+									["iconId"] = 1086408,
+								}, -- [2]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "无能者乌戈洛克",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 100,
+							["timeLeft"] = "6小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Trading",
+						},
+						[172] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 100,
+									["tooltip"] = "+100经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+100经验值",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 172,
+							["duration"] = 1800,
+							["followers"] = {
+								{
+									["name"] = "贝萨德兰·碎怒",
+									["id"] = "0x0000000001171BFC",
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -9009,6 +13857,67 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+											["id"] = 130,
+											["name"] = "神圣风暴",
+											["icon"] = 236250,
+										}, -- [2]
+										{
+											["id"] = 7,
+											["name"] = "登山家",
+											["icon"] = 236848,
+										}, -- [3]
+										{
+											["id"] = 126,
+											["name"] = "责难",
+											["icon"] = 523893,
+										}, -- [4]
+										{
+											["id"] = 41,
+											["name"] = "元素克星",
+											["icon"] = 254652,
+										}, -- [5]
+									},
+									["iconId"] = 1066261,
+								}, -- [1]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "目中无人",
+							["followerTypeID"] = 1,
+							["start"] = 1488025347,
+							["level"] = 90,
+							["timeLeft"] = "30分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[159] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 700,
+									["tooltip"] = "+700经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+700经验值",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 159,
+							["duration"] = 5400,
+							["followers"] = {
+								{
+									["name"] = "莱奥纳斯·日怒",
+									["id"] = "0x0000000001171BFB",
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+<<<<<<< HEAD
 											["id"] = 125,
 											["name"] = "清洁术",
 											["icon"] = 135949,
@@ -9053,11 +13962,64 @@ Broker_GarrisonDB = {
 							["name"] = "抢走他们的蛋！",
 							["followerTypeID"] = 1,
 							["start"] = 1488025340,
+=======
+											["id"] = 120,
+											["name"] = "顺劈斩",
+											["icon"] = 132338,
+										}, -- [2]
+										{
+											["id"] = 8,
+											["name"] = "冰冷血脉",
+											["icon"] = 236833,
+										}, -- [3]
+										{
+											["id"] = 121,
+											["name"] = "拳击",
+											["icon"] = 132938,
+										}, -- [4]
+										{
+											["id"] = 74,
+											["name"] = "精灵一族",
+											["icon"] = 236440,
+										}, -- [5]
+									},
+									["iconId"] = 1066323,
+								}, -- [1]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "美妙的痛苦",
+							["followerTypeID"] = 1,
+							["start"] = 1488025350,
+							["level"] = 96,
+							["timeLeft"] = "1小时30分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[257] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 12000,
+									["tooltip"] = "+12,000经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+12,000经验值",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 257,
+							["duration"] = 28800,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "薇薇安",
 									["id"] = "0x0000000001171BEC",
+<<<<<<< HEAD
 									["iconId"] = 1066126,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 231,
@@ -9085,12 +14047,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236850,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Mage",
+=======
+									["iconId"] = 1066126,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "切莉",
 									["id"] = "0x0000000001171BF0",
+<<<<<<< HEAD
 									["iconId"] = 1086364,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 79,
@@ -9118,12 +14088,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236451,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+=======
+									["iconId"] = 1086364,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "卡拉",
 									["id"] = "0x0000000001171BEA",
+<<<<<<< HEAD
 									["iconId"] = 1066122,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 159,
@@ -9151,6 +14129,7 @@ Broker_GarrisonDB = {
 											["icon"] = 252178,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Rogue",
 								}, -- [3]
 							},
@@ -9183,6 +14162,39 @@ Broker_GarrisonDB = {
 									["name"] = "莱奥纳斯·日怒",
 									["id"] = "0x0000000001171BFB",
 									["iconId"] = 1066323,
+=======
+									["iconId"] = 1066122,
+								}, -- [3]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "抢走他们的蛋！",
+							["followerTypeID"] = 1,
+							["start"] = 1488025340,
+							["level"] = 100,
+							["timeLeft"] = "8小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[277] = {
+							["type"] = "寻宝",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 50,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 277,
+							["duration"] = 3600,
+							["followers"] = {
+								{
+									["name"] = "拉兹雷克",
+									["id"] = "0x0000000001171BFE",
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -9190,6 +14202,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 120,
 											["name"] = "顺劈斩",
 											["icon"] = 132338,
@@ -9257,6 +14270,16 @@ Broker_GarrisonDB = {
 											["id"] = 70,
 											["name"] = "德拉诺之子",
 											["icon"] = 236451,
+=======
+											["id"] = 122,
+											["name"] = "鲁莽",
+											["icon"] = 603532,
+										}, -- [2]
+										{
+											["id"] = 70,
+											["name"] = "德拉诺之子",
+											["icon"] = 236451,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [3]
 										{
 											["id"] = 120,
@@ -9269,6 +14292,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236830,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warrior",
 								}, -- [1]
 							},
@@ -9295,11 +14319,43 @@ Broker_GarrisonDB = {
 							["name"] = "打破枷锁",
 							["followerTypeID"] = 1,
 							["start"] = 1488025308,
+=======
+									["iconId"] = 1066174,
+								}, -- [1]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "蛛后阿兰妮艾",
+							["followerTypeID"] = 1,
+							["start"] = 1488025306,
+							["level"] = 92,
+							["timeLeft"] = "1小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Trading",
+						},
+						[175] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 34,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 175,
+							["duration"] = 2700,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "莱拉·皮尔森",
 									["id"] = "0x0000000001171BF5",
+<<<<<<< HEAD
 									["iconId"] = 1066525,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -9327,6 +14383,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236440,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
 								}, -- [1]
 							},
@@ -9358,6 +14415,70 @@ Broker_GarrisonDB = {
 									["name"] = "贝萨德兰·碎怒",
 									["id"] = "0x0000000001171BFC",
 									["iconId"] = 1066261,
+=======
+									["iconId"] = 1066525,
+								}, -- [1]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "打破枷锁",
+							["followerTypeID"] = 1,
+							["start"] = 1488025308,
+							["level"] = 92,
+							["timeLeft"] = "45分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[120] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["itemID"] = 120302,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 120,
+							["duration"] = 7200,
+							["followers"] = {
+								{
+									["name"] = "暗影猎手莱拉",
+									["id"] = "0x0000000001171BED",
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+									["abilities"] = {
+										{
+											["id"] = 103,
+											["name"] = "急速射击",
+											["icon"] = 132208,
+										}, -- [1]
+										{
+											["id"] = 236,
+											["name"] = "炉石专家",
+											["icon"] = 1061040,
+										}, -- [2]
+										{
+											["id"] = 9,
+											["name"] = "废土行者",
+											["icon"] = 236846,
+										}, -- [3]
+										{
+											["id"] = 165,
+											["name"] = "逃脱",
+											["icon"] = 132294,
+										}, -- [4]
+										{
+											["id"] = 221,
+											["name"] = "史诗坐骑",
+											["icon"] = 631718,
+										}, -- [5]
+									},
+									["iconId"] = 1066105,
+								}, -- [1]
+								{
+									["name"] = "莫西恩·落日",
+									["id"] = "0x0000000001171BF7",
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -9365,6 +14486,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 130,
 											["name"] = "神圣风暴",
 											["icon"] = 236250,
@@ -9402,15 +14524,61 @@ Broker_GarrisonDB = {
 					},
 					["tooltipEnabled"] = true,
 					["garrisonCacheLastLooted"] = 1488614850,
+=======
+											["id"] = 125,
+											["name"] = "清洁术",
+											["icon"] = 135949,
+										}, -- [2]
+										{
+											["id"] = 36,
+											["name"] = "恶魔克星",
+											["icon"] = 254651,
+										}, -- [3]
+										{
+											["id"] = 127,
+											["name"] = "忏悔",
+											["icon"] = 135942,
+										}, -- [4]
+										{
+											["id"] = 43,
+											["name"] = "利爪克星",
+											["icon"] = 952507,
+										}, -- [5]
+									},
+									["iconId"] = 1066290,
+								}, -- [2]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "刃牙虎人的伏击",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 100,
+							["timeLeft"] = "2小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+					},
+					["tooltipEnabled"] = true,
+					["currencyOil"] = 7590,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["currencySealOfTemperedFateAmount"] = 1,
 					["invasion"] = {
 						["available"] = false,
 					},
 					["buildingsExpanded"] = true,
+<<<<<<< HEAD
 					["buildings"] = {
 						[24] = {
 							["hasFollowerSlot"] = false,
 							["rank"] = 3,
+=======
+					["missionsExpanded"] = true,
+					["buildings"] = {
+						[24] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["id"] = 10,
 							["plotID"] = 24,
 							["shipment"] = {
@@ -9420,17 +14588,27 @@ Broker_GarrisonDB = {
 								["shipmentsReadyEstimate"] = 0,
 								["shipmentsInProgress"] = 0,
 								["name"] = "战争工坊",
+<<<<<<< HEAD
 								["texture"] = 975736,
 								["notification"] = 1,
 								["notificationDismissed"] = false,
 								["shipmentCapacity"] = 26,
 							},
 							["isBuilding"] = false,
+=======
+								["shipmentCapacity"] = 26,
+								["notificationDismissed"] = false,
+								["notification"] = 1,
+								["texture"] = 975736,
+							},
+							["plotSize"] = 3,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "战争工坊",
 							["timeStart"] = 1460726034,
 							["texPrefix"] = "GarrBuilding_Armory_3_H",
+<<<<<<< HEAD
 							["plotSize"] = 3,
 							["icon"] = 975736,
 							["buildingState"] = 0,
@@ -9446,11 +14624,29 @@ Broker_GarrisonDB = {
 								["shipmentCapacity"] = 12,
 							},
 							["isBuilding"] = false,
+=======
+							["isBuilding"] = false,
+							["icon"] = 975736,
+							["rank"] = 3,
+						},
+						[25] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["id"] = 111,
+							["plotID"] = 25,
+							["shipment"] = {
+								["shipmentCapacity"] = 12,
+								["name"] = "货栈",
+								["texture"] = 975746,
+							},
+							["plotSize"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "货栈",
 							["timeStart"] = 1458655710,
 							["texPrefix"] = "GarrBuilding_TradingPost_1_H",
+<<<<<<< HEAD
 							["plotSize"] = 2,
 							["icon"] = 975746,
 							["buildingState"] = 0,
@@ -9458,16 +14654,30 @@ Broker_GarrisonDB = {
 						[22] = {
 							["hasFollowerSlot"] = false,
 							["rank"] = 3,
+=======
+							["isBuilding"] = false,
+							["icon"] = 975746,
+							["rank"] = 1,
+						},
+						[22] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["id"] = 36,
 							["plotID"] = 22,
 							["shipment"] = {
 							},
+<<<<<<< HEAD
 							["isBuilding"] = false,
+=======
+							["plotSize"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "霜壁旅社",
 							["timeStart"] = 1460507234,
 							["texPrefix"] = "GarrBuilding_Inn_3_H",
+<<<<<<< HEAD
 							["plotSize"] = 2,
 							["icon"] = 134414,
 							["buildingState"] = 0,
@@ -9475,16 +14685,30 @@ Broker_GarrisonDB = {
 						[81] = {
 							["hasFollowerSlot"] = false,
 							["rank"] = 1,
+=======
+							["isBuilding"] = false,
+							["icon"] = 134414,
+							["rank"] = 3,
+						},
+						[81] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["id"] = 42,
 							["plotID"] = 81,
 							["shipment"] = {
 							},
+<<<<<<< HEAD
 							["isBuilding"] = false,
+=======
+							["plotSize"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "宠物小窝",
 							["timeStart"] = 1485419882,
 							["texPrefix"] = "GarrBuilding_PetStable_1_H",
+<<<<<<< HEAD
 							["plotSize"] = 2,
 							["icon"] = 975741,
 							["buildingState"] = 0,
@@ -9511,16 +14735,49 @@ Broker_GarrisonDB = {
 						[18] = {
 							["hasFollowerSlot"] = false,
 							["rank"] = 1,
+=======
+							["isBuilding"] = false,
+							["icon"] = 975741,
+							["rank"] = 1,
+						},
+						[23] = {
+							["hasFollowerSlot"] = true,
+							["buildingState"] = 0,
+							["follower"] = {
+							},
+							["id"] = 28,
+							["plotID"] = 23,
+							["shipment"] = {
+							},
+							["plotSize"] = 3,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "兵营",
+							["timeStart"] = 1460549776,
+							["texPrefix"] = "GarrBuilding_Barracks_3_H",
+							["isBuilding"] = false,
+							["icon"] = 975738,
+							["rank"] = 3,
+						},
+						[18] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["id"] = 51,
 							["plotID"] = 18,
 							["shipment"] = {
 							},
+<<<<<<< HEAD
 							["isBuilding"] = false,
+=======
+							["plotSize"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "仓库",
 							["timeStart"] = 1458655715,
 							["texPrefix"] = "GarrBuilding_Storehouse_1_H",
+<<<<<<< HEAD
 							["plotSize"] = 1,
 							["icon"] = 975745,
 							["buildingState"] = 0,
@@ -9537,17 +14794,43 @@ Broker_GarrisonDB = {
 						["BONUS_ROLL_QUESTS"] = 0,
 					},
 					["lootedNextReset"] = 1489618799,
+=======
+							["isBuilding"] = false,
+							["icon"] = 975745,
+							["rank"] = 1,
+						},
+					},
+					["weeklyNextReset"] = 1489618799,
+					["shipments"] = {
+					},
+					["lootedToday"] = {
+					},
+					["currencyOrderResourcesAmount"] = 0,
+					["trackWeekly"] = {
+						["BONUS_ROLL_QUESTS"] = 0,
+						["WARMILL_SOTF"] = false,
+					},
+					["lootedNextReset"] = 1489445999,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["looseShipments"] = {
 					},
 					["cacheSize"] = 500,
 					["followerShipments"] = {
 					},
 					["currencyApexisAmount"] = 9268,
+<<<<<<< HEAD
 					["order"] = 5,
 					["currencyArtifactKnowledge"] = 0,
 					["currencySealOfInevitableFateAmount"] = 15,
 					["orderhallExpanded"] = true,
 					["currencyAncientManaAmount"] = 0,
+=======
+					["currencyAncientManaAmount"] = 0,
+					["currencyArtifactKnowledge"] = 0,
+					["currencySealOfInevitableFateAmount"] = 15,
+					["orderhallExpanded"] = true,
+					["order"] = 5,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["info"] = {
 						["realmName"] = "迦罗娜",
 						["playerClass"] = "HUNTER",
@@ -9557,11 +14840,18 @@ Broker_GarrisonDB = {
 					},
 					["trackDaily"] = {
 					},
+<<<<<<< HEAD
 					["lootedToday"] = {
 					},
 					["weeklyNextReset"] = 1489618799,
 					["currencyAmount"] = 7287,
 					["currencyOil"] = 7590,
+=======
+					["notificationEnabled"] = true,
+					["ldbEnabled"] = true,
+					["currencyAmount"] = 7287,
+					["garrisonCacheLastLooted"] = 1488614850,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				},
 			},
 			["日落沼泽"] = {
@@ -9581,11 +14871,16 @@ Broker_GarrisonDB = {
 					["buildingsExpanded"] = true,
 					["buildings"] = {
 					},
+<<<<<<< HEAD
 					["missionsExpanded"] = true,
+=======
+					["tooltipEnabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["cacheSize"] = 500,
 					["currencyOil"] = 0,
 					["currencyOrderResourcesAmount"] = 0,
 					["trackWeekly"] = {
+<<<<<<< HEAD
 						["BONUS_ROLL_QUESTS"] = 0,
 						["WARMILL_SOTF"] = false,
 					},
@@ -9597,6 +14892,19 @@ Broker_GarrisonDB = {
 					},
 					["currencyApexisAmount"] = 0,
 					["lootedNextReset"] = 1489618799,
+=======
+						["WARMILL_SOTF"] = false,
+						["BONUS_ROLL_QUESTS"] = 0,
+					},
+					["weeklyNextReset"] = 1489618799,
+					["looseShipments"] = {
+					},
+					["currencyAncientManaAmount"] = 0,
+					["followerShipments"] = {
+					},
+					["currencyApexisAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["currencyArtifactKnowledge"] = 0,
 					["talents"] = {
 						[395] = {
@@ -9613,10 +14921,17 @@ Broker_GarrisonDB = {
 							["id"] = 395,
 							["researchCurrency"] = 1220,
 							["name"] = "同心协力",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[396] = {
 							["isBeingResearched"] = false,
@@ -9632,10 +14947,17 @@ Broker_GarrisonDB = {
 							["id"] = 396,
 							["researchCurrency"] = 1220,
 							["name"] = "白银之手圣殿骑士",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[397] = {
 							["isBeingResearched"] = false,
@@ -9651,10 +14973,17 @@ Broker_GarrisonDB = {
 							["id"] = 397,
 							["researchCurrency"] = 1220,
 							["name"] = "银色战驹",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[398] = {
 							["isBeingResearched"] = false,
@@ -9670,10 +14999,17 @@ Broker_GarrisonDB = {
 							["id"] = 398,
 							["researchCurrency"] = 1220,
 							["name"] = "神圣意志",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[399] = {
 							["isBeingResearched"] = false,
@@ -9689,10 +15025,17 @@ Broker_GarrisonDB = {
 							["id"] = 399,
 							["researchCurrency"] = 1220,
 							["name"] = "大十字军",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[400] = {
 							["isBeingResearched"] = false,
@@ -9708,10 +15051,17 @@ Broker_GarrisonDB = {
 							["id"] = 400,
 							["researchCurrency"] = 1220,
 							["name"] = "化犁为剑",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[401] = {
 							["isBeingResearched"] = false,
@@ -9727,10 +15077,17 @@ Broker_GarrisonDB = {
 							["id"] = 401,
 							["researchCurrency"] = 1220,
 							["name"] = "正义传说",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[391] = {
 							["isBeingResearched"] = false,
@@ -9746,10 +15103,17 @@ Broker_GarrisonDB = {
 							["id"] = 391,
 							["researchCurrency"] = 1220,
 							["name"] = "圣光眷顾",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[392] = {
 							["isBeingResearched"] = false,
@@ -9776,11 +15140,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "王者祝福",
+<<<<<<< HEAD
 							["id"] = 392,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 392,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[393] = {
 							["isBeingResearched"] = false,
@@ -9807,11 +15179,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "公正祝福",
+<<<<<<< HEAD
 							["id"] = 393,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 393,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[394] = {
 							["isBeingResearched"] = false,
@@ -9838,11 +15218,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "银色召唤",
+<<<<<<< HEAD
 							["id"] = 394,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["id"] = 394,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 					},
 					["orderhallExpanded"] = true,
@@ -9850,6 +15238,7 @@ Broker_GarrisonDB = {
 					["info"] = {
 						["playerName"] = "最初的悠悠",
 						["playerFaction"] = "Alliance",
+<<<<<<< HEAD
 						["playerClass"] = "PALADIN",
 						["realmName"] = "日落沼泽",
 					},
@@ -9859,6 +15248,18 @@ Broker_GarrisonDB = {
 					["weeklyNextReset"] = 1489618799,
 					["currencyAmount"] = 0,
 					["tooltipEnabled"] = true,
+=======
+						["realmName"] = "日落沼泽",
+						["playerClass"] = "PALADIN",
+					},
+					["trackDaily"] = {
+						["WARMILL_IRONSCRAPS"] = false,
+					},
+					["notificationEnabled"] = true,
+					["ldbEnabled"] = true,
+					["currencyAmount"] = 0,
+					["missionsExpanded"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				},
 			},
 			["神圣之歌"] = {
@@ -9873,16 +15274,27 @@ Broker_GarrisonDB = {
 					},
 					["buildingsExpanded"] = true,
 					["notificationEnabled"] = true,
+<<<<<<< HEAD
 					["lootedNextReset"] = 1489618799,
 					["currencyApexisAmount"] = 0,
 					["order"] = 5,
+=======
+					["lootedNextReset"] = 1489445999,
+					["currencyApexisAmount"] = 0,
+					["missionsExpanded"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["trackWeekly"] = {
 					},
 					["info"] = {
 						["playerName"] = "弹弹堂一号",
 						["playerFaction"] = "Horde",
+<<<<<<< HEAD
 						["playerClass"] = "WARRIOR",
 						["realmName"] = "神圣之歌",
+=======
+						["realmName"] = "神圣之歌",
+						["playerClass"] = "WARRIOR",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					},
 					["trackDaily"] = {
 					},
@@ -9890,7 +15302,11 @@ Broker_GarrisonDB = {
 					},
 					["weeklyNextReset"] = 1489618799,
 					["currencyAmount"] = 0,
+<<<<<<< HEAD
 					["missionsExpanded"] = true,
+=======
+					["order"] = 5,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				},
 			},
 			["天谴之门"] = {
@@ -9911,14 +15327,22 @@ Broker_GarrisonDB = {
 					["trackWeekly"] = {
 					},
 					["currencyApexisAmount"] = 0,
+<<<<<<< HEAD
 					["lootedNextReset"] = 1489618799,
 					["tooltipEnabled"] = true,
 					["weeklyNextReset"] = 1489618799,
 					["currencyOil"] = 0,
+=======
+					["missionsExpanded"] = true,
+					["tooltipEnabled"] = true,
+					["ldbEnabled"] = true,
+					["notificationEnabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["currencySealOfInevitableFateAmount"] = 0,
 					["info"] = {
 						["playerName"] = "悠悠龟",
 						["playerFaction"] = "Horde",
+<<<<<<< HEAD
 						["realmName"] = "天谴之门",
 						["playerClass"] = "WARRIOR",
 					},
@@ -9928,6 +15352,17 @@ Broker_GarrisonDB = {
 					["ldbEnabled"] = true,
 					["currencyAmount"] = 0,
 					["missionsExpanded"] = true,
+=======
+						["playerClass"] = "WARRIOR",
+						["realmName"] = "天谴之门",
+					},
+					["trackDaily"] = {
+					},
+					["currencyOil"] = 0,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				},
 			},
 			["末日祷告祭坛"] = {
@@ -9949,10 +15384,17 @@ Broker_GarrisonDB = {
 							["id"] = 455,
 							["researchCurrency"] = 1220,
 							["name"] = "圣光装备",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[456] = {
 							["isBeingResearched"] = false,
@@ -9968,10 +15410,17 @@ Broker_GarrisonDB = {
 							["id"] = 456,
 							["researchCurrency"] = 1220,
 							["name"] = "信仰武装",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[446] = {
 							["isBeingResearched"] = false,
@@ -9987,10 +15436,17 @@ Broker_GarrisonDB = {
 							["id"] = 446,
 							["researchCurrency"] = 1220,
 							["name"] = "神圣命运",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[447] = {
 							["isBeingResearched"] = false,
@@ -10017,11 +15473,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "日常祷告",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["id"] = 447,
+=======
+							["id"] = 447,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[448] = {
 							["isBeingResearched"] = false,
@@ -10048,11 +15512,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "什一税",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["id"] = 448,
+=======
+							["id"] = 448,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[449] = {
 							["isBeingResearched"] = false,
@@ -10079,11 +15551,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "公共生活",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["id"] = 449,
+=======
+							["id"] = 449,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[450] = {
 							["isBeingResearched"] = false,
@@ -10099,10 +15579,17 @@ Broker_GarrisonDB = {
 							["id"] = 450,
 							["researchCurrency"] = 1220,
 							["name"] = "神圣裁决",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[451] = {
 							["isBeingResearched"] = false,
@@ -10118,10 +15605,17 @@ Broker_GarrisonDB = {
 							["id"] = 451,
 							["researchCurrency"] = 1220,
 							["name"] = "暗影异端",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[452] = {
 							["isBeingResearched"] = false,
@@ -10137,10 +15631,17 @@ Broker_GarrisonDB = {
 							["id"] = 452,
 							["researchCurrency"] = 1220,
 							["name"] = "祝福祭坛",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[453] = {
 							["isBeingResearched"] = false,
@@ -10167,11 +15668,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "痛苦压制",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["id"] = 453,
+=======
+							["id"] = 453,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[454] = {
 							["isBeingResearched"] = false,
@@ -10187,16 +15696,29 @@ Broker_GarrisonDB = {
 							["id"] = 454,
 							["researchCurrency"] = 1220,
 							["name"] = "祝福印记",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 					},
 					["configVersion"] = 3,
 					["missions"] = {
 						[638] = {
 							["type"] = "舰船-训练",
+<<<<<<< HEAD
+=======
+							["timeLeft"] = "0秒",
+							["typeAtlas"] = "ShipMissionIcon-Training-Mission",
+							["id"] = 638,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["rewards"] = {
 								{
 									["title"] = "奖励追随者经验",
@@ -10206,14 +15728,28 @@ Broker_GarrisonDB = {
 									["name"] = "+5经验值",
 								}, -- [1]
 							},
+<<<<<<< HEAD
 							["missionState"] = 0,
 							["id"] = 638,
 							["duration"] = 60,
+=======
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "小打小闹",
+							["followerTypeID"] = 2,
+							["start"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "饥饿淡水兽号",
 									["id"] = "0x0000000001CFE3F6",
+<<<<<<< HEAD
 									["classIcon"] = "Ships_TroopTransport-List",
+=======
+									["iconId"] = 1341798,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 260,
@@ -10226,12 +15762,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236457,
 										}, -- [2]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1341798,
+=======
+									["classIcon"] = "Ships_TroopTransport-List",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "杜隆坦之傲号",
 									["id"] = "0x0000000001CFE3F8",
+<<<<<<< HEAD
 									["classIcon"] = "Ships_GalleonH-List",
+=======
+									["iconId"] = 1341793,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 263,
@@ -10244,6 +15788,7 @@ Broker_GarrisonDB = {
 											["icon"] = 632354,
 										}, -- [2]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1341793,
 								}, -- [2]
 							},
@@ -10259,20 +15804,47 @@ Broker_GarrisonDB = {
 						},
 						[131] = {
 							["type"] = "战斗",
+=======
+									["classIcon"] = "Ships_GalleonH-List",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["duration"] = 60,
+						},
+						[131] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "4小时",
+							["id"] = 131,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["rewards"] = {
 								{
 									["itemID"] = 120301,
 									["quantity"] = 1,
 								}, -- [1]
 							},
+<<<<<<< HEAD
 							["missionState"] = 0,
 							["id"] = 131,
 							["duration"] = 14400,
+=======
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "地狱火之怒",
+							["followerTypeID"] = 1,
+							["start"] = 1487510051,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "卡拉",
 									["id"] = "0x0000000001CFE3E2",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+=======
+									["iconId"] = 1066122,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 159,
@@ -10300,12 +15872,20 @@ Broker_GarrisonDB = {
 											["icon"] = 409595,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066122,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "袁梦天",
 									["id"] = "0x0000000001CFE3F4",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
+=======
+									["iconId"] = 1086414,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -10333,6 +15913,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236695,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086414,
 								}, -- [2]
 							},
@@ -10359,11 +15940,43 @@ Broker_GarrisonDB = {
 							["missionState"] = 0,
 							["id"] = 184,
 							["duration"] = 1800,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["duration"] = 14400,
+						},
+						[184] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "30分钟",
+							["id"] = 184,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 30,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["level"] = 90,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "斩杀裂蹄牛",
+							["followerTypeID"] = 1,
+							["start"] = 1487510044,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "托瓦·霜心",
 									["id"] = "0x0000000001CFE3E8",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+=======
+									["iconId"] = 1086365,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -10391,6 +16004,7 @@ Broker_GarrisonDB = {
 											["icon"] = 136088,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086365,
 								}, -- [1]
 							},
@@ -10406,20 +16020,47 @@ Broker_GarrisonDB = {
 						},
 						[200] = {
 							["type"] = "战斗",
+=======
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 1800,
+						},
+						[200] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "1小时30分钟",
+							["id"] = 200,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["rewards"] = {
 								{
 									["itemID"] = 114094,
 									["quantity"] = 1,
 								}, -- [1]
 							},
+<<<<<<< HEAD
 							["missionState"] = 0,
 							["id"] = 200,
 							["duration"] = 5400,
+=======
+							["level"] = 95,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "恶魔的报应",
+							["followerTypeID"] = 1,
+							["start"] = 1487510042,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "维兰多斯·祷日",
 									["id"] = "0x0000000001CFE3ED",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
+=======
+									["iconId"] = 1086404,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -10447,12 +16088,20 @@ Broker_GarrisonDB = {
 											["icon"] = 254651,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086404,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "托莫克",
 									["id"] = "0x0000000001CFE3E7",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+=======
+									["iconId"] = 1066145,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 231,
@@ -10480,12 +16129,20 @@ Broker_GarrisonDB = {
 											["icon"] = 897144,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066145,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "欧林·棕皮",
 									["id"] = "0x0000000001CFE3E1",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+=======
+									["iconId"] = 1066111,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 100,
@@ -10513,6 +16170,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236830,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066111,
 								}, -- [3]
 							},
@@ -10528,20 +16186,47 @@ Broker_GarrisonDB = {
 						},
 						[385] = {
 							["type"] = "战斗",
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 5400,
+						},
+						[385] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "4小时",
+							["id"] = 385,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["rewards"] = {
 								{
 									["itemID"] = 120302,
 									["quantity"] = 1,
 								}, -- [1]
 							},
+<<<<<<< HEAD
 							["missionState"] = 0,
 							["id"] = 385,
 							["duration"] = 14400,
+=======
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "大批金属",
+							["followerTypeID"] = 1,
+							["start"] = 1487510048,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "艾拉·寒刃",
 									["id"] = "0x0000000001CFE3EF",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+=======
+									["iconId"] = 1066387,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -10569,12 +16254,20 @@ Broker_GarrisonDB = {
 											["icon"] = 298659,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066387,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "暗影猎手莱拉",
 									["id"] = "0x0000000001CFE3E4",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+=======
+									["iconId"] = 1066105,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 103,
@@ -10602,6 +16295,7 @@ Broker_GarrisonDB = {
 											["icon"] = 298659,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066105,
 								}, -- [2]
 							},
@@ -10617,6 +16311,19 @@ Broker_GarrisonDB = {
 						},
 						[373] = {
 							["type"] = "战斗",
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["duration"] = 14400,
+						},
+						[373] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "10小时",
+							["id"] = 373,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["rewards"] = {
 								{
 									["title"] = "奖励追随者经验",
@@ -10626,14 +16333,28 @@ Broker_GarrisonDB = {
 									["name"] = "+1,200经验值",
 								}, -- [1]
 							},
+<<<<<<< HEAD
 							["missionState"] = 0,
 							["id"] = 373,
 							["duration"] = 36000,
+=======
+							["level"] = 95,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "铁齿铜牙",
+							["followerTypeID"] = 1,
+							["start"] = 1487510054,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "加其兹·爆哮",
 									["id"] = "0x0000000001CFE3E9",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Mage",
+=======
+									["iconId"] = 1066080,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -10661,12 +16382,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236712,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066080,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "坎蒂丝·莫雷",
 									["id"] = "0x0000000001CFE3F0",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Mage",
+=======
+									["iconId"] = 1086401,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -10694,12 +16423,20 @@ Broker_GarrisonDB = {
 											["icon"] = 254105,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086401,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "马斯卡",
 									["id"] = "0x0000000001CFE3EE",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+=======
+									["iconId"] = 1066502,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -10727,6 +16464,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236457,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066502,
 								}, -- [3]
 							},
@@ -10742,20 +16480,105 @@ Broker_GarrisonDB = {
 						},
 						[125] = {
 							["type"] = "战斗",
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 36000,
+						},
+						[175] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "45分钟",
+							["id"] = 175,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 34,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["level"] = 92,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "打破枷锁",
+							["followerTypeID"] = 1,
+							["start"] = 1487510053,
+							["followers"] = {
+								{
+									["name"] = "克拉吉兹",
+									["id"] = "0x0000000001CFE3EB",
+									["iconId"] = 1066382,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 172,
+											["name"] = "变形术",
+											["icon"] = 136071,
+										}, -- [2]
+										{
+											["id"] = 38,
+											["name"] = "食人魔克星",
+											["icon"] = 236695,
+										}, -- [3]
+										{
+											["id"] = 173,
+											["name"] = "时间扭曲",
+											["icon"] = 458224,
+										}, -- [4]
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 2700,
+						},
+						[125] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "4小时",
+							["id"] = 125,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["rewards"] = {
 								{
 									["itemID"] = 120301,
 									["quantity"] = 1,
 								}, -- [1]
 							},
+<<<<<<< HEAD
 							["missionState"] = 0,
 							["id"] = 125,
 							["duration"] = 14400,
+=======
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "一地鸦毛",
+							["followerTypeID"] = 1,
+							["start"] = 1487510046,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "汉娅",
 									["id"] = "0x0000000001CFE3F5",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+=======
+									["iconId"] = 1086424,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -10783,12 +16606,20 @@ Broker_GarrisonDB = {
 											["icon"] = 952507,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086424,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "艾诺拉",
 									["id"] = "0x0000000001CFE3EC",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
+=======
+									["iconId"] = 1066428,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -10816,6 +16647,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236819,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066428,
 								}, -- [2]
 							},
@@ -10987,6 +16819,55 @@ Broker_GarrisonDB = {
 											["id"] = 8,
 											["name"] = "冰冷血脉",
 											["icon"] = 236833,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["duration"] = 14400,
+						},
+						[274] = {
+							["type"] = "巡逻",
+							["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+							["timeLeft"] = "8小时",
+							["id"] = 274,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 10000,
+									["tooltip"] = "+10,000经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+10,000经验值",
+								}, -- [1]
+							},
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "恐惧之眼",
+							["followerTypeID"] = 1,
+							["start"] = 1487510056,
+							["followers"] = {
+								{
+									["name"] = "阿格尼斯·日心",
+									["id"] = "0x0000000001CFE3EA",
+									["iconId"] = 1086439,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 126,
+											["name"] = "责难",
+											["icon"] = 523893,
+										}, -- [2]
+										{
+											["id"] = 8,
+											["name"] = "冰冷血脉",
+											["icon"] = 236833,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [3]
 										{
 											["id"] = 130,
@@ -10999,12 +16880,20 @@ Broker_GarrisonDB = {
 											["icon"] = 298659,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086439,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "尤拉·克雷",
 									["id"] = "0x0000000001CFE3F1",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+=======
+									["iconId"] = 1066513,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -11032,12 +16921,20 @@ Broker_GarrisonDB = {
 											["icon"] = 626190,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066513,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "卡尔德·格雷",
 									["id"] = "0x0000000001CFE3F3",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
+=======
+									["iconId"] = 1066041,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -11065,6 +16962,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236695,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066041,
 								}, -- [3]
 							},
@@ -11157,11 +17055,164 @@ Broker_GarrisonDB = {
 								["shipmentCapacity"] = 12,
 							},
 							["isBuilding"] = false,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 28800,
+						},
+						[664] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "2小时",
+							["id"] = 664,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\garrison_oil",
+									["quantity"] = 25,
+									["title"] = "货币奖励",
+									["currencyID"] = 1101,
+								}, -- [1]
+							},
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "深渊魔核心",
+							["followerTypeID"] = 1,
+							["start"] = 1487510039,
+							["followers"] = {
+								{
+									["name"] = "薇薇安",
+									["id"] = "0x0000000001CFE3E3",
+									["iconId"] = 1066126,
+									["abilities"] = {
+										{
+											["id"] = 231,
+											["name"] = "看家护院",
+											["icon"] = 1037260,
+										}, -- [1]
+										{
+											["id"] = 5,
+											["name"] = "暴风雪",
+											["icon"] = 135857,
+										}, -- [2]
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [3]
+										{
+											["id"] = 171,
+											["name"] = "法术反制",
+											["icon"] = 135856,
+										}, -- [4]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+								}, -- [1]
+								{
+									["name"] = "乌娜·斯莱舍",
+									["id"] = "0x0000000001CFE3E5",
+									["iconId"] = 1066198,
+									["abilities"] = {
+										{
+											["id"] = 148,
+											["name"] = "驱散魔法",
+											["icon"] = 135894,
+										}, -- [1]
+										{
+											["id"] = 59,
+											["name"] = "珠宝加工",
+											["icon"] = 134071,
+										}, -- [2]
+										{
+											["id"] = 76,
+											["name"] = "持久耐力",
+											["icon"] = 135987,
+										}, -- [3]
+										{
+											["id"] = 10,
+											["name"] = "信仰飞跃",
+											["icon"] = 463835,
+										}, -- [4]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [2]
+								{
+									["name"] = "麦托克劳",
+									["id"] = "0x0000000001CFE3F2",
+									["iconId"] = 1066045,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 137,
+											["name"] = "飓风",
+											["icon"] = 136018,
+										}, -- [2]
+										{
+											["id"] = 221,
+											["name"] = "史诗坐骑",
+											["icon"] = 631718,
+										}, -- [3]
+										{
+											["id"] = 139,
+											["name"] = "超凡之盟",
+											["icon"] = 136060,
+										}, -- [4]
+										{
+											["id"] = 41,
+											["name"] = "元素克星",
+											["icon"] = 254652,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 7200,
+						},
+					},
+					["tooltipEnabled"] = true,
+					["currencySealOfTemperedFateAmount"] = 1,
+					["currencyOil"] = 4260,
+					["invasion"] = {
+						["available"] = false,
+					},
+					["buildingsExpanded"] = true,
+					["buildings"] = {
+						[20] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["id"] = 76,
+							["plotID"] = 20,
+							["shipment"] = {
+								["shipmentCapacity"] = 12,
+								["name"] = "炼金实验室",
+								["texture"] = 136240,
+							},
+							["plotSize"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "炼金实验室",
 							["timeStart"] = 1465436090,
 							["texPrefix"] = "GarrBuilding_Alchemy_1_H",
+<<<<<<< HEAD
 							["plotSize"] = 1,
 							["icon"] = 136240,
 							["buildingState"] = 0,
@@ -11177,11 +17228,29 @@ Broker_GarrisonDB = {
 								["shipmentCapacity"] = 0,
 							},
 							["isBuilding"] = false,
+=======
+							["isBuilding"] = false,
+							["icon"] = 136240,
+							["rank"] = 1,
+						},
+						[24] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["id"] = 8,
+							["plotID"] = 24,
+							["shipment"] = {
+								["shipmentCapacity"] = 0,
+								["name"] = "战争工坊",
+								["texture"] = 975736,
+							},
+							["plotSize"] = 3,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "战争工坊",
 							["timeStart"] = 1462165769,
 							["texPrefix"] = "GarrBuilding_Armory_1_H",
+<<<<<<< HEAD
 							["plotSize"] = 3,
 							["icon"] = 975736,
 							["buildingState"] = 0,
@@ -11197,11 +17266,29 @@ Broker_GarrisonDB = {
 								["shipmentCapacity"] = 12,
 							},
 							["isBuilding"] = false,
+=======
+							["isBuilding"] = false,
+							["icon"] = 975736,
+							["rank"] = 1,
+						},
+						[25] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["id"] = 111,
+							["plotID"] = 25,
+							["shipment"] = {
+								["shipmentCapacity"] = 12,
+								["name"] = "货栈",
+								["texture"] = 975746,
+							},
+							["plotSize"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "货栈",
 							["timeStart"] = 1462165760,
 							["texPrefix"] = "GarrBuilding_TradingPost_1_H",
+<<<<<<< HEAD
 							["plotSize"] = 2,
 							["icon"] = 975746,
 							["buildingState"] = 0,
@@ -11209,16 +17296,30 @@ Broker_GarrisonDB = {
 						[18] = {
 							["hasFollowerSlot"] = false,
 							["rank"] = 1,
+=======
+							["isBuilding"] = false,
+							["icon"] = 975746,
+							["rank"] = 1,
+						},
+						[18] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["id"] = 51,
 							["plotID"] = 18,
 							["shipment"] = {
 							},
+<<<<<<< HEAD
 							["isBuilding"] = false,
+=======
+							["plotSize"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "仓库",
 							["timeStart"] = 1458655503,
 							["texPrefix"] = "GarrBuilding_Storehouse_1_H",
+<<<<<<< HEAD
 							["plotSize"] = 1,
 							["icon"] = 975745,
 							["buildingState"] = 0,
@@ -11226,16 +17327,30 @@ Broker_GarrisonDB = {
 						[22] = {
 							["hasFollowerSlot"] = false,
 							["rank"] = 3,
+=======
+							["isBuilding"] = false,
+							["icon"] = 975745,
+							["rank"] = 1,
+						},
+						[22] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["id"] = 36,
 							["plotID"] = 22,
 							["shipment"] = {
 							},
+<<<<<<< HEAD
 							["isBuilding"] = false,
+=======
+							["plotSize"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "霜壁旅社",
 							["timeStart"] = 1462165801,
 							["texPrefix"] = "GarrBuilding_Inn_3_H",
+<<<<<<< HEAD
 							["plotSize"] = 2,
 							["icon"] = 134414,
 							["buildingState"] = 0,
@@ -11243,16 +17358,30 @@ Broker_GarrisonDB = {
 						[81] = {
 							["hasFollowerSlot"] = false,
 							["rank"] = 1,
+=======
+							["isBuilding"] = false,
+							["icon"] = 134414,
+							["rank"] = 3,
+						},
+						[81] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["id"] = 42,
 							["plotID"] = 81,
 							["shipment"] = {
 							},
+<<<<<<< HEAD
 							["isBuilding"] = false,
+=======
+							["plotSize"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "宠物小窝",
 							["timeStart"] = 1485870112,
 							["texPrefix"] = "GarrBuilding_PetStable_1_H",
+<<<<<<< HEAD
 							["plotSize"] = 2,
 							["icon"] = 975741,
 							["buildingState"] = 0,
@@ -11260,24 +17389,44 @@ Broker_GarrisonDB = {
 						[23] = {
 							["hasFollowerSlot"] = false,
 							["rank"] = 1,
+=======
+							["isBuilding"] = false,
+							["icon"] = 975741,
+							["rank"] = 1,
+						},
+						[23] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["id"] = 26,
 							["plotID"] = 23,
 							["shipment"] = {
 							},
+<<<<<<< HEAD
 							["isBuilding"] = false,
+=======
+							["plotSize"] = 3,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["name"] = "兵营",
 							["timeStart"] = 1453462343,
 							["texPrefix"] = "GarrBuilding_Barracks_1_H",
+<<<<<<< HEAD
 							["plotSize"] = 3,
 							["icon"] = 975738,
 							["buildingState"] = 0,
+=======
+							["isBuilding"] = false,
+							["icon"] = 975738,
+							["rank"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[98] = {
 							["hasFollowerSlot"] = false,
 							["id"] = 205,
 							["plotID"] = 98,
+<<<<<<< HEAD
 							["rank"] = 1,
 							["shipment"] = {
 								["texture"] = 1126431,
@@ -11305,17 +17454,54 @@ Broker_GarrisonDB = {
 						["WARMILL_SOTF"] = false,
 					},
 					["lootedNextReset"] = 1489618799,
+=======
+							["buildingState"] = 0,
+							["shipment"] = {
+								["shipmentCapacity"] = 1,
+								["name"] = "霜壁船坞",
+								["texture"] = 1126431,
+							},
+							["buildTime"] = 0,
+							["canActivate"] = false,
+							["name"] = "霜壁船坞",
+							["timeStart"] = 1465397224,
+							["texPrefix"] = "GarrBuilding_Armory_1_A",
+							["isBuilding"] = false,
+							["icon"] = 1126431,
+							["rank"] = 1,
+						},
+					},
+					["missionsExpanded"] = true,
+					["ldbEnabled"] = true,
+					["shipments"] = {
+					},
+					["notificationEnabled"] = true,
+					["currencyOrderResourcesAmount"] = 0,
+					["trackWeekly"] = {
+						["WARMILL_SOTF"] = false,
+						["BONUS_ROLL_QUESTS"] = 0,
+					},
+					["lootedNextReset"] = 1489445999,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["looseShipments"] = {
 					},
 					["cacheSize"] = 750,
 					["followerShipments"] = {
 					},
 					["currencyApexisAmount"] = 11241,
+<<<<<<< HEAD
 					["currencyAncientManaAmount"] = 0,
 					["currencyArtifactKnowledge"] = 0,
 					["currencySealOfInevitableFateAmount"] = 5,
 					["orderhallExpanded"] = true,
 					["order"] = 5,
+=======
+					["order"] = 5,
+					["currencyArtifactKnowledge"] = 0,
+					["currencySealOfInevitableFateAmount"] = 5,
+					["orderhallExpanded"] = true,
+					["currencyAncientManaAmount"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["info"] = {
 						["playerFaction"] = "Horde",
 						["playerClass"] = "PRIEST",
@@ -11325,6 +17511,7 @@ Broker_GarrisonDB = {
 					},
 					["trackDaily"] = {
 					},
+<<<<<<< HEAD
 					["notificationEnabled"] = true,
 					["ldbEnabled"] = true,
 					["currencyAmount"] = 3149,
@@ -11337,11 +17524,35 @@ Broker_GarrisonDB = {
 						[440] = {
 							["isBeingResearched"] = false,
 							["description"] = "新招募的海盗变为格斗家，拥有：\r\n\r\n|TInterface\\ICONS\\ABILITY_PARRY.BLP:20:20:0:0|t |Cffffffff备战就绪|R\r\n有|C00b3ffff爪牙|R的任务成功率提高15%。",
+=======
+					["lootedToday"] = {
+					},
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 3149,
+					["garrisonCacheLastLooted"] = 1488976829,
+				},
+				["厦门妇幼"] = {
+					["categories"] = {
+						{
+							["limit"] = 3,
+							["description"] = "“力量是外在的表现，而坚忍来自于内心。”——拉希奥",
+							["name"] = "玄牛弟子",
+							["count"] = 3,
+							["icon"] = 1396688,
+							["classSpec"] = 67,
+						}, -- [1]
+					},
+					["talents"] = {
+						[251] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的白虎弟子变为白虎高手，获得：\r\n\r\n|TInterface\\ICONS\\ABILITY_MONK_CRANEKICK_NEW.BLP:20:20:0:0|t |Cffffffff神鹤引项踢|R\r\n有|C00b3ffff爪牙|R的任务成功率提高15%。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["perkSpellID"] = 0,
 							["researchCost"] = 10000,
 							["researchDuration"] = 259200,
 							["tier"] = 3,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 1269440,
 							["researched"] = false,
 							["talentAvailability"] = 2,
@@ -11369,10 +17580,40 @@ Broker_GarrisonDB = {
 								["description"] = "勇士成功完成任务后有几率带回一张宝库赠品券。",
 								["id"] = 789,
 								["name"] = "宝库赠品券",
+=======
+							["icon"] = 611420,
+							["researched"] = false,
+							["talentAvailability"] = 6,
+							["id"] = 251,
+							["researchCurrency"] = 1220,
+							["name"] = "白虎之道",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[252] = {
+							["isBeingResearched"] = false,
+							["description"] = "你的玄牛弟子、玄牛高手、白虎弟子和白虎高手的招募上限提高1。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 1000,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 651489,
+							["researched"] = false,
+							["talentAvailability"] = 4,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "你的雪怒的弟子招募上限提高1。",
+								["id"] = 571,
+								["name"] = "院舍",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								["isSpecialization"] = false,
 								["counters"] = {
 								},
 								["isEmptySlot"] = false,
+<<<<<<< HEAD
 								["icon"] = 1269443,
 								["isTrait"] = false,
 							},
@@ -11400,10 +17641,40 @@ Broker_GarrisonDB = {
 								["description"] = "当你拥有激活的战友时，任务会奖励额外资源。",
 								["id"] = 783,
 								["name"] = "幕后交易",
+=======
+								["icon"] = 538444,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "院舍",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["id"] = 252,
+						},
+						[253] = {
+							["isBeingResearched"] = false,
+							["description"] = "可以使用红包技能，每天派出的第一个任务的成功率提高20%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 500,
+							["researchDuration"] = 86400,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 134268,
+							["researched"] = false,
+							["talentAvailability"] = 4,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "每天第一个任务的成功率提高20%。",
+								["id"] = 570,
+								["name"] = "红包",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								["isSpecialization"] = false,
 								["counters"] = {
 								},
 								["isEmptySlot"] = false,
+<<<<<<< HEAD
 								["icon"] = 132092,
 								["isTrait"] = false,
 							},
@@ -11437,11 +17708,47 @@ Broker_GarrisonDB = {
 						[444] = {
 							["isBeingResearched"] = false,
 							["description"] = "你可以下达工作订单，用职业大厅资源换取勇士的武器或装备。",
+=======
+								["icon"] = 134268,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "红包",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 253,
+						},
+						[254] = {
+							["isBeingResearched"] = false,
+							["description"] = "每天可以使用一次风暴烈酒旅店中的冒泡的桶。\r\n\r\n从冒泡的桶喝酒可以获得宝贵的增益，协助你在破碎群岛完成任务。",
+							["perkSpellID"] = 223218,
+							["researchCost"] = 2000,
+							["researchDuration"] = 259200,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 651573,
+							["researched"] = false,
+							["talentAvailability"] = 4,
+							["id"] = 254,
+							["researchCurrency"] = 1220,
+							["name"] = "酒坊",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[255] = {
+							["isBeingResearched"] = false,
+							["description"] = "你的勇士在成功完成任务后有几率带回勇士武器或装备。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["perkSpellID"] = 0,
 							["researchCost"] = 1000,
 							["researchDuration"] = 86400,
 							["tier"] = 2,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 840720,
 							["researched"] = false,
 							["talentAvailability"] = 2,
@@ -11473,12 +17780,39 @@ Broker_GarrisonDB = {
 							["researchStartTime"] = 0,
 						},
 						[435] = {
+=======
+							["icon"] = 775462,
+							["researched"] = false,
+							["talentAvailability"] = 4,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "成功完成任务有几率带回一件勇士武器或装备。",
+								["id"] = 785,
+								["name"] = "朝圣之旅",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 775462,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "朝圣之旅",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 255,
+						},
+						[248] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["isBeingResearched"] = false,
 							["description"] = "使你非重复类的任务奖励额外升级为稀有或史诗品质的几率提高。",
 							["perkSpellID"] = 219866,
 							["researchCost"] = 50,
 							["researchDuration"] = 7200,
 							["tier"] = 0,
+<<<<<<< HEAD
 							["selected"] = false,
 							["icon"] = 418250,
 							["researched"] = false,
@@ -11525,10 +17859,47 @@ Broker_GarrisonDB = {
 						[437] = {
 							["isBeingResearched"] = false,
 							["description"] = "在所有任务中可以使用刺杀技能，使带有|C00b3ffff爪牙|R的任务成功率提高10%。",
+=======
+							["selected"] = true,
+							["icon"] = 636335,
+							["researched"] = true,
+							["talentAvailability"] = 8,
+							["id"] = 248,
+							["researchCurrency"] = 1220,
+							["name"] = "鸿运高照",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[256] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达工作订单，用职业大厅资源交易获得每周3个破碎命运印记中的1个。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 12500,
+							["researchDuration"] = 432000,
+							["tier"] = 4,
+							["selected"] = false,
+							["icon"] = 656322,
+							["researched"] = false,
+							["talentAvailability"] = 6,
+							["id"] = 256,
+							["researchCurrency"] = 1220,
+							["name"] = "天选之人",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[249] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的部队有几率提升一个等级，使其更为强大。\r\n\r\n弟子有几率会变为高手，高手有几率变为大师。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["perkSpellID"] = 0,
 							["researchCost"] = 500,
 							["researchDuration"] = 14400,
 							["tier"] = 1,
+<<<<<<< HEAD
 							["selected"] = false,
 							["icon"] = 236173,
 							["researched"] = false,
@@ -11548,11 +17919,21 @@ Broker_GarrisonDB = {
 							["researchCurrency"] = 1220,
 							["name"] = "刺杀",
 							["id"] = 437,
+=======
+							["selected"] = true,
+							["icon"] = 648628,
+							["researched"] = true,
+							["talentAvailability"] = 8,
+							["id"] = 249,
+							["researchCurrency"] = 1220,
+							["name"] = "启迪",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
 						},
+<<<<<<< HEAD
 						[438] = {
 							["isBeingResearched"] = false,
 							["description"] = "你的盗匪、盗贼、海盗和格斗家招募上限提高1。",
@@ -11579,19 +17960,42 @@ Broker_GarrisonDB = {
 							["researchCurrency"] = 1220,
 							["name"] = "赏金格斗",
 							["id"] = 438,
+=======
+						[258] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以装备的传说物品数量提高1。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 15000,
+							["researchDuration"] = 604800,
+							["tier"] = 5,
+							["selected"] = false,
+							["icon"] = 606548,
+							["researched"] = false,
+							["talentAvailability"] = 6,
+							["id"] = 258,
+							["researchCurrency"] = 1220,
+							["name"] = "武学传说",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
 						},
+<<<<<<< HEAD
 						[439] = {
 							["isBeingResearched"] = false,
 							["description"] = "新招募的盗匪变为迪菲亚盗贼，拥有：\r\n\r\n|TInterface\\ICONS\\INV_MISC_BAG_11.BLP:20:20:0:0|t |Cffffffff搜索|R\r\n任务成功率提高20%。\r\n\r\n成功完成任务有几率带回一件珍贵物品。",
+=======
+						[250] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的玄牛弟子变为玄牛高手，使其任务成功率提高5%。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["perkSpellID"] = 0,
 							["researchCost"] = 10000,
 							["researchDuration"] = 259200,
 							["tier"] = 3,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 1373912,
 							["researched"] = false,
 							["talentAvailability"] = 2,
@@ -11908,10 +18312,42 @@ Broker_GarrisonDB = {
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["icon"] = 620829,
+							["researched"] = false,
+							["talentAvailability"] = 6,
+							["id"] = 250,
+							["researchCurrency"] = 1220,
+							["name"] = "玄牛之道",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[257] = {
+							["isBeingResearched"] = false,
+							["description"] = "可以招募至尊天神。\r\n\r\n天神拥有随机的武僧专精，可以应对|C00b3ffff首领|R，此外还拥有：\r\n\r\n|TInterface\\ICONS\\INV_CELESTIALSERPENTMOUNT.BLP:20:20:0:0|t |Cffffffff群星回响|R\r\n任务成功率提高30%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 12500,
+							["researchDuration"] = 432000,
+							["tier"] = 4,
+							["selected"] = false,
+							["icon"] = 656166,
+							["researched"] = false,
+							["talentAvailability"] = 6,
+							["id"] = 257,
+							["researchCurrency"] = 1220,
+							["name"] = "天神眷顾",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 					},
 					["configVersion"] = 3,
 					["missions"] = {
+<<<<<<< HEAD
 						[176] = {
 							["type"] = "战斗",
 							["duration"] = 2700,
@@ -11921,15 +18357,32 @@ Broker_GarrisonDB = {
 								{
 									["title"] = "货币奖励",
 									["quantity"] = 36,
+=======
+						[191] = {
+							["type"] = "战斗",
+							["duration"] = 3600,
+							["missionState"] = 0,
+							["id"] = 191,
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 42,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["icon"] = "Interface\\Icons\\inv_garrison_resource",
 									["currencyID"] = 824,
 								}, -- [1]
 							},
 							["followers"] = {
 								{
+<<<<<<< HEAD
 									["name"] = "赞提奇",
 									["id"] = "0x0000000001D17CF0",
 									["classIcon"] = "GarrMission_ClassIcon-Druid",
+=======
+									["name"] = "泰拉·碎脉",
+									["id"] = "0x00000000016E6703",
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -11937,6 +18390,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 108,
 											["name"] = "咆哮",
 											["icon"] = 132270,
@@ -11981,10 +18435,55 @@ Broker_GarrisonDB = {
 									["quantity"] = 175,
 									["icon"] = "Interface\\Icons\\inv_garrison_resource",
 									["currencyID"] = 824,
+=======
+											["id"] = 168,
+											["name"] = "寒冰屏障",
+											["icon"] = 135841,
+										}, -- [2]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [3]
+										{
+											["id"] = 5,
+											["name"] = "暴风雪",
+											["icon"] = 135857,
+										}, -- [4]
+										{
+											["id"] = 42,
+											["name"] = "虚空克星",
+											["icon"] = 298680,
+										}, -- [5]
+									},
+									["iconId"] = 1066359,
+								}, -- [1]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "自然的烦恼",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 96,
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "1小时",
+						},
+						[429] = {
+							["type"] = "战斗",
+							["duration"] = 28800,
+							["missionState"] = 0,
+							["id"] = 429,
+							["rewards"] = {
+								{
+									["itemID"] = 122484,
+									["quantity"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 							},
 							["followers"] = {
 								{
+<<<<<<< HEAD
 									["name"] = "匹凯克",
 									["id"] = "0x0000000001D17CFC",
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
@@ -12021,6 +18520,77 @@ Broker_GarrisonDB = {
 									["name"] = "加其兹·爆哮",
 									["id"] = "0x0000000001D17CF9",
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
+=======
+									["name"] = "布拉克·碎盾",
+									["id"] = "0x00000000016E66EB",
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+									["abilities"] = {
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [1]
+										{
+											["id"] = 120,
+											["name"] = "顺劈斩",
+											["icon"] = 132338,
+										}, -- [2]
+										{
+											["id"] = 70,
+											["name"] = "德拉诺之子",
+											["icon"] = 236451,
+										}, -- [3]
+										{
+											["id"] = 6,
+											["name"] = "盾墙",
+											["icon"] = 132362,
+										}, -- [4]
+										{
+											["id"] = 76,
+											["name"] = "持久耐力",
+											["icon"] = 135987,
+										}, -- [5]
+									},
+									["iconId"] = 1066512,
+								}, -- [1]
+								{
+									["name"] = "莱奥纳斯·日怒",
+									["id"] = "0x00000000016E66F7",
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+									["abilities"] = {
+										{
+											["id"] = 70,
+											["name"] = "德拉诺之子",
+											["icon"] = 236451,
+										}, -- [1]
+										{
+											["id"] = 120,
+											["name"] = "顺劈斩",
+											["icon"] = 132338,
+										}, -- [2]
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [3]
+										{
+											["id"] = 121,
+											["name"] = "拳击",
+											["icon"] = 132938,
+										}, -- [4]
+										{
+											["id"] = 45,
+											["name"] = "穴居人",
+											["icon"] = 409595,
+										}, -- [5]
+									},
+									["iconId"] = 1066323,
+								}, -- [2]
+								{
+									["name"] = "罗纳",
+									["id"] = "0x00000000016E6708",
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -12028,6 +18598,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 140,
 											["name"] = "嚎镇八方",
 											["icon"] = 620830,
@@ -12050,10 +18621,35 @@ Broker_GarrisonDB = {
 									},
 									["iconId"] = 1066080,
 								}, -- [2]
+=======
+											["id"] = 156,
+											["name"] = "幽魂之狼",
+											["icon"] = 136095,
+										}, -- [2]
+										{
+											["id"] = 75,
+											["name"] = "经济学家",
+											["icon"] = 632354,
+										}, -- [3]
+										{
+											["id"] = 106,
+											["name"] = "治疗链",
+											["icon"] = 136042,
+										}, -- [4]
+										{
+											["id"] = 69,
+											["name"] = "酒鬼",
+											["icon"] = 626190,
+										}, -- [5]
+									},
+									["iconId"] = 1066473,
+								}, -- [3]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							},
 							["timeLeftCalc"] = 0,
 							["statusComplete"] = true,
 							["notification"] = 1,
+<<<<<<< HEAD
 							["name"] = "蜥蜴的凝视",
 							["followerTypeID"] = 1,
 							["start"] = 1486989385,
@@ -12073,13 +18669,37 @@ Broker_GarrisonDB = {
 									["tooltip"] = "+1,500经验值",
 									["icon"] = "Interface\\Icons\\XPBonus_Icon",
 									["name"] = "+1,500经验值",
+=======
+							["name"] = "钢铁装配车间",
+							["followerTypeID"] = 1,
+							["start"] = 1487509279,
+							["level"] = 100,
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "8小时",
+						},
+						[678] = {
+							["type"] = "战斗",
+							["duration"] = 43200,
+							["missionState"] = 0,
+							["id"] = 678,
+							["rewards"] = {
+								{
+									["itemID"] = 127748,
+									["quantity"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 							},
 							["followers"] = {
 								{
+<<<<<<< HEAD
 									["name"] = "卡纳汀",
 									["id"] = "0x0000000001D17CFB",
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
+=======
+									["name"] = "摩提西娅·克罗雷",
+									["id"] = "0x00000000016E6706",
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -12087,6 +18707,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 147,
 											["name"] = "切喉手",
 											["icon"] = 608940,
@@ -12113,6 +18734,34 @@ Broker_GarrisonDB = {
 									["name"] = "安尼克丝·卡齿",
 									["id"] = "0x0000000001D17CF8",
 									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+=======
+											["id"] = 118,
+											["name"] = "符文武器增效",
+											["icon"] = 135372,
+										}, -- [2]
+										{
+											["id"] = 46,
+											["name"] = "游击队员",
+											["icon"] = 236850,
+										}, -- [3]
+										{
+											["id"] = 116,
+											["name"] = "枯萎凋零",
+											["icon"] = 136144,
+										}, -- [4]
+										{
+											["id"] = 314,
+											["name"] = "油猴子",
+											["icon"] = 252178,
+										}, -- [5]
+									},
+									["iconId"] = 1066179,
+								}, -- [1]
+								{
+									["name"] = "阿特米西娅·碧眼",
+									["id"] = "0x00000000016E6704",
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -12120,6 +18769,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 121,
 											["name"] = "拳击",
 											["icon"] = 132938,
@@ -12172,6 +18822,34 @@ Broker_GarrisonDB = {
 									["name"] = "艾拉·戴夫",
 									["id"] = "0x0000000001D17CF5",
 									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+=======
+											["id"] = 130,
+											["name"] = "神圣风暴",
+											["icon"] = 236250,
+										}, -- [2]
+										{
+											["id"] = 80,
+											["name"] = "额外训练",
+											["icon"] = 975743,
+										}, -- [3]
+										{
+											["id"] = 124,
+											["name"] = "圣盾术",
+											["icon"] = 524354,
+										}, -- [4]
+										{
+											["id"] = 42,
+											["name"] = "虚空克星",
+											["icon"] = 298680,
+										}, -- [5]
+									},
+									["iconId"] = 1066144,
+								}, -- [2]
+								{
+									["name"] = "梵拉",
+									["id"] = "0x00000000016E66FB",
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -12179,6 +18857,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 105,
 											["name"] = "脚踢",
 											["icon"] = 132219,
@@ -12201,10 +18880,35 @@ Broker_GarrisonDB = {
 									},
 									["iconId"] = 1066456,
 								}, -- [1]
+=======
+											["id"] = 127,
+											["name"] = "忏悔",
+											["icon"] = 135942,
+										}, -- [2]
+										{
+											["id"] = 75,
+											["name"] = "经济学家",
+											["icon"] = 632354,
+										}, -- [3]
+										{
+											["id"] = 126,
+											["name"] = "责难",
+											["icon"] = 523893,
+										}, -- [4]
+										{
+											["id"] = 48,
+											["name"] = "沼泽行者",
+											["icon"] = 236819,
+										}, -- [5]
+									},
+									["iconId"] = 1086444,
+								}, -- [3]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							},
 							["timeLeftCalc"] = 0,
 							["statusComplete"] = true,
 							["notification"] = 1,
+<<<<<<< HEAD
 							["name"] = "针锋相对",
 							["followerTypeID"] = 1,
 							["start"] = 1486989404,
@@ -12223,13 +18927,40 @@ Broker_GarrisonDB = {
 									["quantity"] = 25,
 									["icon"] = "Interface\\Icons\\garrison_oil",
 									["currencyID"] = 1101,
+=======
+							["name"] = "烈焰之友",
+							["followerTypeID"] = 1,
+							["start"] = 1487509290,
+							["level"] = 100,
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "12小时",
+						},
+						[245] = {
+							["type"] = "巡逻",
+							["duration"] = 3600,
+							["missionState"] = 0,
+							["id"] = 245,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 1500,
+									["tooltip"] = "+1,500经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+1,500经验值",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 							},
 							["followers"] = {
 								{
+<<<<<<< HEAD
 									["name"] = "玛拉拉",
 									["id"] = "0x0000000001D17CF3",
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
+=======
+									["name"] = "汉娅",
+									["id"] = "0x00000000016E66FD",
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -12237,6 +18968,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 151,
 											["name"] = "统御意志",
 											["icon"] = 136206,
@@ -12306,6 +19038,102 @@ Broker_GarrisonDB = {
 											["id"] = 165,
 											["name"] = "逃脱",
 											["icon"] = 132294,
+=======
+											["id"] = 130,
+											["name"] = "神圣风暴",
+											["icon"] = 236250,
+										}, -- [2]
+										{
+											["id"] = 74,
+											["name"] = "精灵一族",
+											["icon"] = 236440,
+										}, -- [3]
+										{
+											["id"] = 126,
+											["name"] = "责难",
+											["icon"] = 523893,
+										}, -- [4]
+										{
+											["id"] = 80,
+											["name"] = "额外训练",
+											["icon"] = 975743,
+										}, -- [5]
+									},
+									["iconId"] = 1086424,
+								}, -- [1]
+								{
+									["name"] = "奥菲隆",
+									["id"] = "0x00000000016E6702",
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 130,
+											["name"] = "神圣风暴",
+											["icon"] = 236250,
+										}, -- [2]
+										{
+											["id"] = 42,
+											["name"] = "虚空克星",
+											["icon"] = 298680,
+										}, -- [3]
+										{
+											["id"] = 126,
+											["name"] = "责难",
+											["icon"] = 523893,
+										}, -- [4]
+										{
+											["id"] = 46,
+											["name"] = "游击队员",
+											["icon"] = 236850,
+										}, -- [5]
+									},
+									["iconId"] = 1066425,
+								}, -- [2]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "鲁格多尔的匪帮",
+							["followerTypeID"] = 1,
+							["start"] = 1487509302,
+							["level"] = 99,
+							["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+							["timeLeft"] = "1小时",
+						},
+						[217] = {
+							["type"] = "寻宝",
+							["duration"] = 1800,
+							["missionState"] = 0,
+							["id"] = 217,
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 45,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["followers"] = {
+								{
+									["name"] = "赛尔维·堕歌",
+									["id"] = "0x00000000016E6701",
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 119,
+											["name"] = "反魔法护罩",
+											["icon"] = 136120,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [2]
 										{
 											["id"] = 4,
@@ -12313,6 +19141,7 @@ Broker_GarrisonDB = {
 											["icon"] = 897144,
 										}, -- [3]
 										{
+<<<<<<< HEAD
 											["id"] = 38,
 											["name"] = "食人魔克星",
 											["icon"] = 236695,
@@ -12345,10 +19174,47 @@ Broker_GarrisonDB = {
 								{
 									["itemID"] = 114616,
 									["quantity"] = 1,
+=======
+											["id"] = 116,
+											["name"] = "枯萎凋零",
+											["icon"] = 136144,
+										}, -- [4]
+										{
+											["id"] = 8,
+											["name"] = "冰冷血脉",
+											["icon"] = 236833,
+										}, -- [5]
+									},
+									["iconId"] = 1086433,
+								}, -- [1]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "黯泽宝藏",
+							["followerTypeID"] = 1,
+							["start"] = 1487509196,
+							["level"] = 90,
+							["typeAtlas"] = "GarrMission_MissionIcon-Trading",
+							["timeLeft"] = "29分钟",
+						},
+						[269] = {
+							["type"] = "战斗",
+							["duration"] = 14400,
+							["missionState"] = 0,
+							["id"] = 269,
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 225,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 							},
 							["followers"] = {
 								{
+<<<<<<< HEAD
 									["name"] = "欧林·棕皮",
 									["id"] = "0x0000000001D17CE9",
 									["classIcon"] = "GarrMission_ClassIcon-Warrior",
@@ -12385,6 +19251,10 @@ Broker_GarrisonDB = {
 									["name"] = "赞塔奇",
 									["id"] = "0x0000000001D17CF4",
 									["classIcon"] = "GarrMission_ClassIcon-Druid",
+=======
+									["name"] = "奥鲁格",
+									["id"] = "0x00000000016E66FE",
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -12392,6 +19262,41 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+											["id"] = 122,
+											["name"] = "鲁莽",
+											["icon"] = 603532,
+										}, -- [2]
+										{
+											["id"] = 7,
+											["name"] = "登山家",
+											["icon"] = 236848,
+										}, -- [3]
+										{
+											["id"] = 102,
+											["name"] = "英勇飞跃",
+											["icon"] = 236171,
+										}, -- [4]
+										{
+											["id"] = 44,
+											["name"] = "自然学家",
+											["icon"] = 236830,
+										}, -- [5]
+									},
+									["iconId"] = 1066413,
+								}, -- [1]
+								{
+									["name"] = "卡加·速射",
+									["id"] = "0x00000000016E66FC",
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+<<<<<<< HEAD
 											["id"] = 138,
 											["name"] = "狂暴",
 											["icon"] = 236149,
@@ -12405,6 +19310,21 @@ Broker_GarrisonDB = {
 											["id"] = 108,
 											["name"] = "咆哮",
 											["icon"] = 132270,
+=======
+											["id"] = 167,
+											["name"] = "冰冻陷阱",
+											["icon"] = 135834,
+										}, -- [2]
+										{
+											["id"] = 37,
+											["name"] = "野兽克星",
+											["icon"] = 298659,
+										}, -- [3]
+										{
+											["id"] = 163,
+											["name"] = "假死",
+											["icon"] = 132293,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [4]
 										{
 											["id"] = 39,
@@ -12412,6 +19332,7 @@ Broker_GarrisonDB = {
 											["icon"] = 254105,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066233,
 								}, -- [2]
 								{
@@ -12447,10 +19368,15 @@ Broker_GarrisonDB = {
 									},
 									["iconId"] = 1066126,
 								}, -- [3]
+=======
+									["iconId"] = 1066062,
+								}, -- [2]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							},
 							["timeLeftCalc"] = 0,
 							["statusComplete"] = true,
 							["notification"] = 1,
+<<<<<<< HEAD
 							["name"] = "斩首行动",
 							["followerTypeID"] = 1,
 							["start"] = 1486989395,
@@ -12473,13 +19399,46 @@ Broker_GarrisonDB = {
 								{
 									["itemID"] = 118100,
 									["quantity"] = 1,
+=======
+							["name"] = "临阵倒戈",
+							["followerTypeID"] = 1,
+							["start"] = 1487509252,
+							["level"] = 100,
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "4小时",
+						},
+						[211] = {
+							["type"] = "战斗",
+							["duration"] = 3375,
+							["missionState"] = 0,
+							["id"] = 211,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 1050,
+									["tooltip"] = "+1,050经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+1,050经验值",
+								}, -- [1]
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 200,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 							},
 							["followers"] = {
 								{
+<<<<<<< HEAD
 									["name"] = "赞拉萨",
 									["id"] = "0x0000000001D17CF1",
 									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+=======
+									["name"] = "阿泽里奇·灰刃",
+									["id"] = "0x00000000016E6705",
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -12487,6 +19446,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 161,
 											["name"] = "刀扇",
 											["icon"] = 236273,
@@ -12513,6 +19473,34 @@ Broker_GarrisonDB = {
 									["name"] = "阿特米西娅·碧眼",
 									["id"] = "0x0000000001D17CFE",
 									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+=======
+											["id"] = 118,
+											["name"] = "符文武器增效",
+											["icon"] = 135372,
+										}, -- [2]
+										{
+											["id"] = 45,
+											["name"] = "穴居人",
+											["icon"] = 409595,
+										}, -- [3]
+										{
+											["id"] = 117,
+											["name"] = "心灵冰冻",
+											["icon"] = 237527,
+										}, -- [4]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [5]
+									},
+									["iconId"] = 1066134,
+								}, -- [1]
+								{
+									["name"] = "新兵胡玛克",
+									["id"] = "0x00000000016E6709",
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -12520,6 +19508,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 130,
 											["name"] = "神圣风暴",
 											["icon"] = 236250,
@@ -12545,6 +19534,33 @@ Broker_GarrisonDB = {
 								{
 									["name"] = "魔导师索布莱兹",
 									["id"] = "0x0000000001D17CFA",
+=======
+											["id"] = 135,
+											["name"] = "野性成长",
+											["icon"] = 236153,
+										}, -- [2]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [3]
+										{
+											["id"] = 137,
+											["name"] = "飓风",
+											["icon"] = 136018,
+										}, -- [4]
+										{
+											["id"] = 44,
+											["name"] = "自然学家",
+											["icon"] = 236830,
+										}, -- [5]
+									},
+									["iconId"] = 1066288,
+								}, -- [2]
+								{
+									["name"] = "维拉·灵心",
+									["id"] = "0x00000000016E6700",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["classIcon"] = "GarrMission_ClassIcon-Warlock",
 									["abilities"] = {
 										{
@@ -12553,6 +19569,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 180,
 											["name"] = "恐惧",
 											["icon"] = 136183,
@@ -12574,11 +19591,35 @@ Broker_GarrisonDB = {
 										}, -- [5]
 									},
 									["iconId"] = 1066306,
+=======
+											["id"] = 176,
+											["name"] = "烧灼驱魔",
+											["icon"] = 841219,
+										}, -- [2]
+										{
+											["id"] = 69,
+											["name"] = "酒鬼",
+											["icon"] = 626190,
+										}, -- [3]
+										{
+											["id"] = 179,
+											["name"] = "法术封锁",
+											["icon"] = 136174,
+										}, -- [4]
+										{
+											["id"] = 221,
+											["name"] = "史诗坐骑",
+											["icon"] = 631718,
+										}, -- [5]
+									},
+									["iconId"] = 1066200,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [3]
 							},
 							["timeLeftCalc"] = 0,
 							["statusComplete"] = true,
 							["notification"] = 1,
+<<<<<<< HEAD
 							["name"] = "热砂保护协会的差事",
 							["followerTypeID"] = 1,
 							["start"] = 0,
@@ -12597,13 +19638,40 @@ Broker_GarrisonDB = {
 									["quantity"] = 38,
 									["icon"] = "Interface\\Icons\\inv_garrison_resource",
 									["currencyID"] = 824,
+=======
+							["name"] = "愿你安息",
+							["followerTypeID"] = 1,
+							["start"] = 1487509223,
+							["level"] = 96,
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "56分钟",
+						},
+						[256] = {
+							["type"] = "战斗",
+							["duration"] = 28800,
+							["missionState"] = 0,
+							["id"] = 256,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 12000,
+									["tooltip"] = "+12,000经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+12,000经验值",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 							},
 							["followers"] = {
 								{
+<<<<<<< HEAD
 									["name"] = "法维拉·熊皮",
 									["id"] = "0x0000000001D17CF7",
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
+=======
+									["name"] = "沃扎库",
+									["id"] = "0x00000000016E66FF",
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -12611,6 +19679,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 142,
 											["name"] = "真气波",
 											["icon"] = 606541,
@@ -12722,10 +19791,101 @@ Broker_GarrisonDB = {
 									},
 									["iconId"] = 1066198,
 								}, -- [2]
+=======
+											["id"] = 177,
+											["name"] = "恶魔变形",
+											["icon"] = 236293,
+										}, -- [2]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [3]
+										{
+											["id"] = 181,
+											["name"] = "召唤地狱火",
+											["icon"] = 136219,
+										}, -- [4]
+										{
+											["id"] = 42,
+											["name"] = "虚空克星",
+											["icon"] = 298680,
+										}, -- [5]
+									},
+									["iconId"] = 1066491,
+								}, -- [1]
+								{
+									["name"] = "丽扎·铜钻",
+									["id"] = "0x00000000016E66F3",
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+									["abilities"] = {
+										{
+											["id"] = 73,
+											["name"] = "巫术狂信徒",
+											["icon"] = 236456,
+										}, -- [1]
+										{
+											["id"] = 121,
+											["name"] = "拳击",
+											["icon"] = 132938,
+										}, -- [2]
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [3]
+										{
+											["id"] = 102,
+											["name"] = "英勇飞跃",
+											["icon"] = 236171,
+										}, -- [4]
+										{
+											["id"] = 49,
+											["name"] = "平原旅人",
+											["icon"] = 236712,
+										}, -- [5]
+									},
+									["iconId"] = 1066510,
+								}, -- [2]
+								{
+									["name"] = "佩琪·里佐",
+									["id"] = "0x00000000016E66F0",
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+									["abilities"] = {
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [1]
+										{
+											["id"] = 104,
+											["name"] = "闷棍",
+											["icon"] = 132310,
+										}, -- [2]
+										{
+											["id"] = 43,
+											["name"] = "利爪克星",
+											["icon"] = 952507,
+										}, -- [3]
+										{
+											["id"] = 161,
+											["name"] = "刀扇",
+											["icon"] = 236273,
+										}, -- [4]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [5]
+									},
+									["iconId"] = 1066300,
+								}, -- [3]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							},
 							["timeLeftCalc"] = 0,
 							["statusComplete"] = true,
 							["notification"] = 1,
+<<<<<<< HEAD
 							["name"] = "一地鸦毛",
 							["followerTypeID"] = 1,
 							["start"] = 0,
@@ -13705,339 +20865,18 @@ Broker_GarrisonDB = {
 								{
 									["icon"] = "Interface\\Icons\\inv_garrison_resource",
 									["quantity"] = 225,
-									["title"] = "货币奖励",
-									["currencyID"] = 824,
-								}, -- [1]
-							},
-							["level"] = 100,
-							["statusComplete"] = true,
-							["timeLeftCalc"] = 0,
-							["notification"] = 1,
-							["name"] = "临阵倒戈",
-							["followerTypeID"] = 1,
-							["start"] = 1487509252,
-							["followers"] = {
-								{
-									["name"] = "奥鲁格",
-									["id"] = "0x00000000016E66FE",
-									["iconId"] = 1066413,
-									["abilities"] = {
-										{
-											["id"] = 256,
-											["name"] = "极限拾荒",
-											["icon"] = 1005027,
-										}, -- [1]
-										{
-											["id"] = 122,
-											["name"] = "鲁莽",
-											["icon"] = 603532,
-										}, -- [2]
-										{
-											["id"] = 7,
-											["name"] = "登山家",
-											["icon"] = 236848,
-										}, -- [3]
-										{
-											["id"] = 102,
-											["name"] = "英勇飞跃",
-											["icon"] = 236171,
-										}, -- [4]
-										{
-											["id"] = 44,
-											["name"] = "自然学家",
-											["icon"] = 236830,
-										}, -- [5]
-									},
-									["classIcon"] = "GarrMission_ClassIcon-Warrior",
-								}, -- [1]
-								{
-									["name"] = "卡加·速射",
-									["id"] = "0x00000000016E66FC",
-									["iconId"] = 1066062,
-									["abilities"] = {
-										{
-											["id"] = 256,
-											["name"] = "极限拾荒",
-											["icon"] = 1005027,
-										}, -- [1]
-										{
-											["id"] = 167,
-											["name"] = "冰冻陷阱",
-											["icon"] = 135834,
-										}, -- [2]
-										{
-											["id"] = 37,
-											["name"] = "野兽克星",
-											["icon"] = 298659,
-										}, -- [3]
-										{
-											["id"] = 163,
-											["name"] = "假死",
-											["icon"] = 132293,
-										}, -- [4]
-										{
-											["id"] = 39,
-											["name"] = "原兽克星",
-											["icon"] = 254105,
-										}, -- [5]
-									},
-									["classIcon"] = "GarrMission_ClassIcon-Hunter",
-								}, -- [2]
-							},
-							["missionState"] = 0,
-							["duration"] = 14400,
-						},
-						[310] = {
-							["type"] = "战斗",
-							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-							["timeLeft"] = "6小时",
-							["id"] = 310,
-							["rewards"] = {
-								{
-									["itemID"] = 114822,
-									["quantity"] = 1,
-								}, -- [1]
-							},
-							["level"] = 100,
-							["statusComplete"] = true,
-							["timeLeftCalc"] = 0,
-							["notification"] = 1,
-							["name"] = "不堪重负",
-							["followerTypeID"] = 1,
-							["start"] = 1487509272,
-							["followers"] = {
-								{
-									["name"] = "不忠的露西娅",
-									["id"] = "0x00000000016E6707",
-									["iconId"] = 1066291,
-									["abilities"] = {
-										{
-											["id"] = 256,
-											["name"] = "极限拾荒",
-											["icon"] = 1005027,
-										}, -- [1]
-										{
-											["id"] = 10,
-											["name"] = "信仰飞跃",
-											["icon"] = 463835,
-										}, -- [2]
-										{
-											["id"] = 44,
-											["name"] = "自然学家",
-											["icon"] = 236830,
-										}, -- [3]
-										{
-											["id"] = 11,
-											["name"] = "治疗祷言",
-											["icon"] = 135943,
-										}, -- [4]
-										{
-											["id"] = 69,
-											["name"] = "酒鬼",
-											["icon"] = 626190,
-										}, -- [5]
-									},
-									["classIcon"] = "GarrMission_ClassIcon-Priest",
-								}, -- [1]
-								{
-									["name"] = "芳妮",
-									["id"] = "0x00000000016E670D",
-									["iconId"] = 1066254,
-									["abilities"] = {
-										{
-											["id"] = 314,
-											["name"] = "油猴子",
-											["icon"] = 252178,
-										}, -- [1]
-										{
-											["id"] = 167,
-											["name"] = "冰冻陷阱",
-											["icon"] = 135834,
-										}, -- [2]
-										{
-											["id"] = 72,
-											["name"] = "图腾崇拜者",
-											["icon"] = 236454,
-										}, -- [3]
-										{
-											["id"] = 165,
-											["name"] = "逃脱",
-											["icon"] = 132294,
-										}, -- [4]
-										{
-											["id"] = 7,
-											["name"] = "登山家",
-											["icon"] = 236848,
-										}, -- [5]
-									},
-									["classIcon"] = "GarrMission_ClassIcon-Hunter",
-								}, -- [2]
-								{
-									["name"] = "薇薇安",
-									["id"] = "0x00000000016E66E9",
-									["iconId"] = 1066126,
-									["abilities"] = {
-										{
-											["id"] = 231,
-											["name"] = "看家护院",
-											["icon"] = 1037260,
-										}, -- [1]
-										{
-											["id"] = 5,
-											["name"] = "暴风雪",
-											["icon"] = 135857,
-										}, -- [2]
-										{
-											["id"] = 72,
-											["name"] = "图腾崇拜者",
-											["icon"] = 236454,
-										}, -- [3]
-										{
-											["id"] = 172,
-											["name"] = "变形术",
-											["icon"] = 136071,
-										}, -- [4]
-										{
-											["id"] = 71,
-											["name"] = "死亡诱惑",
-											["icon"] = 236457,
-										}, -- [5]
-									},
-									["classIcon"] = "GarrMission_ClassIcon-Mage",
-								}, -- [3]
-							},
-							["missionState"] = 0,
-							["duration"] = 21600,
-						},
-						[256] = {
-							["type"] = "战斗",
-							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-							["timeLeft"] = "8小时",
-							["id"] = 256,
-							["rewards"] = {
-								{
-									["title"] = "奖励追随者经验",
-									["followerXP"] = 12000,
-									["tooltip"] = "+12,000经验值",
-									["icon"] = "Interface\\Icons\\XPBonus_Icon",
-									["name"] = "+12,000经验值",
-								}, -- [1]
-							},
-							["level"] = 100,
-							["statusComplete"] = true,
-							["timeLeftCalc"] = 0,
-							["notification"] = 1,
+=======
 							["name"] = "亮晶晶！",
 							["followerTypeID"] = 1,
 							["start"] = 1487509296,
-							["followers"] = {
-								{
-									["name"] = "沃扎库",
-									["id"] = "0x00000000016E66FF",
-									["iconId"] = 1066491,
-									["abilities"] = {
-										{
-											["id"] = 256,
-											["name"] = "极限拾荒",
-											["icon"] = 1005027,
-										}, -- [1]
-										{
-											["id"] = 177,
-											["name"] = "恶魔变形",
-											["icon"] = 236293,
-										}, -- [2]
-										{
-											["id"] = 71,
-											["name"] = "死亡诱惑",
-											["icon"] = 236457,
-										}, -- [3]
-										{
-											["id"] = 181,
-											["name"] = "召唤地狱火",
-											["icon"] = 136219,
-										}, -- [4]
-										{
-											["id"] = 42,
-											["name"] = "虚空克星",
-											["icon"] = 298680,
-										}, -- [5]
-									},
-									["classIcon"] = "GarrMission_ClassIcon-Warlock",
-								}, -- [1]
-								{
-									["name"] = "丽扎·铜钻",
-									["id"] = "0x00000000016E66F3",
-									["iconId"] = 1066510,
-									["abilities"] = {
-										{
-											["id"] = 73,
-											["name"] = "巫术狂信徒",
-											["icon"] = 236456,
-										}, -- [1]
-										{
-											["id"] = 121,
-											["name"] = "拳击",
-											["icon"] = 132938,
-										}, -- [2]
-										{
-											["id"] = 79,
-											["name"] = "拾荒者",
-											["icon"] = 413571,
-										}, -- [3]
-										{
-											["id"] = 102,
-											["name"] = "英勇飞跃",
-											["icon"] = 236171,
-										}, -- [4]
-										{
-											["id"] = 49,
-											["name"] = "平原旅人",
-											["icon"] = 236712,
-										}, -- [5]
-									},
-									["classIcon"] = "GarrMission_ClassIcon-Warrior",
-								}, -- [2]
-								{
-									["name"] = "佩琪·里佐",
-									["id"] = "0x00000000016E66F0",
-									["iconId"] = 1066300,
-									["abilities"] = {
-										{
-											["id"] = 79,
-											["name"] = "拾荒者",
-											["icon"] = 413571,
-										}, -- [1]
-										{
-											["id"] = 104,
-											["name"] = "闷棍",
-											["icon"] = 132310,
-										}, -- [2]
-										{
-											["id"] = 43,
-											["name"] = "利爪克星",
-											["icon"] = 952507,
-										}, -- [3]
-										{
-											["id"] = 161,
-											["name"] = "刀扇",
-											["icon"] = 236273,
-										}, -- [4]
-										{
-											["id"] = 77,
-											["name"] = "能量爆发",
-											["icon"] = 136088,
-										}, -- [5]
-									},
-									["classIcon"] = "GarrMission_ClassIcon-Rogue",
-								}, -- [3]
-							},
-							["missionState"] = 0,
-							["duration"] = 28800,
+							["level"] = 100,
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "8小时",
 						},
 						[332] = {
 							["type"] = "探索",
-							["typeAtlas"] = "GarrMission_MissionIcon-Exploration",
-							["timeLeft"] = "1小时",
+							["duration"] = 3600,
+							["missionState"] = 0,
 							["id"] = 332,
 							["rewards"] = {
 								{
@@ -14049,18 +20888,11 @@ Broker_GarrisonDB = {
 									["quantity"] = 40,
 								}, -- [2]
 							},
-							["level"] = 98,
-							["statusComplete"] = true,
-							["timeLeftCalc"] = 0,
-							["notification"] = 1,
-							["name"] = "洛克拉斯之谜",
-							["followerTypeID"] = 1,
-							["start"] = 1487509299,
 							["followers"] = {
 								{
 									["name"] = "本杰明·吉布",
 									["id"] = "0x00000000016E66F1",
-									["iconId"] = 1066344,
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
 									["abilities"] = {
 										{
 											["id"] = 118,
@@ -14088,22 +20920,29 @@ Broker_GarrisonDB = {
 											["icon"] = 136088,
 										}, -- [5]
 									},
-									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+									["iconId"] = 1066344,
 								}, -- [1]
 							},
-							["missionState"] = 0,
-							["duration"] = 3600,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "洛克拉斯之谜",
+							["followerTypeID"] = 1,
+							["start"] = 1487509299,
+							["level"] = 98,
+							["typeAtlas"] = "GarrMission_MissionIcon-Exploration",
+							["timeLeft"] = "1小时",
 						},
 						[336] = {
 							["type"] = "战斗",
-							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-							["timeLeft"] = "10小时",
+							["duration"] = 36000,
+							["missionState"] = 0,
 							["id"] = 336,
 							["rewards"] = {
 								{
-									["icon"] = "Interface\\Icons\\inv_apexis_draenor",
-									["quantity"] = 1000,
 									["title"] = "货币奖励",
+									["quantity"] = 1000,
+									["icon"] = "Interface\\Icons\\inv_apexis_draenor",
 									["currencyID"] = 823,
 								}, -- [1]
 								{
@@ -14114,18 +20953,11 @@ Broker_GarrisonDB = {
 									["name"] = "+20,000经验值",
 								}, -- [2]
 							},
-							["level"] = 100,
-							["statusComplete"] = true,
-							["timeLeftCalc"] = 0,
-							["notification"] = 1,
-							["name"] = "解放沙塔斯",
-							["followerTypeID"] = 1,
-							["start"] = 1487509243,
 							["followers"] = {
 								{
 									["name"] = "奥术师杜克罗格",
 									["id"] = "0x00000000016E66F2",
-									["iconId"] = 1086382,
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
 									["abilities"] = {
 										{
 											["id"] = 73,
@@ -14153,12 +20985,12 @@ Broker_GarrisonDB = {
 											["icon"] = 236712,
 										}, -- [5]
 									},
-									["classIcon"] = "GarrMission_ClassIcon-Mage",
+									["iconId"] = 1086382,
 								}, -- [1]
 								{
 									["name"] = "布鲁托",
 									["id"] = "0x00000000016E66E6",
-									["iconId"] = 1066096,
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
 									["abilities"] = {
 										{
 											["id"] = 140,
@@ -14186,12 +21018,12 @@ Broker_GarrisonDB = {
 											["icon"] = 254652,
 										}, -- [5]
 									},
-									["classIcon"] = "GarrMission_ClassIcon-Monk",
+									["iconId"] = 1066096,
 								}, -- [2]
 								{
 									["name"] = "海蒂·掠影",
 									["id"] = "0x00000000016E66F8",
-									["iconId"] = 1066427,
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
 									["abilities"] = {
 										{
 											["id"] = 70,
@@ -14219,44 +21051,35 @@ Broker_GarrisonDB = {
 											["icon"] = 952507,
 										}, -- [5]
 									},
-									["classIcon"] = "GarrMission_ClassIcon-Priest",
+									["iconId"] = 1066427,
 								}, -- [3]
 							},
-							["missionState"] = 0,
-							["duration"] = 36000,
-						},
-						[211] = {
-							["type"] = "战斗",
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "解放沙塔斯",
+							["followerTypeID"] = 1,
+							["start"] = 1487509243,
+							["level"] = 100,
 							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-							["timeLeft"] = "56分钟",
-							["id"] = 211,
+							["timeLeft"] = "10小时",
+						},
+						[310] = {
+							["type"] = "战斗",
+							["duration"] = 21600,
+							["missionState"] = 0,
+							["id"] = 310,
 							["rewards"] = {
 								{
-									["title"] = "奖励追随者经验",
-									["followerXP"] = 1050,
-									["tooltip"] = "+1,050经验值",
-									["icon"] = "Interface\\Icons\\XPBonus_Icon",
-									["name"] = "+1,050经验值",
+									["itemID"] = 114822,
+									["quantity"] = 1,
 								}, -- [1]
-								{
-									["icon"] = "Interface\\Icons\\inv_garrison_resource",
-									["quantity"] = 200,
-									["title"] = "货币奖励",
-									["currencyID"] = 824,
-								}, -- [2]
 							},
-							["level"] = 96,
-							["statusComplete"] = true,
-							["timeLeftCalc"] = 0,
-							["notification"] = 1,
-							["name"] = "愿你安息",
-							["followerTypeID"] = 1,
-							["start"] = 1487509223,
 							["followers"] = {
 								{
-									["name"] = "阿泽里奇·灰刃",
-									["id"] = "0x00000000016E6705",
-									["iconId"] = 1066134,
+									["name"] = "不忠的露西娅",
+									["id"] = "0x00000000016E6707",
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -14264,199 +21087,188 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
-											["id"] = 118,
-											["name"] = "符文武器增效",
-											["icon"] = 135372,
+											["id"] = 10,
+											["name"] = "信仰飞跃",
+											["icon"] = 463835,
 										}, -- [2]
-										{
-											["id"] = 45,
-											["name"] = "穴居人",
-											["icon"] = 409595,
-										}, -- [3]
-										{
-											["id"] = 117,
-											["name"] = "心灵冰冻",
-											["icon"] = 237527,
-										}, -- [4]
-										{
-											["id"] = 77,
-											["name"] = "能量爆发",
-											["icon"] = 136088,
-										}, -- [5]
-									},
-									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
-								}, -- [1]
-								{
-									["name"] = "新兵胡玛克",
-									["id"] = "0x00000000016E6709",
-									["iconId"] = 1066288,
-									["abilities"] = {
-										{
-											["id"] = 256,
-											["name"] = "极限拾荒",
-											["icon"] = 1005027,
-										}, -- [1]
-										{
-											["id"] = 135,
-											["name"] = "野性成长",
-											["icon"] = 236153,
-										}, -- [2]
-										{
-											["id"] = 77,
-											["name"] = "能量爆发",
-											["icon"] = 136088,
-										}, -- [3]
-										{
-											["id"] = 137,
-											["name"] = "飓风",
-											["icon"] = 136018,
-										}, -- [4]
 										{
 											["id"] = 44,
 											["name"] = "自然学家",
 											["icon"] = 236830,
-										}, -- [5]
-									},
-									["classIcon"] = "GarrMission_ClassIcon-Druid",
-								}, -- [2]
-								{
-									["name"] = "维拉·灵心",
-									["id"] = "0x00000000016E6700",
-									["iconId"] = 1066200,
-									["abilities"] = {
+										}, -- [3]
 										{
-											["id"] = 256,
-											["name"] = "极限拾荒",
-											["icon"] = 1005027,
-										}, -- [1]
-										{
-											["id"] = 176,
-											["name"] = "烧灼驱魔",
-											["icon"] = 841219,
-										}, -- [2]
+											["id"] = 11,
+											["name"] = "治疗祷言",
+											["icon"] = 135943,
+										}, -- [4]
 										{
 											["id"] = 69,
 											["name"] = "酒鬼",
 											["icon"] = 626190,
-										}, -- [3]
-										{
-											["id"] = 179,
-											["name"] = "法术封锁",
-											["icon"] = 136174,
-										}, -- [4]
-										{
-											["id"] = 221,
-											["name"] = "史诗坐骑",
-											["icon"] = 631718,
 										}, -- [5]
 									},
-									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+									["iconId"] = 1066291,
+								}, -- [1]
+								{
+									["name"] = "芳妮",
+									["id"] = "0x00000000016E670D",
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+									["abilities"] = {
+										{
+											["id"] = 314,
+											["name"] = "油猴子",
+											["icon"] = 252178,
+										}, -- [1]
+										{
+											["id"] = 167,
+											["name"] = "冰冻陷阱",
+											["icon"] = 135834,
+										}, -- [2]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [3]
+										{
+											["id"] = 165,
+											["name"] = "逃脱",
+											["icon"] = 132294,
+										}, -- [4]
+										{
+											["id"] = 7,
+											["name"] = "登山家",
+											["icon"] = 236848,
+										}, -- [5]
+									},
+									["iconId"] = 1066254,
+								}, -- [2]
+								{
+									["name"] = "薇薇安",
+									["id"] = "0x00000000016E66E9",
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+									["abilities"] = {
+										{
+											["id"] = 231,
+											["name"] = "看家护院",
+											["icon"] = 1037260,
+										}, -- [1]
+										{
+											["id"] = 5,
+											["name"] = "暴风雪",
+											["icon"] = 135857,
+										}, -- [2]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [3]
+										{
+											["id"] = 172,
+											["name"] = "变形术",
+											["icon"] = 136071,
+										}, -- [4]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [5]
+									},
+									["iconId"] = 1066126,
 								}, -- [3]
 							},
-							["missionState"] = 0,
-							["duration"] = 3375,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "不堪重负",
+							["followerTypeID"] = 1,
+							["start"] = 1487509272,
+							["level"] = 100,
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "6小时",
 						},
-						[245] = {
-							["type"] = "巡逻",
-							["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
-							["timeLeft"] = "1小时",
-							["id"] = 245,
-							["rewards"] = {
-								{
-									["title"] = "奖励追随者经验",
-									["followerXP"] = 1500,
-									["tooltip"] = "+1,500经验值",
-									["icon"] = "Interface\\Icons\\XPBonus_Icon",
-									["name"] = "+1,500经验值",
-								}, -- [1]
-							},
-							["level"] = 99,
+						[1334] = {
+							["type"] = "7.0 职业大厅 - 一般任务",
+							["timeLeft"] = "3小时",
+							["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+							["id"] = 1334,
+							["duration"] = 10800,
+							["level"] = 102,
 							["statusComplete"] = true,
 							["timeLeftCalc"] = 0,
 							["notification"] = 1,
-							["name"] = "鲁格多尔的匪帮",
-							["followerTypeID"] = 1,
-							["start"] = 1487509302,
+							["name"] = "永无止境",
+							["followerTypeID"] = 4,
+							["start"] = 0,
 							["followers"] = {
 								{
-									["name"] = "汉娅",
-									["id"] = "0x00000000016E66FD",
-									["iconId"] = 1086424,
+									["name"] = "丽丽·风暴烈酒",
+									["id"] = "0x0000000001855A36",
+									["iconId"] = 1341781,
 									["abilities"] = {
 										{
-											["id"] = 256,
-											["name"] = "极限拾荒",
-											["icon"] = 1005027,
+											["id"] = 336,
+											["name"] = "织雾",
+											["icon"] = 608952,
 										}, -- [1]
 										{
-											["id"] = 130,
-											["name"] = "神圣风暴",
-											["icon"] = 236250,
+											["id"] = 412,
+											["name"] = "滚地翻",
+											["icon"] = 574574,
 										}, -- [2]
-										{
-											["id"] = 74,
-											["name"] = "精灵一族",
-											["icon"] = 236440,
-										}, -- [3]
-										{
-											["id"] = 126,
-											["name"] = "责难",
-											["icon"] = 523893,
-										}, -- [4]
-										{
-											["id"] = 80,
-											["name"] = "额外训练",
-											["icon"] = 975743,
-										}, -- [5]
 									},
-									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+									["classIcon"] = "GarrMission_ClassIcon-Monk-Mistweaver",
 								}, -- [1]
 								{
-									["name"] = "奥菲隆",
-									["id"] = "0x00000000016E6702",
-									["iconId"] = 1066425,
+									["name"] = "陈·风暴烈酒",
+									["id"] = "0x0000000001855AA9",
+									["iconId"] = 1341778,
 									["abilities"] = {
 										{
-											["id"] = 256,
-											["name"] = "极限拾荒",
-											["icon"] = 1005027,
+											["id"] = 335,
+											["name"] = "酒仙",
+											["icon"] = 608951,
 										}, -- [1]
 										{
-											["id"] = 130,
-											["name"] = "神圣风暴",
-											["icon"] = 236250,
+											["id"] = 417,
+											["name"] = "切喉手",
+											["icon"] = 608940,
 										}, -- [2]
-										{
-											["id"] = 42,
-											["name"] = "虚空克星",
-											["icon"] = 298680,
-										}, -- [3]
-										{
-											["id"] = 126,
-											["name"] = "责难",
-											["icon"] = 523893,
-										}, -- [4]
-										{
-											["id"] = 46,
-											["name"] = "游击队员",
-											["icon"] = 236850,
-										}, -- [5]
 									},
-									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+									["classIcon"] = "GarrMission_ClassIcon-Monk-Brewmaster",
 								}, -- [2]
+								{
+									["name"] = "玄牛弟子",
+									["id"] = "0x0000000002CF1A95",
+									["iconId"] = 1452577,
+									["abilities"] = {
+										{
+											["id"] = 572,
+											["name"] = "磐牛式",
+											["icon"] = 611419,
+										}, -- [1]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+								}, -- [3]
 							},
 							["missionState"] = 0,
-							["duration"] = 3600,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 600,
+									["tooltip"] = "+600经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+600经验值",
+								}, -- [1]
+							},
 						},
 					},
 					["tooltipEnabled"] = true,
-					["garrisonCacheLastLooted"] = 1489496602,
+					["currencyOil"] = 275,
 					["currencySealOfTemperedFateAmount"] = 19,
 					["invasion"] = {
 						["available"] = false,
 					},
 					["buildingsExpanded"] = true,
-					["missionsExpanded"] = true,
 					["buildings"] = {
 						[24] = {
 							["hasFollowerSlot"] = true,
@@ -14704,21 +21516,2337 @@ Broker_GarrisonDB = {
 							["buildingState"] = 0,
 						},
 					},
-					["ldbEnabled"] = true,
+					["missionsExpanded"] = true,
+					["weeklyNextReset"] = 1489618799,
 					["shipments"] = {
 					},
-					["notificationEnabled"] = true,
+					["lootedToday"] = {
+					},
 					["currencyOrderResourcesAmount"] = 105,
 					["trackWeekly"] = {
-						["WARMILL_SOTF"] = false,
 						["BONUS_ROLL_QUESTS"] = 0,
+						["WARMILL_SOTF"] = false,
 					},
-					["lootedNextReset"] = 1489618799,
+					["lootedNextReset"] = 1489445999,
 					["looseShipments"] = {
 					},
 					["cacheSize"] = 500,
 					["followerShipments"] = {
 					},
+					["currencyApexisAmount"] = 74077,
+					["currencyAncientManaAmount"] = 13,
+					["currencyArtifactKnowledge"] = 0,
+					["currencySealOfInevitableFateAmount"] = 18,
+					["orderhallExpanded"] = true,
+					["order"] = 5,
+					["info"] = {
+						["realmName"] = "末日祷告祭坛",
+						["playerClass"] = "MONK",
+						["playerFaction"] = "Horde",
+						["playerName"] = "厦门妇幼",
+						["bonusEnabled"] = true,
+					},
+					["trackDaily"] = {
+					},
+					["notificationEnabled"] = true,
+					["ldbEnabled"] = true,
+					["currencyAmount"] = 5639,
+					["garrisonCacheLastLooted"] = 1488616767,
+				},
+				["兮兮妹"] = {
+					["categories"] = {
+					},
+					["talents"] = {
+						[369] = {
+							["isBeingResearched"] = false,
+							["description"] = "使你非重复类的任务奖励额外升级为稀有或史诗品质的几率提高。",
+							["perkSpellID"] = 219866,
+							["researchCost"] = 50,
+							["researchDuration"] = 7200,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 132168,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 369,
+							["researchCurrency"] = 1220,
+							["name"] = "粗犷升级",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[370] = {
+							["isBeingResearched"] = false,
+							["description"] = "可以使用百步穿杨技能，每天派出的第一个任务的成功率提高20%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 50,
+							["researchDuration"] = 7200,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 1392555,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "每天第一个任务的成功率提高20%。",
+								["id"] = 584,
+								["name"] = "百步穿杨",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 1392555,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "百步穿杨",
+							["id"] = 370,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[371] = {
+							["isBeingResearched"] = false,
+							["description"] = "在所有任务中可以使用逃脱技能，使带有|C00b3ffff危害|R的任务成功率提高10%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 500,
+							["researchDuration"] = 14400,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 132294,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "有|C00b3ffff危害|R的任务成功率提高10%。",
+								["id"] = 661,
+								["name"] = "逃脱",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 132294,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "逃脱",
+							["id"] = 371,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[372] = {
+							["isBeingResearched"] = false,
+							["description"] = "你的弓箭手、射手、追踪者和探路者招募上限提高1。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 1000,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 236200,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "你的弓箭手、神射手、追踪者和探路者招募上限提高1。",
+								["id"] = 585,
+								["name"] = "牢固营帐",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 236200,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "牢固营帐",
+							["id"] = 372,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[373] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的弓箭手变为隐秘神射手，使其任务成功率提高5%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 10000,
+							["researchDuration"] = 259200,
+							["tier"] = 3,
+							["selected"] = false,
+							["icon"] = 132177,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 373,
+							["researchCurrency"] = 1220,
+							["name"] = "鹰眼",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[374] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的追踪者变为探路者，获得：\r\n\r\n|TInterface\\ICONS\\SPELL_FIRE_FLARE.BLP:20:20:0:0|t |Cffffffff爆炸陷阱|R\r\n有|C00b3ffff爪牙|R的任务成功率提高15%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 10000,
+							["researchDuration"] = 259200,
+							["tier"] = 3,
+							["selected"] = false,
+							["icon"] = 133208,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 374,
+							["researchCurrency"] = 1220,
+							["name"] = "荒野呼唤",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[375] = {
+							["isBeingResearched"] = false,
+							["description"] = "可以使用巨鹰飞行网络，这是散布于破碎群岛的诸多飞行路线。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 500,
+							["researchDuration"] = 14400,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 1392564,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 375,
+							["researchCurrency"] = 1220,
+							["name"] = "巨鹰盟友",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[376] = {
+							["isBeingResearched"] = false,
+							["description"] = "和一个战友一起完成世界任务可以获得职业大厅资源。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 12500,
+							["researchDuration"] = 432000,
+							["tier"] = 4,
+							["selected"] = false,
+							["icon"] = 135904,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "当你拥有激活的战友时，任务会奖励额外资源。",
+								["id"] = 786,
+								["name"] = "寻觅补给",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 135904,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "寻觅补给",
+							["id"] = 376,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[377] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达工作订单，用职业大厅资源交易获得每周3个破碎命运印记中的1个。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 12500,
+							["researchDuration"] = 432000,
+							["tier"] = 4,
+							["selected"] = false,
+							["icon"] = 461118,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 377,
+							["researchCurrency"] = 1220,
+							["name"] = "隐秘通途",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[378] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达工作订单，用职业大厅资源换取勇士的武器或装备。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 1000,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 236204,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 378,
+							["researchCurrency"] = 1220,
+							["name"] = "箭弹工场",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[379] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以装备的传说物品数量提高1。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 15000,
+							["researchDuration"] = 604800,
+							["tier"] = 5,
+							["selected"] = false,
+							["icon"] = 538771,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 379,
+							["researchCurrency"] = 1220,
+							["name"] = "荒野传说",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+					},
+					["configVersion"] = 3,
+					["missions"] = {
+						[176] = {
+							["type"] = "战斗",
+							["timeLeft"] = "45分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 176,
+							["duration"] = 2700,
+							["level"] = 93,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "独眼魔泄密事件",
+							["followerTypeID"] = 1,
+							["start"] = 1486989391,
+							["followers"] = {
+								{
+									["name"] = "赞提奇",
+									["id"] = "0x0000000001D17CF0",
+									["iconId"] = 1066220,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 108,
+											["name"] = "咆哮",
+											["icon"] = 132270,
+										}, -- [2]
+										{
+											["id"] = 73,
+											["name"] = "巫术狂信徒",
+											["icon"] = 236456,
+										}, -- [3]
+										{
+											["id"] = 182,
+											["name"] = "急奔",
+											["icon"] = 132120,
+										}, -- [4]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 36,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+						},
+						[132] = {
+							["type"] = "战斗",
+							["timeLeft"] = "6小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 132,
+							["duration"] = 21600,
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "蜥蜴的凝视",
+							["followerTypeID"] = 1,
+							["start"] = 1486989385,
+							["followers"] = {
+								{
+									["name"] = "匹凯克",
+									["id"] = "0x0000000001D17CFC",
+									["iconId"] = 1066430,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 148,
+											["name"] = "驱散魔法",
+											["icon"] = 135894,
+										}, -- [2]
+										{
+											["id"] = 314,
+											["name"] = "油猴子",
+											["icon"] = 252178,
+										}, -- [3]
+										{
+											["id"] = 11,
+											["name"] = "治疗祷言",
+											["icon"] = 135943,
+										}, -- [4]
+										{
+											["id"] = 7,
+											["name"] = "登山家",
+											["icon"] = 236848,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [1]
+								{
+									["name"] = "加其兹·爆哮",
+									["id"] = "0x0000000001D17CF9",
+									["iconId"] = 1066080,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 140,
+											["name"] = "嚎镇八方",
+											["icon"] = 620830,
+										}, -- [2]
+										{
+											["id"] = 8,
+											["name"] = "冰冷血脉",
+											["icon"] = 236833,
+										}, -- [3]
+										{
+											["id"] = 143,
+											["name"] = "滚地翻",
+											["icon"] = 574574,
+										}, -- [4]
+										{
+											["id"] = 37,
+											["name"] = "野兽克星",
+											["icon"] = 298659,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 175,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+<<<<<<< HEAD
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "临阵倒戈",
+							["followerTypeID"] = 1,
+							["start"] = 1487509252,
+							["followers"] = {
+								{
+									["name"] = "奥鲁格",
+									["id"] = "0x00000000016E66FE",
+									["iconId"] = 1066413,
+=======
+						},
+						[245] = {
+							["type"] = "巡逻",
+							["timeLeft"] = "1小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+							["id"] = 245,
+							["duration"] = 3600,
+							["level"] = 99,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "鲁格多尔的匪帮",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["followers"] = {
+								{
+									["name"] = "卡纳汀",
+									["id"] = "0x0000000001D17CFB",
+									["iconId"] = 1086416,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+<<<<<<< HEAD
+											["id"] = 122,
+											["name"] = "鲁莽",
+											["icon"] = 603532,
+										}, -- [2]
+										{
+											["id"] = 7,
+											["name"] = "登山家",
+											["icon"] = 236848,
+										}, -- [3]
+										{
+											["id"] = 102,
+											["name"] = "英勇飞跃",
+											["icon"] = 236171,
+										}, -- [4]
+										{
+											["id"] = 44,
+											["name"] = "自然学家",
+											["icon"] = 236830,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+								}, -- [1]
+								{
+									["name"] = "卡加·速射",
+									["id"] = "0x00000000016E66FC",
+									["iconId"] = 1066062,
+=======
+											["id"] = 147,
+											["name"] = "切喉手",
+											["icon"] = 608940,
+										}, -- [2]
+										{
+											["id"] = 42,
+											["name"] = "虚空克星",
+											["icon"] = 298680,
+										}, -- [3]
+										{
+											["id"] = 140,
+											["name"] = "嚎镇八方",
+											["icon"] = 620830,
+										}, -- [4]
+										{
+											["id"] = 8,
+											["name"] = "冰冷血脉",
+											["icon"] = 236833,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+								}, -- [1]
+								{
+									["name"] = "安尼克丝·卡齿",
+									["id"] = "0x0000000001D17CF8",
+									["iconId"] = 1066417,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+<<<<<<< HEAD
+											["id"] = 167,
+											["name"] = "冰冻陷阱",
+											["icon"] = 135834,
+										}, -- [2]
+										{
+											["id"] = 37,
+											["name"] = "野兽克星",
+											["icon"] = 298659,
+										}, -- [3]
+										{
+											["id"] = 163,
+											["name"] = "假死",
+											["icon"] = 132293,
+										}, -- [4]
+										{
+											["id"] = 39,
+											["name"] = "原兽克星",
+											["icon"] = 254105,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["duration"] = 14400,
+						},
+						[310] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "6小时",
+							["id"] = 310,
+							["rewards"] = {
+								{
+									["itemID"] = 114822,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "不堪重负",
+							["followerTypeID"] = 1,
+							["start"] = 1487509272,
+							["followers"] = {
+								{
+									["name"] = "不忠的露西娅",
+									["id"] = "0x00000000016E6707",
+									["iconId"] = 1066291,
+=======
+											["id"] = 121,
+											["name"] = "拳击",
+											["icon"] = 132938,
+										}, -- [2]
+										{
+											["id"] = 74,
+											["name"] = "精灵一族",
+											["icon"] = 236440,
+										}, -- [3]
+										{
+											["id"] = 122,
+											["name"] = "鲁莽",
+											["icon"] = 603532,
+										}, -- [4]
+										{
+											["id"] = 46,
+											["name"] = "游击队员",
+											["icon"] = 236850,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 1500,
+									["tooltip"] = "+1,500经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+1,500经验值",
+								}, -- [1]
+							},
+						},
+						[163] = {
+							["type"] = "战斗",
+							["timeLeft"] = "45分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 163,
+							["duration"] = 2700,
+							["level"] = 97,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "针锋相对",
+							["followerTypeID"] = 1,
+							["start"] = 1486989404,
+							["followers"] = {
+								{
+									["name"] = "艾拉·戴夫",
+									["id"] = "0x0000000001D17CF5",
+									["iconId"] = 1066456,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+<<<<<<< HEAD
+											["id"] = 10,
+											["name"] = "信仰飞跃",
+											["icon"] = 463835,
+										}, -- [2]
+										{
+											["id"] = 44,
+											["name"] = "自然学家",
+											["icon"] = 236830,
+										}, -- [3]
+										{
+											["id"] = 11,
+											["name"] = "治疗祷言",
+											["icon"] = 135943,
+										}, -- [4]
+										{
+											["id"] = 69,
+											["name"] = "酒鬼",
+											["icon"] = 626190,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [1]
+								{
+									["name"] = "芳妮",
+									["id"] = "0x00000000016E670D",
+									["iconId"] = 1066254,
+									["abilities"] = {
+										{
+											["id"] = 314,
+											["name"] = "油猴子",
+											["icon"] = 252178,
+										}, -- [1]
+										{
+											["id"] = 167,
+											["name"] = "冰冻陷阱",
+											["icon"] = 135834,
+										}, -- [2]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [3]
+										{
+											["id"] = 165,
+											["name"] = "逃脱",
+											["icon"] = 132294,
+										}, -- [4]
+										{
+											["id"] = 7,
+											["name"] = "登山家",
+											["icon"] = 236848,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+								}, -- [2]
+								{
+									["name"] = "薇薇安",
+									["id"] = "0x00000000016E66E9",
+									["iconId"] = 1066126,
+									["abilities"] = {
+										{
+											["id"] = 231,
+											["name"] = "看家护院",
+											["icon"] = 1037260,
+										}, -- [1]
+										{
+											["id"] = 5,
+											["name"] = "暴风雪",
+											["icon"] = 135857,
+										}, -- [2]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [3]
+										{
+											["id"] = 172,
+											["name"] = "变形术",
+											["icon"] = 136071,
+										}, -- [4]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 21600,
+						},
+						[256] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "8小时",
+							["id"] = 256,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 12000,
+									["tooltip"] = "+12,000经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+12,000经验值",
+								}, -- [1]
+							},
+=======
+											["id"] = 105,
+											["name"] = "脚踢",
+											["icon"] = 132219,
+										}, -- [2]
+										{
+											["id"] = 45,
+											["name"] = "穴居人",
+											["icon"] = 409595,
+										}, -- [3]
+										{
+											["id"] = 104,
+											["name"] = "闷棍",
+											["icon"] = 132310,
+										}, -- [4]
+										{
+											["id"] = 73,
+											["name"] = "巫术狂信徒",
+											["icon"] = 236456,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 800,
+									["tooltip"] = "+800经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+800经验值",
+								}, -- [1]
+							},
+						},
+						[665] = {
+							["type"] = "战斗",
+							["timeLeft"] = "4小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 665,
+							["duration"] = 14400,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+<<<<<<< HEAD
+							["name"] = "亮晶晶！",
+							["followerTypeID"] = 1,
+							["start"] = 1487509296,
+							["followers"] = {
+								{
+									["name"] = "沃扎库",
+									["id"] = "0x00000000016E66FF",
+									["iconId"] = 1066491,
+=======
+							["name"] = "烂脸",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["followers"] = {
+								{
+									["name"] = "玛拉拉",
+									["id"] = "0x0000000001D17CF3",
+									["iconId"] = 1066436,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+<<<<<<< HEAD
+											["id"] = 177,
+											["name"] = "恶魔变形",
+											["icon"] = 236293,
+										}, -- [2]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [3]
+										{
+											["id"] = 181,
+											["name"] = "召唤地狱火",
+											["icon"] = 136219,
+										}, -- [4]
+										{
+											["id"] = 42,
+											["name"] = "虚空克星",
+											["icon"] = 298680,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+								}, -- [1]
+								{
+									["name"] = "丽扎·铜钻",
+									["id"] = "0x00000000016E66F3",
+									["iconId"] = 1066510,
+									["abilities"] = {
+										{
+											["id"] = 73,
+											["name"] = "巫术狂信徒",
+											["icon"] = 236456,
+										}, -- [1]
+										{
+											["id"] = 121,
+											["name"] = "拳击",
+											["icon"] = 132938,
+										}, -- [2]
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [3]
+										{
+											["id"] = 102,
+											["name"] = "英勇飞跃",
+											["icon"] = 236171,
+										}, -- [4]
+										{
+											["id"] = 49,
+											["name"] = "平原旅人",
+											["icon"] = 236712,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+								}, -- [2]
+								{
+									["name"] = "佩琪·里佐",
+									["id"] = "0x00000000016E66F0",
+									["iconId"] = 1066300,
+									["abilities"] = {
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [1]
+										{
+											["id"] = 104,
+											["name"] = "闷棍",
+											["icon"] = 132310,
+										}, -- [2]
+										{
+											["id"] = 43,
+											["name"] = "利爪克星",
+											["icon"] = 952507,
+										}, -- [3]
+										{
+											["id"] = 161,
+											["name"] = "刀扇",
+											["icon"] = 236273,
+										}, -- [4]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 28800,
+						},
+						[332] = {
+							["type"] = "探索",
+							["typeAtlas"] = "GarrMission_MissionIcon-Exploration",
+							["timeLeft"] = "1小时",
+							["id"] = 332,
+							["rewards"] = {
+								{
+									["itemID"] = 26045,
+									["quantity"] = 100,
+								}, -- [1]
+								{
+									["itemID"] = 26044,
+									["quantity"] = 40,
+								}, -- [2]
+							},
+							["level"] = 98,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "洛克拉斯之谜",
+							["followerTypeID"] = 1,
+							["start"] = 1487509299,
+							["followers"] = {
+								{
+									["name"] = "本杰明·吉布",
+									["id"] = "0x00000000016E66F1",
+									["iconId"] = 1066344,
+									["abilities"] = {
+										{
+											["id"] = 118,
+											["name"] = "符文武器增效",
+											["icon"] = 135372,
+										}, -- [1]
+										{
+											["id"] = 116,
+											["name"] = "枯萎凋零",
+											["icon"] = 136144,
+										}, -- [2]
+										{
+											["id"] = 254,
+											["name"] = "鸟类学家",
+											["icon"] = 1042646,
+										}, -- [3]
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [4]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 3600,
+						},
+						[336] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "10小时",
+							["id"] = 336,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_apexis_draenor",
+									["quantity"] = 1000,
+									["title"] = "货币奖励",
+									["currencyID"] = 823,
+								}, -- [1]
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 20000,
+									["tooltip"] = "+20,000经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+20,000经验值",
+								}, -- [2]
+							},
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "解放沙塔斯",
+							["followerTypeID"] = 1,
+							["start"] = 1487509243,
+							["followers"] = {
+								{
+									["name"] = "奥术师杜克罗格",
+									["id"] = "0x00000000016E66F2",
+									["iconId"] = 1086382,
+									["abilities"] = {
+										{
+											["id"] = 73,
+											["name"] = "巫术狂信徒",
+											["icon"] = 236456,
+										}, -- [1]
+										{
+											["id"] = 172,
+											["name"] = "变形术",
+											["icon"] = 136071,
+										}, -- [2]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [3]
+										{
+											["id"] = 170,
+											["name"] = "闪现术",
+											["icon"] = 135736,
+=======
+											["id"] = 151,
+											["name"] = "统御意志",
+											["icon"] = 136206,
+										}, -- [2]
+										{
+											["id"] = 44,
+											["name"] = "自然学家",
+											["icon"] = 236830,
+										}, -- [3]
+										{
+											["id"] = 152,
+											["name"] = "能量灌注",
+											["icon"] = 135939,
+										}, -- [4]
+										{
+											["id"] = 314,
+											["name"] = "油猴子",
+											["icon"] = 252178,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [1]
+								{
+									["name"] = "卡拉",
+									["id"] = "0x0000000001D17CEA",
+									["iconId"] = 1066122,
+									["abilities"] = {
+										{
+											["id"] = 104,
+											["name"] = "闷棍",
+											["icon"] = 132310,
+										}, -- [1]
+										{
+											["id"] = 159,
+											["name"] = "闪避",
+											["icon"] = 136205,
+										}, -- [2]
+										{
+											["id"] = 236,
+											["name"] = "炉石专家",
+											["icon"] = 1061040,
+										}, -- [3]
+										{
+											["id"] = 70,
+											["name"] = "德拉诺之子",
+											["icon"] = 236451,
+										}, -- [4]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+								}, -- [2]
+								{
+									["name"] = "暗影猎手莱拉",
+									["id"] = "0x0000000001D17CEB",
+									["iconId"] = 1066105,
+									["abilities"] = {
+										{
+											["id"] = 101,
+											["name"] = "多重射击",
+											["icon"] = 132330,
+										}, -- [1]
+										{
+											["id"] = 165,
+											["name"] = "逃脱",
+											["icon"] = 132294,
+										}, -- [2]
+										{
+											["id"] = 4,
+											["name"] = "兽人克星",
+											["icon"] = 897144,
+										}, -- [3]
+										{
+											["id"] = 38,
+											["name"] = "食人魔克星",
+											["icon"] = 236695,
+										}, -- [4]
+										{
+											["id"] = 42,
+											["name"] = "虚空克星",
+											["icon"] = 298680,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\garrison_oil",
+									["quantity"] = 25,
+									["title"] = "货币奖励",
+									["currencyID"] = 1101,
+								}, -- [1]
+							},
+						},
+						[128] = {
+							["type"] = "战斗",
+							["timeLeft"] = "8小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 128,
+							["duration"] = 28800,
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "斩首行动",
+							["followerTypeID"] = 1,
+							["start"] = 1486989395,
+							["followers"] = {
+								{
+									["name"] = "欧林·棕皮",
+									["id"] = "0x0000000001D17CE9",
+									["iconId"] = 1066111,
+									["abilities"] = {
+										{
+											["id"] = 100,
+											["name"] = "嘲讽",
+											["icon"] = 136080,
+										}, -- [1]
+										{
+											["id"] = 59,
+											["name"] = "珠宝加工",
+											["icon"] = 134071,
+										}, -- [2]
+										{
+											["id"] = 314,
+											["name"] = "油猴子",
+											["icon"] = 252178,
+										}, -- [3]
+										{
+											["id"] = 121,
+											["name"] = "拳击",
+											["icon"] = 132938,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+										}, -- [4]
+										{
+											["id"] = 49,
+											["name"] = "平原旅人",
+											["icon"] = 236712,
+										}, -- [5]
+									},
+<<<<<<< HEAD
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+								}, -- [1]
+								{
+									["name"] = "布鲁托",
+									["id"] = "0x00000000016E66E6",
+									["iconId"] = 1066096,
+									["abilities"] = {
+										{
+											["id"] = 140,
+											["name"] = "嚎镇八方",
+											["icon"] = 620830,
+										}, -- [1]
+										{
+											["id"] = 75,
+											["name"] = "经济学家",
+											["icon"] = 632354,
+										}, -- [2]
+										{
+											["id"] = 45,
+											["name"] = "穴居人",
+											["icon"] = 409595,
+										}, -- [3]
+										{
+											["id"] = 143,
+											["name"] = "滚地翻",
+											["icon"] = 574574,
+										}, -- [4]
+										{
+											["id"] = 41,
+											["name"] = "元素克星",
+											["icon"] = 254652,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+								}, -- [2]
+								{
+									["name"] = "海蒂·掠影",
+									["id"] = "0x00000000016E66F8",
+									["iconId"] = 1066427,
+									["abilities"] = {
+										{
+											["id"] = 70,
+											["name"] = "德拉诺之子",
+											["icon"] = 236451,
+										}, -- [1]
+										{
+											["id"] = 151,
+											["name"] = "统御意志",
+											["icon"] = 136206,
+										}, -- [2]
+										{
+											["id"] = 74,
+											["name"] = "精灵一族",
+											["icon"] = 236440,
+										}, -- [3]
+										{
+											["id"] = 152,
+											["name"] = "能量灌注",
+											["icon"] = 135939,
+										}, -- [4]
+										{
+											["id"] = 43,
+											["name"] = "利爪克星",
+											["icon"] = 952507,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 36000,
+						},
+						[211] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "56分钟",
+							["id"] = 211,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 1050,
+									["tooltip"] = "+1,050经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+1,050经验值",
+								}, -- [1]
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 200,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [2]
+							},
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+								}, -- [1]
+								{
+									["name"] = "赞塔奇",
+									["id"] = "0x0000000001D17CF4",
+									["iconId"] = 1066233,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 138,
+											["name"] = "狂暴",
+											["icon"] = 236149,
+										}, -- [2]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [3]
+										{
+											["id"] = 108,
+											["name"] = "咆哮",
+											["icon"] = 132270,
+										}, -- [4]
+										{
+											["id"] = 39,
+											["name"] = "原兽克星",
+											["icon"] = 254105,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+								}, -- [2]
+								{
+									["name"] = "薇薇安",
+									["id"] = "0x0000000001D17CEC",
+									["iconId"] = 1066126,
+									["abilities"] = {
+										{
+											["id"] = 231,
+											["name"] = "看家护院",
+											["icon"] = 1037260,
+										}, -- [1]
+										{
+											["id"] = 5,
+											["name"] = "暴风雪",
+											["icon"] = 135857,
+										}, -- [2]
+										{
+											["id"] = 37,
+											["name"] = "野兽克星",
+											["icon"] = 298659,
+										}, -- [3]
+										{
+											["id"] = 173,
+											["name"] = "时间扭曲",
+											["icon"] = 458224,
+										}, -- [4]
+										{
+											["id"] = 7,
+											["name"] = "登山家",
+											["icon"] = 236848,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["itemID"] = 114616,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+						},
+						[159] = {
+							["type"] = "战斗",
+							["timeLeft"] = "1小时30分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 159,
+							["duration"] = 5400,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+							["level"] = 96,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+<<<<<<< HEAD
+							["name"] = "愿你安息",
+							["followerTypeID"] = 1,
+							["start"] = 1487509223,
+							["followers"] = {
+								{
+									["name"] = "阿泽里奇·灰刃",
+									["id"] = "0x00000000016E6705",
+									["iconId"] = 1066134,
+=======
+							["name"] = "美妙的痛苦",
+							["followerTypeID"] = 1,
+							["start"] = 1486989405,
+							["followers"] = {
+								{
+									["name"] = "维拉·阿纳尔",
+									["id"] = "0x0000000001D17CFD",
+									["iconId"] = 1066158,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+<<<<<<< HEAD
+											["id"] = 118,
+											["name"] = "符文武器增效",
+											["icon"] = 135372,
+										}, -- [2]
+										{
+											["id"] = 45,
+											["name"] = "穴居人",
+											["icon"] = 409595,
+										}, -- [3]
+										{
+											["id"] = 117,
+											["name"] = "心灵冰冻",
+											["icon"] = 237527,
+										}, -- [4]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+								}, -- [1]
+								{
+									["name"] = "新兵胡玛克",
+									["id"] = "0x00000000016E6709",
+									["iconId"] = 1066288,
+=======
+											["id"] = 173,
+											["name"] = "时间扭曲",
+											["icon"] = 458224,
+										}, -- [2]
+										{
+											["id"] = 36,
+											["name"] = "恶魔克星",
+											["icon"] = 254651,
+										}, -- [3]
+										{
+											["id"] = 171,
+											["name"] = "法术反制",
+											["icon"] = 135856,
+										}, -- [4]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 700,
+									["tooltip"] = "+700经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+700经验值",
+								}, -- [1]
+							},
+						},
+						[189] = {
+							["type"] = "战斗",
+							["timeLeft"] = "45分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 189,
+							["duration"] = 2700,
+							["level"] = 94,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "多数人的需求",
+							["followerTypeID"] = 1,
+							["start"] = 1486989389,
+							["followers"] = {
+								{
+									["name"] = "法维拉·熊皮",
+									["id"] = "0x0000000001D17CF7",
+									["iconId"] = 1086406,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+<<<<<<< HEAD
+											["id"] = 135,
+											["name"] = "野性成长",
+											["icon"] = 236153,
+										}, -- [2]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [3]
+										{
+											["id"] = 137,
+											["name"] = "飓风",
+											["icon"] = 136018,
+										}, -- [4]
+										{
+											["id"] = 44,
+											["name"] = "自然学家",
+											["icon"] = 236830,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+								}, -- [2]
+								{
+									["name"] = "维拉·灵心",
+									["id"] = "0x00000000016E6700",
+									["iconId"] = 1066200,
+=======
+											["id"] = 142,
+											["name"] = "真气波",
+											["icon"] = 606541,
+										}, -- [2]
+										{
+											["id"] = 39,
+											["name"] = "原兽克星",
+											["icon"] = 254105,
+										}, -- [3]
+										{
+											["id"] = 145,
+											["name"] = "清创生血",
+											["icon"] = 460692,
+										}, -- [4]
+										{
+											["id"] = 41,
+											["name"] = "元素克星",
+											["icon"] = 254652,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 38,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+						},
+						[125] = {
+							["type"] = "战斗",
+							["timeLeft"] = "4小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 125,
+							["duration"] = 14400,
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "一地鸦毛",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["followers"] = {
+								{
+									["name"] = "卢西奥",
+									["id"] = "0x0000000001D17CF2",
+									["iconId"] = 1086446,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+<<<<<<< HEAD
+											["id"] = 176,
+											["name"] = "烧灼驱魔",
+											["icon"] = 841219,
+										}, -- [2]
+										{
+											["id"] = 69,
+											["name"] = "酒鬼",
+											["icon"] = 626190,
+										}, -- [3]
+										{
+											["id"] = 179,
+											["name"] = "法术封锁",
+											["icon"] = 136174,
+										}, -- [4]
+										{
+											["id"] = 221,
+											["name"] = "史诗坐骑",
+											["icon"] = 631718,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 3375,
+						},
+						[245] = {
+							["type"] = "巡逻",
+							["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+							["timeLeft"] = "1小时",
+							["id"] = 245,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 1500,
+									["tooltip"] = "+1,500经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+1,500经验值",
+								}, -- [1]
+							},
+							["level"] = 99,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "鲁格多尔的匪帮",
+							["followerTypeID"] = 1,
+							["start"] = 1487509302,
+							["followers"] = {
+								{
+									["name"] = "汉娅",
+									["id"] = "0x00000000016E66FD",
+									["iconId"] = 1086424,
+=======
+											["id"] = 128,
+											["name"] = "圣光普照",
+											["icon"] = 457654,
+										}, -- [2]
+										{
+											["id"] = 74,
+											["name"] = "精灵一族",
+											["icon"] = 236440,
+										}, -- [3]
+										{
+											["id"] = 125,
+											["name"] = "清洁术",
+											["icon"] = 135949,
+										}, -- [4]
+										{
+											["id"] = 9,
+											["name"] = "废土行者",
+											["icon"] = 236846,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+								}, -- [1]
+								{
+									["name"] = "乌娜·斯莱舍",
+									["id"] = "0x0000000001D17CED",
+									["iconId"] = 1066198,
+									["abilities"] = {
+										{
+											["id"] = 148,
+											["name"] = "驱散魔法",
+											["icon"] = 135894,
+										}, -- [1]
+										{
+											["id"] = 40,
+											["name"] = "戈隆克星",
+											["icon"] = 236412,
+										}, -- [2]
+										{
+											["id"] = 8,
+											["name"] = "冰冷血脉",
+											["icon"] = 236833,
+										}, -- [3]
+										{
+											["id"] = 11,
+											["name"] = "治疗祷言",
+											["icon"] = 135943,
+										}, -- [4]
+										{
+											["id"] = 9,
+											["name"] = "废土行者",
+											["icon"] = 236846,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["itemID"] = 120301,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+						},
+						[190] = {
+							["type"] = "战斗",
+							["timeLeft"] = "45分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 190,
+							["duration"] = 2700,
+							["level"] = 95,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "斩草除根",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["followers"] = {
+								{
+									["name"] = "卡玛·箭泉",
+									["id"] = "0x0000000001D17CF6",
+									["iconId"] = 1086378,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 165,
+											["name"] = "逃脱",
+											["icon"] = 132294,
+										}, -- [2]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [3]
+										{
+											["id"] = 101,
+											["name"] = "多重射击",
+											["icon"] = 132330,
+										}, -- [4]
+										{
+											["id"] = 69,
+											["name"] = "酒鬼",
+											["icon"] = 626190,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 40,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+						},
+						[360] = {
+							["type"] = "战斗",
+							["timeLeft"] = "10小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 360,
+							["duration"] = 36000,
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "热砂保护协会的差事",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["followers"] = {
+								{
+									["name"] = "赞拉萨",
+									["id"] = "0x0000000001D17CF1",
+									["iconId"] = 1066181,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+<<<<<<< HEAD
+											["id"] = 130,
+											["name"] = "神圣风暴",
+											["icon"] = 236250,
+										}, -- [2]
+										{
+											["id"] = 74,
+											["name"] = "精灵一族",
+											["icon"] = 236440,
+										}, -- [3]
+										{
+											["id"] = 126,
+											["name"] = "责难",
+											["icon"] = 523893,
+										}, -- [4]
+										{
+											["id"] = 80,
+											["name"] = "额外训练",
+											["icon"] = 975743,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+								}, -- [1]
+								{
+									["name"] = "奥菲隆",
+									["id"] = "0x00000000016E6702",
+									["iconId"] = 1066425,
+=======
+											["id"] = 161,
+											["name"] = "刀扇",
+											["icon"] = 236273,
+										}, -- [2]
+										{
+											["id"] = 48,
+											["name"] = "沼泽行者",
+											["icon"] = 236819,
+										}, -- [3]
+										{
+											["id"] = 105,
+											["name"] = "脚踢",
+											["icon"] = 132219,
+										}, -- [4]
+										{
+											["id"] = 44,
+											["name"] = "自然学家",
+											["icon"] = 236830,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+								}, -- [1]
+								{
+									["name"] = "阿特米西娅·碧眼",
+									["id"] = "0x0000000001D17CFE",
+									["iconId"] = 1066144,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 130,
+											["name"] = "神圣风暴",
+											["icon"] = 236250,
+										}, -- [2]
+										{
+<<<<<<< HEAD
+											["id"] = 42,
+											["name"] = "虚空克星",
+											["icon"] = 298680,
+										}, -- [3]
+										{
+											["id"] = 126,
+											["name"] = "责难",
+											["icon"] = 523893,
+										}, -- [4]
+										{
+											["id"] = 46,
+											["name"] = "游击队员",
+											["icon"] = 236850,
+=======
+											["id"] = 39,
+											["name"] = "原兽克星",
+											["icon"] = 254105,
+										}, -- [3]
+										{
+											["id"] = 124,
+											["name"] = "圣盾术",
+											["icon"] = 524354,
+										}, -- [4]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+								}, -- [2]
+<<<<<<< HEAD
+							},
+							["missionState"] = 0,
+							["duration"] = 3600,
+						},
+					},
+					["tooltipEnabled"] = true,
+					["garrisonCacheLastLooted"] = 1489496602,
+					["currencySealOfTemperedFateAmount"] = 19,
+					["invasion"] = {
+						["available"] = false,
+					},
+					["buildingsExpanded"] = true,
+					["missionsExpanded"] = true,
+					["buildings"] = {
+						[24] = {
+							["hasFollowerSlot"] = true,
+							["rank"] = 3,
+							["icon"] = 975738,
+							["id"] = 28,
+							["plotID"] = 24,
+							["isBuilding"] = false,
+							["plotSize"] = 3,
+							["buildTime"] = 3600,
+							["timeStart"] = 1423132969,
+							["name"] = "兵营",
+							["canActivate"] = false,
+							["texPrefix"] = "GarrBuilding_Barracks_3_H",
+							["shipment"] = {
+							},
+							["follower"] = {
+							},
+							["buildingState"] = 0,
+						},
+						[63] = {
+							["hasFollowerSlot"] = true,
+							["rank"] = 2,
+							["icon"] = 134221,
+							["id"] = 136,
+							["plotID"] = 63,
+							["isBuilding"] = false,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["timeStart"] = 1419071201,
+							["name"] = "药圃",
+							["canActivate"] = false,
+							["texPrefix"] = "GarrBuilding_Farm_1_H",
+							["shipment"] = {
+								["shipmentsAvailable"] = 11,
+								["itemName"] = "药圃",
+								["texture"] = 134221,
+								["shipmentCapacity"] = 14,
+								["notificationValue"] = 3,
+								["duration"] = 0,
+								["shipmentsReadyEstimate"] = 3,
+								["notification"] = 1,
+								["shipmentsInProgress"] = 0,
+								["notificationDismissed"] = false,
+								["name"] = "药圃",
+								["shipmentsTotal"] = 3,
+								["itemID"] = 116054,
+								["creationTime"] = 0,
+								["shipmentsReady"] = 3,
+								["itemQuality"] = 1,
+							},
+							["follower"] = {
+							},
+							["buildingState"] = 0,
+						},
+						[81] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 1,
+=======
+								{
+									["name"] = "魔导师索布莱兹",
+									["id"] = "0x0000000001D17CFA",
+									["iconId"] = 1066306,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 180,
+											["name"] = "恐惧",
+											["icon"] = 136183,
+										}, -- [2]
+										{
+											["id"] = 73,
+											["name"] = "巫术狂信徒",
+											["icon"] = 236456,
+										}, -- [3]
+										{
+											["id"] = 178,
+											["name"] = "火焰之雨",
+											["icon"] = 135804,
+										}, -- [4]
+										{
+											["id"] = 44,
+											["name"] = "自然学家",
+											["icon"] = 236830,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 250,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+								{
+									["itemID"] = 118100,
+									["quantity"] = 1,
+								}, -- [2]
+							},
+						},
+					},
+					["tooltipEnabled"] = true,
+					["garrisonCacheLastLooted"] = 1489403169,
+					["currencyOil"] = 5750,
+					["invasion"] = {
+						["available"] = false,
+					},
+					["buildingsExpanded"] = true,
+					["missionsExpanded"] = true,
+					["buildings"] = {
+						[24] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["id"] = 66,
+							["plotID"] = 24,
+							["shipment"] = {
+							},
+							["plotSize"] = 3,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "兽栏",
+							["timeStart"] = 1464697025,
+							["texPrefix"] = "GarrBuilding_Stables_2_H",
+							["isBuilding"] = false,
+							["icon"] = 975744,
+							["rank"] = 2,
+						},
+						[18] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["id"] = 51,
+							["plotID"] = 18,
+							["shipment"] = {
+							},
+							["plotSize"] = 1,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "仓库",
+							["timeStart"] = 1455755385,
+							["texPrefix"] = "GarrBuilding_Storehouse_1_H",
+							["isBuilding"] = false,
+							["icon"] = 975745,
+							["rank"] = 1,
+						},
+						[22] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["id"] = 35,
+							["plotID"] = 22,
+							["shipment"] = {
+							},
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "霜壁旅社",
+							["timeStart"] = 1454584782,
+							["texPrefix"] = "GarrBuilding_Inn_2_H",
+							["isBuilding"] = false,
+							["icon"] = 134414,
+							["rank"] = 2,
+						},
+						[81] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+							["id"] = 42,
+							["plotID"] = 81,
+							["shipment"] = {
+							},
+<<<<<<< HEAD
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "宠物小窝",
+							["timeStart"] = 1474669218,
+							["texPrefix"] = "GarrBuilding_PetStable_1_H",
+							["plotSize"] = 2,
+							["icon"] = 975741,
+							["buildingState"] = 0,
+						},
+						[67] = {
+							["hasFollowerSlot"] = true,
+							["rank"] = 1,
+							["icon"] = 136245,
+							["id"] = 64,
+							["plotID"] = 67,
+							["isBuilding"] = false,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["timeStart"] = 1418486045,
+							["name"] = "渔夫小屋",
+							["canActivate"] = false,
+							["texPrefix"] = "GarrBuilding_Fishing_1_H",
+							["shipment"] = {
+							},
+							["follower"] = {
+							},
+							["buildingState"] = 0,
+						},
+						[25] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 1,
+							["id"] = 111,
+							["plotID"] = 25,
+							["shipment"] = {
+								["texture"] = 975746,
+								["name"] = "货栈",
+								["shipmentCapacity"] = 7,
+							},
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "货栈",
+							["timeStart"] = 1422962215,
+							["texPrefix"] = "GarrBuilding_TradingPost_1_H",
+							["plotSize"] = 2,
+							["icon"] = 975746,
+							["buildingState"] = 0,
+						},
+						[18] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 3,
+							["id"] = 141,
+							["plotID"] = 18,
+							["shipment"] = {
+							},
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "废品站",
+							["timeStart"] = 1422889692,
+							["texPrefix"] = "GarrBuilding_SalvageYard_1_H",
+							["plotSize"] = 1,
+							["icon"] = 975742,
+							["buildingState"] = 0,
+						},
+						[19] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 1,
+							["id"] = 60,
+							["plotID"] = 19,
+							["shipment"] = {
+								["texture"] = 136241,
+								["name"] = "熔炉",
+								["shipmentCapacity"] = 7,
+							},
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "熔炉",
+							["timeStart"] = 1418392117,
+							["texPrefix"] = "GarrBuilding_Blacksmith_1_H",
+							["plotSize"] = 1,
+							["icon"] = 136241,
+							["buildingState"] = 0,
+						},
+						[20] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 1,
+							["id"] = 93,
+							["plotID"] = 20,
+							["shipment"] = {
+								["texture"] = 136244,
+								["name"] = "附魔研究室",
+								["shipmentCapacity"] = 7,
+							},
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "附魔研究室",
+							["timeStart"] = 1425811263,
+							["texPrefix"] = "GarrBuilding_Enchanting_1_H",
+							["plotSize"] = 1,
+							["icon"] = 136244,
+							["buildingState"] = 0,
+						},
+						[59] = {
+							["hasFollowerSlot"] = true,
+							["rank"] = 2,
+							["icon"] = 136248,
+							["id"] = 62,
+							["plotID"] = 59,
+							["isBuilding"] = false,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["timeStart"] = 1418397437,
+							["name"] = "霜壁矿井",
+							["canActivate"] = false,
+							["texPrefix"] = "GarrBuilding_Mine_1_H",
+							["shipment"] = {
+								["texture"] = 136248,
+								["name"] = "霜壁矿井",
+								["shipmentCapacity"] = 14,
+							},
+							["follower"] = {
+							},
+							["buildingState"] = 0,
+						},
+						[22] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 3,
+							["id"] = 36,
+							["plotID"] = 22,
+							["shipment"] = {
+							},
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "霜壁旅社",
+							["timeStart"] = 1431043573,
+							["texPrefix"] = "GarrBuilding_Inn_3_H",
+							["plotSize"] = 2,
+							["icon"] = 134414,
+							["buildingState"] = 0,
+						},
+						[23] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 3,
+							["id"] = 10,
+							["plotID"] = 23,
+							["shipment"] = {
+								["texture"] = 975736,
+								["name"] = "战争工坊",
+								["shipmentCapacity"] = 21,
+							},
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "战争工坊",
+							["timeStart"] = 1428203113,
+							["texPrefix"] = "GarrBuilding_Armory_3_H",
+							["plotSize"] = 3,
+							["icon"] = 975736,
+							["buildingState"] = 0,
+						},
+						[98] = {
+							["hasFollowerSlot"] = false,
+							["id"] = 207,
+							["plotID"] = 98,
+							["rank"] = 3,
+							["shipment"] = {
+								["texture"] = 1126431,
+								["name"] = "霜壁船坞",
+								["shipmentCapacity"] = 1,
+							},
+							["buildTime"] = 0,
+							["isBuilding"] = false,
+							["name"] = "霜壁船坞",
+							["timeStart"] = 1467976938,
+							["texPrefix"] = "GarrBuilding_Armory_1_A",
+							["canActivate"] = false,
+							["icon"] = 1126431,
+							["buildingState"] = 0,
+						},
+					},
+					["ldbEnabled"] = true,
+					["shipments"] = {
+					},
+					["notificationEnabled"] = true,
+					["currencyOrderResourcesAmount"] = 105,
+=======
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "宠物小窝",
+							["timeStart"] = 1486786564,
+							["texPrefix"] = "GarrBuilding_PetStable_1_H",
+							["isBuilding"] = false,
+							["icon"] = 975741,
+							["rank"] = 1,
+						},
+						[23] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["id"] = 26,
+							["plotID"] = 23,
+							["shipment"] = {
+							},
+							["plotSize"] = 3,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "兵营",
+							["timeStart"] = 1453634139,
+							["texPrefix"] = "GarrBuilding_Barracks_1_H",
+							["isBuilding"] = false,
+							["icon"] = 975738,
+							["rank"] = 1,
+						},
+						[25] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["id"] = 111,
+							["plotID"] = 25,
+							["shipment"] = {
+								["shipmentCapacity"] = 12,
+								["name"] = "货栈",
+								["texture"] = 975746,
+							},
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "货栈",
+							["timeStart"] = 1464507400,
+							["texPrefix"] = "GarrBuilding_TradingPost_1_H",
+							["isBuilding"] = false,
+							["icon"] = 975746,
+							["rank"] = 1,
+						},
+					},
+					["weeklyNextReset"] = 1489618799,
+					["shipments"] = {
+					},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+					["trackWeekly"] = {
+						["WARMILL_SOTF"] = false,
+						["BONUS_ROLL_QUESTS"] = 0,
+					},
+<<<<<<< HEAD
+					["lootedNextReset"] = 1489618799,
+=======
+					["currencyOrderResourcesAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+					["lootedToday"] = {
+					},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+					["looseShipments"] = {
+					},
+					["cacheSize"] = 500,
+					["followerShipments"] = {
+					},
+<<<<<<< HEAD
 					["currencyApexisAmount"] = 74077,
 					["order"] = 5,
 					["currencyArtifactKnowledge"] = 0,
@@ -14747,11 +23875,41 @@ Broker_GarrisonDB = {
 						[395] = {
 							["isBeingResearched"] = false,
 							["description"] = "刚招募的新晋侍从变为持盾方阵兵，使其任务成功率提高5%。",
+=======
+					["currencyApexisAmount"] = 10515,
+					["currencyAncientManaAmount"] = 0,
+					["currencyArtifactKnowledge"] = 0,
+					["currencySealOfInevitableFateAmount"] = 2,
+					["orderhallExpanded"] = true,
+					["order"] = 5,
+					["info"] = {
+						["playerName"] = "兮兮妹",
+						["playerFaction"] = "Horde",
+						["realmName"] = "末日祷告祭坛",
+						["playerClass"] = "HUNTER",
+					},
+					["trackDaily"] = {
+						["WARMILL_IRONSCRAPS"] = false,
+					},
+					["notificationEnabled"] = true,
+					["ldbEnabled"] = true,
+					["currencyAmount"] = 3581,
+					["currencySealOfTemperedFateAmount"] = 0,
+				},
+				["悠悠战"] = {
+					["categories"] = {
+					},
+					["talents"] = {
+						[440] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的海盗变为格斗家，拥有：\r\n\r\n|TInterface\\ICONS\\ABILITY_PARRY.BLP:20:20:0:0|t |Cffffffff备战就绪|R\r\n有|C00b3ffff爪牙|R的任务成功率提高15%。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["perkSpellID"] = 0,
 							["researchCost"] = 10000,
 							["researchDuration"] = 259200,
 							["tier"] = 3,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 1278391,
 							["researched"] = false,
 							["talentAvailability"] = 2,
@@ -14785,11 +23943,28 @@ Broker_GarrisonDB = {
 						[397] = {
 							["isBeingResearched"] = false,
 							["description"] = "每天可以使用一次银色军马马桩，使用后召唤一匹军马，使你能在短时间内在坐骑上作战。",
+=======
+							["icon"] = 1269440,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 440,
+							["researchCurrency"] = 1220,
+							["name"] = "猩红航帆",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[441] = {
+							["isBeingResearched"] = false,
+							["description"] = "勇士成功完成任务后有几率带回一张宝库赠品券。\r\n\r\n宝库券使你可以每周从无冕宝库中拾取一次随机奖励，其中所包含的财富超乎你的想象。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["perkSpellID"] = 0,
 							["researchCost"] = 500,
 							["researchDuration"] = 14400,
 							["tier"] = 1,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 1360759,
 							["researched"] = false,
 							["talentAvailability"] = 2,
@@ -14804,11 +23979,40 @@ Broker_GarrisonDB = {
 						[398] = {
 							["isBeingResearched"] = false,
 							["description"] = "你可以下达工作订单，用职业大厅资源交易获得每周3个破碎命运印记中的1个。",
+=======
+							["icon"] = 1269443,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "勇士成功完成任务后有几率带回一张宝库赠品券。",
+								["id"] = 789,
+								["name"] = "宝库赠品券",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 1269443,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "大殿",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["id"] = 441,
+						},
+						[442] = {
+							["isBeingResearched"] = false,
+							["description"] = "和一个战友一起完成世界任务可以获得职业大厅资源。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["perkSpellID"] = 0,
 							["researchCost"] = 12500,
 							["researchDuration"] = 432000,
 							["tier"] = 4,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 135909,
 							["researched"] = false,
 							["talentAvailability"] = 2,
@@ -14824,10 +24028,40 @@ Broker_GarrisonDB = {
 							["isBeingResearched"] = false,
 							["description"] = "你可以下达一个白银之手的工作订单，使用后可以释放白银之手先锋，立即完成你地图上的一个非精英类世界任务。每18个小时可以使用一次。",
 							["perkSpellID"] = 221587,
+=======
+							["icon"] = 132092,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "当你拥有激活的战友时，任务会奖励额外资源。",
+								["id"] = 783,
+								["name"] = "幕后交易",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 132092,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "幕后交易",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 442,
+						},
+						[443] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达工作订单，用职业大厅资源交易获得每周3个破碎命运印记中的1个。",
+							["perkSpellID"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researchCost"] = 12500,
 							["researchDuration"] = 432000,
 							["tier"] = 4,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 1360760,
 							["researched"] = false,
 							["talentAvailability"] = 2,
@@ -14840,6 +24074,20 @@ Broker_GarrisonDB = {
 							["researchStartTime"] = 0,
 						},
 						[400] = {
+=======
+							["icon"] = 1398087,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 443,
+							["researchCurrency"] = 1220,
+							["name"] = "掠夺",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[444] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["isBeingResearched"] = false,
 							["description"] = "你可以下达工作订单，用职业大厅资源换取勇士的武器或装备。",
 							["perkSpellID"] = 0,
@@ -14847,6 +24095,7 @@ Broker_GarrisonDB = {
 							["researchDuration"] = 86400,
 							["tier"] = 2,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 1030096,
 							["researched"] = false,
 							["talentAvailability"] = 2,
@@ -14859,6 +24108,20 @@ Broker_GarrisonDB = {
 							["researchStartTime"] = 0,
 						},
 						[401] = {
+=======
+							["icon"] = 840720,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 444,
+							["researchCurrency"] = 1220,
+							["name"] = "武器走私",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[445] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["isBeingResearched"] = false,
 							["description"] = "你可以装备的传说物品数量提高1。",
 							["perkSpellID"] = 0,
@@ -14866,6 +24129,7 @@ Broker_GarrisonDB = {
 							["researchDuration"] = 604800,
 							["tier"] = 5,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 135965,
 							["researched"] = false,
 							["talentAvailability"] = 2,
@@ -14878,6 +24142,20 @@ Broker_GarrisonDB = {
 							["researchStartTime"] = 0,
 						},
 						[391] = {
+=======
+							["icon"] = 1398088,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 445,
+							["researchCurrency"] = 1220,
+							["name"] = "全副武装",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[435] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["isBeingResearched"] = false,
 							["description"] = "使你非重复类的任务奖励额外升级为稀有或史诗品质的几率提高。",
 							["perkSpellID"] = 219866,
@@ -14885,6 +24163,7 @@ Broker_GarrisonDB = {
 							["researchDuration"] = 7200,
 							["tier"] = 0,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 589117,
 							["researched"] = false,
 							["talentAvailability"] = 2,
@@ -14899,23 +24178,49 @@ Broker_GarrisonDB = {
 						[392] = {
 							["isBeingResearched"] = false,
 							["description"] = "可以使用王者祝福技能，每天派出的第一个任务的成功率提高20%。",
+=======
+							["icon"] = 418250,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 435,
+							["researchCurrency"] = 1220,
+							["name"] = "上佳手气",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[436] = {
+							["isBeingResearched"] = false,
+							["description"] = "可以使用奇袭攻击技能，每天派出的第一个任务的成功率提高20%。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["perkSpellID"] = 0,
 							["researchCost"] = 50,
 							["researchDuration"] = 7200,
 							["tier"] = 0,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 135993,
+=======
+							["icon"] = 1373907,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researched"] = false,
 							["talentAvailability"] = 2,
 							["ability"] = {
 								["temporary"] = false,
 								["description"] = "每天第一个任务的成功率提高20%。",
+<<<<<<< HEAD
 								["id"] = 595,
 								["name"] = "王者祝福",
+=======
+								["id"] = 643,
+								["name"] = "奇袭攻击",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								["isSpecialization"] = false,
 								["counters"] = {
 								},
 								["isEmptySlot"] = false,
+<<<<<<< HEAD
 								["icon"] = 135993,
 								["isTrait"] = false,
 							},
@@ -14930,23 +24235,50 @@ Broker_GarrisonDB = {
 						[393] = {
 							["isBeingResearched"] = false,
 							["description"] = "在所有任务中可以使用公正祝福技能，使带有|C00b3ffff法术|R的任务成功率提高10%。",
+=======
+								["icon"] = 1373907,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "奇袭攻击",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 436,
+						},
+						[437] = {
+							["isBeingResearched"] = false,
+							["description"] = "在所有任务中可以使用刺杀技能，使带有|C00b3ffff爪牙|R的任务成功率提高10%。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["perkSpellID"] = 0,
 							["researchCost"] = 500,
 							["researchDuration"] = 14400,
 							["tier"] = 1,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 1030099,
+=======
+							["icon"] = 236173,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researched"] = false,
 							["talentAvailability"] = 2,
 							["ability"] = {
 								["temporary"] = false,
+<<<<<<< HEAD
 								["description"] = "有|C00b3ffff爪牙|R的任务成功率提高10%。",
 								["id"] = 593,
 								["name"] = "公正祝福",
+=======
+								["description"] = "有|C00b3ffff爪牙|R的任务的成功率提高10%。",
+								["id"] = 644,
+								["name"] = "刺杀",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								["isSpecialization"] = false,
 								["counters"] = {
 								},
 								["isEmptySlot"] = false,
+<<<<<<< HEAD
 								["icon"] = 1030099,
 								["isTrait"] = false,
 							},
@@ -14961,29 +24293,83 @@ Broker_GarrisonDB = {
 						[394] = {
 							["isBeingResearched"] = false,
 							["description"] = "你的侍从、持盾方阵兵、骑士和圣殿骑士招募上限提高1。",
+=======
+								["icon"] = 236173,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "刺杀",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 437,
+						},
+						[438] = {
+							["isBeingResearched"] = false,
+							["description"] = "你的盗匪、盗贼、海盗和格斗家招募上限提高1。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["perkSpellID"] = 0,
 							["researchCost"] = 1000,
 							["researchDuration"] = 86400,
 							["tier"] = 2,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 236690,
+=======
+							["icon"] = 1379239,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researched"] = false,
 							["talentAvailability"] = 2,
 							["ability"] = {
 								["temporary"] = false,
+<<<<<<< HEAD
 								["description"] = "你的白银之手骑士和勇士招募上限提高1。",
 								["id"] = 594,
 								["name"] = "银色召唤",
+=======
+								["description"] = "你的格斗家和海盗招募上限提高1。",
+								["id"] = 645,
+								["name"] = "赏金格斗",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								["isSpecialization"] = false,
 								["counters"] = {
 								},
 								["isEmptySlot"] = false,
+<<<<<<< HEAD
 								["icon"] = 236690,
 								["isTrait"] = false,
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "银色召唤",
 							["id"] = 394,
+=======
+								["icon"] = 1379239,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "赏金格斗",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["id"] = 438,
+						},
+						[439] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的盗匪变为迪菲亚盗贼，拥有：\r\n\r\n|TInterface\\ICONS\\INV_MISC_BAG_11.BLP:20:20:0:0|t |Cffffffff搜索|R\r\n任务成功率提高20%。\r\n\r\n成功完成任务有几率带回一件珍贵物品。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 10000,
+							["researchDuration"] = 259200,
+							["tier"] = 3,
+							["selected"] = false,
+							["icon"] = 1373912,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 439,
+							["researchCurrency"] = 1220,
+							["name"] = "迪菲亚传承",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
@@ -14992,6 +24378,7 @@ Broker_GarrisonDB = {
 					},
 					["configVersion"] = 3,
 					["missions"] = {
+<<<<<<< HEAD
 						[89] = {
 							["type"] = "战斗",
 							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
@@ -15134,19 +24521,51 @@ Broker_GarrisonDB = {
 					["followerShipments"] = {
 					},
 					["currencyApexisAmount"] = 1012,
+=======
+					},
+					["tooltipEnabled"] = true,
+					["currencySealOfTemperedFateAmount"] = 0,
+					["invasion"] = {
+					},
+					["buildingsExpanded"] = true,
+					["buildings"] = {
+					},
+					["missionsExpanded"] = true,
+					["trackWeekly"] = {
+					},
+					["shipments"] = {
+					},
+					["ldbEnabled"] = true,
+					["currencyOrderResourcesAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+					["notificationEnabled"] = true,
+					["looseShipments"] = {
+					},
+					["currencyOil"] = 0,
+					["followerShipments"] = {
+					},
+					["currencyApexisAmount"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["currencyAncientManaAmount"] = 0,
 					["currencyArtifactKnowledge"] = 0,
 					["order"] = 5,
 					["orderhallExpanded"] = true,
 					["currencySealOfInevitableFateAmount"] = 0,
 					["info"] = {
+<<<<<<< HEAD
 						["playerName"] = "悠悠骑",
 						["playerFaction"] = "Alliance",
 						["playerClass"] = "PALADIN",
+=======
+						["playerName"] = "悠悠战",
+						["playerFaction"] = "Horde",
+						["playerClass"] = "ROGUE",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						["realmName"] = "末日祷告祭坛",
 					},
 					["trackDaily"] = {
 					},
+<<<<<<< HEAD
 					["lootedNextReset"] = 1489618799,
 					["weeklyNextReset"] = 1489618799,
 					["currencyAmount"] = 5149,
@@ -15203,19 +24622,71 @@ Broker_GarrisonDB = {
 							["playerConditionReason"] = "你需要达到100级才能进行研究。",
 							["name"] = "百步穿杨",
 							["id"] = 370,
+=======
+					["cacheSize"] = 500,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 0,
+					["lootedToday"] = {
+					},
+				},
+				["悠悠骑"] = {
+					["categories"] = {
+					},
+					["talents"] = {
+						[395] = {
+							["isBeingResearched"] = false,
+							["description"] = "刚招募的新晋侍从变为持盾方阵兵，使其任务成功率提高5%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 10000,
+							["researchDuration"] = 259200,
+							["tier"] = 3,
+							["selected"] = false,
+							["icon"] = 1278391,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 395,
+							["researchCurrency"] = 1220,
+							["name"] = "同心协力",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[396] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的白银之手骑士变为白银之手圣殿骑士，获得：\r\n\r\n|TInterface\\ICONS\\SPELL_HOLY_HEROISM.BLP:20:20:0:0|t |Cffffffff列王守卫|R\r\n与新晋侍从或持盾方阵兵一起执行任务的成功率提高15%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 10000,
+							["researchDuration"] = 259200,
+							["tier"] = 3,
+							["selected"] = false,
+							["icon"] = 237547,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 396,
+							["researchCurrency"] = 1220,
+							["name"] = "白银之手圣殿骑士",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
 						},
+<<<<<<< HEAD
 						[371] = {
 							["isBeingResearched"] = false,
 							["description"] = "在所有任务中可以使用逃脱技能，使带有|C00b3ffff危害|R的任务成功率提高10%。",
+=======
+						[397] = {
+							["isBeingResearched"] = false,
+							["description"] = "每天可以使用一次银色军马马桩，使用后召唤一匹军马，使你能在短时间内在坐骑上作战。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["perkSpellID"] = 0,
 							["researchCost"] = 500,
 							["researchDuration"] = 14400,
 							["tier"] = 1,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 132294,
 							["researched"] = false,
 							["talentAvailability"] = 7,
@@ -15348,10 +24819,135 @@ Broker_GarrisonDB = {
 								["description"] = "当你拥有激活的战友时，任务会奖励额外资源。",
 								["id"] = 786,
 								["name"] = "寻觅补给",
+=======
+							["icon"] = 1360759,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 397,
+							["researchCurrency"] = 1220,
+							["name"] = "银色战驹",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[398] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达工作订单，用职业大厅资源交易获得每周3个破碎命运印记中的1个。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 12500,
+							["researchDuration"] = 432000,
+							["tier"] = 4,
+							["selected"] = false,
+							["icon"] = 135909,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 398,
+							["researchCurrency"] = 1220,
+							["name"] = "神圣意志",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[399] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达一个白银之手的工作订单，使用后可以释放白银之手先锋，立即完成你地图上的一个非精英类世界任务。每18个小时可以使用一次。",
+							["perkSpellID"] = 221587,
+							["researchCost"] = 12500,
+							["researchDuration"] = 432000,
+							["tier"] = 4,
+							["selected"] = false,
+							["icon"] = 1360760,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 399,
+							["researchCurrency"] = 1220,
+							["name"] = "大十字军",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[400] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达工作订单，用职业大厅资源换取勇士的武器或装备。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 1000,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 1030096,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 400,
+							["researchCurrency"] = 1220,
+							["name"] = "化犁为剑",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[401] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以装备的传说物品数量提高1。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 15000,
+							["researchDuration"] = 604800,
+							["tier"] = 5,
+							["selected"] = false,
+							["icon"] = 135965,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 401,
+							["researchCurrency"] = 1220,
+							["name"] = "正义传说",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[391] = {
+							["isBeingResearched"] = false,
+							["description"] = "使你非重复类的任务奖励额外升级为稀有或史诗品质的几率提高。",
+							["perkSpellID"] = 219866,
+							["researchCost"] = 50,
+							["researchDuration"] = 7200,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 589117,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 391,
+							["researchCurrency"] = 1220,
+							["name"] = "圣光眷顾",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[392] = {
+							["isBeingResearched"] = false,
+							["description"] = "可以使用王者祝福技能，每天派出的第一个任务的成功率提高20%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 50,
+							["researchDuration"] = 7200,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 135993,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "每天第一个任务的成功率提高20%。",
+								["id"] = 595,
+								["name"] = "王者祝福",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								["isSpecialization"] = false,
 								["counters"] = {
 								},
 								["isEmptySlot"] = false,
+<<<<<<< HEAD
 								["icon"] = 135904,
 								["isTrait"] = false,
 							},
@@ -15387,11 +24983,59 @@ Broker_GarrisonDB = {
 						[378] = {
 							["isBeingResearched"] = false,
 							["description"] = "你可以下达工作订单，用职业大厅资源换取勇士的武器或装备。",
+=======
+								["icon"] = 135993,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "王者祝福",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 392,
+						},
+						[393] = {
+							["isBeingResearched"] = false,
+							["description"] = "在所有任务中可以使用公正祝福技能，使带有|C00b3ffff法术|R的任务成功率提高10%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 500,
+							["researchDuration"] = 14400,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 1030099,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "有|C00b3ffff爪牙|R的任务成功率提高10%。",
+								["id"] = 593,
+								["name"] = "公正祝福",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 1030099,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "公正祝福",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 393,
+						},
+						[394] = {
+							["isBeingResearched"] = false,
+							["description"] = "你的侍从、持盾方阵兵、骑士和圣殿骑士招募上限提高1。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["perkSpellID"] = 0,
 							["researchCost"] = 1000,
 							["researchDuration"] = 86400,
 							["tier"] = 2,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 236204,
 							["researched"] = false,
 							["talentAvailability"] = 7,
@@ -15423,10 +25067,35 @@ Broker_GarrisonDB = {
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["icon"] = 236690,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "你的白银之手骑士和勇士招募上限提高1。",
+								["id"] = 594,
+								["name"] = "银色召唤",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 236690,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "银色召唤",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["id"] = 394,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 					},
 					["configVersion"] = 3,
 					["missions"] = {
+<<<<<<< HEAD
 						[500] = {
 							["type"] = "战斗",
 							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
@@ -15483,6 +25152,42 @@ Broker_GarrisonDB = {
 									["name"] = "托莫克",
 									["id"] = "0x0000000001D4C0F6",
 									["iconId"] = 1066145,
+=======
+						[89] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["itemID"] = 114052,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 89,
+							["duration"] = 3600,
+							["followers"] = {
+								{
+									["name"] = "奇娅娜·月影",
+									["id"] = "0x0000000001CD16D3",
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+									["abilities"] = {
+										{
+											["id"] = 108,
+											["name"] = "咆哮",
+											["icon"] = 132270,
+										}, -- [1]
+										{
+											["id"] = 56,
+											["name"] = "附魔",
+											["icon"] = 136244,
+										}, -- [2]
+									},
+									["iconId"] = 1066112,
+								}, -- [1]
+								{
+									["name"] = "德尔瓦·铁拳",
+									["id"] = "0x0000000001CD16D4",
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 231,
@@ -15490,6 +25195,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1037260,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 100,
 											["name"] = "嘲讽",
 											["icon"] = 136080,
@@ -16064,6 +25770,419 @@ Broker_GarrisonDB = {
 									["name"] = "卡恩·钢蹄",
 									["id"] = "0x0000000001D4C104",
 									["iconId"] = 1066216,
+=======
+											["id"] = 115,
+											["name"] = "白骨之盾",
+											["icon"] = 458717,
+										}, -- [2]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [3]
+									},
+									["iconId"] = 1066337,
+								}, -- [2]
+								{
+									["name"] = "布玛·迅石",
+									["id"] = "0x0000000001CD16D5",
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+									["abilities"] = {
+										{
+											["id"] = 161,
+											["name"] = "刀扇",
+											["icon"] = 236273,
+										}, -- [1]
+										{
+											["id"] = 54,
+											["name"] = "炼金术",
+											["icon"] = 136240,
+										}, -- [2]
+									},
+									["iconId"] = 1066199,
+								}, -- [3]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "突袭影月岗哨",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 90,
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "0秒",
+						},
+					},
+					["tooltipEnabled"] = true,
+					["currencyOil"] = 0,
+					["currencySealOfTemperedFateAmount"] = 0,
+					["invasion"] = {
+						["available"] = false,
+					},
+					["buildingsExpanded"] = true,
+					["missionsExpanded"] = true,
+					["buildings"] = {
+						[23] = {
+							["shipment"] = {
+							},
+							["id"] = 26,
+							["plotID"] = 23,
+							["rank"] = 1,
+							["plotSize"] = 3,
+							["buildTime"] = 3600,
+							["isBuilding"] = false,
+							["name"] = "兵营",
+							["timeStart"] = 1471071240,
+							["texPrefix"] = "GarrBuilding_Barracks_1_A",
+							["canActivate"] = false,
+							["icon"] = 975738,
+							["buildingState"] = 0,
+						},
+						[22] = {
+							["shipment"] = {
+							},
+							["id"] = 34,
+							["plotID"] = 22,
+							["rank"] = 1,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["isBuilding"] = false,
+							["name"] = "坠月旅店",
+							["timeStart"] = 1471175739,
+							["texPrefix"] = "GarrBuilding_Inn_1_A",
+							["canActivate"] = false,
+							["icon"] = 134414,
+							["buildingState"] = 0,
+						},
+					},
+					["weeklyNextReset"] = 1489618799,
+					["shipments"] = {
+					},
+					["lootedNextReset"] = 1489445999,
+					["currencyOrderResourcesAmount"] = 0,
+					["trackWeekly"] = {
+						["BONUS_ROLL_QUESTS"] = 0,
+						["WARMILL_SOTF"] = false,
+					},
+					["notificationEnabled"] = true,
+					["looseShipments"] = {
+					},
+					["cacheSize"] = 500,
+					["followerShipments"] = {
+					},
+					["currencyApexisAmount"] = 1012,
+					["currencySealOfInevitableFateAmount"] = 0,
+					["currencyArtifactKnowledge"] = 0,
+					["order"] = 5,
+					["orderhallExpanded"] = true,
+					["currencyAncientManaAmount"] = 0,
+					["info"] = {
+						["playerName"] = "悠悠骑",
+						["playerFaction"] = "Alliance",
+						["realmName"] = "末日祷告祭坛",
+						["playerClass"] = "PALADIN",
+					},
+					["trackDaily"] = {
+						["WARMILL_IRONSCRAPS"] = false,
+					},
+					["lootedToday"] = {
+					},
+					["ldbEnabled"] = true,
+					["currencyAmount"] = 5149,
+					["garrisonCacheLastLooted"] = 1487076579,
+				},
+				["帅帅爹"] = {
+					["categories"] = {
+					},
+					["talents"] = {
+						[369] = {
+							["isBeingResearched"] = false,
+							["description"] = "使你非重复类的任务奖励额外升级为稀有或史诗品质的几率提高。",
+							["perkSpellID"] = 219866,
+							["researchCost"] = 50,
+							["researchDuration"] = 7200,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 132168,
+							["researched"] = false,
+							["talentAvailability"] = 7,
+							["id"] = 369,
+							["researchCurrency"] = 1220,
+							["name"] = "粗犷升级",
+							["researchStartTime"] = 0,
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["playerConditionReason"] = "你需要达到100级才能进行研究。",
+						},
+						[370] = {
+							["isBeingResearched"] = false,
+							["description"] = "可以使用百步穿杨技能，每天派出的第一个任务的成功率提高20%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 50,
+							["researchDuration"] = 7200,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 1392555,
+							["researched"] = false,
+							["talentAvailability"] = 7,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "每天第一个任务的成功率提高20%。",
+								["id"] = 584,
+								["name"] = "百步穿杨",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 1392555,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["researchTimeRemaining"] = 0,
+							["name"] = "百步穿杨",
+							["id"] = 370,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["playerConditionReason"] = "你需要达到100级才能进行研究。",
+						},
+						[371] = {
+							["isBeingResearched"] = false,
+							["description"] = "在所有任务中可以使用逃脱技能，使带有|C00b3ffff危害|R的任务成功率提高10%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 500,
+							["researchDuration"] = 14400,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 132294,
+							["researched"] = false,
+							["talentAvailability"] = 7,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "有|C00b3ffff危害|R的任务成功率提高10%。",
+								["id"] = 661,
+								["name"] = "逃脱",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 132294,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["researchTimeRemaining"] = 0,
+							["name"] = "逃脱",
+							["id"] = 371,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["playerConditionReason"] = "你需要达到105级才能进行研究。",
+						},
+						[372] = {
+							["isBeingResearched"] = false,
+							["description"] = "你的弓箭手、射手、追踪者和探路者招募上限提高1。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 1000,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 236200,
+							["researched"] = false,
+							["talentAvailability"] = 7,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "你的弓箭手、神射手、追踪者和探路者招募上限提高1。",
+								["id"] = 585,
+								["name"] = "牢固营帐",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 236200,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["researchTimeRemaining"] = 0,
+							["name"] = "牢固营帐",
+							["id"] = 372,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["playerConditionReason"] = "你需要达到110级才能进行研究。",
+						},
+						[373] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的弓箭手变为隐秘神射手，使其任务成功率提高5%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 10000,
+							["researchDuration"] = 259200,
+							["tier"] = 3,
+							["selected"] = false,
+							["icon"] = 132177,
+							["researched"] = false,
+							["talentAvailability"] = 7,
+							["id"] = 373,
+							["researchCurrency"] = 1220,
+							["name"] = "鹰眼",
+							["researchStartTime"] = 0,
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["playerConditionReason"] = "你需要达到110级才能进行研究。",
+						},
+						[374] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的追踪者变为探路者，获得：\r\n\r\n|TInterface\\ICONS\\SPELL_FIRE_FLARE.BLP:20:20:0:0|t |Cffffffff爆炸陷阱|R\r\n有|C00b3ffff爪牙|R的任务成功率提高15%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 10000,
+							["researchDuration"] = 259200,
+							["tier"] = 3,
+							["selected"] = false,
+							["icon"] = 133208,
+							["researched"] = false,
+							["talentAvailability"] = 7,
+							["id"] = 374,
+							["researchCurrency"] = 1220,
+							["name"] = "荒野呼唤",
+							["researchStartTime"] = 0,
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["playerConditionReason"] = "你需要达到110级才能进行研究。",
+						},
+						[375] = {
+							["isBeingResearched"] = false,
+							["description"] = "可以使用巨鹰飞行网络，这是散布于破碎群岛的诸多飞行路线。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 500,
+							["researchDuration"] = 14400,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 1392564,
+							["researched"] = false,
+							["talentAvailability"] = 7,
+							["id"] = 375,
+							["researchCurrency"] = 1220,
+							["name"] = "巨鹰盟友",
+							["researchStartTime"] = 0,
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["playerConditionReason"] = "你需要达到105级才能进行研究。",
+						},
+						[376] = {
+							["isBeingResearched"] = false,
+							["description"] = "和一个战友一起完成世界任务可以获得职业大厅资源。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 12500,
+							["researchDuration"] = 432000,
+							["tier"] = 4,
+							["selected"] = false,
+							["icon"] = 135904,
+							["researched"] = false,
+							["talentAvailability"] = 7,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "当你拥有激活的战友时，任务会奖励额外资源。",
+								["id"] = 786,
+								["name"] = "寻觅补给",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 135904,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["researchTimeRemaining"] = 0,
+							["name"] = "寻觅补给",
+							["id"] = 376,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["playerConditionReason"] = "你需要达到110级才能进行研究。",
+						},
+						[377] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达工作订单，用职业大厅资源交易获得每周3个破碎命运印记中的1个。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 12500,
+							["researchDuration"] = 432000,
+							["tier"] = 4,
+							["selected"] = false,
+							["icon"] = 461118,
+							["researched"] = false,
+							["talentAvailability"] = 7,
+							["id"] = 377,
+							["researchCurrency"] = 1220,
+							["name"] = "隐秘通途",
+							["researchStartTime"] = 0,
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["playerConditionReason"] = "你需要达到110级才能进行研究。",
+						},
+						[378] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达工作订单，用职业大厅资源换取勇士的武器或装备。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 1000,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 236204,
+							["researched"] = false,
+							["talentAvailability"] = 7,
+							["id"] = 378,
+							["researchCurrency"] = 1220,
+							["name"] = "箭弹工场",
+							["researchStartTime"] = 0,
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["playerConditionReason"] = "你需要达到110级才能进行研究。",
+						},
+						[379] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以装备的传说物品数量提高1。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 15000,
+							["researchDuration"] = 604800,
+							["tier"] = 5,
+							["selected"] = false,
+							["icon"] = 538771,
+							["researched"] = false,
+							["talentAvailability"] = 7,
+							["id"] = 379,
+							["researchCurrency"] = 1220,
+							["name"] = "荒野传说",
+							["researchStartTime"] = 0,
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["playerConditionReason"] = "你需要达到110级才能进行研究。",
+						},
+					},
+					["configVersion"] = 3,
+					["missions"] = {
+						[500] = {
+							["type"] = "战斗",
+							["duration"] = 18000,
+							["missionState"] = 0,
+							["id"] = 500,
+							["rewards"] = {
+								{
+									["itemID"] = 122584,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["followers"] = {
+								{
+									["name"] = "普里西拉·影日",
+									["id"] = "0x0000000001D4C0FC",
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -16071,6 +26190,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 6,
 											["name"] = "盾墙",
 											["icon"] = 132362,
@@ -16155,6 +26275,126 @@ Broker_GarrisonDB = {
 									["name"] = "毛提",
 									["id"] = "0x0000000001D4C0FA",
 									["iconId"] = 1066361,
+=======
+											["id"] = 10,
+											["name"] = "信仰飞跃",
+											["icon"] = 463835,
+										}, -- [2]
+										{
+											["id"] = 75,
+											["name"] = "经济学家",
+											["icon"] = 632354,
+										}, -- [3]
+										{
+											["id"] = 11,
+											["name"] = "治疗祷言",
+											["icon"] = 135943,
+										}, -- [4]
+										{
+											["id"] = 221,
+											["name"] = "史诗坐骑",
+											["icon"] = 631718,
+										}, -- [5]
+									},
+									["iconId"] = 1086426,
+								}, -- [1]
+								{
+									["name"] = "托莫克",
+									["id"] = "0x0000000001D4C0F6",
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+									["abilities"] = {
+										{
+											["id"] = 231,
+											["name"] = "看家护院",
+											["icon"] = 1037260,
+										}, -- [1]
+										{
+											["id"] = 100,
+											["name"] = "嘲讽",
+											["icon"] = 136080,
+										}, -- [2]
+										{
+											["id"] = 120,
+											["name"] = "顺劈斩",
+											["icon"] = 132338,
+										}, -- [3]
+										{
+											["id"] = 4,
+											["name"] = "兽人克星",
+											["icon"] = 897144,
+										}, -- [4]
+										{
+											["id"] = 8,
+											["name"] = "冰冷血脉",
+											["icon"] = 236833,
+										}, -- [5]
+									},
+									["iconId"] = 1066145,
+								}, -- [2]
+								{
+									["name"] = "乌娜·斯莱舍",
+									["id"] = "0x0000000001D4C0F4",
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+									["abilities"] = {
+										{
+											["id"] = 148,
+											["name"] = "驱散魔法",
+											["icon"] = 135894,
+										}, -- [1]
+										{
+											["id"] = 37,
+											["name"] = "野兽克星",
+											["icon"] = 298659,
+										}, -- [2]
+										{
+											["id"] = 80,
+											["name"] = "额外训练",
+											["icon"] = 975743,
+										}, -- [3]
+										{
+											["id"] = 10,
+											["name"] = "信仰飞跃",
+											["icon"] = 463835,
+										}, -- [4]
+										{
+											["id"] = 38,
+											["name"] = "食人魔克星",
+											["icon"] = 236695,
+										}, -- [5]
+									},
+									["iconId"] = 1066198,
+								}, -- [3]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "炎夏将至",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 100,
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "5小时",
+						},
+						[161] = {
+							["type"] = "战斗",
+							["duration"] = 5400,
+							["missionState"] = 0,
+							["id"] = 161,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 700,
+									["tooltip"] = "+700经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+700经验值",
+								}, -- [1]
+							},
+							["followers"] = {
+								{
+									["name"] = "维拉·阿纳尔",
+									["id"] = "0x0000000001D4C0FF",
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -16162,6 +26402,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 179,
 											["name"] = "法术封锁",
 											["icon"] = 136174,
@@ -16188,6 +26429,60 @@ Broker_GarrisonDB = {
 									["name"] = "贾卡拉",
 									["id"] = "0x0000000001D4C0FE",
 									["iconId"] = 1066299,
+=======
+											["id"] = 172,
+											["name"] = "变形术",
+											["icon"] = 136071,
+										}, -- [2]
+										{
+											["id"] = 43,
+											["name"] = "利爪克星",
+											["icon"] = 952507,
+										}, -- [3]
+										{
+											["id"] = 173,
+											["name"] = "时间扭曲",
+											["icon"] = 458224,
+										}, -- [4]
+										{
+											["id"] = 80,
+											["name"] = "额外训练",
+											["icon"] = 975743,
+										}, -- [5]
+									},
+									["iconId"] = 1066158,
+								}, -- [1]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "灭虫行动",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 96,
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "1小时30分钟",
+						},
+						[170] = {
+							["type"] = "战斗",
+							["duration"] = 7200,
+							["missionState"] = 0,
+							["id"] = 170,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 1000,
+									["tooltip"] = "+1,000经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+1,000经验值",
+								}, -- [1]
+							},
+							["followers"] = {
+								{
+									["name"] = "罗宾·弗雷德里克森",
+									["id"] = "0x0000000001D4C0FB",
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -16195,6 +26490,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 135,
 											["name"] = "野性成长",
 											["icon"] = 236153,
@@ -16208,6 +26504,21 @@ Broker_GarrisonDB = {
 											["id"] = 137,
 											["name"] = "飓风",
 											["icon"] = 136018,
+=======
+											["id"] = 11,
+											["name"] = "治疗祷言",
+											["icon"] = 135943,
+										}, -- [2]
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [3]
+										{
+											["id"] = 10,
+											["name"] = "信仰飞跃",
+											["icon"] = 463835,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [4]
 										{
 											["id"] = 69,
@@ -16215,6 +26526,7 @@ Broker_GarrisonDB = {
 											["icon"] = 626190,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Druid",
 								}, -- [2]
 								{
@@ -16280,6 +26592,37 @@ Broker_GarrisonDB = {
 									["name"] = "莫克西·议价",
 									["id"] = "0x0000000001D4C100",
 									["iconId"] = 1066236,
+=======
+									["iconId"] = 1066384,
+								}, -- [1]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "乱世戈隆",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 99,
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "2小时",
+						},
+						[127] = {
+							["type"] = "战斗",
+							["duration"] = 14400,
+							["missionState"] = 0,
+							["id"] = 127,
+							["rewards"] = {
+								{
+									["itemID"] = 120301,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["followers"] = {
+								{
+									["name"] = "“晨星”墨丘鲁斯",
+									["id"] = "0x0000000001D4C103",
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -16287,6 +26630,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 155,
 											["name"] = "风剪",
 											["icon"] = 463565,
@@ -16295,6 +26639,49 @@ Broker_GarrisonDB = {
 											["id"] = 69,
 											["name"] = "酒鬼",
 											["icon"] = 626190,
+=======
+											["id"] = 172,
+											["name"] = "变形术",
+											["icon"] = 136071,
+										}, -- [2]
+										{
+											["id"] = 48,
+											["name"] = "沼泽行者",
+											["icon"] = 236819,
+										}, -- [3]
+										{
+											["id"] = 170,
+											["name"] = "闪现术",
+											["icon"] = 135736,
+										}, -- [4]
+										{
+											["id"] = 9,
+											["name"] = "废土行者",
+											["icon"] = 236846,
+										}, -- [5]
+									},
+									["iconId"] = 1086388,
+								}, -- [1]
+								{
+									["name"] = "蕾娜·水仪",
+									["id"] = "0x0000000001D4C0FD",
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 154,
+											["name"] = "闪电链",
+											["icon"] = 136015,
+										}, -- [2]
+										{
+											["id"] = 43,
+											["name"] = "利爪克星",
+											["icon"] = 952507,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [3]
 										{
 											["id"] = 106,
@@ -16302,6 +26689,7 @@ Broker_GarrisonDB = {
 											["icon"] = 136042,
 										}, -- [4]
 										{
+<<<<<<< HEAD
 											["id"] = 79,
 											["name"] = "拾荒者",
 											["icon"] = 413571,
@@ -17085,6 +27473,720 @@ Broker_GarrisonDB = {
 			},
 			["遗忘海岸"] = {
 				["弹弹堂"] = {
+=======
+											["id"] = 44,
+											["name"] = "自然学家",
+											["icon"] = 236830,
+										}, -- [5]
+									},
+									["iconId"] = 1066238,
+								}, -- [2]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "奔向自由！",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 100,
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "4小时",
+						},
+						[667] = {
+							["type"] = "战斗",
+							["duration"] = 14400,
+							["missionState"] = 0,
+							["id"] = 667,
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 25,
+									["icon"] = "Interface\\Icons\\garrison_oil",
+									["currencyID"] = 1101,
+								}, -- [1]
+							},
+							["followers"] = {
+								{
+									["name"] = "罗纳",
+									["id"] = "0x0000000001D4C0F9",
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 158,
+											["name"] = "升腾",
+											["icon"] = 135791,
+										}, -- [2]
+										{
+											["id"] = 314,
+											["name"] = "油猴子",
+											["icon"] = 252178,
+										}, -- [3]
+										{
+											["id"] = 157,
+											["name"] = "妖术",
+											["icon"] = 237579,
+										}, -- [4]
+										{
+											["id"] = 74,
+											["name"] = "精灵一族",
+											["icon"] = 236440,
+										}, -- [5]
+									},
+									["iconId"] = 1066473,
+								}, -- [1]
+								{
+									["name"] = "卡拉",
+									["id"] = "0x0000000001D4C0F1",
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+									["abilities"] = {
+										{
+											["id"] = 159,
+											["name"] = "闪避",
+											["icon"] = 136205,
+										}, -- [1]
+										{
+											["id"] = 60,
+											["name"] = "制皮",
+											["icon"] = 136247,
+										}, -- [2]
+										{
+											["id"] = 314,
+											["name"] = "油猴子",
+											["icon"] = 252178,
+										}, -- [3]
+										{
+											["id"] = 105,
+											["name"] = "脚踢",
+											["icon"] = 132219,
+										}, -- [4]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [5]
+									},
+									["iconId"] = 1066122,
+								}, -- [2]
+								{
+									["name"] = "薇薇安",
+									["id"] = "0x0000000001D4C0F3",
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+									["abilities"] = {
+										{
+											["id"] = 231,
+											["name"] = "看家护院",
+											["icon"] = 1037260,
+										}, -- [1]
+										{
+											["id"] = 5,
+											["name"] = "暴风雪",
+											["icon"] = 135857,
+										}, -- [2]
+										{
+											["id"] = 36,
+											["name"] = "恶魔克星",
+											["icon"] = 254651,
+										}, -- [3]
+										{
+											["id"] = 170,
+											["name"] = "闪现术",
+											["icon"] = 135736,
+										}, -- [4]
+										{
+											["id"] = 44,
+											["name"] = "自然学家",
+											["icon"] = 236830,
+										}, -- [5]
+									},
+									["iconId"] = 1066126,
+								}, -- [3]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "不要蜜蜂！",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 100,
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "3小时59分钟",
+						},
+						[301] = {
+							["type"] = "战斗",
+							["duration"] = 28800,
+							["missionState"] = 0,
+							["id"] = 301,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 8000,
+									["tooltip"] = "+8,000经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+8,000经验值",
+								}, -- [1]
+							},
+							["followers"] = {
+								{
+									["name"] = "死箭男爵",
+									["id"] = "0x0000000001D4C102",
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 103,
+											["name"] = "急速射击",
+											["icon"] = 132208,
+										}, -- [2]
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [3]
+										{
+											["id"] = 165,
+											["name"] = "逃脱",
+											["icon"] = 132294,
+										}, -- [4]
+										{
+											["id"] = 7,
+											["name"] = "登山家",
+											["icon"] = 236848,
+										}, -- [5]
+									},
+									["iconId"] = 1066124,
+								}, -- [1]
+								{
+									["name"] = "苏尔卡",
+									["id"] = "0x0000000001D4C0F7",
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+									["abilities"] = {
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [1]
+										{
+											["id"] = 148,
+											["name"] = "驱散魔法",
+											["icon"] = 135894,
+										}, -- [2]
+										{
+											["id"] = 75,
+											["name"] = "经济学家",
+											["icon"] = 632354,
+										}, -- [3]
+										{
+											["id"] = 11,
+											["name"] = "治疗祷言",
+											["icon"] = 135943,
+										}, -- [4]
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [5]
+									},
+									["iconId"] = 1066137,
+								}, -- [2]
+								{
+									["name"] = "萨拉纳·悲日",
+									["id"] = "0x0000000001D4C0F8",
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 127,
+											["name"] = "忏悔",
+											["icon"] = 135942,
+										}, -- [2]
+										{
+											["id"] = 8,
+											["name"] = "冰冷血脉",
+											["icon"] = 236833,
+										}, -- [3]
+										{
+											["id"] = 124,
+											["name"] = "圣盾术",
+											["icon"] = 524354,
+										}, -- [4]
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [5]
+									},
+									["iconId"] = 1066217,
+								}, -- [3]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "清理箱子",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 100,
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "8小时",
+						},
+						[272] = {
+							["type"] = "巡逻",
+							["duration"] = 21600,
+							["missionState"] = 0,
+							["id"] = 272,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 10000,
+									["tooltip"] = "+10,000经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+10,000经验值",
+								}, -- [1]
+							},
+							["followers"] = {
+								{
+									["name"] = "莎德·灾心",
+									["id"] = "0x0000000001D4C101",
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 181,
+											["name"] = "召唤地狱火",
+											["icon"] = 136219,
+										}, -- [2]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [3]
+										{
+											["id"] = 175,
+											["name"] = "生命吸取",
+											["icon"] = 136169,
+										}, -- [4]
+										{
+											["id"] = 69,
+											["name"] = "酒鬼",
+											["icon"] = 626190,
+										}, -- [5]
+									},
+									["iconId"] = 1066191,
+								}, -- [1]
+								{
+									["name"] = "卡恩·钢蹄",
+									["id"] = "0x0000000001D4C104",
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 6,
+											["name"] = "盾墙",
+											["icon"] = 132362,
+										}, -- [2]
+										{
+											["id"] = 41,
+											["name"] = "元素克星",
+											["icon"] = 254652,
+										}, -- [3]
+										{
+											["id"] = 100,
+											["name"] = "嘲讽",
+											["icon"] = 136080,
+										}, -- [4]
+										{
+											["id"] = 38,
+											["name"] = "食人魔克星",
+											["icon"] = 236695,
+										}, -- [5]
+									},
+									["iconId"] = 1066216,
+								}, -- [2]
+								{
+									["name"] = "加其兹·爆哮",
+									["id"] = "0x0000000001D4C105",
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 173,
+											["name"] = "时间扭曲",
+											["icon"] = 458224,
+										}, -- [2]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [3]
+										{
+											["id"] = 5,
+											["name"] = "暴风雪",
+											["icon"] = 135857,
+										}, -- [4]
+										{
+											["id"] = 76,
+											["name"] = "持久耐力",
+											["icon"] = 135987,
+										}, -- [5]
+									},
+									["iconId"] = 1066080,
+								}, -- [3]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "毁灭的征兆",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 100,
+							["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+							["timeLeft"] = "6小时",
+						},
+						[666] = {
+							["type"] = "战斗",
+							["duration"] = 14400,
+							["missionState"] = 0,
+							["id"] = 666,
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 25,
+									["icon"] = "Interface\\Icons\\garrison_oil",
+									["currencyID"] = 1101,
+								}, -- [1]
+							},
+							["followers"] = {
+								{
+									["name"] = "毛提",
+									["id"] = "0x0000000001D4C0FA",
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 179,
+											["name"] = "法术封锁",
+											["icon"] = 136174,
+										}, -- [2]
+										{
+											["id"] = 36,
+											["name"] = "恶魔克星",
+											["icon"] = 254651,
+										}, -- [3]
+										{
+											["id"] = 181,
+											["name"] = "召唤地狱火",
+											["icon"] = 136219,
+										}, -- [4]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [5]
+									},
+									["iconId"] = 1066361,
+								}, -- [1]
+								{
+									["name"] = "贾卡拉",
+									["id"] = "0x0000000001D4C0FE",
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 135,
+											["name"] = "野性成长",
+											["icon"] = 236153,
+										}, -- [2]
+										{
+											["id"] = 36,
+											["name"] = "恶魔克星",
+											["icon"] = 254651,
+										}, -- [3]
+										{
+											["id"] = 137,
+											["name"] = "飓风",
+											["icon"] = 136018,
+										}, -- [4]
+										{
+											["id"] = 69,
+											["name"] = "酒鬼",
+											["icon"] = 626190,
+										}, -- [5]
+									},
+									["iconId"] = 1066299,
+								}, -- [2]
+								{
+									["name"] = "暗影猎手莱拉",
+									["id"] = "0x0000000001D4C0F2",
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+									["abilities"] = {
+										{
+											["id"] = 103,
+											["name"] = "急速射击",
+											["icon"] = 132208,
+										}, -- [1]
+										{
+											["id"] = 166,
+											["name"] = "反制射击",
+											["icon"] = 249170,
+										}, -- [2]
+										{
+											["id"] = 9,
+											["name"] = "废土行者",
+											["icon"] = 236846,
+										}, -- [3]
+										{
+											["id"] = 4,
+											["name"] = "兽人克星",
+											["icon"] = 897144,
+										}, -- [4]
+										{
+											["id"] = 80,
+											["name"] = "额外训练",
+											["icon"] = 975743,
+										}, -- [5]
+									},
+									["iconId"] = 1066105,
+								}, -- [3]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "不安的亡灵",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 100,
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "4小时",
+						},
+						[156] = {
+							["type"] = "战斗",
+							["duration"] = 3600,
+							["missionState"] = 0,
+							["id"] = 156,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 600,
+									["tooltip"] = "+600经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+600经验值",
+								}, -- [1]
+							},
+							["followers"] = {
+								{
+									["name"] = "莫克西·议价",
+									["id"] = "0x0000000001D4C100",
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 155,
+											["name"] = "风剪",
+											["icon"] = 463565,
+										}, -- [2]
+										{
+											["id"] = 69,
+											["name"] = "酒鬼",
+											["icon"] = 626190,
+										}, -- [3]
+										{
+											["id"] = 106,
+											["name"] = "治疗链",
+											["icon"] = 136042,
+										}, -- [4]
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [5]
+									},
+									["iconId"] = 1066236,
+								}, -- [1]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "行动的号召",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 95,
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "1小时",
+						},
+					},
+					["tooltipEnabled"] = true,
+					["garrisonCacheLastLooted"] = 1488231659,
+					["currencySealOfTemperedFateAmount"] = 8,
+					["invasion"] = {
+					},
+					["buildingsExpanded"] = true,
+					["buildings"] = {
+						[24] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 1,
+							["id"] = 8,
+							["plotID"] = 24,
+							["shipment"] = {
+								["texture"] = 975736,
+								["name"] = "战争工坊",
+								["shipmentCapacity"] = 0,
+							},
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "战争工坊",
+							["timeStart"] = 1460508033,
+							["texPrefix"] = "GarrBuilding_Armory_1_H",
+							["plotSize"] = 3,
+							["icon"] = 975736,
+							["buildingState"] = 0,
+						},
+						[18] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 1,
+							["id"] = 51,
+							["plotID"] = 18,
+							["shipment"] = {
+							},
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "仓库",
+							["timeStart"] = 1460507988,
+							["texPrefix"] = "GarrBuilding_Storehouse_1_H",
+							["plotSize"] = 1,
+							["icon"] = 975745,
+							["buildingState"] = 0,
+						},
+						[22] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 2,
+							["id"] = 35,
+							["plotID"] = 22,
+							["shipment"] = {
+							},
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "霜壁旅社",
+							["timeStart"] = 1454598045,
+							["texPrefix"] = "GarrBuilding_Inn_2_H",
+							["plotSize"] = 2,
+							["icon"] = 134414,
+							["buildingState"] = 0,
+						},
+						[23] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 1,
+							["id"] = 26,
+							["plotID"] = 23,
+							["shipment"] = {
+							},
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "兵营",
+							["timeStart"] = 1453634113,
+							["texPrefix"] = "GarrBuilding_Barracks_1_H",
+							["plotSize"] = 3,
+							["icon"] = 975738,
+							["buildingState"] = 0,
+						},
+						[25] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 1,
+							["id"] = 111,
+							["plotID"] = 25,
+							["shipment"] = {
+								["texture"] = 975746,
+								["name"] = "货栈",
+								["shipmentCapacity"] = 12,
+							},
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "货栈",
+							["timeStart"] = 1460508046,
+							["texPrefix"] = "GarrBuilding_TradingPost_1_H",
+							["plotSize"] = 2,
+							["icon"] = 975746,
+							["buildingState"] = 0,
+						},
+					},
+					["missionsExpanded"] = true,
+					["weeklyNextReset"] = 1489618799,
+					["shipments"] = {
+					},
+					["trackWeekly"] = {
+					},
+					["currencyOrderResourcesAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+					["notificationEnabled"] = true,
+					["looseShipments"] = {
+					},
+					["cacheSize"] = 500,
+					["followerShipments"] = {
+					},
+					["currencyApexisAmount"] = 11907,
+					["currencyOil"] = 6650,
+					["currencyArtifactKnowledge"] = 0,
+					["currencySealOfInevitableFateAmount"] = 3,
+					["orderhallExpanded"] = true,
+					["currencyAncientManaAmount"] = 0,
+					["info"] = {
+						["playerName"] = "帅帅爹",
+						["playerFaction"] = "Horde",
+						["realmName"] = "末日祷告祭坛",
+						["playerClass"] = "HUNTER",
+					},
+					["trackDaily"] = {
+					},
+					["lootedToday"] = {
+					},
+					["ldbEnabled"] = true,
+					["currencyAmount"] = 4805,
+					["order"] = 5,
+				},
+			},
+			["霜之哀伤"] = {
+				["弹弹堂一号"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["lootedToday"] = {
 					},
 					["configVersion"] = 2,
@@ -17094,6 +28196,7 @@ Broker_GarrisonDB = {
 					["invasion"] = {
 					},
 					["buildingsExpanded"] = true,
+<<<<<<< HEAD
 					["buildings"] = {
 					},
 					["lootedNextReset"] = 1489618799,
@@ -17105,14 +28208,34 @@ Broker_GarrisonDB = {
 						["playerName"] = "弹弹堂",
 						["playerFaction"] = "Horde",
 						["realmName"] = "遗忘海岸",
+=======
+					["notificationEnabled"] = true,
+					["lootedNextReset"] = 1489445999,
+					["currencyApexisAmount"] = 0,
+					["missionsExpanded"] = true,
+					["trackWeekly"] = {
+					},
+					["info"] = {
+						["playerName"] = "弹弹堂一号",
+						["playerFaction"] = "Horde",
+						["realmName"] = "霜之哀伤",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						["playerClass"] = "WARRIOR",
 					},
 					["trackDaily"] = {
 					},
+<<<<<<< HEAD
 					["missionsExpanded"] = true,
 					["weeklyNextReset"] = 1489618799,
 					["currencyAmount"] = 0,
 					["notificationEnabled"] = true,
+=======
+					["buildings"] = {
+					},
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 0,
+					["order"] = 5,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				},
 			},
 			["火羽山"] = {
@@ -17130,6 +28253,7 @@ Broker_GarrisonDB = {
 					},
 					["buildingsExpanded"] = true,
 					["notificationEnabled"] = true,
+<<<<<<< HEAD
 					["currencySealOfInevitableFateAmount"] = 0,
 					["cacheSize"] = 500,
 					["lootedNextReset"] = 1489618799,
@@ -17139,6 +28263,35 @@ Broker_GarrisonDB = {
 					["ldbEnabled"] = true,
 					["looseShipments"] = {
 					},
+=======
+					["tooltipEnabled"] = true,
+					["cacheSize"] = 500,
+					["trackWeekly"] = {
+					},
+					["currencyOrderResourcesAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+					["weeklyNextReset"] = 1489618799,
+					["looseShipments"] = {
+					},
+					["missionsExpanded"] = true,
+					["followerShipments"] = {
+					},
+					["currencyAncientManaAmount"] = 0,
+					["currencyOil"] = 0,
+					["currencyArtifactKnowledge"] = 0,
+					["currencyApexisAmount"] = 0,
+					["orderhallExpanded"] = true,
+					["buildings"] = {
+					},
+					["info"] = {
+						["playerName"] = "猛牛悠悠乳",
+						["playerFaction"] = "Horde",
+						["realmName"] = "火羽山",
+						["playerClass"] = "PALADIN",
+					},
+					["trackDaily"] = {
+					},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["talents"] = {
 						[395] = {
 							["isBeingResearched"] = false,
@@ -17154,10 +28307,17 @@ Broker_GarrisonDB = {
 							["id"] = 395,
 							["researchCurrency"] = 1220,
 							["name"] = "同心协力",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[396] = {
 							["isBeingResearched"] = false,
@@ -17173,10 +28333,17 @@ Broker_GarrisonDB = {
 							["id"] = 396,
 							["researchCurrency"] = 1220,
 							["name"] = "白银之手圣殿骑士",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[397] = {
 							["isBeingResearched"] = false,
@@ -17192,6 +28359,7 @@ Broker_GarrisonDB = {
 							["id"] = 397,
 							["researchCurrency"] = 1220,
 							["name"] = "银色战驹",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
@@ -18046,6 +29214,355 @@ Broker_GarrisonDB = {
 									["name"] = "芳妮",
 									["id"] = "0x0000000000CE7D60",
 									["iconId"] = 1066254,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[398] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达工作订单，用职业大厅资源交易获得每周3个破碎命运印记中的1个。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 12500,
+							["researchDuration"] = 432000,
+							["tier"] = 4,
+							["selected"] = false,
+							["icon"] = 135909,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 398,
+							["researchCurrency"] = 1220,
+							["name"] = "神圣意志",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[399] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达一个白银之手的工作订单，使用后可以释放白银之手先锋，立即完成你地图上的一个非精英类世界任务。每18个小时可以使用一次。",
+							["perkSpellID"] = 221587,
+							["researchCost"] = 12500,
+							["researchDuration"] = 432000,
+							["tier"] = 4,
+							["selected"] = false,
+							["icon"] = 1360760,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 399,
+							["researchCurrency"] = 1220,
+							["name"] = "大十字军",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[400] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达工作订单，用职业大厅资源换取勇士的武器或装备。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 1000,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 1030096,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 400,
+							["researchCurrency"] = 1220,
+							["name"] = "化犁为剑",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[401] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以装备的传说物品数量提高1。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 15000,
+							["researchDuration"] = 604800,
+							["tier"] = 5,
+							["selected"] = false,
+							["icon"] = 135965,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 401,
+							["researchCurrency"] = 1220,
+							["name"] = "正义传说",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[391] = {
+							["isBeingResearched"] = false,
+							["description"] = "使你非重复类的任务奖励额外升级为稀有或史诗品质的几率提高。",
+							["perkSpellID"] = 219866,
+							["researchCost"] = 50,
+							["researchDuration"] = 7200,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 589117,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 391,
+							["researchCurrency"] = 1220,
+							["name"] = "圣光眷顾",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[392] = {
+							["isBeingResearched"] = false,
+							["description"] = "可以使用王者祝福技能，每天派出的第一个任务的成功率提高20%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 50,
+							["researchDuration"] = 7200,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 135993,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "每天第一个任务的成功率提高20%。",
+								["id"] = 595,
+								["name"] = "王者祝福",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 135993,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "王者祝福",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 392,
+						},
+						[393] = {
+							["isBeingResearched"] = false,
+							["description"] = "在所有任务中可以使用公正祝福技能，使带有|C00b3ffff法术|R的任务成功率提高10%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 500,
+							["researchDuration"] = 14400,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 1030099,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "有|C00b3ffff爪牙|R的任务成功率提高10%。",
+								["id"] = 593,
+								["name"] = "公正祝福",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 1030099,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "公正祝福",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 393,
+						},
+						[394] = {
+							["isBeingResearched"] = false,
+							["description"] = "你的侍从、持盾方阵兵、骑士和圣殿骑士招募上限提高1。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 1000,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 236690,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "你的白银之手骑士和勇士招募上限提高1。",
+								["id"] = 594,
+								["name"] = "银色召唤",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 236690,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "银色召唤",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["id"] = 394,
+						},
+					},
+					["ldbEnabled"] = true,
+					["currencyAmount"] = 0,
+					["currencySealOfInevitableFateAmount"] = 0,
+				},
+				["悠悠龟"] = {
+					["categories"] = {
+						{
+							["limit"] = 4,
+							["description"] = "“我们抓来的维库囚犯用怪异而悲伤的眼神看着死去的同伴。就好像他们羡慕死者一样。”——瓦里安·乌瑞恩国王",
+							["name"] = "瓦拉加尔候选者",
+							["count"] = 2,
+							["icon"] = 1401869,
+							["classSpec"] = 99,
+						}, -- [1]
+						{
+							["limit"] = 3,
+							["description"] = "瓦尔基拉会挑选最强大的女武神为泰坦监护者艾尔效力。如果瓦尔基拉女武神英勇战死，则将会被选为传说的瓦格里。",
+							["name"] = "瓦尔基拉女武神",
+							["count"] = 3,
+							["icon"] = 1401874,
+							["classSpec"] = 100,
+						}, -- [2]
+					},
+					["lootedToday"] = {
+					},
+					["configVersion"] = 3,
+					["missions"] = {
+						[1561] = {
+							["type"] = "7.0 职业大厅 - 一般任务",
+							["rewards"] = {
+								{
+									["title"] = "金钱奖励",
+									["quantity"] = 5341000,
+									["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+									["currencyID"] = 0,
+								}, -- [1]
+							},
+							["id"] = 1561,
+							["duration"] = 21600,
+							["missionState"] = 1,
+							["followerTypeID"] = 4,
+							["timeLeftCalc"] = 21531,
+							["notification"] = 0,
+							["name"] = "腿太多了",
+							["followers"] = {
+								{
+									["name"] = "菲娜·伯恩多提尔",
+									["id"] = "0x000000000134F1F2",
+									["abilities"] = {
+										{
+											["id"] = 345,
+											["name"] = "防护",
+											["icon"] = 132341,
+										}, -- [1]
+										{
+											["id"] = 452,
+											["name"] = "拳击",
+											["icon"] = 132938,
+										}, -- [2]
+										{
+											["id"] = 771,
+											["name"] = "盾牌冲锋",
+											["icon"] = 464338,
+										}, -- [3]
+										{
+											["id"] = 757,
+											["name"] = "结实的旅行靴",
+											["icon"] = 457752,
+										}, -- [4]
+										{
+											["id"] = 684,
+											["name"] = "幸运装饰品",
+											["icon"] = 634013,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warrior-Protection",
+									["iconId"] = 1396682,
+								}, -- [1]
+								{
+									["name"] = "德夫伦·铁符",
+									["id"] = "0x00000000019755BB",
+									["abilities"] = {
+										{
+											["id"] = 343,
+											["name"] = "狂怒",
+											["icon"] = 132347,
+										}, -- [1]
+										{
+											["id"] = 452,
+											["name"] = "拳击",
+											["icon"] = 132938,
+										}, -- [2]
+										{
+											["id"] = 506,
+											["name"] = "激怒",
+											["icon"] = 132345,
+										}, -- [3]
+										{
+											["id"] = 718,
+											["name"] = "瓦拉加尔之力",
+											["icon"] = 1377132,
+										}, -- [4]
+										{
+											["id"] = 755,
+											["name"] = "全神贯注药剂",
+											["icon"] = 236868,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warrior-Fury",
+									["iconId"] = 1396651,
+								}, -- [2]
+								{
+									["name"] = "瓦尔基拉女武神",
+									["id"] = "0x0000000002DBE389",
+									["abilities"] = {
+										{
+											["id"] = 600,
+											["name"] = "致死劈砍",
+											["icon"] = 659264,
+										}, -- [1]
+										{
+											["id"] = 601,
+											["name"] = "瓦尔基拉的飞翔",
+											["icon"] = 1360764,
+										}, -- [2]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+									["iconId"] = 1489383,
+								}, -- [3]
+							},
+							["start"] = 1489404018,
+							["level"] = 110,
+							["timeLeft"] = "6小时",
+							["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+						},
+						[191] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 42,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 191,
+							["duration"] = 3600,
+							["followers"] = {
+								{
+									["name"] = "卡玛·箭泉",
+									["id"] = "0x0000000000C9D019",
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -18053,6 +29570,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 167,
 											["name"] = "冰冻陷阱",
 											["icon"] = 135834,
@@ -18146,6 +29664,139 @@ Broker_GarrisonDB = {
 						},
 						[735] = {
 							["type"] = "舰船-总攻（部落）",
+=======
+											["id"] = 165,
+											["name"] = "逃脱",
+											["icon"] = 132294,
+										}, -- [2]
+										{
+											["id"] = 43,
+											["name"] = "利爪克星",
+											["icon"] = 952507,
+										}, -- [3]
+										{
+											["id"] = 164,
+											["name"] = "威慑",
+											["icon"] = 132369,
+										}, -- [4]
+										{
+											["id"] = 69,
+											["name"] = "酒鬼",
+											["icon"] = 626190,
+										}, -- [5]
+									},
+									["iconId"] = 1086378,
+								}, -- [1]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "自然的烦恼",
+							["followerTypeID"] = 1,
+							["start"] = 1487418211,
+							["level"] = 96,
+							["timeLeft"] = "1小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[1566] = {
+							["type"] = "7.0 职业大厅 - 一般任务",
+							["rewards"] = {
+								{
+									["title"] = "金钱奖励",
+									["quantity"] = 6909000,
+									["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+									["currencyID"] = 0,
+								}, -- [1]
+							},
+							["id"] = 1566,
+							["duration"] = 21600,
+							["missionState"] = 1,
+							["followerTypeID"] = 4,
+							["timeLeftCalc"] = 21523,
+							["notification"] = 0,
+							["name"] = "恶魔的影响",
+							["followers"] = {
+								{
+									["name"] = "托里姆",
+									["id"] = "0x00000000019755A2",
+									["abilities"] = {
+										{
+											["id"] = 344,
+											["name"] = "武器",
+											["icon"] = 132355,
+										}, -- [1]
+										{
+											["id"] = 451,
+											["name"] = "英勇飞跃",
+											["icon"] = 236171,
+										}, -- [2]
+										{
+											["id"] = 502,
+											["name"] = "泰坦之怒",
+											["icon"] = 237046,
+										}, -- [3]
+										{
+											["id"] = 757,
+											["name"] = "结实的旅行靴",
+											["icon"] = 457752,
+										}, -- [4]
+										{
+											["id"] = 718,
+											["name"] = "瓦拉加尔之力",
+											["icon"] = 1377132,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warrior-Arms",
+									["iconId"] = 1416428,
+								}, -- [1]
+								{
+									["name"] = "瓦尔基拉女武神",
+									["id"] = "0x0000000002E59921",
+									["abilities"] = {
+										{
+											["id"] = 600,
+											["name"] = "致死劈砍",
+											["icon"] = 659264,
+										}, -- [1]
+										{
+											["id"] = 601,
+											["name"] = "瓦尔基拉的飞翔",
+											["icon"] = 1360764,
+										}, -- [2]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+									["iconId"] = 1489383,
+								}, -- [2]
+								{
+									["name"] = "瓦尔基拉女武神",
+									["id"] = "0x0000000002E4E965",
+									["abilities"] = {
+										{
+											["id"] = 600,
+											["name"] = "致死劈砍",
+											["icon"] = 659264,
+										}, -- [1]
+										{
+											["id"] = 601,
+											["name"] = "瓦尔基拉的飞翔",
+											["icon"] = 1360764,
+										}, -- [2]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+									["iconId"] = 1489372,
+								}, -- [3]
+							},
+							["start"] = 1489404010,
+							["level"] = 110,
+							["timeLeft"] = "6小时",
+							["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+						},
+						[519] = {
+							["type"] = "舰船-总攻（联盟）",
+							["typeAtlas"] = "ShipMissionIcon-SiegeA-Mission",
+							["timeLeft"] = "15分钟",
+							["id"] = 519,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["rewards"] = {
 								{
 									["title"] = "奖励追随者经验",
@@ -18155,6 +29806,7 @@ Broker_GarrisonDB = {
 									["name"] = "+1,000经验值",
 								}, -- [1]
 							},
+<<<<<<< HEAD
 							["missionState"] = 0,
 							["id"] = 735,
 							["duration"] = 1800,
@@ -18173,6 +29825,30 @@ Broker_GarrisonDB = {
 											["id"] = 265,
 											["name"] = "破冰器",
 											["icon"] = 892834,
+=======
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "封锁线：消逝之海",
+							["followerTypeID"] = 2,
+							["start"] = 0,
+							["followers"] = {
+								{
+									["name"] = "正义之锤号",
+									["id"] = "0x0000000000E59A49",
+									["iconId"] = 1341794,
+									["abilities"] = {
+										{
+											["id"] = 264,
+											["name"] = "航母",
+											["icon"] = 1141394,
+										}, -- [1]
+										{
+											["id"] = 269,
+											["name"] = "高能炉",
+											["icon"] = 900306,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [2]
 										{
 											["id"] = 293,
@@ -18180,6 +29856,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236457,
 										}, -- [3]
 										{
+<<<<<<< HEAD
 											["id"] = 278,
 											["name"] = "储备弹药",
 											["icon"] = 249177,
@@ -18244,6 +29921,63 @@ Broker_GarrisonDB = {
 									["name"] = "泰加·霜蹄",
 									["id"] = "0x0000000000E67122",
 									["iconId"] = 1066028,
+=======
+											["id"] = 277,
+											["name"] = "自动航空雷达",
+											["icon"] = 133873,
+										}, -- [4]
+									},
+									["classIcon"] = "Ships_CarrierH-List",
+								}, -- [1]
+								{
+									["name"] = "奈萨里奥之狂号",
+									["id"] = "0x0000000000E3BE01",
+									["iconId"] = 1341797,
+									["abilities"] = {
+										{
+											["id"] = 261,
+											["name"] = "潜水艇",
+											["icon"] = 1141396,
+										}, -- [1]
+										{
+											["id"] = 266,
+											["name"] = "舱底水泵",
+											["icon"] = 986488,
+										}, -- [2]
+										{
+											["id"] = 289,
+											["name"] = "血精灵船员",
+											["icon"] = 236439,
+										}, -- [3]
+										{
+											["id"] = 265,
+											["name"] = "破冰器",
+											["icon"] = 892834,
+										}, -- [4]
+									},
+									["classIcon"] = "Ships_SubmarineH-List",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["duration"] = 900,
+						},
+						[309] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["itemID"] = 114131,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 309,
+							["duration"] = 5400,
+							["followers"] = {
+								{
+									["name"] = "马斯卡",
+									["id"] = "0x00000000007B2839",
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -18251,6 +29985,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 119,
 											["name"] = "反魔法护罩",
 											["icon"] = 136120,
@@ -18931,6 +30666,917 @@ Broker_GarrisonDB = {
 					["trackWeekly"] = {
 						["BONUS_ROLL_QUESTS"] = 3,
 						["WARMILL_SOTF"] = true,
+=======
+											["id"] = 121,
+											["name"] = "拳击",
+											["icon"] = 132938,
+										}, -- [2]
+										{
+											["id"] = 39,
+											["name"] = "原兽克星",
+											["icon"] = 254105,
+										}, -- [3]
+										{
+											["id"] = 122,
+											["name"] = "鲁莽",
+											["icon"] = 603532,
+										}, -- [4]
+										{
+											["id"] = 221,
+											["name"] = "史诗坐骑",
+											["icon"] = 631718,
+										}, -- [5]
+									},
+									["iconId"] = 1066502,
+								}, -- [1]
+								{
+									["name"] = "卡瓦胡·驯魔",
+									["id"] = "0x000000000027C5A9",
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+									["abilities"] = {
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [1]
+										{
+											["id"] = 165,
+											["name"] = "逃脱",
+											["icon"] = 132294,
+										}, -- [2]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [3]
+										{
+											["id"] = 101,
+											["name"] = "多重射击",
+											["icon"] = 132330,
+										}, -- [4]
+										{
+											["id"] = 36,
+											["name"] = "恶魔克星",
+											["icon"] = 254651,
+										}, -- [5]
+									},
+									["iconId"] = 1066505,
+								}, -- [2]
+								{
+									["name"] = "海兹尔·断脉",
+									["id"] = "0x0000000000DCE4EF",
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 114,
+											["name"] = "黑暗命令",
+											["icon"] = 136088,
+										}, -- [2]
+										{
+											["id"] = 4,
+											["name"] = "兽人克星",
+											["icon"] = 897144,
+										}, -- [3]
+										{
+											["id"] = 118,
+											["name"] = "符文武器增效",
+											["icon"] = 135372,
+										}, -- [4]
+										{
+											["id"] = 221,
+											["name"] = "史诗坐骑",
+											["icon"] = 631718,
+										}, -- [5]
+									},
+									["iconId"] = 1066349,
+								}, -- [3]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "失落的世界",
+							["followerTypeID"] = 1,
+							["start"] = 1487418231,
+							["level"] = 100,
+							["timeLeft"] = "1小时30分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[188] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 36,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 188,
+							["duration"] = 2700,
+							["followers"] = {
+								{
+									["name"] = "奥鲁格",
+									["id"] = "0x0000000000807AB2",
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 122,
+											["name"] = "鲁莽",
+											["icon"] = 603532,
+										}, -- [2]
+										{
+											["id"] = 40,
+											["name"] = "戈隆克星",
+											["icon"] = 236412,
+										}, -- [3]
+										{
+											["id"] = 102,
+											["name"] = "英勇飞跃",
+											["icon"] = 236171,
+										}, -- [4]
+										{
+											["id"] = 45,
+											["name"] = "穴居人",
+											["icon"] = 409595,
+										}, -- [5]
+									},
+									["iconId"] = 1066413,
+								}, -- [1]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "大迁徙",
+							["followerTypeID"] = 1,
+							["start"] = 1487418213,
+							["level"] = 93,
+							["timeLeft"] = "45分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[186] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 32,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 186,
+							["duration"] = 3600,
+							["followers"] = {
+								{
+									["name"] = "塔迪",
+									["id"] = "0x0000000000CC327A",
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 106,
+											["name"] = "治疗链",
+											["icon"] = 136042,
+										}, -- [2]
+										{
+											["id"] = 70,
+											["name"] = "德拉诺之子",
+											["icon"] = 236451,
+										}, -- [3]
+										{
+											["id"] = 158,
+											["name"] = "升腾",
+											["icon"] = 135791,
+										}, -- [4]
+										{
+											["id"] = 36,
+											["name"] = "恶魔克星",
+											["icon"] = 254651,
+										}, -- [5]
+									},
+									["iconId"] = 1066466,
+								}, -- [1]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "风箱里的白鬼",
+							["followerTypeID"] = 1,
+							["start"] = 1487418217,
+							["level"] = 91,
+							["timeLeft"] = "1小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[682] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["itemID"] = 128313,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 682,
+							["duration"] = 21600,
+							["followers"] = {
+								{
+									["name"] = "塔帕·迅掌",
+									["id"] = "0x000000000070B3F8",
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+									["abilities"] = {
+										{
+											["id"] = 70,
+											["name"] = "德拉诺之子",
+											["icon"] = 236451,
+										}, -- [1]
+										{
+											["id"] = 108,
+											["name"] = "咆哮",
+											["icon"] = 132270,
+										}, -- [2]
+										{
+											["id"] = 38,
+											["name"] = "食人魔克星",
+											["icon"] = 236695,
+										}, -- [3]
+										{
+											["id"] = 132,
+											["name"] = "树皮术",
+											["icon"] = 136097,
+										}, -- [4]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [5]
+									},
+									["iconId"] = 1066229,
+								}, -- [1]
+								{
+									["name"] = "安尼克丝·卡齿",
+									["id"] = "0x000000000030F374",
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+									["abilities"] = {
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [1]
+										{
+											["id"] = 120,
+											["name"] = "顺劈斩",
+											["icon"] = 132338,
+										}, -- [2]
+										{
+											["id"] = 221,
+											["name"] = "史诗坐骑",
+											["icon"] = 631718,
+										}, -- [3]
+										{
+											["id"] = 122,
+											["name"] = "鲁莽",
+											["icon"] = 603532,
+										}, -- [4]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [5]
+									},
+									["iconId"] = 1066417,
+								}, -- [2]
+								{
+									["name"] = "斯卡哈",
+									["id"] = "0x00000000007A7B6B",
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+									["abilities"] = {
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [1]
+										{
+											["id"] = 125,
+											["name"] = "清洁术",
+											["icon"] = 135949,
+										}, -- [2]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [3]
+										{
+											["id"] = 126,
+											["name"] = "责难",
+											["icon"] = 523893,
+										}, -- [4]
+										{
+											["id"] = 75,
+											["name"] = "经济学家",
+											["icon"] = 632354,
+										}, -- [5]
+									},
+									["iconId"] = 1086448,
+								}, -- [3]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "食人魔的困境",
+							["followerTypeID"] = 1,
+							["start"] = 1487418224,
+							["level"] = 100,
+							["timeLeft"] = "6小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[735] = {
+							["type"] = "舰船-总攻（部落）",
+							["typeAtlas"] = "ShipMissionIcon-SiegeIHH-Mission",
+							["timeLeft"] = "30分钟",
+							["id"] = 735,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 1000,
+									["tooltip"] = "+1,000经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+1,000经验值",
+								}, -- [1]
+							},
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "封锁线：南海",
+							["followerTypeID"] = 2,
+							["start"] = 0,
+							["followers"] = {
+								{
+									["name"] = "老陈私酿号",
+									["id"] = "0x0000000000DFC313",
+									["iconId"] = 1341798,
+									["abilities"] = {
+										{
+											["id"] = 260,
+											["name"] = "登船突击队",
+											["icon"] = 1141393,
+										}, -- [1]
+										{
+											["id"] = 265,
+											["name"] = "破冰器",
+											["icon"] = 892834,
+										}, -- [2]
+										{
+											["id"] = 293,
+											["name"] = "亡灵船员",
+											["icon"] = 236457,
+										}, -- [3]
+										{
+											["id"] = 278,
+											["name"] = "储备弹药",
+											["icon"] = 249177,
+										}, -- [4]
+									},
+									["classIcon"] = "Ships_TroopTransport-List",
+								}, -- [1]
+								{
+									["name"] = "瓦格里契约号",
+									["id"] = "0x0000000000E53AD7",
+									["iconId"] = 1341794,
+									["abilities"] = {
+										{
+											["id"] = 264,
+											["name"] = "航母",
+											["icon"] = 1141394,
+										}, -- [1]
+										{
+											["id"] = 272,
+											["name"] = "邪能烟幕发射器",
+											["icon"] = 627487,
+										}, -- [2]
+										{
+											["id"] = 285,
+											["name"] = "牛头人船员",
+											["icon"] = 236453,
+										}, -- [3]
+										{
+											["id"] = 280,
+											["name"] = "额外舱房",
+											["icon"] = 133004,
+										}, -- [4]
+									},
+									["classIcon"] = "Ships_CarrierH-List",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["duration"] = 1800,
+						},
+						[218] = {
+							["type"] = "寻宝",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 45,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 218,
+							["duration"] = 1800,
+							["followers"] = {
+								{
+									["name"] = "守护者安托希",
+									["id"] = "0x0000000000D8EDB0",
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 134,
+											["name"] = "纠缠根须",
+											["icon"] = 136100,
+										}, -- [2]
+										{
+											["id"] = 69,
+											["name"] = "酒鬼",
+											["icon"] = 626190,
+										}, -- [3]
+										{
+											["id"] = 108,
+											["name"] = "咆哮",
+											["icon"] = 132270,
+										}, -- [4]
+										{
+											["id"] = 37,
+											["name"] = "野兽克星",
+											["icon"] = 298659,
+										}, -- [5]
+									},
+									["iconId"] = 1066273,
+								}, -- [1]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "我的宝贝",
+							["followerTypeID"] = 1,
+							["start"] = 1487418208,
+							["level"] = 90,
+							["timeLeft"] = "30分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Trading",
+						},
+						[286] = {
+							["type"] = "寻宝",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 100,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 286,
+							["duration"] = 10800,
+							["followers"] = {
+								{
+									["name"] = "琪尔加·悲歌",
+									["id"] = "0x0000000000888C75",
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 114,
+											["name"] = "黑暗命令",
+											["icon"] = 136088,
+										}, -- [2]
+										{
+											["id"] = 221,
+											["name"] = "史诗坐骑",
+											["icon"] = 631718,
+										}, -- [3]
+										{
+											["id"] = 115,
+											["name"] = "白骨之盾",
+											["icon"] = 458717,
+										}, -- [4]
+										{
+											["id"] = 75,
+											["name"] = "经济学家",
+											["icon"] = 632354,
+										}, -- [5]
+									},
+									["iconId"] = 1066210,
+								}, -- [1]
+								{
+									["name"] = "芳妮",
+									["id"] = "0x0000000000CE7D60",
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 167,
+											["name"] = "冰冻陷阱",
+											["icon"] = 135834,
+										}, -- [2]
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [3]
+										{
+											["id"] = 166,
+											["name"] = "反制射击",
+											["icon"] = 249170,
+										}, -- [4]
+										{
+											["id"] = 73,
+											["name"] = "巫术狂信徒",
+											["icon"] = 236456,
+										}, -- [5]
+									},
+									["iconId"] = 1066254,
+								}, -- [2]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "迷失在铸造厂",
+							["followerTypeID"] = 1,
+							["start"] = 1487418197,
+							["level"] = 100,
+							["timeLeft"] = "3小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Trading",
+						},
+						[482] = {
+							["type"] = "锻造",
+							["rewards"] = {
+								{
+									["itemID"] = 122595,
+									["quantity"] = 3,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 482,
+							["duration"] = 21600,
+							["followers"] = {
+								{
+									["name"] = "泰加·霜蹄",
+									["id"] = "0x0000000000E67122",
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 119,
+											["name"] = "反魔法护罩",
+											["icon"] = 136120,
+										}, -- [2]
+										{
+											["id"] = 43,
+											["name"] = "利爪克星",
+											["icon"] = 952507,
+										}, -- [3]
+										{
+											["id"] = 117,
+											["name"] = "心灵冰冻",
+											["icon"] = 237527,
+										}, -- [4]
+										{
+											["id"] = 8,
+											["name"] = "冰冷血脉",
+											["icon"] = 236833,
+										}, -- [5]
+									},
+									["iconId"] = 1066028,
+								}, -- [1]
+								{
+									["name"] = "阿霍特",
+									["id"] = "0x000000000085BECF",
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 148,
+											["name"] = "驱散魔法",
+											["icon"] = 135894,
+										}, -- [2]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [3]
+										{
+											["id"] = 10,
+											["name"] = "信仰飞跃",
+											["icon"] = 463835,
+										}, -- [4]
+										{
+											["id"] = 4,
+											["name"] = "兽人克星",
+											["icon"] = 897144,
+										}, -- [5]
+									},
+									["iconId"] = 1066434,
+								}, -- [2]
+								{
+									["name"] = "乌娜·斯莱舍",
+									["id"] = "0x000000000019C2C5",
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+									["abilities"] = {
+										{
+											["id"] = 148,
+											["name"] = "驱散魔法",
+											["icon"] = 135894,
+										}, -- [1]
+										{
+											["id"] = 150,
+											["name"] = "精神灼烧",
+											["icon"] = 237565,
+										}, -- [2]
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [3]
+										{
+											["id"] = 48,
+											["name"] = "沼泽行者",
+											["icon"] = 236819,
+										}, -- [4]
+										{
+											["id"] = 69,
+											["name"] = "酒鬼",
+											["icon"] = 626190,
+										}, -- [5]
+									},
+									["iconId"] = 1066198,
+								}, -- [3]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "予取予求",
+							["followerTypeID"] = 1,
+							["start"] = 1487418243,
+							["level"] = 100,
+							["timeLeft"] = "6小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Blacksmithing",
+						},
+						[726] = {
+							["type"] = "舰船-总攻（部落）",
+							["typeAtlas"] = "ShipMissionIcon-SiegeIHH-Mission",
+							["timeLeft"] = "30分钟",
+							["id"] = 726,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 1000,
+									["tooltip"] = "+1,000经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+1,000经验值",
+								}, -- [1]
+							},
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "封锁线：隔绝之海",
+							["followerTypeID"] = 2,
+							["start"] = 0,
+							["followers"] = {
+								{
+									["name"] = "乌索尔之噬号",
+									["id"] = "0x0000000000DFAF16",
+									["iconId"] = 1341793,
+									["abilities"] = {
+										{
+											["id"] = 263,
+											["name"] = "驱逐舰",
+											["icon"] = 1141395,
+										}, -- [1]
+										{
+											["id"] = 282,
+											["name"] = "兽人船员",
+											["icon"] = 236452,
+										}, -- [2]
+										{
+											["id"] = 279,
+											["name"] = "声呐增幅器",
+											["icon"] = 252188,
+										}, -- [3]
+										{
+											["id"] = 277,
+											["name"] = "自动航空雷达",
+											["icon"] = 133873,
+										}, -- [4]
+									},
+									["classIcon"] = "Ships_GalleonH-List",
+								}, -- [1]
+								{
+									["name"] = "信仰之跃号",
+									["id"] = "0x0000000000DF8911",
+									["iconId"] = 1341793,
+									["abilities"] = {
+										{
+											["id"] = 263,
+											["name"] = "驱逐舰",
+											["icon"] = 1141395,
+										}, -- [1]
+										{
+											["id"] = 282,
+											["name"] = "兽人船员",
+											["icon"] = 236452,
+										}, -- [2]
+										{
+											["id"] = 267,
+											["name"] = "超大功率雾灯",
+											["icon"] = 460953,
+										}, -- [3]
+										{
+											["id"] = 266,
+											["name"] = "舱底水泵",
+											["icon"] = 986488,
+										}, -- [4]
+									},
+									["classIcon"] = "Ships_GalleonH-List",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["duration"] = 1800,
+						},
+						[264] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["itemID"] = 114081,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 264,
+							["duration"] = 28800,
+							["followers"] = {
+								{
+									["name"] = "阿丽娅",
+									["id"] = "0x0000000000868C37",
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 126,
+											["name"] = "责难",
+											["icon"] = 523893,
+										}, -- [2]
+										{
+											["id"] = 69,
+											["name"] = "酒鬼",
+											["icon"] = 626190,
+										}, -- [3]
+										{
+											["id"] = 127,
+											["name"] = "忏悔",
+											["icon"] = 135942,
+										}, -- [4]
+										{
+											["id"] = 314,
+											["name"] = "油猴子",
+											["icon"] = 252178,
+										}, -- [5]
+									},
+									["iconId"] = 1086430,
+								}, -- [1]
+								{
+									["name"] = "伦多尔·血斩",
+									["id"] = "0x00000000010419A0",
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+									["abilities"] = {
+										{
+											["id"] = 314,
+											["name"] = "油猴子",
+											["icon"] = 252178,
+										}, -- [1]
+										{
+											["id"] = 105,
+											["name"] = "脚踢",
+											["icon"] = 132219,
+										}, -- [2]
+										{
+											["id"] = 37,
+											["name"] = "野兽克星",
+											["icon"] = 298659,
+										}, -- [3]
+										{
+											["id"] = 162,
+											["name"] = "死亡标记",
+											["icon"] = 236364,
+										}, -- [4]
+										{
+											["id"] = 43,
+											["name"] = "利爪克星",
+											["icon"] = 952507,
+										}, -- [5]
+									},
+									["iconId"] = 1066455,
+								}, -- [2]
+								{
+									["name"] = "莎德·灾心",
+									["id"] = "0x000000000100162D",
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+									["abilities"] = {
+										{
+											["id"] = 314,
+											["name"] = "油猴子",
+											["icon"] = 252178,
+										}, -- [1]
+										{
+											["id"] = 175,
+											["name"] = "生命吸取",
+											["icon"] = 136169,
+										}, -- [2]
+										{
+											["id"] = 4,
+											["name"] = "兽人克星",
+											["icon"] = 897144,
+										}, -- [3]
+										{
+											["id"] = 179,
+											["name"] = "法术封锁",
+											["icon"] = 136174,
+										}, -- [4]
+										{
+											["id"] = 39,
+											["name"] = "原兽克星",
+											["icon"] = 254105,
+										}, -- [5]
+									},
+									["iconId"] = 1066191,
+								}, -- [3]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "攫取天空",
+							["followerTypeID"] = 1,
+							["start"] = 1487418237,
+							["level"] = 100,
+							["timeLeft"] = "8小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+					},
+					["tooltipEnabled"] = true,
+					["currencySealOfTemperedFateAmount"] = 1,
+					["invasion"] = {
+						["available"] = false,
+					},
+					["buildingsExpanded"] = true,
+					["missionsExpanded"] = true,
+					["currencySealOfInevitableFateAmount"] = 13,
+					["cacheSize"] = 750,
+					["garrisonCacheLastLooted"] = 1489402380,
+					["currencyOrderResourcesAmount"] = 5630,
+					["trackWeekly"] = {
+						["WARMILL_SOTF"] = true,
+						["BONUS_ROLL_QUESTS"] = 3,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					},
 					["talents"] = {
 						[410] = {
@@ -18941,17 +31587,177 @@ Broker_GarrisonDB = {
 							["researchDuration"] = 432000,
 							["tier"] = 4,
 							["selected"] = true,
+<<<<<<< HEAD
 							["icon"] = 1349535,
 							["researched"] = true,
 							["talentAvailability"] = 8,
 							["id"] = 410,
 							["researchCurrency"] = 1220,
 							["name"] = "瓦格里的呼唤",
+=======
+							["icon"] = 1349535,
+							["researched"] = true,
+							["talentAvailability"] = 8,
+							["id"] = 410,
+							["researchCurrency"] = 1220,
+							["name"] = "瓦格里的呼唤",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[411] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达工作订单，用职业大厅资源换取勇士的武器或装备。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 2000,
+							["researchDuration"] = 259200,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 1357798,
+							["researched"] = false,
+							["talentAvailability"] = 1,
+							["id"] = 411,
+							["researchCurrency"] = 1220,
+							["name"] = "天堂熔铸",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[412] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以装备的传说物品数量提高1。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 15000,
+							["researchDuration"] = 604800,
+							["tier"] = 5,
+							["selected"] = true,
+							["icon"] = 460957,
+							["researched"] = true,
+							["talentAvailability"] = 8,
+							["id"] = 412,
+							["researchCurrency"] = 1220,
+							["name"] = "黄昏传说",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[402] = {
+							["isBeingResearched"] = false,
+							["description"] = "使你非重复类的任务奖励额外升级为稀有或史诗品质的几率提高。",
+							["perkSpellID"] = 219866,
+							["researchCost"] = 50,
+							["researchDuration"] = 7200,
+							["tier"] = 0,
+							["selected"] = true,
+							["icon"] = 132275,
+							["researched"] = true,
+							["talentAvailability"] = 8,
+							["id"] = 402,
+							["researchCurrency"] = 1220,
+							["name"] = "奥丁的眷顾",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[403] = {
+							["isBeingResearched"] = false,
+							["description"] = "可以使用技能集结呐喊，执行每天第一个任务的部队每有一点活力，就会使该任务的成功率提高5%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 500,
+							["researchDuration"] = 86400,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 236317,
+							["researched"] = false,
+							["talentAvailability"] = 1,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "执行每天第一个任务的部队每有一点活力，就会使该任务的成功率提高5%。",
+								["id"] = 596,
+								["name"] = "集结呐喊",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 236317,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "集结呐喊",
+							["id"] = 403,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[404] = {
+							["isBeingResearched"] = false,
+							["description"] = "在所有任务中可以使用急行军技能，使任务时长缩短20%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 2000,
+							["researchDuration"] = 259200,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 132277,
+							["researched"] = false,
+							["talentAvailability"] = 1,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "所有任务的时长缩短20%。",
+								["id"] = 597,
+								["name"] = "急行军",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 132277,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "急行军",
+							["id"] = 404,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[405] = {
+							["isBeingResearched"] = false,
+							["description"] = "你的瓦拉加尔候选者、瓦拉加尔雷铸者、女武神和瓦尔基拉女武神的招募上限提高1。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 1000,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = true,
+							["icon"] = 132351,
+							["researched"] = true,
+							["talentAvailability"] = 8,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "你的女武神和瓦格里招募上限提高1。",
+								["id"] = 598,
+								["name"] = "英勇四溢",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 132351,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "英勇四溢",
+							["id"] = 405,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
 						},
+<<<<<<< HEAD
 						[411] = {
 							["isBeingResearched"] = false,
 							["description"] = "你可以下达工作订单，用职业大厅资源换取勇士的武器或装备。",
@@ -19018,17 +31824,92 @@ Broker_GarrisonDB = {
 							["tier"] = 0,
 							["selected"] = false,
 							["icon"] = 236317,
+=======
+						[406] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的瓦拉加尔候选者变为瓦拉加尔雷铸者，使其任务成功率提高5%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 2000,
+							["researchDuration"] = 259200,
+							["tier"] = 3,
+							["selected"] = false,
+							["icon"] = 132346,
+							["researched"] = false,
+							["talentAvailability"] = 1,
+							["id"] = 406,
+							["researchCurrency"] = 1220,
+							["name"] = "火焰试炼",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[407] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的女武神变为瓦尔基拉女武神，获得：\r\n\r\n|TInterface\\ICONS\\Ability_Paladin_TowerofLight.blp:20:20:0:0|t |Cffffffff瓦尔基拉的飞翔|R\r\n有|C00b3ffff危害|R的任务成功率提高15%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 10000,
+							["researchDuration"] = 259200,
+							["tier"] = 3,
+							["selected"] = true,
+							["icon"] = 132339,
+							["researched"] = true,
+							["talentAvailability"] = 8,
+							["id"] = 407,
+							["researchCurrency"] = 1220,
+							["name"] = "晋升",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[408] = {
+							["isBeingResearched"] = false,
+							["description"] = "让你可以在危机四伏的荣耀之环里看到苍穹要塞财宝箱。你可以与其他战士同僚争夺拾取其中财宝的机会，每周一次。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 500,
+							["researchDuration"] = 14400,
+							["tier"] = 1,
+							["selected"] = true,
+							["icon"] = 132334,
+							["researched"] = true,
+							["talentAvailability"] = 8,
+							["id"] = 408,
+							["researchCurrency"] = 1220,
+							["name"] = "为了荣耀",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[409] = {
+							["isBeingResearched"] = false,
+							["description"] = "和一个战友一起完成世界任务可以获得职业大厅资源。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 2000,
+							["researchDuration"] = 259200,
+							["tier"] = 4,
+							["selected"] = false,
+							["icon"] = 236307,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researched"] = false,
 							["talentAvailability"] = 1,
 							["ability"] = {
 								["temporary"] = false,
+<<<<<<< HEAD
 								["description"] = "执行每天第一个任务的部队每有一点活力，就会使该任务的成功率提高5%。",
 								["id"] = 596,
 								["name"] = "集结呐喊",
+=======
+								["description"] = "当你拥有激活的战友时，任务会奖励额外资源。",
+								["id"] = 747,
+								["name"] = "战争横财",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								["isSpecialization"] = false,
 								["counters"] = {
 								},
 								["isEmptySlot"] = false,
+<<<<<<< HEAD
 								["icon"] = 236317,
 								["isTrait"] = false,
 							},
@@ -19244,6 +32125,382 @@ Broker_GarrisonDB = {
 					["weeklyNextReset"] = 1489618799,
 					["currencyAmount"] = 3386,
 					["currencySealOfInevitableFateAmount"] = 12,
+=======
+								["icon"] = 236307,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "战争横财",
+							["id"] = 409,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+					},
+					["looseShipments"] = {
+						{
+							["shipmentsTotal"] = 1,
+							["duration"] = 0,
+							["name"] = "精瘦腿肉食谱",
+							["shipmentCapacity"] = 24,
+							["creationTime"] = 0,
+							["shipmentsReady"] = 1,
+							["texture"] = 134939,
+						}, -- [1]
+						{
+							["shipmentsTotal"] = 1,
+							["duration"] = 600,
+							["timeleftString"] = "8分钟",
+							["name"] = "战争号角",
+							["shipmentCapacity"] = 1,
+							["creationTime"] = 1489403980,
+							["shipmentsReady"] = 0,
+							["texture"] = 135705,
+						}, -- [2]
+					},
+					["currencyAncientManaAmount"] = 259,
+					["followerShipments"] = {
+						{
+							["shipmentsTotal"] = 2,
+							["duration"] = 1800,
+							["timeleftString"] = "29分钟",
+							["name"] = "瓦拉加尔候选者",
+							["followerID"] = 686,
+							["shipmentCapacity"] = 1,
+							["creationTime"] = 1489404041,
+							["shipmentsReady"] = 0,
+							["texture"] = 1401869,
+						}, -- [1]
+					},
+					["currencyApexisAmount"] = 90970,
+					["notificationEnabled"] = true,
+					["currencyArtifactKnowledge"] = 25,
+					["order"] = 5,
+					["orderhallExpanded"] = true,
+					["lootedNextReset"] = 1489445999,
+					["info"] = {
+						["playerFaction"] = "Horde",
+						["playerClass"] = "WARRIOR",
+						["bonusEnabled"] = true,
+						["playerName"] = "悠悠龟",
+						["realmName"] = "火羽山",
+					},
+					["trackDaily"] = {
+						["WARMILL_IRONSCRAPS"] = false,
+					},
+					["currencyOil"] = 465,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 3386,
+					["buildings"] = {
+						[24] = {
+							["hasFollowerSlot"] = true,
+							["buildingState"] = 0,
+							["follower"] = {
+								["garrFollowerID"] = "正在工作",
+								["displayID"] = "0x00000000001CA548",
+								["followerID"] = "0x00000000000000D8",
+								["status"] = 1066126,
+								["level"] = 100,
+								["quality"] = 4,
+								["followerName"] = "薇薇安",
+							},
+							["shipment"] = {
+							},
+							["id"] = 28,
+							["plotID"] = 24,
+							["plotSize"] = 3,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["notification"] = 1,
+							["name"] = "兵营",
+							["timeStart"] = 1427774542,
+							["texPrefix"] = "GarrBuilding_Barracks_3_H",
+							["isBuilding"] = false,
+							["icon"] = 975738,
+							["rank"] = 3,
+						},
+						[63] = {
+							["hasFollowerSlot"] = true,
+							["buildingState"] = 0,
+							["follower"] = {
+								["garrFollowerID"] = "正在工作",
+								["displayID"] = "0x00000000001DB7A6",
+								["followerID"] = "0x00000000000000B4",
+								["status"] = 1066105,
+								["level"] = 100,
+								["quality"] = 3,
+								["followerName"] = "暗影猎手莱拉",
+							},
+							["shipment"] = {
+								["shipmentsAvailable"] = 8,
+								["itemName"] = "药圃",
+								["shipmentsInProgress"] = 0,
+								["shipmentsTotal"] = 13,
+								["notificationValue"] = 13,
+								["duration"] = 0,
+								["shipmentsReadyEstimate"] = 13,
+								["notification"] = 1,
+								["itemID"] = 116054,
+								["notificationDismissed"] = false,
+								["name"] = "药圃",
+								["itemQuality"] = 1,
+								["shipmentCapacity"] = 21,
+								["creationTime"] = 0,
+								["shipmentsReady"] = 13,
+								["texture"] = 134221,
+							},
+							["id"] = 137,
+							["plotID"] = 63,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["notification"] = 1,
+							["name"] = "药圃",
+							["timeStart"] = 1419774379,
+							["texPrefix"] = "GarrBuilding_Farm_1_H",
+							["isBuilding"] = false,
+							["icon"] = 134221,
+							["rank"] = 3,
+						},
+						[81] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["shipment"] = {
+							},
+							["id"] = 42,
+							["plotID"] = 81,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "宠物小窝",
+							["timeStart"] = 1487169838,
+							["texPrefix"] = "GarrBuilding_PetStable_1_H",
+							["isBuilding"] = false,
+							["icon"] = 975741,
+							["rank"] = 1,
+						},
+						[67] = {
+							["hasFollowerSlot"] = true,
+							["buildingState"] = 0,
+							["follower"] = {
+							},
+							["shipment"] = {
+							},
+							["id"] = 64,
+							["plotID"] = 67,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "渔夫小屋",
+							["timeStart"] = 1418543730,
+							["texPrefix"] = "GarrBuilding_Fishing_1_H",
+							["isBuilding"] = false,
+							["icon"] = 136245,
+							["rank"] = 1,
+						},
+						[98] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["id"] = 207,
+							["plotID"] = 98,
+							["shipment"] = {
+								["shipmentsAvailable"] = 0,
+								["itemName"] = "舰船：驱逐舰",
+								["shipmentsInProgress"] = 0,
+								["shipmentsTotal"] = 1,
+								["notificationValue"] = 1,
+								["duration"] = 0,
+								["shipmentsReadyEstimate"] = 1,
+								["notification"] = 1,
+								["itemID"] = 128303,
+								["notificationDismissed"] = false,
+								["name"] = "霜壁船坞",
+								["itemQuality"] = 1,
+								["shipmentCapacity"] = 1,
+								["creationTime"] = 0,
+								["shipmentsReady"] = 1,
+								["texture"] = 1126431,
+							},
+							["buildTime"] = 0,
+							["canActivate"] = false,
+							["name"] = "霜壁船坞",
+							["timeStart"] = 1456316913,
+							["texPrefix"] = "GarrBuilding_Armory_1_A",
+							["isBuilding"] = false,
+							["icon"] = 1126431,
+							["rank"] = 3,
+						},
+						[18] = {
+							["hasFollowerSlot"] = true,
+							["buildingState"] = 0,
+							["follower"] = {
+								["garrFollowerID"] = "正在工作",
+								["displayID"] = "0x000000000034D883",
+								["followerID"] = "0x00000000000000C0",
+								["status"] = 1066120,
+								["level"] = 100,
+								["quality"] = 3,
+								["followerName"] = "基姆兹·宾奇维斯",
+							},
+							["shipment"] = {
+								["name"] = "工坊",
+								["shipmentCapacity"] = 21,
+								["texture"] = 136243,
+							},
+							["id"] = 124,
+							["plotID"] = 18,
+							["plotSize"] = 1,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["notification"] = 1,
+							["name"] = "工坊",
+							["timeStart"] = 1419774347,
+							["texPrefix"] = "GarrBuilding_Engineering_3_H",
+							["isBuilding"] = false,
+							["icon"] = 136243,
+							["rank"] = 3,
+						},
+						[19] = {
+							["hasFollowerSlot"] = true,
+							["buildingState"] = 0,
+							["follower"] = {
+							},
+							["shipment"] = {
+								["name"] = "熔炉",
+								["shipmentCapacity"] = 21,
+								["texture"] = 136241,
+							},
+							["id"] = 118,
+							["plotID"] = 19,
+							["plotSize"] = 1,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["notification"] = 1,
+							["name"] = "熔炉",
+							["timeStart"] = 1418776350,
+							["texPrefix"] = "GarrBuilding_Blacksmith_3_H",
+							["isBuilding"] = false,
+							["icon"] = 136241,
+							["rank"] = 3,
+						},
+						[20] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["shipment"] = {
+							},
+							["id"] = 141,
+							["plotID"] = 20,
+							["plotSize"] = 1,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["notification"] = 1,
+							["name"] = "废品站",
+							["timeStart"] = 1418776346,
+							["texPrefix"] = "GarrBuilding_SalvageYard_1_H",
+							["isBuilding"] = false,
+							["icon"] = 975742,
+							["rank"] = 3,
+						},
+						[25] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["shipment"] = {
+								["name"] = "货栈",
+								["shipmentCapacity"] = 7,
+								["texture"] = 975746,
+							},
+							["id"] = 111,
+							["plotID"] = 25,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["notification"] = 1,
+							["name"] = "货栈",
+							["timeStart"] = 1423526745,
+							["texPrefix"] = "GarrBuilding_TradingPost_1_H",
+							["isBuilding"] = false,
+							["icon"] = 975746,
+							["rank"] = 1,
+						},
+						[22] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["shipment"] = {
+							},
+							["id"] = 36,
+							["plotID"] = 22,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["notification"] = 1,
+							["name"] = "霜壁旅社",
+							["timeStart"] = 1419436313,
+							["texPrefix"] = "GarrBuilding_Inn_3_H",
+							["isBuilding"] = false,
+							["icon"] = 134414,
+							["rank"] = 3,
+						},
+						[23] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["shipment"] = {
+								["shipmentsAvailable"] = 21,
+								["shipmentsTotal"] = 21,
+								["shipmentsInProgress"] = 0,
+								["notificationValue"] = 0,
+								["shipmentsReadyEstimate"] = 0,
+								["notification"] = 1,
+								["notificationDismissed"] = false,
+								["name"] = "战争工坊",
+								["shipmentCapacity"] = 21,
+								["texture"] = 975736,
+							},
+							["id"] = 10,
+							["plotID"] = 23,
+							["plotSize"] = 3,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["notification"] = 1,
+							["name"] = "战争工坊",
+							["timeStart"] = 1420732161,
+							["texPrefix"] = "GarrBuilding_Armory_3_H",
+							["isBuilding"] = false,
+							["icon"] = 975736,
+							["rank"] = 3,
+						},
+						[59] = {
+							["hasFollowerSlot"] = true,
+							["buildingState"] = 0,
+							["follower"] = {
+								["garrFollowerID"] = "正在工作",
+								["displayID"] = "0x0000000000356269",
+								["followerID"] = "0x000000000000009D",
+								["status"] = 1066127,
+								["level"] = 100,
+								["quality"] = 3,
+								["followerName"] = "兰特瑞索·火刃",
+							},
+							["shipment"] = {
+								["name"] = "霜壁矿井",
+								["shipmentCapacity"] = 21,
+								["texture"] = 136248,
+							},
+							["id"] = 63,
+							["plotID"] = 59,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["notification"] = 1,
+							["name"] = "霜壁矿井",
+							["timeStart"] = 1418776354,
+							["texPrefix"] = "GarrBuilding_Mine_1_H",
+							["isBuilding"] = false,
+							["icon"] = 136248,
+							["rank"] = 3,
+						},
+					},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				},
 				["赞达拉使者"] = {
 					["categories"] = {
@@ -19254,6 +32511,7 @@ Broker_GarrisonDB = {
 					["missions"] = {
 						[336] = {
 							["type"] = "战斗",
+<<<<<<< HEAD
 							["duration"] = 36000,
 							["missionState"] = 0,
 							["id"] = 336,
@@ -19272,11 +32530,28 @@ Broker_GarrisonDB = {
 									["name"] = "+20,000经验值",
 								}, -- [2]
 							},
+=======
+							["timeLeft"] = "10小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 336,
+							["duration"] = 36000,
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "解放沙塔斯",
+							["followerTypeID"] = 1,
+							["start"] = 1488809225,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "穆克拉尔·黑脉",
 									["id"] = "0x0000000000763BA0",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+=======
+									["iconId"] = 1066353,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 72,
@@ -19304,12 +32579,20 @@ Broker_GarrisonDB = {
 											["icon"] = 626190,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066353,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "乌特娜·狼眼",
 									["id"] = "0x00000000004F2DFA",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+=======
+									["iconId"] = 1066240,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 79,
@@ -19337,12 +32620,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236454,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066240,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "马格伦·迷雾行者",
 									["id"] = "0x000000000103EFC3",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Druid",
+=======
+									["iconId"] = 1066155,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 314,
@@ -19370,6 +32661,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236695,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066155,
 								}, -- [3]
 							},
@@ -19403,11 +32695,50 @@ Broker_GarrisonDB = {
 									["currencyID"] = 824,
 								}, -- [2]
 							},
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_apexis_draenor",
+									["quantity"] = 1000,
+									["title"] = "货币奖励",
+									["currencyID"] = 823,
+								}, -- [1]
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 20000,
+									["tooltip"] = "+20,000经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+20,000经验值",
+								}, -- [2]
+							},
+						},
+						[214] = {
+							["type"] = "战斗",
+							["timeLeft"] = "30分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 214,
+							["duration"] = 1800,
+							["level"] = 99,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "逃出生天",
+							["followerTypeID"] = 1,
+							["start"] = 1488809223,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "雅帕",
 									["id"] = "0x00000000007B2CC2",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+=======
+									["iconId"] = 1066258,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -19435,12 +32766,20 @@ Broker_GarrisonDB = {
 											["icon"] = 135987,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066258,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "伊斯卡",
 									["id"] = "0x0000000000DF7414",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
+=======
+									["iconId"] = 1086408,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -19468,12 +32807,20 @@ Broker_GarrisonDB = {
 											["icon"] = 631718,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086408,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "莫提娜",
 									["id"] = "0x0000000000CEA2FE",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+=======
+									["iconId"] = 1066419,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -19501,6 +32848,7 @@ Broker_GarrisonDB = {
 											["icon"] = 135987,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066419,
 								}, -- [3]
 							},
@@ -19527,11 +32875,50 @@ Broker_GarrisonDB = {
 									["currencyID"] = 824,
 								}, -- [1]
 							},
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 1500,
+									["tooltip"] = "+1,500经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+1,500经验值",
+								}, -- [1]
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 275,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [2]
+							},
+						},
+						[133] = {
+							["type"] = "战斗",
+							["timeLeft"] = "6小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 133,
+							["duration"] = 21600,
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "元素的地盘",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "卡恩·钢蹄",
 									["id"] = "0x0000000000D8EDA2",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+=======
+									["iconId"] = 1066216,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -19559,12 +32946,20 @@ Broker_GarrisonDB = {
 											["icon"] = 632354,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066216,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "提扎尔",
 									["id"] = "0x00000000010016A6",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
+=======
+									["iconId"] = 1086412,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 314,
@@ -19592,6 +32987,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236456,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086412,
 								}, -- [2]
 							},
@@ -19618,11 +33014,43 @@ Broker_GarrisonDB = {
 									["currencyID"] = 824,
 								}, -- [1]
 							},
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 175,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+						},
+						[179] = {
+							["type"] = "战斗",
+							["timeLeft"] = "1小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 179,
+							["duration"] = 3600,
+							["level"] = 96,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "黄金储备",
+							["followerTypeID"] = 1,
+							["start"] = 1488809231,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "卢西奥",
 									["id"] = "0x0000000000C9D26D",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+=======
+									["iconId"] = 1086446,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -19650,6 +33078,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236850,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086446,
 								}, -- [1]
 							},
@@ -19676,11 +33105,43 @@ Broker_GarrisonDB = {
 									["currencyID"] = 824,
 								}, -- [1]
 							},
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 42,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+						},
+						[268] = {
+							["type"] = "战斗",
+							["timeLeft"] = "4小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 268,
+							["duration"] = 14400,
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "谁说了算？",
+							["followerTypeID"] = 1,
+							["start"] = 1488809229,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "塔瓦",
 									["id"] = "0x0000000000D4E366",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+=======
+									["iconId"] = 1086441,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -19708,12 +33169,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236846,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086441,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "斯卡哈",
 									["id"] = "0x0000000000885F72",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+=======
+									["iconId"] = 1086448,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -19741,6 +33210,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236451,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086448,
 								}, -- [2]
 							},
@@ -19765,11 +33235,43 @@ Broker_GarrisonDB = {
 									["quantity"] = 1,
 								}, -- [1]
 							},
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 225,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+						},
+						[329] = {
+							["type"] = "训练",
+							["timeLeft"] = "30分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Training",
+							["id"] = 329,
+							["duration"] = 1800,
+							["level"] = 90,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "舞蹈学院",
+							["followerTypeID"] = 1,
+							["start"] = 1488809245,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "卡纳汀",
 									["id"] = "0x0000000000D6CBC4",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
+=======
+									["iconId"] = 1086416,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -19797,6 +33299,7 @@ Broker_GarrisonDB = {
 											["icon"] = 409595,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086416,
 								}, -- [1]
 							},
@@ -19821,11 +33324,41 @@ Broker_GarrisonDB = {
 									["quantity"] = 1,
 								}, -- [1]
 							},
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["itemID"] = 118474,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+						},
+						[315] = {
+							["type"] = "战斗",
+							["timeLeft"] = "8小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 315,
+							["duration"] = 28800,
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "悬槌堡团队副本",
+							["followerTypeID"] = 1,
+							["start"] = 1488809248,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "塔帕·迅掌",
 									["id"] = "0x0000000000CC3B6E",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Druid",
+=======
+									["iconId"] = 1066229,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -19853,12 +33386,20 @@ Broker_GarrisonDB = {
 											["icon"] = 975743,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066229,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "欧林·棕皮",
 									["id"] = "0x00000000000D99C0",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+=======
+									["iconId"] = 1066111,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 6,
@@ -19886,12 +33427,20 @@ Broker_GarrisonDB = {
 											["icon"] = 254105,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066111,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "新兵胡玛克",
 									["id"] = "0x0000000000D17DF9",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Druid",
+=======
+									["iconId"] = 1066288,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -19919,6 +33468,7 @@ Broker_GarrisonDB = {
 											["icon"] = 975743,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066288,
 								}, -- [3]
 							},
@@ -19981,6 +33531,37 @@ Broker_GarrisonDB = {
 									["name"] = "蕾拉",
 									["id"] = "0x000000000082D333",
 									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["itemID"] = 118529,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+						},
+						[174] = {
+							["type"] = "战斗",
+							["timeLeft"] = "1小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 174,
+							["duration"] = 3600,
+							["level"] = 91,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "黑石情报",
+							["followerTypeID"] = 1,
+							["start"] = 1488809235,
+							["followers"] = {
+								{
+									["name"] = "娜娜",
+									["id"] = "0x0000000000807A06",
+									["iconId"] = 1066393,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -19988,6 +33569,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 125,
 											["name"] = "清洁术",
 											["icon"] = 135949,
@@ -20032,11 +33614,63 @@ Broker_GarrisonDB = {
 									["quantity"] = 1,
 								}, -- [1]
 							},
+=======
+											["id"] = 124,
+											["name"] = "圣盾术",
+											["icon"] = 524354,
+										}, -- [2]
+										{
+											["id"] = 49,
+											["name"] = "平原旅人",
+											["icon"] = 236712,
+										}, -- [3]
+										{
+											["id"] = 123,
+											["name"] = "清算",
+											["icon"] = 135984,
+										}, -- [4]
+										{
+											["id"] = 42,
+											["name"] = "虚空克星",
+											["icon"] = 298680,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 32,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+						},
+						[302] = {
+							["type"] = "战斗",
+							["timeLeft"] = "6小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 302,
+							["duration"] = 21600,
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "矿井救援",
+							["followerTypeID"] = 1,
+							["start"] = 1488809239,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "佩琪·里佐",
 									["id"] = "0x00000000001A52F8",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+=======
+									["iconId"] = 1066300,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 79,
@@ -20064,12 +33698,20 @@ Broker_GarrisonDB = {
 											["icon"] = 254651,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066300,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "安哈克萨",
 									["id"] = "0x00000000004CA9BE",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
+=======
+									["iconId"] = 1086435,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 79,
@@ -20097,12 +33739,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236456,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1086435,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "诺古克·腐颅",
 									["id"] = "0x000000000027970D",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+=======
+									["iconId"] = 1066326,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 79,
@@ -20130,6 +33780,7 @@ Broker_GarrisonDB = {
 											["icon"] = 136088,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066326,
 								}, -- [3]
 							},
@@ -20154,11 +33805,99 @@ Broker_GarrisonDB = {
 									["quantity"] = 1,
 								}, -- [1]
 							},
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["itemID"] = 120301,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+						},
+						[176] = {
+							["type"] = "战斗",
+							["timeLeft"] = "45分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 176,
+							["duration"] = 2700,
+							["level"] = 93,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "独眼魔泄密事件",
+							["followerTypeID"] = 1,
+							["start"] = 1488809233,
+							["followers"] = {
+								{
+									["name"] = "肯兹·独狼",
+									["id"] = "0x00000000007D7F68",
+									["iconId"] = 1066379,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 151,
+											["name"] = "统御意志",
+											["icon"] = 136206,
+										}, -- [2]
+										{
+											["id"] = 49,
+											["name"] = "平原旅人",
+											["icon"] = 236712,
+										}, -- [3]
+										{
+											["id"] = 10,
+											["name"] = "信仰飞跃",
+											["icon"] = 463835,
+										}, -- [4]
+										{
+											["id"] = 48,
+											["name"] = "沼泽行者",
+											["icon"] = 236819,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 36,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+						},
+						[397] = {
+							["type"] = "战斗",
+							["timeLeft"] = "10小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 397,
+							["duration"] = 36000,
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "绿色邪能",
+							["followerTypeID"] = 1,
+							["start"] = 1488809241,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "半兽人迦罗娜",
 									["id"] = "0x0000000000E4269C",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+=======
+									["iconId"] = 1108817,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 47,
@@ -20186,12 +33925,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236457,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1108817,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "艾拉·寒刃",
 									["id"] = "0x0000000000DAD302",
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+=======
+									["iconId"] = 1066387,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -20219,6 +33966,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236850,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1066387,
 								}, -- [2]
 							},
@@ -20250,6 +33998,37 @@ Broker_GarrisonDB = {
 									["name"] = "肯兹·独狼",
 									["id"] = "0x00000000007D7F68",
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["itemID"] = 120302,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+						},
+						[267] = {
+							["type"] = "战斗",
+							["timeLeft"] = "4小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["id"] = 267,
+							["duration"] = 14400,
+							["level"] = 100,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "伏击督军",
+							["followerTypeID"] = 1,
+							["start"] = 1488809242,
+							["followers"] = {
+								{
+									["name"] = "洛诺泰",
+									["id"] = "0x000000000085BF02",
+									["iconId"] = 1087480,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -20257,6 +34036,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 151,
 											["name"] = "统御意志",
 											["icon"] = 136206,
@@ -20308,6 +34088,34 @@ Broker_GarrisonDB = {
 									["name"] = "娜娜",
 									["id"] = "0x0000000000807A06",
 									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+=======
+											["id"] = 117,
+											["name"] = "心灵冰冻",
+											["icon"] = 237527,
+										}, -- [2]
+										{
+											["id"] = 4,
+											["name"] = "兽人克星",
+											["icon"] = 897144,
+										}, -- [3]
+										{
+											["id"] = 115,
+											["name"] = "白骨之盾",
+											["icon"] = 458717,
+										}, -- [4]
+										{
+											["id"] = 74,
+											["name"] = "精灵一族",
+											["icon"] = 236440,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+								}, -- [1]
+								{
+									["name"] = "蕾拉",
+									["id"] = "0x000000000082D333",
+									["iconId"] = 1066377,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -20315,6 +34123,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 124,
 											["name"] = "圣盾术",
 											["icon"] = 524354,
@@ -20347,6 +34156,38 @@ Broker_GarrisonDB = {
 							["level"] = 91,
 							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 							["timeLeft"] = "1小时",
+=======
+											["id"] = 125,
+											["name"] = "清洁术",
+											["icon"] = 135949,
+										}, -- [2]
+										{
+											["id"] = 37,
+											["name"] = "野兽克星",
+											["icon"] = 298659,
+										}, -- [3]
+										{
+											["id"] = 128,
+											["name"] = "圣光普照",
+											["icon"] = 457654,
+										}, -- [4]
+										{
+											["id"] = 80,
+											["name"] = "额外训练",
+											["icon"] = 975743,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["rewards"] = {
+								{
+									["itemID"] = 120301,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 					},
 					["tooltipEnabled"] = true,
@@ -20356,11 +34197,19 @@ Broker_GarrisonDB = {
 					},
 					["buildingsExpanded"] = true,
 					["notificationEnabled"] = true,
+<<<<<<< HEAD
 					["configVersion"] = 3,
 					["cacheSize"] = 500,
 					["currencyOil"] = 855,
 					["currencyOrderResourcesAmount"] = 850,
 					["lootedNextReset"] = 1489618799,
+=======
+					["currencySealOfInevitableFateAmount"] = 13,
+					["cacheSize"] = 500,
+					["currencyOil"] = 855,
+					["currencyOrderResourcesAmount"] = 850,
+					["lootedNextReset"] = 1489445999,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["talents"] = {
 						[365] = {
 							["isBeingResearched"] = false,
@@ -20376,10 +34225,17 @@ Broker_GarrisonDB = {
 							["id"] = 365,
 							["researchCurrency"] = 1220,
 							["name"] = "奴役魔典",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[366] = {
 							["isBeingResearched"] = false,
@@ -20395,10 +34251,17 @@ Broker_GarrisonDB = {
 							["id"] = 366,
 							["researchCurrency"] = 1220,
 							["name"] = "恶魔祭品",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[367] = {
 							["isBeingResearched"] = false,
@@ -20414,10 +34277,17 @@ Broker_GarrisonDB = {
 							["id"] = 367,
 							["researchCurrency"] = 1220,
 							["name"] = "释放地狱火",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[368] = {
 							["isBeingResearched"] = false,
@@ -20433,10 +34303,17 @@ Broker_GarrisonDB = {
 							["id"] = 368,
 							["researchCurrency"] = 1220,
 							["name"] = "邪能传说",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[358] = {
 							["isBeingResearched"] = false,
@@ -20452,11 +34329,19 @@ Broker_GarrisonDB = {
 							["id"] = 358,
 							["researchCurrency"] = 1220,
 							["name"] = "黑暗交易",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["playerConditionReason"] = "你需要达到100级才能进行研究。",
+=======
+							["playerConditionReason"] = "你需要达到100级才能进行研究。",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[359] = {
 							["isBeingResearched"] = false,
@@ -20482,13 +34367,21 @@ Broker_GarrisonDB = {
 								["isTrait"] = false,
 							},
 							["researchCurrency"] = 1220,
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
+=======
+							["playerConditionReason"] = "你需要达到100级才能进行研究。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["name"] = "召唤末日守卫",
 							["id"] = 359,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
+<<<<<<< HEAD
 							["playerConditionReason"] = "你需要达到100级才能进行研究。",
+=======
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[360] = {
 							["isBeingResearched"] = false,
@@ -20515,11 +34408,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "召唤仪式",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["id"] = 360,
+=======
+							["id"] = 360,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[361] = {
 							["isBeingResearched"] = false,
@@ -20546,11 +34447,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "训练场",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["id"] = 361,
+=======
+							["id"] = 361,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[362] = {
 							["isBeingResearched"] = false,
@@ -20566,10 +34475,17 @@ Broker_GarrisonDB = {
 							["id"] = 362,
 							["researchCurrency"] = 1220,
 							["name"] = "黑暗精通",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[363] = {
 							["isBeingResearched"] = false,
@@ -20596,11 +34512,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "恐怖收割",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["id"] = 363,
+=======
+							["id"] = 363,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[364] = {
 							["isBeingResearched"] = false,
@@ -20616,42 +34540,72 @@ Broker_GarrisonDB = {
 							["id"] = 364,
 							["researchCurrency"] = 1220,
 							["name"] = "暗影契约",
+<<<<<<< HEAD
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 					},
 					["looseShipments"] = {
 					},
+<<<<<<< HEAD
 					["order"] = 5,
+=======
+					["currencyApexisAmount"] = 67073,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["followerShipments"] = {
 					},
 					["currencyAncientManaAmount"] = 14,
 					["missionsExpanded"] = true,
 					["currencyArtifactKnowledge"] = 0,
 					["trackWeekly"] = {
+<<<<<<< HEAD
 						["BONUS_ROLL_QUESTS"] = 0,
 						["WARMILL_SOTF"] = false,
+=======
+						["WARMILL_SOTF"] = false,
+						["BONUS_ROLL_QUESTS"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					},
 					["orderhallExpanded"] = true,
 					["buildings"] = {
 						[24] = {
 							["shipment"] = {
 							},
+<<<<<<< HEAD
 							["rank"] = 3,
 							["id"] = 28,
 							["plotID"] = 24,
 							["plotSize"] = 3,
 							["isBuilding"] = false,
+=======
+							["buildingState"] = 0,
+							["id"] = 28,
+							["plotID"] = 24,
+							["plotSize"] = 3,
+							["canActivate"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["notification"] = 1,
 							["name"] = "兵营",
 							["timeStart"] = 1419896623,
 							["texPrefix"] = "GarrBuilding_Barracks_3_H",
+<<<<<<< HEAD
 							["canActivate"] = false,
 							["icon"] = 975738,
 							["buildingState"] = 0,
+=======
+							["isBuilding"] = false,
+							["icon"] = 975738,
+							["rank"] = 3,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[63] = {
 							["shipment"] = {
@@ -20661,6 +34615,7 @@ Broker_GarrisonDB = {
 								["shipmentsReadyEstimate"] = 0,
 								["shipmentsInProgress"] = 0,
 								["name"] = "药圃",
+<<<<<<< HEAD
 								["texture"] = 134221,
 								["notification"] = 1,
 								["notificationDismissed"] = false,
@@ -20671,20 +34626,39 @@ Broker_GarrisonDB = {
 							["plotID"] = 63,
 							["plotSize"] = 2,
 							["isBuilding"] = false,
+=======
+								["shipmentCapacity"] = 21,
+								["notificationDismissed"] = false,
+								["notification"] = 1,
+								["texture"] = 134221,
+							},
+							["buildingState"] = 0,
+							["id"] = 137,
+							["plotID"] = 63,
+							["plotSize"] = 2,
+							["canActivate"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["notification"] = 1,
 							["name"] = "药圃",
 							["timeStart"] = 1418816516,
 							["texPrefix"] = "GarrBuilding_Farm_1_H",
+<<<<<<< HEAD
 							["canActivate"] = false,
 							["icon"] = 134221,
 							["buildingState"] = 0,
+=======
+							["isBuilding"] = false,
+							["icon"] = 134221,
+							["rank"] = 3,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[67] = {
 							["shipment"] = {
 							},
 							["id"] = 64,
 							["plotID"] = 67,
+<<<<<<< HEAD
 							["rank"] = 1,
 							["plotSize"] = 2,
 							["buildTime"] = 3600,
@@ -20727,14 +34701,71 @@ Broker_GarrisonDB = {
 							["plotID"] = 18,
 							["plotSize"] = 1,
 							["isBuilding"] = false,
+=======
+							["buildingState"] = 0,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "渔夫小屋",
+							["timeStart"] = 1417189465,
+							["texPrefix"] = "GarrBuilding_Fishing_1_H",
+							["isBuilding"] = false,
+							["icon"] = 136245,
+							["rank"] = 1,
+						},
+						[19] = {
+							["shipment"] = {
+								["shipmentsAvailable"] = 21,
+								["shipmentsTotal"] = 21,
+								["notificationValue"] = 0,
+								["shipmentsReadyEstimate"] = 0,
+								["shipmentsInProgress"] = 0,
+								["name"] = "裁缝店",
+								["shipmentCapacity"] = 21,
+								["notificationDismissed"] = false,
+								["notification"] = 1,
+								["texture"] = 136249,
+							},
+							["buildingState"] = 0,
+							["id"] = 128,
+							["plotID"] = 19,
+							["plotSize"] = 1,
+							["canActivate"] = false,
+							["buildTime"] = 3600,
+							["notification"] = 1,
+							["name"] = "裁缝店",
+							["timeStart"] = 1423183190,
+							["texPrefix"] = "GarrBuilding_Tailoring_3_H",
+							["isBuilding"] = false,
+							["icon"] = 136249,
+							["rank"] = 3,
+						},
+						[18] = {
+							["shipment"] = {
+								["shipmentCapacity"] = 21,
+								["name"] = "附魔研究室",
+								["texture"] = 136244,
+							},
+							["buildingState"] = 0,
+							["id"] = 126,
+							["plotID"] = 18,
+							["plotSize"] = 1,
+							["canActivate"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["notification"] = 1,
 							["name"] = "附魔研究室",
 							["timeStart"] = 1423183226,
 							["texPrefix"] = "GarrBuilding_Enchanting_3_H",
+<<<<<<< HEAD
 							["canActivate"] = false,
 							["icon"] = 136244,
 							["buildingState"] = 0,
+=======
+							["isBuilding"] = false,
+							["icon"] = 136244,
+							["rank"] = 3,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[98] = {
 							["shipment"] = {
@@ -20744,6 +34775,7 @@ Broker_GarrisonDB = {
 								["shipmentsReadyEstimate"] = 0,
 								["shipmentsInProgress"] = 0,
 								["name"] = "霜壁船坞",
+<<<<<<< HEAD
 								["texture"] = 1126431,
 								["notification"] = 1,
 								["notificationDismissed"] = false,
@@ -20760,20 +34792,47 @@ Broker_GarrisonDB = {
 							["timeStart"] = 1462016813,
 							["icon"] = 1126431,
 							["buildingState"] = 0,
+=======
+								["shipmentCapacity"] = 1,
+								["notificationDismissed"] = false,
+								["notification"] = 1,
+								["texture"] = 1126431,
+							},
+							["id"] = 207,
+							["plotID"] = 98,
+							["buildingState"] = 0,
+							["buildTime"] = 0,
+							["canActivate"] = false,
+							["name"] = "霜壁船坞",
+							["timeStart"] = 1462016813,
+							["texPrefix"] = "GarrBuilding_Armory_1_A",
+							["isBuilding"] = false,
+							["icon"] = 1126431,
+							["rank"] = 3,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[20] = {
 							["shipment"] = {
 							},
+<<<<<<< HEAD
 							["rank"] = 3,
 							["id"] = 141,
 							["plotID"] = 20,
 							["plotSize"] = 1,
 							["isBuilding"] = false,
+=======
+							["buildingState"] = 0,
+							["id"] = 141,
+							["plotID"] = 20,
+							["plotSize"] = 1,
+							["canActivate"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["notification"] = 1,
 							["name"] = "废品站",
 							["timeStart"] = 1419425489,
 							["texPrefix"] = "GarrBuilding_SalvageYard_1_H",
+<<<<<<< HEAD
 							["canActivate"] = false,
 							["icon"] = 975742,
 							["buildingState"] = 0,
@@ -20833,22 +34892,65 @@ Broker_GarrisonDB = {
 							["plotID"] = 59,
 							["plotSize"] = 2,
 							["isBuilding"] = false,
+=======
+							["isBuilding"] = false,
+							["icon"] = 975742,
+							["rank"] = 3,
+						},
+						[59] = {
+							["shipment"] = {
+								["shipmentCapacity"] = 21,
+								["name"] = "霜壁矿井",
+								["texture"] = 136248,
+							},
+							["buildingState"] = 0,
+							["id"] = 63,
+							["plotID"] = 59,
+							["plotSize"] = 2,
+							["canActivate"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["buildTime"] = 3600,
 							["notification"] = 1,
 							["name"] = "霜壁矿井",
 							["timeStart"] = 1418339691,
 							["texPrefix"] = "GarrBuilding_Mine_1_H",
+<<<<<<< HEAD
 							["canActivate"] = false,
 							["icon"] = 136248,
 							["buildingState"] = 0,
 						},
 						[19] = {
+=======
+							["isBuilding"] = false,
+							["icon"] = 136248,
+							["rank"] = 3,
+						},
+						[22] = {
+							["shipment"] = {
+							},
+							["buildingState"] = 0,
+							["id"] = 36,
+							["plotID"] = 22,
+							["plotSize"] = 2,
+							["canActivate"] = false,
+							["buildTime"] = 3600,
+							["notification"] = 1,
+							["name"] = "霜壁旅社",
+							["timeStart"] = 1419774133,
+							["texPrefix"] = "GarrBuilding_Inn_3_H",
+							["isBuilding"] = false,
+							["icon"] = 134414,
+							["rank"] = 3,
+						},
+						[23] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["shipment"] = {
 								["shipmentsAvailable"] = 21,
 								["shipmentsTotal"] = 21,
 								["notificationValue"] = 0,
 								["shipmentsReadyEstimate"] = 0,
 								["shipmentsInProgress"] = 0,
+<<<<<<< HEAD
 								["name"] = "裁缝店",
 								["texture"] = 136249,
 								["notification"] = 1,
@@ -20868,6 +34970,47 @@ Broker_GarrisonDB = {
 							["canActivate"] = false,
 							["icon"] = 136249,
 							["buildingState"] = 0,
+=======
+								["name"] = "战争工坊",
+								["shipmentCapacity"] = 21,
+								["notificationDismissed"] = false,
+								["notification"] = 1,
+								["texture"] = 975736,
+							},
+							["buildingState"] = 0,
+							["id"] = 10,
+							["plotID"] = 23,
+							["plotSize"] = 3,
+							["canActivate"] = false,
+							["buildTime"] = 3600,
+							["notification"] = 1,
+							["name"] = "战争工坊",
+							["timeStart"] = 1420731784,
+							["texPrefix"] = "GarrBuilding_Armory_3_H",
+							["isBuilding"] = false,
+							["icon"] = 975736,
+							["rank"] = 3,
+						},
+						[25] = {
+							["shipment"] = {
+								["shipmentCapacity"] = 21,
+								["name"] = "货栈",
+								["texture"] = 975746,
+							},
+							["buildingState"] = 0,
+							["id"] = 145,
+							["plotID"] = 25,
+							["plotSize"] = 2,
+							["canActivate"] = false,
+							["buildTime"] = 3600,
+							["notification"] = 1,
+							["name"] = "货栈",
+							["timeStart"] = 1420987033,
+							["texPrefix"] = "GarrBuilding_TradingPost_3_H",
+							["isBuilding"] = false,
+							["icon"] = 975746,
+							["rank"] = 3,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 					},
 					["info"] = {
@@ -20879,10 +35022,17 @@ Broker_GarrisonDB = {
 					},
 					["trackDaily"] = {
 					},
+<<<<<<< HEAD
 					["currencyApexisAmount"] = 67073,
 					["weeklyNextReset"] = 1489618799,
 					["currencyAmount"] = 1626,
 					["currencySealOfInevitableFateAmount"] = 13,
+=======
+					["order"] = 5,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 1626,
+					["configVersion"] = 3,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				},
 				["最后的悠悠"] = {
 					["categories"] = {
@@ -20891,6 +35041,7 @@ Broker_GarrisonDB = {
 					},
 					["configVersion"] = 3,
 					["missions"] = {
+<<<<<<< HEAD
 						[73] = {
 							["type"] = "后勤",
 							["timeLeft"] = "5分钟",
@@ -21090,6 +35241,33 @@ Broker_GarrisonDB = {
 									["name"] = "海莉·哈洛森德",
 									["id"] = "0x00000000008828BC",
 									["iconId"] = 1066190,
+=======
+						[191] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "1小时",
+							["id"] = 191,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 42,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["level"] = 96,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "自然的烦恼",
+							["followerTypeID"] = 1,
+							["start"] = 1487245858,
+							["followers"] = {
+								{
+									["name"] = "卡努玛",
+									["id"] = "0x0000000000CE9E44",
+									["iconId"] = 1066369,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -21097,6 +35275,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 10,
 											["name"] = "信仰飞跃",
 											["icon"] = 463835,
@@ -21119,6 +35298,53 @@ Broker_GarrisonDB = {
 									},
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
 								}, -- [1]
+=======
+											["id"] = 6,
+											["name"] = "盾墙",
+											["icon"] = 132362,
+										}, -- [2]
+										{
+											["id"] = 49,
+											["name"] = "平原旅人",
+											["icon"] = 236712,
+										}, -- [3]
+										{
+											["id"] = 120,
+											["name"] = "顺劈斩",
+											["icon"] = 132338,
+										}, -- [4]
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 3600,
+						},
+						[126] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "4小时",
+							["id"] = 126,
+							["rewards"] = {
+								{
+									["itemID"] = 120302,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "萨格拉斯教派",
+							["followerTypeID"] = 1,
+							["start"] = 1487245934,
+							["followers"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								{
 									["name"] = "奥林·利刃",
 									["id"] = "0x0000000000DAD48F",
@@ -21151,6 +35377,7 @@ Broker_GarrisonDB = {
 										}, -- [5]
 									},
 									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+<<<<<<< HEAD
 								}, -- [2]
 							},
 							["missionState"] = 0,
@@ -21212,6 +35439,12 @@ Broker_GarrisonDB = {
 									["name"] = "维瑟·金卡拉",
 									["id"] = "0x000000000082D3EB",
 									["iconId"] = 1066146,
+=======
+								}, -- [1]
+								{
+									["name"] = "鲁米尔达·血污",
+									["id"] = "0x0000000000CC3758",
+									["iconId"] = 1066313,
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -21219,6 +35452,99 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+											["id"] = 101,
+											["name"] = "多重射击",
+											["icon"] = 132330,
+										}, -- [2]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [3]
+										{
+											["id"] = 165,
+											["name"] = "逃脱",
+											["icon"] = 132294,
+										}, -- [4]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["duration"] = 14400,
+						},
+						[399] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "10小时",
+							["id"] = 399,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_apexis_draenor",
+									["quantity"] = 600,
+									["title"] = "货币奖励",
+									["currencyID"] = 823,
+								}, -- [1]
+							},
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "饲魔者",
+							["followerTypeID"] = 1,
+							["start"] = 1487245915,
+							["followers"] = {
+								{
+									["name"] = "法维拉·熊皮",
+									["id"] = "0x00000000007219F3",
+									["iconId"] = 1086406,
+									["abilities"] = {
+										{
+											["id"] = 70,
+											["name"] = "德拉诺之子",
+											["icon"] = 236451,
+										}, -- [1]
+										{
+											["id"] = 142,
+											["name"] = "真气波",
+											["icon"] = 606541,
+										}, -- [2]
+										{
+											["id"] = 36,
+											["name"] = "恶魔克星",
+											["icon"] = 254651,
+										}, -- [3]
+										{
+											["id"] = 147,
+											["name"] = "切喉手",
+											["icon"] = 608940,
+										}, -- [4]
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+								}, -- [1]
+								{
+									["name"] = "洛克里格·魔奴",
+									["id"] = "0x00000000007D7FEF",
+									["iconId"] = 1066324,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+<<<<<<< HEAD
 											["id"] = 10,
 											["name"] = "信仰飞跃",
 											["icon"] = 463835,
@@ -21258,10 +35584,59 @@ Broker_GarrisonDB = {
 							["typeAtlas"] = "ShipMissionIcon-SiegeIHH-Mission",
 							["id"] = 733,
 							["duration"] = 900,
+=======
+											["id"] = 177,
+											["name"] = "恶魔变形",
+											["icon"] = 236293,
+										}, -- [2]
+										{
+											["id"] = 74,
+											["name"] = "精灵一族",
+											["icon"] = 236440,
+										}, -- [3]
+										{
+											["id"] = 174,
+											["name"] = "不灭决心",
+											["icon"] = 136150,
+										}, -- [4]
+										{
+											["id"] = 75,
+											["name"] = "经济学家",
+											["icon"] = 632354,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["duration"] = 36000,
+						},
+						[336] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "9小时59分钟",
+							["id"] = 336,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_apexis_draenor",
+									["quantity"] = 1000,
+									["title"] = "货币奖励",
+									["currencyID"] = 823,
+								}, -- [1]
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 20000,
+									["tooltip"] = "+20,000经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+20,000经验值",
+								}, -- [2]
+							},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["level"] = 100,
 							["timeLeftCalc"] = 0,
 							["statusComplete"] = true,
 							["notification"] = 1,
+<<<<<<< HEAD
 							["name"] = "封锁线：南海",
 							["followerTypeID"] = 2,
 							["start"] = 1489492210,
@@ -21352,6 +35727,140 @@ Broker_GarrisonDB = {
 									["name"] = "奥术师杜克罗格",
 									["id"] = "0x0000000000C9D737",
 									["iconId"] = 1086382,
+=======
+							["name"] = "解放沙塔斯",
+							["followerTypeID"] = 1,
+							["start"] = 1487245795,
+							["followers"] = {
+								{
+									["name"] = "加其兹·爆哮",
+									["id"] = "0x00000000006EB62C",
+									["iconId"] = 1066080,
+									["abilities"] = {
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [1]
+										{
+											["id"] = 141,
+											["name"] = "金钟罩",
+											["icon"] = 611417,
+										}, -- [2]
+										{
+											["id"] = 7,
+											["name"] = "登山家",
+											["icon"] = 236848,
+										}, -- [3]
+										{
+											["id"] = 144,
+											["name"] = "分筋错骨",
+											["icon"] = 629534,
+										}, -- [4]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+								}, -- [1]
+								{
+									["name"] = "勒斯特·碎怒",
+									["id"] = "0x000000000074C12B",
+									["iconId"] = 1066421,
+									["abilities"] = {
+										{
+											["id"] = 70,
+											["name"] = "德拉诺之子",
+											["icon"] = 236451,
+										}, -- [1]
+										{
+											["id"] = 122,
+											["name"] = "鲁莽",
+											["icon"] = 603532,
+										}, -- [2]
+										{
+											["id"] = 4,
+											["name"] = "兽人克星",
+											["icon"] = 897144,
+										}, -- [3]
+										{
+											["id"] = 121,
+											["name"] = "拳击",
+											["icon"] = 132938,
+										}, -- [4]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+								}, -- [2]
+								{
+									["name"] = "塔克摩",
+									["id"] = "0x00000000006B8C28",
+									["iconId"] = 1066331,
+									["abilities"] = {
+										{
+											["id"] = 70,
+											["name"] = "德拉诺之子",
+											["icon"] = 236451,
+										}, -- [1]
+										{
+											["id"] = 11,
+											["name"] = "治疗祷言",
+											["icon"] = 135943,
+										}, -- [2]
+										{
+											["id"] = 36,
+											["name"] = "恶魔克星",
+											["icon"] = 254651,
+										}, -- [3]
+										{
+											["id"] = 148,
+											["name"] = "驱散魔法",
+											["icon"] = 135894,
+										}, -- [4]
+										{
+											["id"] = 38,
+											["name"] = "食人魔克星",
+											["icon"] = 236695,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 36000,
+						},
+						[176] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "45分钟",
+							["id"] = 176,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 36,
+									["title"] = "货币奖励",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["level"] = 93,
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "独眼魔泄密事件",
+							["followerTypeID"] = 1,
+							["start"] = 1487245918,
+							["followers"] = {
+								{
+									["name"] = "海莉·哈洛森德",
+									["id"] = "0x00000000008828BC",
+									["iconId"] = 1066190,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -21359,6 +35868,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 170,
 											["name"] = "闪现术",
 											["icon"] = 135736,
@@ -21429,10 +35939,52 @@ Broker_GarrisonDB = {
 							["typeAtlas"] = "ShipMissionIcon-SiegeIHH-Mission",
 							["id"] = 652,
 							["duration"] = 900,
+=======
+											["id"] = 10,
+											["name"] = "信仰飞跃",
+											["icon"] = 463835,
+										}, -- [2]
+										{
+											["id"] = 8,
+											["name"] = "冰冷血脉",
+											["icon"] = 236833,
+										}, -- [3]
+										{
+											["id"] = 11,
+											["name"] = "治疗祷言",
+											["icon"] = 135943,
+										}, -- [4]
+										{
+											["id"] = 44,
+											["name"] = "自然学家",
+											["icon"] = 236830,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 2700,
+						},
+						[553] = {
+							["type"] = "舰船-宝藏",
+							["typeAtlas"] = "ShipMissionIcon-Treasure-Mission",
+							["timeLeft"] = "2小时",
+							["id"] = 553,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_apexis_draenor",
+									["quantity"] = 2000,
+									["title"] = "货币奖励",
+									["currencyID"] = 823,
+								}, -- [1]
+							},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["level"] = 100,
 							["timeLeftCalc"] = 0,
 							["statusComplete"] = true,
 							["notification"] = 1,
+<<<<<<< HEAD
 							["name"] = "封锁线：隔绝之海",
 							["followerTypeID"] = 2,
 							["start"] = 1489492214,
@@ -21466,6 +36018,13 @@ Broker_GarrisonDB = {
 									["classIcon"] = "Ships_TroopTransport-List",
 								}, -- [1]
 								{
+=======
+							["name"] = "鲁克拉",
+							["followerTypeID"] = 2,
+							["start"] = 0,
+							["followers"] = {
+								{
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["name"] = "锈水契约号",
 									["id"] = "0x00000000010AC8AE",
 									["iconId"] = 1341794,
@@ -21492,6 +36051,7 @@ Broker_GarrisonDB = {
 										}, -- [4]
 									},
 									["classIcon"] = "Ships_CarrierH-List",
+<<<<<<< HEAD
 								}, -- [2]
 							},
 							["missionState"] = 0,
@@ -21567,16 +36127,43 @@ Broker_GarrisonDB = {
 											["name"] = "舱底水泵",
 											["icon"] = 986488,
 										}, -- [3]
+=======
+								}, -- [1]
+								{
+									["name"] = "逐晨者号",
+									["id"] = "0x0000000001037A34",
+									["iconId"] = 1341793,
+									["abilities"] = {
+										{
+											["id"] = 263,
+											["name"] = "驱逐舰",
+											["icon"] = 1141395,
+										}, -- [1]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										{
 											["id"] = 269,
 											["name"] = "高能炉",
 											["icon"] = 900306,
+<<<<<<< HEAD
+=======
+										}, -- [2]
+										{
+											["id"] = 282,
+											["name"] = "兽人船员",
+											["icon"] = 236452,
+										}, -- [3]
+										{
+											["id"] = 271,
+											["name"] = "鲨鱼水箱",
+											["icon"] = 294472,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [4]
 									},
 									["classIcon"] = "Ships_GalleonH-List",
 								}, -- [2]
 							},
 							["missionState"] = 0,
+<<<<<<< HEAD
 							["rewards"] = {
 								{
 									["title"] = "奖励追随者经验",
@@ -21600,6 +36187,30 @@ Broker_GarrisonDB = {
 							["name"] = "乌合之众",
 							["followerTypeID"] = 1,
 							["start"] = 1489492176,
+=======
+							["duration"] = 7200,
+						},
+						[673] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "1小时59分钟",
+							["id"] = 673,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\garrison_oil",
+									["quantity"] = 50,
+									["title"] = "货币奖励",
+									["currencyID"] = 1101,
+								}, -- [1]
+							},
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "带刺的玫瑰",
+							["followerTypeID"] = 1,
+							["start"] = 1487245789,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "娜塔莉·斯巴克斯",
@@ -21635,6 +36246,7 @@ Broker_GarrisonDB = {
 									["classIcon"] = "GarrMission_ClassIcon-Warlock",
 								}, -- [1]
 								{
+<<<<<<< HEAD
 									["name"] = "迪尼佐·雹击",
 									["id"] = "0x0000000000D2CE91",
 									["iconId"] = 1066355,
@@ -21658,6 +36270,31 @@ Broker_GarrisonDB = {
 											["id"] = 117,
 											["name"] = "心灵冰冻",
 											["icon"] = 237527,
+=======
+									["name"] = "加其兹·爆哮",
+									["id"] = "0x0000000000783ADA",
+									["iconId"] = 1066080,
+									["abilities"] = {
+										{
+											["id"] = 70,
+											["name"] = "德拉诺之子",
+											["icon"] = 236451,
+										}, -- [1]
+										{
+											["id"] = 173,
+											["name"] = "时间扭曲",
+											["icon"] = 458224,
+										}, -- [2]
+										{
+											["id"] = 221,
+											["name"] = "史诗坐骑",
+											["icon"] = 631718,
+										}, -- [3]
+										{
+											["id"] = 168,
+											["name"] = "寒冰屏障",
+											["icon"] = 135841,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [4]
 										{
 											["id"] = 76,
@@ -21665,12 +36302,21 @@ Broker_GarrisonDB = {
 											["icon"] = 135987,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
 								}, -- [2]
 								{
 									["name"] = "卡努玛",
 									["id"] = "0x0000000000CE9E44",
 									["iconId"] = 1066369,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+								}, -- [2]
+								{
+									["name"] = "艾伊",
+									["id"] = "0x0000000000D4E89E",
+									["iconId"] = 1066278,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -21678,6 +36324,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 6,
 											["name"] = "盾墙",
 											["icon"] = 132362,
@@ -21746,6 +36393,123 @@ Broker_GarrisonDB = {
 											["id"] = 141,
 											["name"] = "金钟罩",
 											["icon"] = 611417,
+=======
+											["id"] = 136,
+											["name"] = "自然之愈",
+											["icon"] = 236288,
+										}, -- [2]
+										{
+											["id"] = 39,
+											["name"] = "原兽克星",
+											["icon"] = 254105,
+										}, -- [3]
+										{
+											["id"] = 137,
+											["name"] = "飓风",
+											["icon"] = 136018,
+										}, -- [4]
+										{
+											["id"] = 41,
+											["name"] = "元素克星",
+											["icon"] = 254652,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 7200,
+						},
+						[465] = {
+							["type"] = "探索",
+							["typeAtlas"] = "GarrMission_MissionIcon-Exploration",
+							["timeLeft"] = "6小时",
+							["id"] = 465,
+							["rewards"] = {
+								{
+									["itemID"] = 118728,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "偷坟掘墓",
+							["followerTypeID"] = 1,
+							["start"] = 1487245927,
+							["followers"] = {
+								{
+									["name"] = "西奥多什·盲眼",
+									["id"] = "0x00000000006810D0",
+									["iconId"] = 1066139,
+									["abilities"] = {
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [1]
+										{
+											["id"] = 106,
+											["name"] = "治疗链",
+											["icon"] = 136042,
+										}, -- [2]
+										{
+											["id"] = 74,
+											["name"] = "精灵一族",
+											["icon"] = 236440,
+										}, -- [3]
+										{
+											["id"] = 155,
+											["name"] = "风剪",
+											["icon"] = 463565,
+										}, -- [4]
+										{
+											["id"] = 45,
+											["name"] = "穴居人",
+											["icon"] = 409595,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 21600,
+						},
+						[315] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "8小时",
+							["id"] = 315,
+							["rewards"] = {
+								{
+									["itemID"] = 118529,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "悬槌堡团队副本",
+							["followerTypeID"] = 1,
+							["start"] = 1487245924,
+							["followers"] = {
+								{
+									["name"] = "布鲁托",
+									["id"] = "0x00000000006610AD",
+									["iconId"] = 1066096,
+									["abilities"] = {
+										{
+											["id"] = 183,
+											["name"] = "豪能酒",
+											["icon"] = 608938,
+										}, -- [1]
+										{
+											["id"] = 143,
+											["name"] = "滚地翻",
+											["icon"] = 574574,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [2]
 										{
 											["id"] = 7,
@@ -21753,6 +36517,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236848,
 										}, -- [3]
 										{
+<<<<<<< HEAD
 											["id"] = 144,
 											["name"] = "分筋错骨",
 											["icon"] = 629534,
@@ -21761,11 +36526,22 @@ Broker_GarrisonDB = {
 											["id"] = 71,
 											["name"] = "死亡诱惑",
 											["icon"] = 236457,
+=======
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [4]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [5]
 									},
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
 								}, -- [1]
 								{
+<<<<<<< HEAD
 									["name"] = "塔克摩",
 									["id"] = "0x00000000006B8C28",
 									["iconId"] = 1066331,
@@ -21784,6 +36560,26 @@ Broker_GarrisonDB = {
 											["id"] = 36,
 											["name"] = "恶魔克星",
 											["icon"] = 254651,
+=======
+									["name"] = "哈雷·苏布雷特",
+									["id"] = "0x0000000000807B84",
+									["iconId"] = 1066400,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 152,
+											["name"] = "能量灌注",
+											["icon"] = 135939,
+										}, -- [2]
+										{
+											["id"] = 39,
+											["name"] = "原兽克星",
+											["icon"] = 254105,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [3]
 										{
 											["id"] = 148,
@@ -21791,13 +36587,20 @@ Broker_GarrisonDB = {
 											["icon"] = 135894,
 										}, -- [4]
 										{
+<<<<<<< HEAD
 											["id"] = 38,
 											["name"] = "食人魔克星",
 											["icon"] = 236695,
+=======
+											["id"] = 70,
+											["name"] = "德拉诺之子",
+											["icon"] = 236451,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [5]
 									},
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
 								}, -- [2]
+<<<<<<< HEAD
 							},
 							["missionState"] = 0,
 							["rewards"] = {
@@ -21862,10 +36665,59 @@ Broker_GarrisonDB = {
 								{
 									["icon"] = "Interface\\Icons\\inv_garrison_resource",
 									["quantity"] = 44,
+=======
+								{
+									["name"] = "阿霍特",
+									["id"] = "0x0000000000DFC3DD",
+									["iconId"] = 1066434,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 151,
+											["name"] = "统御意志",
+											["icon"] = 136206,
+										}, -- [2]
+										{
+											["id"] = 43,
+											["name"] = "利爪克星",
+											["icon"] = 952507,
+										}, -- [3]
+										{
+											["id"] = 150,
+											["name"] = "精神灼烧",
+											["icon"] = 237565,
+										}, -- [4]
+										{
+											["id"] = 8,
+											["name"] = "冰冷血脉",
+											["icon"] = 236833,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [3]
+							},
+							["missionState"] = 0,
+							["duration"] = 28800,
+						},
+						[174] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "1小时",
+							["id"] = 174,
+							["rewards"] = {
+								{
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["quantity"] = 32,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["title"] = "货币奖励",
 									["currencyID"] = 824,
 								}, -- [1]
 							},
+<<<<<<< HEAD
 						},
 						[497] = {
 							["type"] = "战斗",
@@ -21885,6 +36737,20 @@ Broker_GarrisonDB = {
 									["name"] = "“晨星”墨丘鲁斯",
 									["id"] = "0x0000000000D0B469",
 									["iconId"] = 1086388,
+=======
+							["level"] = 91,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "黑石情报",
+							["followerTypeID"] = 1,
+							["start"] = 1487245912,
+							["followers"] = {
+								{
+									["name"] = "迪尼佐·雹击",
+									["id"] = "0x0000000000D2CE91",
+									["iconId"] = 1066355,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -21892,6 +36758,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 171,
 											["name"] = "法术反制",
 											["icon"] = 135856,
@@ -21918,6 +36785,57 @@ Broker_GarrisonDB = {
 									["name"] = "织刃者徐安",
 									["id"] = "0x00000000007B256D",
 									["iconId"] = 1066315,
+=======
+											["id"] = 114,
+											["name"] = "黑暗命令",
+											["icon"] = 136088,
+										}, -- [2]
+										{
+											["id"] = 75,
+											["name"] = "经济学家",
+											["icon"] = 632354,
+										}, -- [3]
+										{
+											["id"] = 117,
+											["name"] = "心灵冰冻",
+											["icon"] = 237527,
+										}, -- [4]
+										{
+											["id"] = 76,
+											["name"] = "持久耐力",
+											["icon"] = 135987,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["duration"] = 3600,
+						},
+						[261] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "4小时",
+							["id"] = 261,
+							["rewards"] = {
+								{
+									["itemID"] = 120301,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "狂野的土地",
+							["followerTypeID"] = 1,
+							["start"] = 1487245929,
+							["followers"] = {
+								{
+									["name"] = "马斯卡",
+									["id"] = "0x0000000000868CF7",
+									["iconId"] = 1066502,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -21925,6 +36843,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 121,
 											["name"] = "拳击",
 											["icon"] = 132938,
@@ -21933,6 +36852,16 @@ Broker_GarrisonDB = {
 											["id"] = 77,
 											["name"] = "能量爆发",
 											["icon"] = 136088,
+=======
+											["id"] = 122,
+											["name"] = "鲁莽",
+											["icon"] = 603532,
+										}, -- [2]
+										{
+											["id"] = 75,
+											["name"] = "经济学家",
+											["icon"] = 632354,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [3]
 										{
 											["id"] = 120,
@@ -21940,6 +36869,7 @@ Broker_GarrisonDB = {
 											["icon"] = 132338,
 										}, -- [4]
 										{
+<<<<<<< HEAD
 											["id"] = 48,
 											["name"] = "沼泽行者",
 											["icon"] = 236819,
@@ -21951,6 +36881,19 @@ Broker_GarrisonDB = {
 									["name"] = "洛克里格·魔奴",
 									["id"] = "0x00000000007D7FEF",
 									["iconId"] = 1066324,
+=======
+											["id"] = 9,
+											["name"] = "废土行者",
+											["icon"] = 236846,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+								}, -- [1]
+								{
+									["name"] = "维瑟·金卡拉",
+									["id"] = "0x000000000082D3EB",
+									["iconId"] = 1066146,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -21958,6 +36901,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 177,
 											["name"] = "恶魔变形",
 											["icon"] = 236293,
@@ -22007,6 +36951,57 @@ Broker_GarrisonDB = {
 									["name"] = "亚罗",
 									["id"] = "0x0000000000C92FD7",
 									["iconId"] = 1066432,
+=======
+											["id"] = 10,
+											["name"] = "信仰飞跃",
+											["icon"] = 463835,
+										}, -- [2]
+										{
+											["id"] = 40,
+											["name"] = "戈隆克星",
+											["icon"] = 236412,
+										}, -- [3]
+										{
+											["id"] = 148,
+											["name"] = "驱散魔法",
+											["icon"] = 135894,
+										}, -- [4]
+										{
+											["id"] = 4,
+											["name"] = "兽人克星",
+											["icon"] = 897144,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["duration"] = 14400,
+						},
+						[119] = {
+							["type"] = "战斗",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+							["timeLeft"] = "4小时",
+							["id"] = 119,
+							["rewards"] = {
+								{
+									["itemID"] = 120301,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "钢铁部落之心",
+							["followerTypeID"] = 1,
+							["start"] = 1487245931,
+							["followers"] = {
+								{
+									["name"] = "织刃者徐安",
+									["id"] = "0x00000000007B256D",
+									["iconId"] = 1066315,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -22014,9 +37009,15 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 150,
 											["name"] = "精神灼烧",
 											["icon"] = 237565,
+=======
+											["id"] = 121,
+											["name"] = "拳击",
+											["icon"] = 132938,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 										}, -- [2]
 										{
 											["id"] = 77,
@@ -22024,6 +37025,7 @@ Broker_GarrisonDB = {
 											["icon"] = 136088,
 										}, -- [3]
 										{
+<<<<<<< HEAD
 											["id"] = 11,
 											["name"] = "治疗祷言",
 											["icon"] = 135943,
@@ -22073,6 +37075,24 @@ Broker_GarrisonDB = {
 									["name"] = "哈雷·苏布雷特",
 									["id"] = "0x0000000000807B84",
 									["iconId"] = 1066400,
+=======
+											["id"] = 120,
+											["name"] = "顺劈斩",
+											["icon"] = 132338,
+										}, -- [4]
+										{
+											["id"] = 48,
+											["name"] = "沼泽行者",
+											["icon"] = 236819,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+								}, -- [1]
+								{
+									["name"] = "亚罗",
+									["id"] = "0x0000000000C92FD7",
+									["iconId"] = 1066432,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -22080,6 +37100,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 152,
 											["name"] = "能量灌注",
 											["icon"] = 135939,
@@ -22129,6 +37150,60 @@ Broker_GarrisonDB = {
 									["name"] = "马斯卡",
 									["id"] = "0x0000000000868CF7",
 									["iconId"] = 1066502,
+=======
+											["id"] = 150,
+											["name"] = "精神灼烧",
+											["icon"] = 237565,
+										}, -- [2]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [3]
+										{
+											["id"] = 11,
+											["name"] = "治疗祷言",
+											["icon"] = 135943,
+										}, -- [4]
+										{
+											["id"] = 36,
+											["name"] = "恶魔克星",
+											["icon"] = 254651,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["duration"] = 14400,
+						},
+						[245] = {
+							["type"] = "巡逻",
+							["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+							["timeLeft"] = "1小时",
+							["id"] = 245,
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 1500,
+									["tooltip"] = "+1,500经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+1,500经验值",
+								}, -- [1]
+							},
+							["level"] = 99,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "鲁格多尔的匪帮",
+							["followerTypeID"] = 1,
+							["start"] = 1487245938,
+							["followers"] = {
+								{
+									["name"] = "“晨星”墨丘鲁斯",
+									["id"] = "0x0000000000D0B469",
+									["iconId"] = 1086388,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -22136,6 +37211,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 122,
 											["name"] = "鲁莽",
 											["icon"] = 603532,
@@ -22222,6 +37298,66 @@ Broker_GarrisonDB = {
 									["name"] = "+500经验值",
 								}, -- [1]
 							},
+=======
+											["id"] = 171,
+											["name"] = "法术反制",
+											["icon"] = 135856,
+										}, -- [2]
+										{
+											["id"] = 46,
+											["name"] = "游击队员",
+											["icon"] = 236850,
+										}, -- [3]
+										{
+											["id"] = 173,
+											["name"] = "时间扭曲",
+											["icon"] = 458224,
+										}, -- [4]
+										{
+											["id"] = 41,
+											["name"] = "元素克星",
+											["icon"] = 254652,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+								}, -- [1]
+								{
+									["name"] = "奥术师杜克罗格",
+									["id"] = "0x0000000000C9D737",
+									["iconId"] = 1086382,
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 170,
+											["name"] = "闪现术",
+											["icon"] = 135736,
+										}, -- [2]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [3]
+										{
+											["id"] = 173,
+											["name"] = "时间扭曲",
+											["icon"] = 458224,
+										}, -- [4]
+										{
+											["id"] = 45,
+											["name"] = "穴居人",
+											["icon"] = 409595,
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["duration"] = 3600,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 					},
 					["tooltipEnabled"] = true,
@@ -22232,8 +37368,11 @@ Broker_GarrisonDB = {
 					["buildingsExpanded"] = true,
 					["buildings"] = {
 						[24] = {
+<<<<<<< HEAD
 							["hasFollowerSlot"] = false,
 							["rank"] = 3,
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["shipment"] = {
 								["shipmentsAvailable"] = 26,
 								["shipmentsTotal"] = 21,
@@ -22246,6 +37385,7 @@ Broker_GarrisonDB = {
 								["notificationDismissed"] = false,
 								["shipmentCapacity"] = 26,
 							},
+<<<<<<< HEAD
 							["id"] = 10,
 							["plotID"] = 24,
 							["isBuilding"] = false,
@@ -22535,6 +37675,267 @@ Broker_GarrisonDB = {
 						[426] = {
 							["isBeingResearched"] = false,
 							["description"] = "在所有任务中可以使用死神脚步技能，使带有|C00b3ffff危害|R的任务成功率提高10%。",
+=======
+							["rank"] = 3,
+							["id"] = 10,
+							["plotID"] = 24,
+							["plotSize"] = 3,
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["notification"] = 1,
+							["name"] = "战争工坊",
+							["timeStart"] = 1423803732,
+							["texPrefix"] = "GarrBuilding_Armory_3_H",
+							["canActivate"] = false,
+							["icon"] = 975736,
+							["buildingState"] = 0,
+						},
+						[63] = {
+							["shipment"] = {
+								["texture"] = 134221,
+								["name"] = "药圃",
+								["shipmentCapacity"] = 19,
+							},
+							["rank"] = 2,
+							["id"] = 136,
+							["plotID"] = 63,
+							["plotSize"] = 2,
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["notification"] = 1,
+							["name"] = "药圃",
+							["timeStart"] = 1428103262,
+							["texPrefix"] = "GarrBuilding_Farm_1_H",
+							["canActivate"] = false,
+							["icon"] = 134221,
+							["buildingState"] = 0,
+						},
+						[81] = {
+							["shipment"] = {
+							},
+							["id"] = 42,
+							["plotID"] = 81,
+							["rank"] = 1,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["isBuilding"] = false,
+							["name"] = "宠物小窝",
+							["timeStart"] = 1485418780,
+							["texPrefix"] = "GarrBuilding_PetStable_1_H",
+							["canActivate"] = false,
+							["icon"] = 975741,
+							["buildingState"] = 0,
+						},
+						[25] = {
+							["shipment"] = {
+								["texture"] = 975746,
+								["name"] = "货栈",
+								["shipmentCapacity"] = 12,
+							},
+							["rank"] = 1,
+							["id"] = 111,
+							["plotID"] = 25,
+							["plotSize"] = 2,
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["notification"] = 1,
+							["name"] = "货栈",
+							["timeStart"] = 1447965365,
+							["texPrefix"] = "GarrBuilding_TradingPost_1_H",
+							["canActivate"] = false,
+							["icon"] = 975746,
+							["buildingState"] = 0,
+						},
+						[18] = {
+							["shipment"] = {
+								["texture"] = 133611,
+								["name"] = "制革厂",
+								["shipmentCapacity"] = 26,
+							},
+							["rank"] = 3,
+							["id"] = 122,
+							["plotID"] = 18,
+							["plotSize"] = 1,
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["notification"] = 1,
+							["name"] = "制革厂",
+							["timeStart"] = 1423803831,
+							["texPrefix"] = "GarrBuilding_Leatherworking_3_H",
+							["canActivate"] = false,
+							["icon"] = 133611,
+							["buildingState"] = 0,
+						},
+						[98] = {
+							["shipment"] = {
+								["shipmentsAvailable"] = 1,
+								["shipmentsTotal"] = 1,
+								["notificationValue"] = 0,
+								["shipmentsReadyEstimate"] = 0,
+								["shipmentsInProgress"] = 0,
+								["name"] = "霜壁船坞",
+								["texture"] = 1126431,
+								["notification"] = 1,
+								["notificationDismissed"] = false,
+								["shipmentCapacity"] = 1,
+							},
+							["id"] = 207,
+							["plotID"] = 98,
+							["rank"] = 3,
+							["buildTime"] = 0,
+							["canActivate"] = false,
+							["name"] = "霜壁船坞",
+							["isBuilding"] = false,
+							["texPrefix"] = "GarrBuilding_Armory_1_A",
+							["timeStart"] = 1468116903,
+							["icon"] = 1126431,
+							["buildingState"] = 0,
+						},
+						[20] = {
+							["shipment"] = {
+							},
+							["rank"] = 1,
+							["id"] = 51,
+							["plotID"] = 20,
+							["plotSize"] = 1,
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["notification"] = 1,
+							["name"] = "仓库",
+							["timeStart"] = 1460428829,
+							["texPrefix"] = "GarrBuilding_Storehouse_1_H",
+							["canActivate"] = false,
+							["icon"] = 975745,
+							["buildingState"] = 0,
+						},
+						[59] = {
+							["shipment"] = {
+								["shipmentsAvailable"] = 9,
+								["itemName"] = "矿镐",
+								["texture"] = 136248,
+								["shipmentCapacity"] = 12,
+								["notificationValue"] = 3,
+								["duration"] = 0,
+								["shipmentsReadyEstimate"] = 3,
+								["notification"] = 1,
+								["notificationDismissed"] = false,
+								["shipmentsInProgress"] = 0,
+								["itemID"] = 116055,
+								["shipmentsTotal"] = 3,
+								["name"] = "霜壁矿井",
+								["creationTime"] = 0,
+								["shipmentsReady"] = 3,
+								["itemQuality"] = 1,
+							},
+							["id"] = 61,
+							["plotID"] = 59,
+							["rank"] = 1,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["isBuilding"] = false,
+							["name"] = "霜壁矿井",
+							["timeStart"] = 1423654418,
+							["texPrefix"] = "GarrBuilding_Mine_1_H",
+							["canActivate"] = false,
+							["icon"] = 136248,
+							["buildingState"] = 0,
+						},
+						[22] = {
+							["shipment"] = {
+							},
+							["rank"] = 2,
+							["id"] = 35,
+							["plotID"] = 22,
+							["plotSize"] = 2,
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["notification"] = 1,
+							["name"] = "霜壁旅社",
+							["timeStart"] = 1423742379,
+							["texPrefix"] = "GarrBuilding_Inn_2_H",
+							["canActivate"] = false,
+							["icon"] = 134414,
+							["buildingState"] = 0,
+						},
+						[23] = {
+							["shipment"] = {
+							},
+							["rank"] = 3,
+							["id"] = 28,
+							["plotID"] = 23,
+							["plotSize"] = 3,
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["notification"] = 1,
+							["name"] = "兵营",
+							["timeStart"] = 1427366201,
+							["texPrefix"] = "GarrBuilding_Barracks_3_H",
+							["canActivate"] = false,
+							["icon"] = 975738,
+							["buildingState"] = 0,
+						},
+						[19] = {
+							["shipment"] = {
+							},
+							["rank"] = 3,
+							["id"] = 141,
+							["plotID"] = 19,
+							["plotSize"] = 1,
+							["isBuilding"] = false,
+							["buildTime"] = 3600,
+							["notification"] = 1,
+							["name"] = "废品站",
+							["timeStart"] = 1423785671,
+							["texPrefix"] = "GarrBuilding_SalvageYard_1_H",
+							["canActivate"] = false,
+							["icon"] = 975742,
+							["buildingState"] = 0,
+						},
+					},
+					["garrisonCacheLastLooted"] = 1488889890,
+					["cacheSize"] = 500,
+					["trackWeekly"] = {
+						["BONUS_ROLL_QUESTS"] = 0,
+						["WARMILL_SOTF"] = false,
+					},
+					["currencyOrderResourcesAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+					["talents"] = {
+						[425] = {
+							["isBeingResearched"] = false,
+							["description"] = "可以使用亡灵群攻技能，每天第一个任务中使用结群食尸鬼或结群恶鬼时，任务成功率会提高10%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 50,
+							["researchDuration"] = 7200,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 237511,
+							["researched"] = false,
+							["talentAvailability"] = 7,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "食尸鬼或恶鬼参与任务时的成功率提高10%。",
+								["id"] = 631,
+								["name"] = "亡灵群攻",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 237511,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["researchTimeRemaining"] = 0,
+							["name"] = "亡灵群攻",
+							["id"] = 425,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["playerConditionReason"] = "你需要达到100级才能进行研究。",
+						},
+						[426] = {
+							["isBeingResearched"] = false,
+							["description"] = "在所有任务中可以使用死神脚步技能，使带有|C00b3ffff危害|R的任务成功率提高10%。",
 							["perkSpellID"] = 0,
 							["researchCost"] = 500,
 							["researchDuration"] = 14400,
@@ -22762,6 +38163,518 @@ Broker_GarrisonDB = {
 					},
 					["looseShipments"] = {
 					},
+					["notificationEnabled"] = true,
+					["followerShipments"] = {
+					},
+					["currencyApexisAmount"] = 48426,
+					["currencyOil"] = 755,
+					["currencyArtifactKnowledge"] = 0,
+					["order"] = 5,
+					["orderhallExpanded"] = true,
+					["missionsExpanded"] = true,
+					["info"] = {
+						["realmName"] = "火羽山",
+						["playerClass"] = "DEATHKNIGHT",
+						["playerFaction"] = "Horde",
+						["playerName"] = "最后的悠悠",
+						["bonusEnabled"] = true,
+					},
+					["trackDaily"] = {
+					},
+					["currencyAncientManaAmount"] = 0,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 2129,
+					["currencySealOfInevitableFateAmount"] = 14,
+				},
+				["猴赛雷杀猪刀"] = {
+					["categories"] = {
+					},
+					["lootedToday"] = {
+					},
+					["configVersion"] = 3,
+					["missions"] = {
+					},
+					["tooltipEnabled"] = true,
+					["currencySealOfTemperedFateAmount"] = 0,
+					["invasion"] = {
+						["available"] = false,
+					},
+					["buildingsExpanded"] = true,
+					["buildings"] = {
+					},
+					["garrisonCacheLastLooted"] = 1487764076,
+					["cacheSize"] = 500,
+					["currencyOil"] = 0,
+					["currencyOrderResourcesAmount"] = 0,
+					["trackWeekly"] = {
+						["WARMILL_SOTF"] = false,
+						["BONUS_ROLL_QUESTS"] = 0,
+					},
+					["talents"] = {
+						[395] = {
+							["isBeingResearched"] = false,
+							["description"] = "刚招募的新晋侍从变为持盾方阵兵，使其任务成功率提高5%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 10000,
+							["researchDuration"] = 259200,
+							["tier"] = 3,
+							["selected"] = false,
+							["icon"] = 1278391,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 395,
+							["researchCurrency"] = 1220,
+							["name"] = "同心协力",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[396] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的白银之手骑士变为白银之手圣殿骑士，获得：\r\n\r\n|TInterface\\ICONS\\SPELL_HOLY_HEROISM.BLP:20:20:0:0|t |Cffffffff列王守卫|R\r\n与新晋侍从或持盾方阵兵一起执行任务的成功率提高15%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 10000,
+							["researchDuration"] = 259200,
+							["tier"] = 3,
+							["selected"] = false,
+							["icon"] = 237547,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 396,
+							["researchCurrency"] = 1220,
+							["name"] = "白银之手圣殿骑士",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[397] = {
+							["isBeingResearched"] = false,
+							["description"] = "每天可以使用一次银色军马马桩，使用后召唤一匹军马，使你能在短时间内在坐骑上作战。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+							["perkSpellID"] = 0,
+							["researchCost"] = 500,
+							["researchDuration"] = 14400,
+							["tier"] = 1,
+							["selected"] = false,
+<<<<<<< HEAD
+							["icon"] = 237561,
+							["researched"] = false,
+							["talentAvailability"] = 6,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "有|C00b3ffff危害|R的任务成功率提高10%。",
+								["id"] = 630,
+								["name"] = "死神脚步",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 237561,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "死神脚步",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 426,
+						},
+						[427] = {
+							["isBeingResearched"] = false,
+							["description"] = "你的食尸鬼、恶鬼、骑士和掠夺者招募上限提高1。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 1000,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 1065381,
+							["researched"] = false,
+							["talentAvailability"] = 6,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "你的食尸鬼、恶鬼、骑士和掠夺者招募上限提高1。",
+								["id"] = 629,
+								["name"] = "墓穴的召唤",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 1065381,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "墓穴的召唤",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["id"] = 427,
+						},
+						[428] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的结群食尸鬼变为结群恶鬼，使其任务成功率提高5%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 10000,
+							["researchDuration"] = 259200,
+							["tier"] = 3,
+							["selected"] = false,
+							["icon"] = 1100170,
+							["researched"] = false,
+							["talentAvailability"] = 6,
+							["id"] = 428,
+							["researchCurrency"] = 1220,
+							["name"] = "构造区",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[429] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的黑锋骑士变为黑锋掠夺者。\r\n\r\n黑锋掠夺者获得一个随机专精，可以应对|C00b3ffff首领|R。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 10000,
+							["researchDuration"] = 259200,
+							["tier"] = 3,
+							["selected"] = false,
+							["icon"] = 1392551,
+							["researched"] = false,
+							["talentAvailability"] = 6,
+							["id"] = 429,
+							["researchCurrency"] = 1220,
+							["name"] = "仗剑为生",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[430] = {
+							["isBeingResearched"] = false,
+							["description"] = "每天可以使用一次死亡战马马桩，使用后召唤一匹死亡战马，使你能在短时间内在坐骑上作战。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 500,
+							["researchDuration"] = 14400,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 524049,
+							["researched"] = false,
+							["talentAvailability"] = 6,
+							["id"] = 430,
+							["researchCurrency"] = 1220,
+							["name"] = "黑暗骑士",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[431] = {
+							["isBeingResearched"] = false,
+							["description"] = "成功完成任务有几率带回碎骨堆，可以组合成憎恶。\r\n\r\n憎恶可以随机使带有|C00b3ffff危害|R、|C00b3ffff法术|R或|C00b3ffff爪牙|R的任务成功率提高15%，此外还拥有：\r\n\r\n|TInterface\\ICONS\\SPELL_DEATHKNIGHT_EXPLODE_GHOUL.BLP:20:20:0:0|t |Cffffffff邪恶畸变|R\r\n任务成功率提高30%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 12500,
+							["researchDuration"] = 432000,
+							["tier"] = 4,
+							["selected"] = false,
+							["icon"] = 136187,
+							["researched"] = false,
+							["talentAvailability"] = 6,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "成功完成任务有几率带回一件物品，可以召唤一只憎恶。",
+								["id"] = 782,
+								["name"] = "复活憎恶",
+=======
+							["icon"] = 1360759,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 397,
+							["researchCurrency"] = 1220,
+							["name"] = "银色战驹",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[398] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达工作订单，用职业大厅资源交易获得每周3个破碎命运印记中的1个。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 12500,
+							["researchDuration"] = 432000,
+							["tier"] = 4,
+							["selected"] = false,
+							["icon"] = 135909,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 398,
+							["researchCurrency"] = 1220,
+							["name"] = "神圣意志",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[399] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达一个白银之手的工作订单，使用后可以释放白银之手先锋，立即完成你地图上的一个非精英类世界任务。每18个小时可以使用一次。",
+							["perkSpellID"] = 221587,
+							["researchCost"] = 12500,
+							["researchDuration"] = 432000,
+							["tier"] = 4,
+							["selected"] = false,
+							["icon"] = 1360760,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 399,
+							["researchCurrency"] = 1220,
+							["name"] = "大十字军",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[400] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达工作订单，用职业大厅资源换取勇士的武器或装备。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 1000,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 1030096,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 400,
+							["researchCurrency"] = 1220,
+							["name"] = "化犁为剑",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[401] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以装备的传说物品数量提高1。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 15000,
+							["researchDuration"] = 604800,
+							["tier"] = 5,
+							["selected"] = false,
+							["icon"] = 135965,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 401,
+							["researchCurrency"] = 1220,
+							["name"] = "正义传说",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[391] = {
+							["isBeingResearched"] = false,
+							["description"] = "使你非重复类的任务奖励额外升级为稀有或史诗品质的几率提高。",
+							["perkSpellID"] = 219866,
+							["researchCost"] = 50,
+							["researchDuration"] = 7200,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 589117,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 391,
+							["researchCurrency"] = 1220,
+							["name"] = "圣光眷顾",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[392] = {
+							["isBeingResearched"] = false,
+							["description"] = "可以使用王者祝福技能，每天派出的第一个任务的成功率提高20%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 50,
+							["researchDuration"] = 7200,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 135993,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "每天第一个任务的成功率提高20%。",
+								["id"] = 595,
+								["name"] = "王者祝福",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+<<<<<<< HEAD
+								["icon"] = 136187,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "复活憎恶",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 431,
+						},
+						[432] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达一个冰霜十字架的工作订单，使用后可召唤一只冰霜巨龙，立即完成你地图上的一个非精英类世界任务。每18个小时可以使用一次。",
+							["perkSpellID"] = 221557,
+							["researchCost"] = 12500,
+							["researchDuration"] = 432000,
+							["tier"] = 4,
+							["selected"] = false,
+							["icon"] = 1029007,
+							["researched"] = false,
+							["talentAvailability"] = 6,
+							["id"] = 432,
+							["researchCurrency"] = 1220,
+							["name"] = "冰霜巨龙",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[433] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达工作订单，用职业大厅资源换取勇士的武器或装备。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 1000,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 237512,
+							["researched"] = false,
+							["talentAvailability"] = 6,
+							["id"] = 433,
+							["researchCurrency"] = 1220,
+							["name"] = "兄弟同袍",
+=======
+								["icon"] = 135993,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "王者祝福",
+							["id"] = 392,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[393] = {
+							["isBeingResearched"] = false,
+							["description"] = "在所有任务中可以使用公正祝福技能，使带有|C00b3ffff法术|R的任务成功率提高10%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 500,
+							["researchDuration"] = 14400,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 1030099,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "有|C00b3ffff爪牙|R的任务成功率提高10%。",
+								["id"] = 593,
+								["name"] = "公正祝福",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 1030099,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "公正祝福",
+							["id"] = 393,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+<<<<<<< HEAD
+						[434] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以装备的传说物品数量提高1。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 15000,
+							["researchDuration"] = 604800,
+							["tier"] = 5,
+							["selected"] = false,
+							["icon"] = 879926,
+							["researched"] = false,
+							["talentAvailability"] = 6,
+							["id"] = 434,
+							["researchCurrency"] = 1220,
+							["name"] = "墓穴传说",
+=======
+						[394] = {
+							["isBeingResearched"] = false,
+							["description"] = "你的侍从、持盾方阵兵、骑士和圣殿骑士招募上限提高1。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 1000,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 236690,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "你的白银之手骑士和勇士招募上限提高1。",
+								["id"] = 594,
+								["name"] = "银色召唤",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 236690,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "银色召唤",
+							["id"] = 394,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+<<<<<<< HEAD
+						[424] = {
+							["isBeingResearched"] = false,
+							["description"] = "使你非重复类的任务奖励额外升级为稀有或史诗品质的几率提高。",
+							["perkSpellID"] = 219866,
+							["researchCost"] = 50,
+							["researchDuration"] = 7200,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 1390941,
+							["researched"] = false,
+							["talentAvailability"] = 7,
+							["id"] = 424,
+							["researchCurrency"] = 1220,
+							["name"] = "死亡的恩赐",
+							["researchStartTime"] = 0,
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["playerConditionReason"] = "你需要达到100级才能进行研究。",
+						},
+					},
+					["looseShipments"] = {
+					},
 					["currencyApexisAmount"] = 51526,
 					["followerShipments"] = {
 					},
@@ -22784,6 +38697,32 @@ Broker_GarrisonDB = {
 					["weeklyNextReset"] = 1489618799,
 					["currencyAmount"] = 1606,
 					["garrisonCacheLastLooted"] = 1489492225,
+=======
+					},
+					["looseShipments"] = {
+					},
+					["currencyApexisAmount"] = 0,
+					["followerShipments"] = {
+					},
+					["currencyAncientManaAmount"] = 0,
+					["missionsExpanded"] = true,
+					["currencyArtifactKnowledge"] = 0,
+					["currencySealOfInevitableFateAmount"] = 0,
+					["orderhallExpanded"] = true,
+					["notificationEnabled"] = true,
+					["info"] = {
+						["playerName"] = "猴赛雷杀猪刀",
+						["playerFaction"] = "Horde",
+						["realmName"] = "火羽山",
+						["playerClass"] = "PALADIN",
+					},
+					["trackDaily"] = {
+					},
+					["lootedNextReset"] = 1489445999,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 106,
+					["order"] = 5,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				},
 				["杀猪刀猴赛雷"] = {
 					["categories"] = {
@@ -22794,6 +38733,7 @@ Broker_GarrisonDB = {
 					["missions"] = {
 						[683] = {
 							["type"] = "战斗",
+<<<<<<< HEAD
 							["timeLeft"] = "12小时",
 							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 							["id"] = 683,
@@ -22805,11 +38745,26 @@ Broker_GarrisonDB = {
 							["name"] = "暴雪嘉年华",
 							["followerTypeID"] = 1,
 							["start"] = 1487335894,
+=======
+							["rewards"] = {
+								{
+									["itemID"] = 128314,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 683,
+							["duration"] = 43200,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "左修士",
 									["id"] = "0x00000000006B8D05",
+<<<<<<< HEAD
 									["iconId"] = 1066328,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 70,
@@ -22837,12 +38792,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236457,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
+=======
+									["iconId"] = 1066328,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "薇薇安",
 									["id"] = "0x0000000000333CEB",
+<<<<<<< HEAD
 									["iconId"] = 1066126,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 231,
@@ -22870,12 +38833,20 @@ Broker_GarrisonDB = {
 											["icon"] = 254651,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Mage",
+=======
+									["iconId"] = 1066126,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "姆戈塔",
 									["id"] = "0x0000000000D6CDD5",
+<<<<<<< HEAD
 									["iconId"] = 1066308,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -22903,6 +38874,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236819,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Hunter",
 								}, -- [3]
 							},
@@ -22927,11 +38899,43 @@ Broker_GarrisonDB = {
 							["name"] = "自然的烦恼",
 							["followerTypeID"] = 1,
 							["start"] = 1487335887,
+=======
+									["iconId"] = 1066308,
+								}, -- [3]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "暴雪嘉年华",
+							["followerTypeID"] = 1,
+							["start"] = 1487335894,
+							["level"] = 100,
+							["timeLeft"] = "12小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[191] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 42,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 191,
+							["duration"] = 3600,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "贾卡玛",
 									["id"] = "0x00000000006417BF",
+<<<<<<< HEAD
 									["iconId"] = 1066284,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 70,
@@ -22959,6 +38963,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Druid",
 								}, -- [1]
 							},
@@ -22985,11 +38990,43 @@ Broker_GarrisonDB = {
 							["name"] = "汽痕强盗",
 							["followerTypeID"] = 1,
 							["start"] = 1487335882,
+=======
+									["iconId"] = 1066284,
+								}, -- [1]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "自然的烦恼",
+							["followerTypeID"] = 1,
+							["start"] = 1487335887,
+							["level"] = 96,
+							["timeLeft"] = "1小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[278] = {
+							["type"] = "寻宝",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 50,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 278,
+							["duration"] = 3600,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "阿瓦丽·唤焰",
 									["id"] = "0x0000000000D8EDC4",
+<<<<<<< HEAD
 									["iconId"] = 1086389,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -23017,6 +39054,7 @@ Broker_GarrisonDB = {
 											["icon"] = 254652,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Mage",
 								}, -- [1]
 							},
@@ -23043,11 +39081,43 @@ Broker_GarrisonDB = {
 							["name"] = "大规模杀伤性原料",
 							["followerTypeID"] = 1,
 							["start"] = 1487335880,
+=======
+									["iconId"] = 1086389,
+								}, -- [1]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "汽痕强盗",
+							["followerTypeID"] = 1,
+							["start"] = 1487335882,
+							["level"] = 93,
+							["timeLeft"] = "1小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Trading",
+						},
+						[280] = {
+							["type"] = "寻宝",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 65,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 280,
+							["duration"] = 3600,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "赛瑞尔·福古斯",
 									["id"] = "0x0000000000CEA0D7",
+<<<<<<< HEAD
 									["iconId"] = 1066351,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -23075,12 +39145,20 @@ Broker_GarrisonDB = {
 											["icon"] = 409595,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+=======
+									["iconId"] = 1066351,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "伦多尔·血斩",
 									["id"] = "0x0000000000D2D0DD",
+<<<<<<< HEAD
 									["iconId"] = 1066455,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -23108,6 +39186,7 @@ Broker_GarrisonDB = {
 											["icon"] = 254105,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Rogue",
 								}, -- [2]
 							},
@@ -23134,11 +39213,43 @@ Broker_GarrisonDB = {
 							["name"] = "风箱里的白鬼",
 							["followerTypeID"] = 1,
 							["start"] = 1487335885,
+=======
+									["iconId"] = 1066455,
+								}, -- [2]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "大规模杀伤性原料",
+							["followerTypeID"] = 1,
+							["start"] = 1487335880,
+							["level"] = 95,
+							["timeLeft"] = "1小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Trading",
+						},
+						[186] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 32,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 186,
+							["duration"] = 3600,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "普里西拉·影日",
 									["id"] = "0x0000000000E94A2F",
+<<<<<<< HEAD
 									["iconId"] = 1086426,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -23166,6 +39277,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236695,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
 								}, -- [1]
 							},
@@ -23192,11 +39304,43 @@ Broker_GarrisonDB = {
 							["name"] = "奇幻之旅",
 							["followerTypeID"] = 1,
 							["start"] = 1487335872,
+=======
+									["iconId"] = 1086426,
+								}, -- [1]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "风箱里的白鬼",
+							["followerTypeID"] = 1,
+							["start"] = 1487335885,
+							["level"] = 91,
+							["timeLeft"] = "1小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[312] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 300,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 312,
+							["duration"] = 10800,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "苏莱·雪花",
 									["id"] = "0x0000000000D4E9B9",
+<<<<<<< HEAD
 									["iconId"] = 1066175,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -23224,12 +39368,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236695,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Monk",
+=======
+									["iconId"] = 1066175,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "坎蒂丝·莫雷",
 									["id"] = "0x0000000000E3CE18",
+<<<<<<< HEAD
 									["iconId"] = 1086401,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -23257,12 +39409,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236819,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Mage",
+=======
+									["iconId"] = 1086401,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "西奥多什·盲眼",
 									["id"] = "0x0000000000868D46",
+<<<<<<< HEAD
 									["iconId"] = 1066139,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -23290,6 +39450,7 @@ Broker_GarrisonDB = {
 											["icon"] = 631718,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Shaman",
 								}, -- [3]
 							},
@@ -23316,11 +39477,43 @@ Broker_GarrisonDB = {
 							["name"] = "临阵倒戈",
 							["followerTypeID"] = 1,
 							["start"] = 1487335875,
+=======
+									["iconId"] = 1066139,
+								}, -- [3]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "奇幻之旅",
+							["followerTypeID"] = 1,
+							["start"] = 1487335872,
+							["level"] = 100,
+							["timeLeft"] = "3小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[269] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 225,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 269,
+							["duration"] = 14400,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "丘克·死界",
 									["id"] = "0x0000000000DAD86C",
+<<<<<<< HEAD
 									["iconId"] = 1086380,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -23348,12 +39541,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236846,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Mage",
+=======
+									["iconId"] = 1086380,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "杰娜·壮蹄",
 									["id"] = "0x0000000000605EB7",
+<<<<<<< HEAD
 									["iconId"] = 1066152,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 70,
@@ -23381,6 +39582,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236412,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Druid",
 								}, -- [2]
 							},
@@ -23407,11 +39609,44 @@ Broker_GarrisonDB = {
 							["name"] = "封锁线：南海",
 							["followerTypeID"] = 2,
 							["start"] = 0,
+=======
+									["iconId"] = 1066152,
+								}, -- [2]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "临阵倒戈",
+							["followerTypeID"] = 1,
+							["start"] = 1487335875,
+							["level"] = 100,
+							["timeLeft"] = "4小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[733] = {
+							["type"] = "舰船-总攻（部落）",
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 1000,
+									["tooltip"] = "+1,000经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+1,000经验值",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 733,
+							["duration"] = 450,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "风暴觉醒号",
 									["id"] = "0x0000000000FCC7F0",
+<<<<<<< HEAD
 									["iconId"] = 1341793,
+=======
+									["classIcon"] = "Ships_GalleonH-List",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 263,
@@ -23434,12 +39669,20 @@ Broker_GarrisonDB = {
 											["icon"] = 900306,
 										}, -- [4]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "Ships_GalleonH-List",
+=======
+									["iconId"] = 1341793,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "邪恶魂能号",
 									["id"] = "0x0000000000FD8E5B",
+<<<<<<< HEAD
 									["iconId"] = 1341793,
+=======
+									["classIcon"] = "Ships_GalleonH-List",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 263,
@@ -23462,6 +39705,7 @@ Broker_GarrisonDB = {
 											["icon"] = 249177,
 										}, -- [4]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "Ships_GalleonH-List",
 								}, -- [2]
 							},
@@ -23489,11 +39733,43 @@ Broker_GarrisonDB = {
 							["name"] = "不安的亡灵",
 							["followerTypeID"] = 1,
 							["start"] = 1487335904,
+=======
+									["iconId"] = 1341793,
+								}, -- [2]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "封锁线：南海",
+							["followerTypeID"] = 2,
+							["start"] = 0,
+							["level"] = 100,
+							["timeLeft"] = "7分钟",
+							["typeAtlas"] = "ShipMissionIcon-SiegeIHH-Mission",
+						},
+						[666] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 25,
+									["icon"] = "Interface\\Icons\\garrison_oil",
+									["currencyID"] = 1101,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 666,
+							["duration"] = 14400,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "魔导师克雷拉斯",
 									["id"] = "0x00000000005F7DEC",
+<<<<<<< HEAD
 									["iconId"] = 1066115,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 171,
@@ -23521,12 +39797,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236848,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Mage",
+=======
+									["iconId"] = 1066115,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "苏兹",
 									["id"] = "0x00000000007B2648",
+<<<<<<< HEAD
 									["iconId"] = 1066389,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 79,
@@ -23554,12 +39838,20 @@ Broker_GarrisonDB = {
 											["icon"] = 236456,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+=======
+									["iconId"] = 1066389,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [2]
 								{
 									["name"] = "洛克塔尔",
 									["id"] = "0x00000000006EB7B9",
+<<<<<<< HEAD
 									["iconId"] = 1066060,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 79,
@@ -23587,6 +39879,7 @@ Broker_GarrisonDB = {
 											["icon"] = 254105,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Hunter",
 								}, -- [3]
 							},
@@ -23613,11 +39906,41 @@ Broker_GarrisonDB = {
 							["name"] = "原兽之夜",
 							["followerTypeID"] = 1,
 							["start"] = 1487335897,
+=======
+									["iconId"] = 1066060,
+								}, -- [3]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "不安的亡灵",
+							["followerTypeID"] = 1,
+							["start"] = 1487335904,
+							["level"] = 100,
+							["timeLeft"] = "4小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[396] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["itemID"] = 120945,
+									["quantity"] = 30,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 396,
+							["duration"] = 28800,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "格莱维",
 									["id"] = "0x0000000000FFFB2D",
+<<<<<<< HEAD
 									["iconId"] = 1086363,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 314,
@@ -23645,12 +39968,20 @@ Broker_GarrisonDB = {
 											["icon"] = 298680,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+=======
+									["iconId"] = 1086363,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "奥雷利昂·焰击",
 									["id"] = "0x0000000000783BB3",
+<<<<<<< HEAD
 									["iconId"] = 1066415,
+=======
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 79,
@@ -23678,6 +40009,7 @@ Broker_GarrisonDB = {
 											["icon"] = 236457,
 										}, -- [5]
 									},
+<<<<<<< HEAD
 									["classIcon"] = "GarrMission_ClassIcon-Warrior",
 								}, -- [2]
 							},
@@ -23688,6 +40020,20 @@ Broker_GarrisonDB = {
 									["quantity"] = 30,
 								}, -- [1]
 							},
+=======
+									["iconId"] = 1066415,
+								}, -- [2]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "原兽之夜",
+							["followerTypeID"] = 1,
+							["start"] = 1487335897,
+							["level"] = 100,
+							["timeLeft"] = "8小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 					},
 					["tooltipEnabled"] = true,
@@ -23697,6 +40043,7 @@ Broker_GarrisonDB = {
 					},
 					["buildingsExpanded"] = true,
 					["missionsExpanded"] = true,
+<<<<<<< HEAD
 					["currencySealOfInevitableFateAmount"] = 13,
 					["cacheSize"] = 500,
 					["lootedNextReset"] = 1489618799,
@@ -23705,6 +40052,16 @@ Broker_GarrisonDB = {
 						["WARMILL_SOTF"] = false,
 						["BONUS_ROLL_QUESTS"] = 0,
 					},
+=======
+					["order"] = 5,
+					["cacheSize"] = 500,
+					["trackWeekly"] = {
+						["BONUS_ROLL_QUESTS"] = 0,
+						["WARMILL_SOTF"] = false,
+					},
+					["currencyOrderResourcesAmount"] = 39,
+					["lootedNextReset"] = 1489445999,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["talents"] = {
 						[395] = {
 							["isBeingResearched"] = false,
@@ -23720,10 +40077,17 @@ Broker_GarrisonDB = {
 							["id"] = 395,
 							["researchCurrency"] = 1220,
 							["name"] = "同心协力",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[396] = {
 							["isBeingResearched"] = false,
@@ -23739,10 +40103,17 @@ Broker_GarrisonDB = {
 							["id"] = 396,
 							["researchCurrency"] = 1220,
 							["name"] = "白银之手圣殿骑士",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[397] = {
 							["isBeingResearched"] = false,
@@ -23758,10 +40129,17 @@ Broker_GarrisonDB = {
 							["id"] = 397,
 							["researchCurrency"] = 1220,
 							["name"] = "银色战驹",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[398] = {
 							["isBeingResearched"] = false,
@@ -23777,10 +40155,17 @@ Broker_GarrisonDB = {
 							["id"] = 398,
 							["researchCurrency"] = 1220,
 							["name"] = "神圣意志",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[399] = {
 							["isBeingResearched"] = false,
@@ -23796,10 +40181,17 @@ Broker_GarrisonDB = {
 							["id"] = 399,
 							["researchCurrency"] = 1220,
 							["name"] = "大十字军",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[400] = {
 							["isBeingResearched"] = false,
@@ -23815,10 +40207,17 @@ Broker_GarrisonDB = {
 							["id"] = 400,
 							["researchCurrency"] = 1220,
 							["name"] = "化犁为剑",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[401] = {
 							["isBeingResearched"] = false,
@@ -23834,10 +40233,17 @@ Broker_GarrisonDB = {
 							["id"] = 401,
 							["researchCurrency"] = 1220,
 							["name"] = "正义传说",
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[391] = {
 							["isBeingResearched"] = false,
@@ -23853,11 +40259,19 @@ Broker_GarrisonDB = {
 							["id"] = 391,
 							["researchCurrency"] = 1220,
 							["name"] = "圣光眷顾",
+<<<<<<< HEAD
 							["playerConditionReason"] = "你需要达到100级才能进行研究。",
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
+=======
+							["researchStartTime"] = 0,
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["playerConditionReason"] = "你需要达到100级才能进行研究。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[392] = {
 							["isBeingResearched"] = false,
@@ -23883,13 +40297,21 @@ Broker_GarrisonDB = {
 								["isTrait"] = false,
 							},
 							["researchCurrency"] = 1220,
+<<<<<<< HEAD
 							["playerConditionReason"] = "你需要达到100级才能进行研究。",
+=======
+							["researchTimeRemaining"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["name"] = "王者祝福",
 							["id"] = 392,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
+<<<<<<< HEAD
 							["researchTimeRemaining"] = 0,
+=======
+							["playerConditionReason"] = "你需要达到100级才能进行研究。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[393] = {
 							["isBeingResearched"] = false,
@@ -23916,11 +40338,19 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "公正祝福",
+<<<<<<< HEAD
 							["id"] = 393,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 393,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[394] = {
 							["isBeingResearched"] = false,
@@ -23947,19 +40377,34 @@ Broker_GarrisonDB = {
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "银色召唤",
+<<<<<<< HEAD
 							["id"] = 394,
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
+=======
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["id"] = 394,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 					},
 					["looseShipments"] = {
 					},
+<<<<<<< HEAD
 					["currencyApexisAmount"] = 45500,
 					["followerShipments"] = {
 					},
 					["currencyAncientManaAmount"] = 0,
+=======
+					["currencyOil"] = 450,
+					["followerShipments"] = {
+					},
+					["currencyApexisAmount"] = 45500,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["notificationEnabled"] = true,
 					["currencyArtifactKnowledge"] = 0,
 					["garrisonCacheLastLooted"] = 1489066413,
@@ -23968,29 +40413,49 @@ Broker_GarrisonDB = {
 						[24] = {
 							["shipment"] = {
 							},
+<<<<<<< HEAD
 							["buildingState"] = 0,
 							["id"] = 28,
 							["plotID"] = 24,
 							["plotSize"] = 3,
 							["canActivate"] = false,
 							["buildTime"] = 3600,
+=======
+							["rank"] = 3,
+							["id"] = 28,
+							["plotID"] = 24,
+							["plotSize"] = 3,
+							["isBuilding"] = false,
+							["canActivate"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["notification"] = 1,
 							["name"] = "兵营",
 							["timeStart"] = 1428103441,
 							["texPrefix"] = "GarrBuilding_Barracks_3_H",
+<<<<<<< HEAD
 							["isBuilding"] = false,
 							["icon"] = 975738,
 							["rank"] = 3,
+=======
+							["buildTime"] = 3600,
+							["icon"] = 975738,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[63] = {
 							["shipment"] = {
 								["shipmentsAvailable"] = 0,
 								["itemName"] = "药圃",
+<<<<<<< HEAD
 								["itemQuality"] = 1,
+=======
+								["texture"] = 134221,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								["shipmentCapacity"] = 7,
 								["notificationValue"] = 7,
 								["duration"] = 0,
 								["shipmentsReadyEstimate"] = 7,
+<<<<<<< HEAD
 								["notificationDismissed"] = false,
 								["name"] = "药圃",
 								["notification"] = 1,
@@ -24013,12 +40478,37 @@ Broker_GarrisonDB = {
 							["isBuilding"] = false,
 							["icon"] = 134221,
 							["rank"] = 1,
+=======
+								["notification"] = 1,
+								["shipmentsInProgress"] = 0,
+								["notificationDismissed"] = false,
+								["name"] = "药圃",
+								["shipmentsTotal"] = 7,
+								["itemID"] = 116054,
+								["creationTime"] = 0,
+								["shipmentsReady"] = 7,
+								["itemQuality"] = 1,
+							},
+							["id"] = 29,
+							["plotID"] = 63,
+							["rank"] = 1,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["isBuilding"] = false,
+							["name"] = "药圃",
+							["timeStart"] = 1425202990,
+							["texPrefix"] = "GarrBuilding_Farm_1_H",
+							["canActivate"] = false,
+							["icon"] = 134221,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[81] = {
 							["shipment"] = {
 							},
 							["id"] = 42,
 							["plotID"] = 81,
+<<<<<<< HEAD
 							["buildingState"] = 0,
 							["plotSize"] = 2,
 							["buildTime"] = 3600,
@@ -24062,10 +40552,63 @@ Broker_GarrisonDB = {
 							["plotSize"] = 1,
 							["canActivate"] = false,
 							["buildTime"] = 3600,
+=======
+							["rank"] = 1,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["isBuilding"] = false,
+							["name"] = "宠物小窝",
+							["timeStart"] = 1485421554,
+							["texPrefix"] = "GarrBuilding_PetStable_1_H",
+							["canActivate"] = false,
+							["icon"] = 975741,
+							["buildingState"] = 0,
+						},
+						[25] = {
+							["shipment"] = {
+								["shipmentsAvailable"] = 7,
+								["shipmentsTotal"] = 1,
+								["notificationValue"] = 0,
+								["shipmentsReadyEstimate"] = 0,
+								["shipmentsInProgress"] = 0,
+								["name"] = "货栈",
+								["texture"] = 975746,
+								["notification"] = 1,
+								["notificationDismissed"] = false,
+								["shipmentCapacity"] = 7,
+							},
+							["rank"] = 1,
+							["id"] = 111,
+							["plotID"] = 25,
+							["plotSize"] = 2,
+							["isBuilding"] = false,
+							["canActivate"] = false,
+							["notification"] = 1,
+							["name"] = "货栈",
+							["timeStart"] = 1448273376,
+							["texPrefix"] = "GarrBuilding_TradingPost_1_H",
+							["buildTime"] = 3600,
+							["icon"] = 975746,
+							["buildingState"] = 0,
+						},
+						[18] = {
+							["shipment"] = {
+								["texture"] = 134071,
+								["name"] = "珠宝店",
+								["shipmentCapacity"] = 7,
+							},
+							["rank"] = 1,
+							["id"] = 96,
+							["plotID"] = 18,
+							["plotSize"] = 1,
+							["isBuilding"] = false,
+							["canActivate"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["notification"] = 1,
 							["name"] = "珠宝店",
 							["timeStart"] = 1418464301,
 							["texPrefix"] = "GarrBuilding_Jewelcrafting_1_H",
+<<<<<<< HEAD
 							["isBuilding"] = false,
 							["icon"] = 134071,
 							["rank"] = 1,
@@ -24094,20 +40637,55 @@ Broker_GarrisonDB = {
 							["isBuilding"] = false,
 							["icon"] = 1126431,
 							["rank"] = 3,
+=======
+							["buildTime"] = 3600,
+							["icon"] = 134071,
+							["buildingState"] = 0,
+						},
+						[19] = {
+							["shipment"] = {
+								["texture"] = 237171,
+								["name"] = "铭文师之家",
+								["shipmentCapacity"] = 7,
+							},
+							["rank"] = 1,
+							["id"] = 95,
+							["plotID"] = 19,
+							["plotSize"] = 1,
+							["isBuilding"] = false,
+							["canActivate"] = false,
+							["notification"] = 1,
+							["name"] = "铭文师之家",
+							["timeStart"] = 1418466173,
+							["texPrefix"] = "GarrBuilding_Inscription_1_H",
+							["buildTime"] = 3600,
+							["icon"] = 237171,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[20] = {
 							["shipment"] = {
 							},
+<<<<<<< HEAD
 							["buildingState"] = 0,
 							["id"] = 141,
 							["plotID"] = 20,
 							["plotSize"] = 1,
 							["canActivate"] = false,
 							["buildTime"] = 3600,
+=======
+							["rank"] = 3,
+							["id"] = 141,
+							["plotID"] = 20,
+							["plotSize"] = 1,
+							["isBuilding"] = false,
+							["canActivate"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["notification"] = 1,
 							["name"] = "废品站",
 							["timeStart"] = 1422960966,
 							["texPrefix"] = "GarrBuilding_SalvageYard_1_H",
+<<<<<<< HEAD
 							["isBuilding"] = false,
 							["icon"] = 975742,
 							["rank"] = 3,
@@ -24155,6 +40733,11 @@ Broker_GarrisonDB = {
 							["isBuilding"] = false,
 							["icon"] = 134414,
 							["rank"] = 3,
+=======
+							["buildTime"] = 3600,
+							["icon"] = 975742,
+							["buildingState"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 						[59] = {
 							["shipment"] = {
@@ -24164,6 +40747,7 @@ Broker_GarrisonDB = {
 								["shipmentsReadyEstimate"] = 0,
 								["shipmentsInProgress"] = 0,
 								["name"] = "霜壁矿井",
+<<<<<<< HEAD
 								["shipmentCapacity"] = 14,
 								["notificationDismissed"] = false,
 								["notification"] = 1,
@@ -24175,10 +40759,24 @@ Broker_GarrisonDB = {
 							["plotSize"] = 2,
 							["canActivate"] = false,
 							["buildTime"] = 3600,
+=======
+								["texture"] = 136248,
+								["notification"] = 1,
+								["notificationDismissed"] = false,
+								["shipmentCapacity"] = 14,
+							},
+							["rank"] = 2,
+							["id"] = 62,
+							["plotID"] = 59,
+							["plotSize"] = 2,
+							["isBuilding"] = false,
+							["canActivate"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["notification"] = 1,
 							["name"] = "霜壁矿井",
 							["timeStart"] = 1418601877,
 							["texPrefix"] = "GarrBuilding_Mine_1_H",
+<<<<<<< HEAD
 							["isBuilding"] = false,
 							["icon"] = 136248,
 							["rank"] = 2,
@@ -24511,14 +41109,102 @@ Broker_GarrisonDB = {
 						["playerName"] = "猴赛雷杀猪刀",
 						["playerFaction"] = "Horde",
 						["playerClass"] = "PALADIN",
+=======
+							["buildTime"] = 3600,
+							["icon"] = 136248,
+							["buildingState"] = 0,
+						},
+						[22] = {
+							["shipment"] = {
+							},
+							["rank"] = 3,
+							["id"] = 36,
+							["plotID"] = 22,
+							["plotSize"] = 2,
+							["isBuilding"] = false,
+							["canActivate"] = false,
+							["notification"] = 1,
+							["name"] = "霜壁旅社",
+							["timeStart"] = 1431042807,
+							["texPrefix"] = "GarrBuilding_Inn_3_H",
+							["buildTime"] = 3600,
+							["icon"] = 134414,
+							["buildingState"] = 0,
+						},
+						[23] = {
+							["shipment"] = {
+								["shipmentsAvailable"] = 21,
+								["shipmentsTotal"] = 21,
+								["notificationValue"] = 0,
+								["shipmentsReadyEstimate"] = 0,
+								["shipmentsInProgress"] = 0,
+								["name"] = "战争工坊",
+								["texture"] = 975736,
+								["notification"] = 1,
+								["notificationDismissed"] = false,
+								["shipmentCapacity"] = 21,
+							},
+							["rank"] = 3,
+							["id"] = 10,
+							["plotID"] = 23,
+							["plotSize"] = 3,
+							["isBuilding"] = false,
+							["canActivate"] = false,
+							["notification"] = 1,
+							["name"] = "战争工坊",
+							["timeStart"] = 1422960969,
+							["texPrefix"] = "GarrBuilding_Armory_3_H",
+							["buildTime"] = 3600,
+							["icon"] = 975736,
+							["buildingState"] = 0,
+						},
+						[98] = {
+							["shipment"] = {
+								["shipmentsAvailable"] = 1,
+								["shipmentsTotal"] = 1,
+								["notificationValue"] = 0,
+								["shipmentsReadyEstimate"] = 0,
+								["shipmentsInProgress"] = 0,
+								["name"] = "霜壁船坞",
+								["texture"] = 1126431,
+								["notification"] = 1,
+								["notificationDismissed"] = false,
+								["shipmentCapacity"] = 1,
+							},
+							["id"] = 207,
+							["plotID"] = 98,
+							["rank"] = 3,
+							["buildTime"] = 0,
+							["canActivate"] = false,
+							["name"] = "霜壁船坞",
+							["isBuilding"] = false,
+							["texPrefix"] = "GarrBuilding_Armory_1_A",
+							["timeStart"] = 1466160610,
+							["icon"] = 1126431,
+							["buildingState"] = 0,
+						},
+					},
+					["info"] = {
+						["playerFaction"] = "Horde",
+						["playerClass"] = "PALADIN",
+						["bonusEnabled"] = true,
+						["playerName"] = "杀猪刀猴赛雷",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						["realmName"] = "火羽山",
 					},
 					["trackDaily"] = {
 					},
+<<<<<<< HEAD
 					["currencyApexisAmount"] = 0,
 					["weeklyNextReset"] = 1489618799,
 					["currencyAmount"] = 106,
 					["garrisonCacheLastLooted"] = 1487764076,
+=======
+					["currencyAncientManaAmount"] = 0,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 3760,
+					["currencySealOfInevitableFateAmount"] = 13,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				},
 				["小学生放假了"] = {
 					["categories"] = {
@@ -24527,6 +41213,7 @@ Broker_GarrisonDB = {
 					},
 					["configVersion"] = 3,
 					["missions"] = {
+<<<<<<< HEAD
 						[398] = {
 							["type"] = "战斗",
 							["statusComplete"] = true,
@@ -24665,10 +41352,124 @@ Broker_GarrisonDB = {
 									},
 									["iconId"] = 1066395,
 								}, -- [1]
+=======
+						[456] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["itemID"] = 122486,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 456,
+							["duration"] = 28800,
+							["followers"] = {
+								{
+									["name"] = "西奥多什·盲眼",
+									["id"] = "0x0000000000783CB5",
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+									["abilities"] = {
+										{
+											["id"] = 70,
+											["name"] = "德拉诺之子",
+											["icon"] = 236451,
+										}, -- [1]
+										{
+											["id"] = 154,
+											["name"] = "闪电链",
+											["icon"] = 136015,
+										}, -- [2]
+										{
+											["id"] = 45,
+											["name"] = "穴居人",
+											["icon"] = 409595,
+										}, -- [3]
+										{
+											["id"] = 107,
+											["name"] = "净化灵魂",
+											["icon"] = 236288,
+										}, -- [4]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [5]
+									},
+									["iconId"] = 1066139,
+								}, -- [1]
+								{
+									["name"] = "诺古克·腐颅",
+									["id"] = "0x00000000006EB91F",
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+									["abilities"] = {
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [1]
+										{
+											["id"] = 178,
+											["name"] = "火焰之雨",
+											["icon"] = 135804,
+										}, -- [2]
+										{
+											["id"] = 36,
+											["name"] = "恶魔克星",
+											["icon"] = 254651,
+										}, -- [3]
+										{
+											["id"] = 179,
+											["name"] = "法术封锁",
+											["icon"] = 136174,
+										}, -- [4]
+										{
+											["id"] = 74,
+											["name"] = "精灵一族",
+											["icon"] = 236440,
+										}, -- [5]
+									},
+									["iconId"] = 1066326,
+								}, -- [2]
+								{
+									["name"] = "洛克塔尔",
+									["id"] = "0x00000000010419C9",
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+									["abilities"] = {
+										{
+											["id"] = 314,
+											["name"] = "油猴子",
+											["icon"] = 252178,
+										}, -- [1]
+										{
+											["id"] = 165,
+											["name"] = "逃脱",
+											["icon"] = 132294,
+										}, -- [2]
+										{
+											["id"] = 48,
+											["name"] = "沼泽行者",
+											["icon"] = 236819,
+										}, -- [3]
+										{
+											["id"] = 103,
+											["name"] = "急速射击",
+											["icon"] = 132208,
+										}, -- [4]
+										{
+											["id"] = 70,
+											["name"] = "德拉诺之子",
+											["icon"] = 236451,
+										}, -- [5]
+									},
+									["iconId"] = 1066060,
+								}, -- [3]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							},
 							["timeLeftCalc"] = 0,
 							["statusComplete"] = true,
 							["notification"] = 1,
+<<<<<<< HEAD
 							["name"] = "汽痕强盗",
 							["followerTypeID"] = 1,
 							["start"] = 1489491647,
@@ -24695,6 +41496,33 @@ Broker_GarrisonDB = {
 									["name"] = "索卡",
 									["id"] = "0x000000000085BF72",
 									["classIcon"] = "GarrMission_ClassIcon-Mage",
+=======
+							["name"] = "钢铁装配车间",
+							["followerTypeID"] = 1,
+							["start"] = 1488710316,
+							["level"] = 100,
+							["timeLeft"] = "8小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[277] = {
+							["type"] = "寻宝",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 50,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 277,
+							["duration"] = 3600,
+							["followers"] = {
+								{
+									["name"] = "凯里克",
+									["id"] = "0x0000000000D8EDCE",
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -24702,6 +41530,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 173,
 											["name"] = "时间扭曲",
 											["icon"] = 458224,
@@ -24883,6 +41712,149 @@ Broker_GarrisonDB = {
 									["name"] = "格雷瓦兹·赤刃",
 									["id"] = "0x0000000000C93198",
 									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+=======
+											["id"] = 158,
+											["name"] = "升腾",
+											["icon"] = 135791,
+										}, -- [2]
+										{
+											["id"] = 40,
+											["name"] = "戈隆克星",
+											["icon"] = 236412,
+										}, -- [3]
+										{
+											["id"] = 154,
+											["name"] = "闪电链",
+											["icon"] = 136015,
+										}, -- [4]
+										{
+											["id"] = 70,
+											["name"] = "德拉诺之子",
+											["icon"] = 236451,
+										}, -- [5]
+									},
+									["iconId"] = 1066471,
+								}, -- [1]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "蛛后阿兰妮艾",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 92,
+							["timeLeft"] = "1小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Trading",
+						},
+						[503] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["itemID"] = 123858,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 503,
+							["duration"] = 21600,
+							["followers"] = {
+								{
+									["name"] = "梵拉",
+									["id"] = "0x0000000000721B7C",
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+									["abilities"] = {
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [1]
+										{
+											["id"] = 124,
+											["name"] = "圣盾术",
+											["icon"] = 524354,
+										}, -- [2]
+										{
+											["id"] = 8,
+											["name"] = "冰冷血脉",
+											["icon"] = 236833,
+										}, -- [3]
+										{
+											["id"] = 123,
+											["name"] = "清算",
+											["icon"] = 135984,
+										}, -- [4]
+										{
+											["id"] = 73,
+											["name"] = "巫术狂信徒",
+											["icon"] = 236456,
+										}, -- [5]
+									},
+									["iconId"] = 1086444,
+								}, -- [1]
+								{
+									["name"] = "暗影猎手莱拉",
+									["id"] = "0x0000000000606CCC",
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+									["abilities"] = {
+										{
+											["id"] = 103,
+											["name"] = "急速射击",
+											["icon"] = 132208,
+										}, -- [1]
+										{
+											["id"] = 232,
+											["name"] = "动感舞王",
+											["icon"] = 132171,
+										}, -- [2]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [3]
+										{
+											["id"] = 101,
+											["name"] = "多重射击",
+											["icon"] = 132330,
+										}, -- [4]
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [5]
+									},
+									["iconId"] = 1066105,
+								}, -- [2]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "兵锋的教诲",
+							["followerTypeID"] = 1,
+							["start"] = 1488710312,
+							["level"] = 100,
+							["timeLeft"] = "6小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[163] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 800,
+									["tooltip"] = "+800经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+800经验值",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 163,
+							["duration"] = 2700,
+							["followers"] = {
+								{
+									["name"] = "莫西恩·落日",
+									["id"] = "0x0000000000E1D2DA",
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -24890,6 +41862,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 104,
 											["name"] = "闷棍",
 											["icon"] = 132310,
@@ -25096,6 +42069,149 @@ Broker_GarrisonDB = {
 									["name"] = "凯里克",
 									["id"] = "0x0000000000D8EDCE",
 									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+=======
+											["id"] = 125,
+											["name"] = "清洁术",
+											["icon"] = 135949,
+										}, -- [2]
+										{
+											["id"] = 49,
+											["name"] = "平原旅人",
+											["icon"] = 236712,
+										}, -- [3]
+										{
+											["id"] = 123,
+											["name"] = "清算",
+											["icon"] = 135984,
+										}, -- [4]
+										{
+											["id"] = 40,
+											["name"] = "戈隆克星",
+											["icon"] = 236412,
+										}, -- [5]
+									},
+									["iconId"] = 1066290,
+								}, -- [1]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "针锋相对",
+							["followerTypeID"] = 1,
+							["start"] = 1488710323,
+							["level"] = 97,
+							["timeLeft"] = "45分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[281] = {
+							["type"] = "寻宝",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 65,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 281,
+							["duration"] = 5400,
+							["followers"] = {
+								{
+									["name"] = "卡恩·钢蹄",
+									["id"] = "0x000000000074C17F",
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+									["abilities"] = {
+										{
+											["id"] = 70,
+											["name"] = "德拉诺之子",
+											["icon"] = 236451,
+										}, -- [1]
+										{
+											["id"] = 6,
+											["name"] = "盾墙",
+											["icon"] = 132362,
+										}, -- [2]
+										{
+											["id"] = 46,
+											["name"] = "游击队员",
+											["icon"] = 236850,
+										}, -- [3]
+										{
+											["id"] = 100,
+											["name"] = "嘲讽",
+											["icon"] = 136080,
+										}, -- [4]
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [5]
+									},
+									["iconId"] = 1066216,
+								}, -- [1]
+								{
+									["name"] = "布鲁托",
+									["id"] = "0x0000000000609076",
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+									["abilities"] = {
+										{
+											["id"] = 183,
+											["name"] = "豪能酒",
+											["icon"] = 608938,
+										}, -- [1]
+										{
+											["id"] = 140,
+											["name"] = "嚎镇八方",
+											["icon"] = 620830,
+										}, -- [2]
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [3]
+										{
+											["id"] = 49,
+											["name"] = "平原旅人",
+											["icon"] = 236712,
+										}, -- [4]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [5]
+									},
+									["iconId"] = 1066096,
+								}, -- [2]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "来自奸商的利润",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 97,
+							["timeLeft"] = "1小时30分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Trading",
+						},
+						[179] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 42,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 179,
+							["duration"] = 3600,
+							["followers"] = {
+								{
+									["name"] = "奈撒扎·灭碎",
+									["id"] = "0x0000000000CEF0D5",
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -25103,6 +42219,97 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+											["id"] = 181,
+											["name"] = "召唤地狱火",
+											["icon"] = 136219,
+										}, -- [2]
+										{
+											["id"] = 41,
+											["name"] = "元素克星",
+											["icon"] = 254652,
+										}, -- [3]
+										{
+											["id"] = 180,
+											["name"] = "恐惧",
+											["icon"] = 136183,
+										}, -- [4]
+										{
+											["id"] = 37,
+											["name"] = "野兽克星",
+											["icon"] = 298659,
+										}, -- [5]
+									},
+									["iconId"] = 1066423,
+								}, -- [1]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "黄金储备",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 96,
+							["timeLeft"] = "1小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[120] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["itemID"] = 120302,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 120,
+							["duration"] = 14400,
+							["followers"] = {
+								{
+									["name"] = "海莉·哈洛森德",
+									["id"] = "0x0000000000D2D46F",
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 10,
+											["name"] = "信仰飞跃",
+											["icon"] = 463835,
+										}, -- [2]
+										{
+											["id"] = 74,
+											["name"] = "精灵一族",
+											["icon"] = 236440,
+										}, -- [3]
+										{
+											["id"] = 151,
+											["name"] = "统御意志",
+											["icon"] = 136206,
+										}, -- [4]
+										{
+											["id"] = 72,
+											["name"] = "图腾崇拜者",
+											["icon"] = 236454,
+										}, -- [5]
+									},
+									["iconId"] = 1066190,
+								}, -- [1]
+								{
+									["name"] = "赞斯·银怒",
+									["id"] = "0x00000000007D80C4",
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+<<<<<<< HEAD
 											["id"] = 158,
 											["name"] = "升腾",
 											["icon"] = 135791,
@@ -25131,10 +42338,42 @@ Broker_GarrisonDB = {
 							["name"] = "谁说了算？",
 							["followerTypeID"] = 1,
 							["start"] = 1489491645,
+=======
+											["id"] = 125,
+											["name"] = "清洁术",
+											["icon"] = 135949,
+										}, -- [2]
+										{
+											["id"] = 37,
+											["name"] = "野兽克星",
+											["icon"] = 298659,
+										}, -- [3]
+										{
+											["id"] = 127,
+											["name"] = "忏悔",
+											["icon"] = 135942,
+										}, -- [4]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [5]
+									},
+									["iconId"] = 1066173,
+								}, -- [2]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "刃牙虎人的伏击",
+							["followerTypeID"] = 1,
+							["start"] = 1488710319,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["level"] = 100,
 							["timeLeft"] = "4小时",
 							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 						},
+<<<<<<< HEAD
 						[494] = {
 							["type"] = "裁缝",
 							["statusComplete"] = true,
@@ -25152,6 +42391,26 @@ Broker_GarrisonDB = {
 									["name"] = "罗纳",
 									["id"] = "0x0000000000C9DB1C",
 									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+=======
+						[269] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 225,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 269,
+							["duration"] = 14400,
+							["followers"] = {
+								{
+									["name"] = "奥林·利刃",
+									["id"] = "0x0000000000D0C30B",
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -25159,6 +42418,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 106,
 											["name"] = "治疗链",
 											["icon"] = 136042,
@@ -25259,6 +42519,79 @@ Broker_GarrisonDB = {
 						},
 						[733] = {
 							["type"] = "舰船-总攻（部落）",
+=======
+											["id"] = 114,
+											["name"] = "黑暗命令",
+											["icon"] = 136088,
+										}, -- [2]
+										{
+											["id"] = 74,
+											["name"] = "精灵一族",
+											["icon"] = 236440,
+										}, -- [3]
+										{
+											["id"] = 116,
+											["name"] = "枯萎凋零",
+											["icon"] = 136144,
+										}, -- [4]
+										{
+											["id"] = 40,
+											["name"] = "戈隆克星",
+											["icon"] = 236412,
+										}, -- [5]
+									},
+									["iconId"] = 1066032,
+								}, -- [1]
+								{
+									["name"] = "索卡",
+									["id"] = "0x000000000085BF72",
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 173,
+											["name"] = "时间扭曲",
+											["icon"] = 458224,
+										}, -- [2]
+										{
+											["id"] = 39,
+											["name"] = "原兽克星",
+											["icon"] = 254105,
+										}, -- [3]
+										{
+											["id"] = 170,
+											["name"] = "闪现术",
+											["icon"] = 135736,
+										}, -- [4]
+										{
+											["id"] = 75,
+											["name"] = "经济学家",
+											["icon"] = 632354,
+										}, -- [5]
+									},
+									["iconId"] = 1066159,
+								}, -- [2]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "临阵倒戈",
+							["followerTypeID"] = 1,
+							["start"] = 1488710302,
+							["level"] = 100,
+							["timeLeft"] = "4小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[733] = {
+							["type"] = "舰船-总攻（部落）",
+							["typeAtlas"] = "ShipMissionIcon-SiegeIHH-Mission",
+							["timeLeft"] = "30分钟",
+							["id"] = 733,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["rewards"] = {
 								{
 									["title"] = "奖励追随者经验",
@@ -25268,14 +42601,28 @@ Broker_GarrisonDB = {
 									["name"] = "+1,000经验值",
 								}, -- [1]
 							},
+<<<<<<< HEAD
 							["missionState"] = 0,
 							["id"] = 733,
 							["duration"] = 1800,
+=======
+							["level"] = 100,
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "封锁线：南海",
+							["followerTypeID"] = 2,
+							["start"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["followers"] = {
 								{
 									["name"] = "饥饿淡水兽号",
 									["id"] = "0x0000000001D4A174",
+<<<<<<< HEAD
 									["classIcon"] = "Ships_TroopTransport-List",
+=======
+									["iconId"] = 1341798,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 260,
@@ -25288,12 +42635,20 @@ Broker_GarrisonDB = {
 											["icon"] = 632354,
 										}, -- [2]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1341798,
+=======
+									["classIcon"] = "Ships_TroopTransport-List",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								}, -- [1]
 								{
 									["name"] = "逐晨者号",
 									["id"] = "0x0000000001D5C85A",
+<<<<<<< HEAD
 									["classIcon"] = "Ships_GalleonH-List",
+=======
+									["iconId"] = 1341793,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 263,
@@ -25311,6 +42666,7 @@ Broker_GarrisonDB = {
 											["icon"] = 632354,
 										}, -- [3]
 									},
+<<<<<<< HEAD
 									["iconId"] = 1341793,
 								}, -- [2]
 							},
@@ -25338,6 +42694,60 @@ Broker_GarrisonDB = {
 							["missionState"] = 0,
 							["followers"] = {
 								{
+=======
+									["classIcon"] = "Ships_GalleonH-List",
+								}, -- [2]
+							},
+							["missionState"] = 0,
+							["duration"] = 1800,
+						},
+						[129] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["itemID"] = 114616,
+									["quantity"] = 1,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 129,
+							["duration"] = 28800,
+							["followers"] = {
+								{
+									["name"] = "戈隆追猎者洛卡什",
+									["id"] = "0x0000000000606BF8",
+									["classIcon"] = "GarrMission_ClassIcon-Hunter",
+									["abilities"] = {
+										{
+											["id"] = 167,
+											["name"] = "冰冻陷阱",
+											["icon"] = 135834,
+										}, -- [1]
+										{
+											["id"] = 101,
+											["name"] = "多重射击",
+											["icon"] = 132330,
+										}, -- [2]
+										{
+											["id"] = 70,
+											["name"] = "德拉诺之子",
+											["icon"] = 236451,
+										}, -- [3]
+										{
+											["id"] = 44,
+											["name"] = "自然学家",
+											["icon"] = 236830,
+										}, -- [4]
+										{
+											["id"] = 40,
+											["name"] = "戈隆克星",
+											["icon"] = 236412,
+										}, -- [5]
+									},
+									["iconId"] = 1066110,
+								}, -- [1]
+								{
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["name"] = "奥术师杜克罗格",
 									["id"] = "0x0000000000E3CCA1",
 									["classIcon"] = "GarrMission_ClassIcon-Mage",
@@ -25363,6 +42773,7 @@ Broker_GarrisonDB = {
 											["icon"] = 136071,
 										}, -- [4]
 										{
+<<<<<<< HEAD
 											["id"] = 42,
 											["name"] = "虚空克星",
 											["icon"] = 298680,
@@ -25407,6 +42818,19 @@ Broker_GarrisonDB = {
 									["name"] = "海莉·哈洛森德",
 									["id"] = "0x0000000000D2D46F",
 									["classIcon"] = "GarrMission_ClassIcon-Priest",
+=======
+											["id"] = 42,
+											["name"] = "虚空克星",
+											["icon"] = 298680,
+										}, -- [5]
+									},
+									["iconId"] = 1086382,
+								}, -- [2]
+								{
+									["name"] = "沙帕",
+									["id"] = "0x00000000007B2709",
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -25414,6 +42838,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 10,
 											["name"] = "信仰飞跃",
 											["icon"] = 463835,
@@ -25442,15 +42867,51 @@ Broker_GarrisonDB = {
 							["name"] = "悬槌堡团队副本",
 							["followerTypeID"] = 1,
 							["start"] = 1489491659,
+=======
+											["id"] = 155,
+											["name"] = "风剪",
+											["icon"] = 463565,
+										}, -- [2]
+										{
+											["id"] = 77,
+											["name"] = "能量爆发",
+											["icon"] = 136088,
+										}, -- [3]
+										{
+											["id"] = 106,
+											["name"] = "治疗链",
+											["icon"] = 136042,
+										}, -- [4]
+										{
+											["id"] = 37,
+											["name"] = "野兽克星",
+											["icon"] = 298659,
+										}, -- [5]
+									},
+									["iconId"] = 1066395,
+								}, -- [3]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "刃月的秘密",
+							["followerTypeID"] = 1,
+							["start"] = 1488710318,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["level"] = 100,
 							["timeLeft"] = "8小时",
 							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 						},
+<<<<<<< HEAD
 						[189] = {
+=======
+						[674] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["type"] = "战斗",
 							["rewards"] = {
 								{
 									["title"] = "货币奖励",
+<<<<<<< HEAD
 									["quantity"] = 38,
 									["icon"] = "Interface\\Icons\\inv_garrison_resource",
 									["currencyID"] = 824,
@@ -25464,6 +42925,21 @@ Broker_GarrisonDB = {
 									["name"] = "赞斯·银怒",
 									["id"] = "0x00000000007D80C4",
 									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+=======
+									["quantity"] = 50,
+									["icon"] = "Interface\\Icons\\garrison_oil",
+									["currencyID"] = 1101,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 674,
+							["duration"] = 28800,
+							["followers"] = {
+								{
+									["name"] = "尤恩·虎噬",
+									["id"] = "0x0000000000868DAA",
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -25471,6 +42947,7 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+<<<<<<< HEAD
 											["id"] = 125,
 											["name"] = "清洁术",
 											["icon"] = 135949,
@@ -25634,18 +43111,33 @@ Broker_GarrisonDB = {
 								{
 									["title"] = "货币奖励",
 									["quantity"] = 48,
-									["icon"] = "Interface\\Icons\\inv_garrison_resource",
-									["currencyID"] = 824,
+=======
+											["id"] = 141,
+											["name"] = "金钟罩",
+											["icon"] = 611417,
+										}, -- [2]
+										{
+											["id"] = 40,
+											["name"] = "戈隆克星",
+											["icon"] = 236412,
+										}, -- [3]
+										{
+											["id"] = 143,
+											["name"] = "滚地翻",
+											["icon"] = 574574,
+										}, -- [4]
+										{
+											["id"] = 38,
+											["name"] = "食人魔克星",
+											["icon"] = 236695,
+										}, -- [5]
+									},
+									["iconId"] = 1066527,
 								}, -- [1]
-							},
-							["missionState"] = 0,
-							["id"] = 220,
-							["duration"] = 3600,
-							["followers"] = {
 								{
-									["name"] = "莫西恩·落日",
-									["id"] = "0x0000000000E1D2DA",
-									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+									["name"] = "布拉克·碎盾",
+									["id"] = "0x0000000000D6FB01",
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
 									["abilities"] = {
 										{
 											["id"] = 256,
@@ -25653,6 +43145,167 @@ Broker_GarrisonDB = {
 											["icon"] = 1005027,
 										}, -- [1]
 										{
+											["id"] = 6,
+											["name"] = "盾墙",
+											["icon"] = 132362,
+										}, -- [2]
+										{
+											["id"] = 43,
+											["name"] = "利爪克星",
+											["icon"] = 952507,
+										}, -- [3]
+										{
+											["id"] = 102,
+											["name"] = "英勇飞跃",
+											["icon"] = 236171,
+										}, -- [4]
+										{
+											["id"] = 76,
+											["name"] = "持久耐力",
+											["icon"] = 135987,
+										}, -- [5]
+									},
+									["iconId"] = 1066512,
+								}, -- [2]
+								{
+									["name"] = "赞奇里",
+									["id"] = "0x000000000082D58E",
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 138,
+											["name"] = "狂暴",
+											["icon"] = 236149,
+										}, -- [2]
+										{
+											["id"] = 42,
+											["name"] = "虚空克星",
+											["icon"] = 298680,
+										}, -- [3]
+										{
+											["id"] = 108,
+											["name"] = "咆哮",
+											["icon"] = 132270,
+										}, -- [4]
+										{
+											["id"] = 71,
+											["name"] = "死亡诱惑",
+											["icon"] = 236457,
+										}, -- [5]
+									},
+									["iconId"] = 1066231,
+								}, -- [3]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "食秽者",
+							["followerTypeID"] = 1,
+							["start"] = 1488710321,
+							["level"] = 100,
+							["timeLeft"] = "8小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[186] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 32,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 186,
+							["duration"] = 3600,
+							["followers"] = {
+								{
+									["name"] = "罗纳",
+									["id"] = "0x0000000000C9DB1C",
+									["classIcon"] = "GarrMission_ClassIcon-Shaman",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+											["id"] = 106,
+											["name"] = "治疗链",
+											["icon"] = 136042,
+										}, -- [2]
+										{
+											["id"] = 75,
+											["name"] = "经济学家",
+											["icon"] = 632354,
+										}, -- [3]
+										{
+											["id"] = 157,
+											["name"] = "妖术",
+											["icon"] = 237579,
+										}, -- [4]
+										{
+											["id"] = 74,
+											["name"] = "精灵一族",
+											["icon"] = 236440,
+										}, -- [5]
+									},
+									["iconId"] = 1066473,
+								}, -- [1]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "风箱里的白鬼",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 91,
+							["timeLeft"] = "1小时",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[312] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "货币奖励",
+									["quantity"] = 300,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								}, -- [1]
+							},
+							["missionState"] = 0,
+<<<<<<< HEAD
+							["id"] = 220,
+							["duration"] = 3600,
+							["followers"] = {
+								{
+									["name"] = "莫西恩·落日",
+									["id"] = "0x0000000000E1D2DA",
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+=======
+							["id"] = 312,
+							["duration"] = 21600,
+							["followers"] = {
+								{
+									["name"] = "格雷瓦兹·赤刃",
+									["id"] = "0x0000000000C93198",
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [1]
+										{
+<<<<<<< HEAD
 											["id"] = 125,
 											["name"] = "清洁术",
 											["icon"] = 135949,
@@ -25700,6 +43353,30 @@ Broker_GarrisonDB = {
 							["id"] = 190,
 							["duration"] = 2700,
 							["followers"] = {
+=======
+											["id"] = 104,
+											["name"] = "闷棍",
+											["icon"] = 132310,
+										}, -- [2]
+										{
+											["id"] = 41,
+											["name"] = "元素克星",
+											["icon"] = 254652,
+										}, -- [3]
+										{
+											["id"] = 162,
+											["name"] = "死亡标记",
+											["icon"] = 236364,
+										}, -- [4]
+										{
+											["id"] = 70,
+											["name"] = "德拉诺之子",
+											["icon"] = 236451,
+										}, -- [5]
+									},
+									["iconId"] = 1066438,
+								}, -- [1]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								{
 									["name"] = "普里西拉·影日",
 									["id"] = "0x0000000000882954",
@@ -25732,6 +43409,7 @@ Broker_GarrisonDB = {
 										}, -- [5]
 									},
 									["iconId"] = 1086426,
+<<<<<<< HEAD
 								}, -- [1]
 							},
 							["statusComplete"] = true,
@@ -25742,6 +43420,51 @@ Broker_GarrisonDB = {
 							["start"] = 1489491649,
 							["level"] = 95,
 							["timeLeft"] = "45分钟",
+=======
+								}, -- [2]
+								{
+									["name"] = "丘克·死界",
+									["id"] = "0x00000000006B8DE8",
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+									["abilities"] = {
+										{
+											["id"] = 79,
+											["name"] = "拾荒者",
+											["icon"] = 413571,
+										}, -- [1]
+										{
+											["id"] = 172,
+											["name"] = "变形术",
+											["icon"] = 136071,
+										}, -- [2]
+										{
+											["id"] = 41,
+											["name"] = "元素克星",
+											["icon"] = 254652,
+										}, -- [3]
+										{
+											["id"] = 171,
+											["name"] = "法术反制",
+											["icon"] = 135856,
+										}, -- [4]
+										{
+											["id"] = 256,
+											["name"] = "极限拾荒",
+											["icon"] = 1005027,
+										}, -- [5]
+									},
+									["iconId"] = 1086380,
+								}, -- [3]
+							},
+							["timeLeftCalc"] = 0,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "奇幻之旅",
+							["followerTypeID"] = 1,
+							["start"] = 1488710300,
+							["level"] = 100,
+							["timeLeft"] = "6小时",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 						},
 					},
@@ -25752,6 +43475,7 @@ Broker_GarrisonDB = {
 					},
 					["buildingsExpanded"] = true,
 					["missionsExpanded"] = true,
+<<<<<<< HEAD
 					["currencySealOfInevitableFateAmount"] = 16,
 					["cacheSize"] = 750,
 					["buildings"] = {
@@ -25772,10 +43496,183 @@ Broker_GarrisonDB = {
 							},
 							["id"] = 10,
 							["plotID"] = 24,
+=======
+					["garrisonCacheLastLooted"] = 1489151150,
+					["cacheSize"] = 750,
+					["buildings"] = {
+						[24] = {
+							["shipment"] = {
+								["shipmentsAvailable"] = 21,
+								["shipmentsTotal"] = 21,
+								["notificationValue"] = 0,
+								["shipmentsReadyEstimate"] = 0,
+								["shipmentsInProgress"] = 0,
+								["name"] = "战争工坊",
+								["shipmentCapacity"] = 21,
+								["notificationDismissed"] = false,
+								["notification"] = 1,
+								["texture"] = 975736,
+							},
+							["buildingState"] = 0,
+							["id"] = 10,
+							["plotID"] = 24,
 							["plotSize"] = 3,
 							["buildTime"] = 3600,
 							["canActivate"] = false,
 							["notification"] = 1,
+							["name"] = "战争工坊",
+							["timeStart"] = 1423009981,
+							["texPrefix"] = "GarrBuilding_Armory_3_H",
+							["isBuilding"] = false,
+							["icon"] = 975736,
+							["rank"] = 3,
+						},
+						[63] = {
+							["shipment"] = {
+								["shipmentsAvailable"] = 6,
+								["itemName"] = "药圃",
+								["itemQuality"] = 1,
+								["shipmentCapacity"] = 7,
+								["notificationValue"] = 1,
+								["duration"] = 0,
+								["shipmentsReadyEstimate"] = 1,
+								["shipmentsInProgress"] = 0,
+								["itemID"] = 116054,
+								["notification"] = 1,
+								["name"] = "药圃",
+								["shipmentsTotal"] = 1,
+								["notificationDismissed"] = false,
+								["creationTime"] = 0,
+								["shipmentsReady"] = 1,
+								["texture"] = 134221,
+							},
+							["id"] = 29,
+							["plotID"] = 63,
+							["buildingState"] = 0,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "药圃",
+							["timeStart"] = 1423136015,
+							["texPrefix"] = "GarrBuilding_Farm_1_H",
+							["isBuilding"] = false,
+							["icon"] = 134221,
+							["rank"] = 1,
+						},
+						[98] = {
+							["shipment"] = {
+								["shipmentsAvailable"] = 0,
+								["itemName"] = "舰船：驱逐舰",
+								["itemQuality"] = 1,
+								["shipmentCapacity"] = 1,
+								["notificationValue"] = 1,
+								["duration"] = 0,
+								["shipmentsReadyEstimate"] = 1,
+								["shipmentsInProgress"] = 0,
+								["itemID"] = 128303,
+								["notification"] = 1,
+								["name"] = "霜壁船坞",
+								["shipmentsTotal"] = 1,
+								["notificationDismissed"] = false,
+								["creationTime"] = 0,
+								["shipmentsReady"] = 1,
+								["texture"] = 1126431,
+							},
+							["id"] = 205,
+							["plotID"] = 98,
+							["buildingState"] = 0,
+							["buildTime"] = 0,
+							["canActivate"] = false,
+							["name"] = "霜壁船坞",
+							["timeStart"] = 1476968771,
+							["texPrefix"] = "GarrBuilding_Armory_1_A",
+							["isBuilding"] = false,
+							["icon"] = 1126431,
+							["rank"] = 1,
+						},
+						[18] = {
+							["shipment"] = {
+								["shipmentsAvailable"] = 0,
+								["itemName"] = "妖纹布",
+								["duration"] = 14400,
+								["shipmentsReadyEstimate"] = 13,
+								["notification"] = 1,
+								["creationTime"] = 1489277539,
+								["shipmentsReady"] = 5,
+								["texture"] = 136249,
+								["notificationValue"] = 13,
+								["shipmentsInProgress"] = 8,
+								["notificationDismissed"] = false,
+								["timeleftString"] = "17分钟",
+								["shipmentsTotal"] = 21,
+								["itemID"] = 111556,
+								["itemQuality"] = 2,
+								["name"] = "裁缝店",
+								["shipmentCapacity"] = 21,
+							},
+							["buildingState"] = 0,
+							["id"] = 128,
+							["plotID"] = 18,
+							["plotSize"] = 1,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["notification"] = 1,
+							["name"] = "裁缝店",
+							["timeStart"] = 1424690491,
+							["texPrefix"] = "GarrBuilding_Tailoring_3_H",
+							["isBuilding"] = false,
+							["icon"] = 136249,
+							["rank"] = 3,
+						},
+						[19] = {
+							["shipment"] = {
+								["shipmentCapacity"] = 7,
+								["name"] = "炼金实验室",
+								["texture"] = 136240,
+							},
+							["buildingState"] = 0,
+							["id"] = 76,
+							["plotID"] = 19,
+							["plotSize"] = 1,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["notification"] = 1,
+							["name"] = "炼金实验室",
+							["timeStart"] = 1419675999,
+							["texPrefix"] = "GarrBuilding_Alchemy_1_H",
+							["isBuilding"] = false,
+							["icon"] = 136240,
+							["rank"] = 1,
+						},
+						[20] = {
+							["shipment"] = {
+							},
+							["buildingState"] = 0,
+							["id"] = 141,
+							["plotID"] = 20,
+							["plotSize"] = 1,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["notification"] = 1,
+							["name"] = "废品站",
+							["timeStart"] = 1423009979,
+							["texPrefix"] = "GarrBuilding_SalvageYard_1_H",
+							["isBuilding"] = false,
+							["icon"] = 975742,
+							["rank"] = 3,
+						},
+						[23] = {
+							["shipment"] = {
+							},
+							["buildingState"] = 0,
+							["id"] = 28,
+							["plotID"] = 23,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+							["plotSize"] = 3,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["notification"] = 1,
+<<<<<<< HEAD
 							["name"] = "战争工坊",
 							["timeStart"] = 1423009981,
 							["texPrefix"] = "GarrBuilding_Armory_3_H",
@@ -26014,6 +43911,93 @@ Broker_GarrisonDB = {
 					["trackWeekly"] = {
 						["BONUS_ROLL_QUESTS"] = 3,
 						["WARMILL_SOTF"] = true,
+					},
+					["talents"] = {
+						[440] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的海盗变为格斗家，拥有：\r\n\r\n|TInterface\\ICONS\\ABILITY_PARRY.BLP:20:20:0:0|t |Cffffffff备战就绪|R\r\n有|C00b3ffff爪牙|R的任务成功率提高15%。",
+=======
+							["name"] = "兵营",
+							["timeStart"] = 1426762532,
+							["texPrefix"] = "GarrBuilding_Barracks_3_H",
+							["isBuilding"] = false,
+							["icon"] = 975738,
+							["rank"] = 3,
+						},
+						[22] = {
+							["shipment"] = {
+							},
+							["buildingState"] = 0,
+							["id"] = 36,
+							["plotID"] = 22,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["notification"] = 1,
+							["name"] = "霜壁旅社",
+							["timeStart"] = 1431043059,
+							["texPrefix"] = "GarrBuilding_Inn_3_H",
+							["isBuilding"] = false,
+							["icon"] = 134414,
+							["rank"] = 3,
+						},
+						[59] = {
+							["shipment"] = {
+								["shipmentsAvailable"] = 4,
+								["itemName"] = "矿镐",
+								["itemQuality"] = 1,
+								["shipmentCapacity"] = 7,
+								["notificationValue"] = 3,
+								["duration"] = 0,
+								["shipmentsReadyEstimate"] = 3,
+								["shipmentsInProgress"] = 0,
+								["itemID"] = 116055,
+								["notification"] = 1,
+								["name"] = "霜壁矿井",
+								["shipmentsTotal"] = 3,
+								["notificationDismissed"] = false,
+								["creationTime"] = 0,
+								["shipmentsReady"] = 3,
+								["texture"] = 136248,
+							},
+							["id"] = 61,
+							["plotID"] = 59,
+							["buildingState"] = 0,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "霜壁矿井",
+							["timeStart"] = 1419676243,
+							["texPrefix"] = "GarrBuilding_Mine_1_H",
+							["isBuilding"] = false,
+							["icon"] = 136248,
+							["rank"] = 1,
+						},
+						[25] = {
+							["shipment"] = {
+								["shipmentCapacity"] = 7,
+								["name"] = "货栈",
+								["texture"] = 975746,
+							},
+							["buildingState"] = 0,
+							["id"] = 111,
+							["plotID"] = 25,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["notification"] = 1,
+							["name"] = "货栈",
+							["timeStart"] = 1423441022,
+							["texPrefix"] = "GarrBuilding_TradingPost_1_H",
+							["isBuilding"] = false,
+							["icon"] = 975746,
+							["rank"] = 1,
+						},
+					},
+					["currencyOrderResourcesAmount"] = 860,
+					["trackWeekly"] = {
+						["WARMILL_SOTF"] = false,
+						["BONUS_ROLL_QUESTS"] = 0,
 					},
 					["talents"] = {
 						[440] = {
@@ -26288,6 +44272,587 @@ Broker_GarrisonDB = {
 					},
 					["looseShipments"] = {
 					},
+					["notificationEnabled"] = true,
+					["followerShipments"] = {
+					},
+					["currencyAncientManaAmount"] = 0,
+					["currencyOil"] = 21970,
+					["currencyArtifactKnowledge"] = 0,
+					["order"] = 5,
+					["orderhallExpanded"] = true,
+					["lootedNextReset"] = 1489445999,
+					["info"] = {
+						["realmName"] = "火羽山",
+						["playerClass"] = "ROGUE",
+						["playerFaction"] = "Horde",
+						["playerName"] = "小学生放假了",
+						["bonusEnabled"] = true,
+					},
+					["trackDaily"] = {
+					},
+					["currencyApexisAmount"] = 30473,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 1331,
+					["currencySealOfInevitableFateAmount"] = 15,
+				},
+				["那总一号"] = {
+					["lootedToday"] = {
+					},
+					["configVersion"] = 2,
+					["missions"] = {
+					},
+					["order"] = 5,
+					["currencySealOfTemperedFateAmount"] = 0,
+					["invasion"] = {
+					},
+					["buildingsExpanded"] = true,
+					["buildings"] = {
+					},
+					["cacheSize"] = 500,
+					["trackWeekly"] = {
+					},
+					["currencyApexisAmount"] = 0,
+					["missionsExpanded"] = true,
+					["tooltipEnabled"] = true,
+					["ldbEnabled"] = true,
+					["notificationEnabled"] = true,
+					["currencySealOfInevitableFateAmount"] = 0,
+					["info"] = {
+						["playerName"] = "那总一号",
+						["playerFaction"] = "Horde",
+						["playerClass"] = "HUNTER",
+						["realmName"] = "火羽山",
+					},
+					["trackDaily"] = {
+					},
+					["currencyOil"] = 0,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+				},
+				["涨姿势"] = {
+					["lootedToday"] = {
+					},
+					["configVersion"] = 2,
+					["missions"] = {
+					},
+					["order"] = 5,
+					["currencySealOfTemperedFateAmount"] = 0,
+					["invasion"] = {
+					},
+					["buildingsExpanded"] = true,
+					["buildings"] = {
+					},
+					["cacheSize"] = 500,
+					["trackWeekly"] = {
+					},
+					["currencyApexisAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+					["tooltipEnabled"] = true,
+					["weeklyNextReset"] = 1489618799,
+					["currencyOil"] = 0,
+					["currencySealOfInevitableFateAmount"] = 0,
+					["info"] = {
+						["playerName"] = "涨姿势",
+						["playerFaction"] = "Alliance",
+						["realmName"] = "火羽山",
+						["playerClass"] = "WARRIOR",
+					},
+					["trackDaily"] = {
+					},
+					["notificationEnabled"] = true,
+					["ldbEnabled"] = true,
+					["currencyAmount"] = 0,
+					["missionsExpanded"] = true,
+				},
+				["海上五月花"] = {
+					["categories"] = {
+					},
+					["talents"] = {
+						[413] = {
+							["isBeingResearched"] = false,
+							["description"] = "使你非重复类的任务奖励额外升级为稀有或史诗品质的几率提高。",
+							["perkSpellID"] = 219866,
+							["researchCost"] = 50,
+							["researchDuration"] = 7200,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 607854,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 413,
+							["researchCurrency"] = 1220,
+							["name"] = "充分准备",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[414] = {
+							["isBeingResearched"] = false,
+							["description"] = "可以使用猎杀行动技能，每天派出的第一个任务的成功率提高20%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 50,
+							["researchDuration"] = 7200,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 1344654,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "每天第一个任务的成功率提高20%。",
+								["id"] = 614,
+								["name"] = "猎杀行动",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 1344654,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "猎杀行动",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 414,
+						},
+						[415] = {
+							["isBeingResearched"] = false,
+							["description"] = "在所有任务中可以使用复仇回避技能，使带有|C00b3ffff爪牙|R的任务成功率提高10%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 500,
+							["researchDuration"] = 14400,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 1348401,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "有|C00b3ffff爪牙|R的任务成功率提高10%。",
+								["id"] = 616,
+								["name"] = "复仇回避",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 1348401,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "复仇回避",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["id"] = 415,
+						},
+						[416] = {
+							["isBeingResearched"] = false,
+							["description"] = "你的灰舌战士、纳迦忠仆、伊利达雷精锐和变身的伊利达雷精锐招募上限提高1。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 1000,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 1380677,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "你的灰舌战士、纳迦忠仆、伊利达雷精锐和变身的伊利达雷精锐招募上限提高1。",
+								["id"] = 615,
+								["name"] = "训练场",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 1380677,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "训练场",
+							["researchTimeRemaining"] = 0,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["id"] = 416,
+						},
+						[417] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的灰舌战士变为纳迦忠仆，使其任务成功率提高5%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 10000,
+							["researchDuration"] = 259200,
+							["tier"] = 3,
+							["selected"] = false,
+							["icon"] = 1391617,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 417,
+							["researchCurrency"] = 1220,
+							["name"] = "纳迦忠仆",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[418] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的伊利达雷精锐变为变身的伊利达雷精锐，获得：\r\n\r\n|TInterface\\ICONS\\ABILITY_WARLOCK_SHADOWFURYTGA.BLP:20:20:0:0|t |Cffffffff恶魔形态|R\r\n有|C00b3ffff爪牙|R或|C00b3ffff危害|R的任务成功率提高15%。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+							["perkSpellID"] = 0,
+							["researchCost"] = 10000,
+							["researchDuration"] = 259200,
+							["tier"] = 3,
+							["selected"] = false,
+<<<<<<< HEAD
+							["icon"] = 1269440,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 440,
+							["researchCurrency"] = 1220,
+							["name"] = "猩红航帆",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[441] = {
+							["isBeingResearched"] = false,
+							["description"] = "勇士成功完成任务后有几率带回一张宝库赠品券。\r\n\r\n宝库券使你可以每周从无冕宝库中拾取一次随机奖励，其中所包含的财富超乎你的想象。",
+							["perkSpellID"] = 0,
+=======
+							["icon"] = 1247262,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 418,
+							["researchCurrency"] = 1220,
+							["name"] = "恶魔之力",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[419] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以进入扭曲虚空传送门，召唤强大的恶魔。你和你的盟友可以击败恶魔，获得强化奖励，还可能获得宝物。",
+							["perkSpellID"] = 228651,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+							["researchCost"] = 500,
+							["researchDuration"] = 14400,
+							["tier"] = 1,
+							["selected"] = false,
+<<<<<<< HEAD
+							["icon"] = 1269443,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "勇士成功完成任务后有几率带回一张宝库赠品券。",
+								["id"] = 789,
+								["name"] = "宝库赠品券",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 1269443,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "大殿",
+							["id"] = 441,
+=======
+							["icon"] = 134544,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 419,
+							["researchCurrency"] = 1220,
+							["name"] = "扭曲虚空",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+<<<<<<< HEAD
+						[442] = {
+							["isBeingResearched"] = false,
+							["description"] = "和一个战友一起完成世界任务可以获得职业大厅资源。",
+=======
+						[420] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达工作订单，用职业大厅资源交易获得每周3个破碎命运印记中的1个。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+							["perkSpellID"] = 0,
+							["researchCost"] = 12500,
+							["researchDuration"] = 432000,
+							["tier"] = 4,
+							["selected"] = false,
+<<<<<<< HEAD
+							["icon"] = 132092,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "当你拥有激活的战友时，任务会奖励额外资源。",
+								["id"] = 783,
+								["name"] = "幕后交易",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 132092,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "幕后交易",
+							["id"] = 442,
+=======
+							["icon"] = 1392947,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 420,
+							["researchCurrency"] = 1220,
+							["name"] = "专注战备",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+<<<<<<< HEAD
+						[443] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达工作订单，用职业大厅资源交易获得每周3个破碎命运印记中的1个。",
+							["perkSpellID"] = 0,
+=======
+						[421] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达一个充能的裂隙之核的工作订单，使用后可释放邪能之槌的怒火，立即完成你地图上的一个非精英类世界任务。每18个小时可以使用一次。",
+							["perkSpellID"] = 221561,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+							["researchCost"] = 12500,
+							["researchDuration"] = 432000,
+							["tier"] = 4,
+							["selected"] = false,
+<<<<<<< HEAD
+							["icon"] = 1398087,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 443,
+							["researchCurrency"] = 1220,
+							["name"] = "掠夺",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[444] = {
+=======
+							["icon"] = 1247266,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 421,
+							["researchCurrency"] = 1220,
+							["name"] = "邪能之槌的怒火",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[422] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达工作订单，用职业大厅资源换取勇士的武器或装备。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 1000,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+<<<<<<< HEAD
+							["icon"] = 840720,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 444,
+							["researchCurrency"] = 1220,
+							["name"] = "武器走私",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[445] = {
+=======
+							["icon"] = 1380365,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 422,
+							["researchCurrency"] = 1220,
+							["name"] = "邪能装备",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[423] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+							["isBeingResearched"] = false,
+							["description"] = "你可以装备的传说物品数量提高1。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 15000,
+							["researchDuration"] = 604800,
+							["tier"] = 5,
+							["selected"] = false,
+<<<<<<< HEAD
+							["icon"] = 1398088,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 445,
+							["researchCurrency"] = 1220,
+							["name"] = "全副武装",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[435] = {
+							["isBeingResearched"] = false,
+							["description"] = "使你非重复类的任务奖励额外升级为稀有或史诗品质的几率提高。",
+							["perkSpellID"] = 219866,
+							["researchCost"] = 50,
+							["researchDuration"] = 7200,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 418250,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 435,
+							["researchCurrency"] = 1220,
+							["name"] = "上佳手气",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[436] = {
+							["isBeingResearched"] = false,
+							["description"] = "可以使用奇袭攻击技能，每天派出的第一个任务的成功率提高20%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 50,
+							["researchDuration"] = 7200,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 1373907,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "每天第一个任务的成功率提高20%。",
+								["id"] = 643,
+								["name"] = "奇袭攻击",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 1373907,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "奇袭攻击",
+							["id"] = 436,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[437] = {
+							["isBeingResearched"] = false,
+							["description"] = "在所有任务中可以使用刺杀技能，使带有|C00b3ffff爪牙|R的任务成功率提高10%。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 500,
+							["researchDuration"] = 14400,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 236173,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "有|C00b3ffff爪牙|R的任务的成功率提高10%。",
+								["id"] = 644,
+								["name"] = "刺杀",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 236173,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "刺杀",
+							["id"] = 437,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[438] = {
+							["isBeingResearched"] = false,
+							["description"] = "你的盗匪、盗贼、海盗和格斗家招募上限提高1。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 1000,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 1379239,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "你的格斗家和海盗招募上限提高1。",
+								["id"] = 645,
+								["name"] = "赏金格斗",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 1379239,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "赏金格斗",
+							["id"] = 438,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+						[439] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的盗匪变为迪菲亚盗贼，拥有：\r\n\r\n|TInterface\\ICONS\\INV_MISC_BAG_11.BLP:20:20:0:0|t |Cffffffff搜索|R\r\n任务成功率提高20%。\r\n\r\n成功完成任务有几率带回一件珍贵物品。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 10000,
+							["researchDuration"] = 259200,
+							["tier"] = 3,
+							["selected"] = false,
+							["icon"] = 1373912,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 439,
+							["researchCurrency"] = 1220,
+							["name"] = "迪菲亚传承",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+					},
+					["looseShipments"] = {
+					},
 					["currencyAncientManaAmount"] = 0,
 					["followerShipments"] = {
 					},
@@ -26312,6 +44877,146 @@ Broker_GarrisonDB = {
 					["garrisonCacheLastLooted"] = 1489491615,
 				},
 				["那总一号"] = {
+=======
+							["icon"] = 1247265,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 423,
+							["researchCurrency"] = 1220,
+							["name"] = "恶魔命运",
+							["researchStartTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+					},
+					["configVersion"] = 3,
+					["missions"] = {
+						[6] = {
+							["type"] = "战斗",
+							["rewards"] = {
+								{
+									["title"] = "奖励追随者经验",
+									["followerXP"] = 100,
+									["tooltip"] = "+100经验值",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+100经验值",
+								}, -- [1]
+							},
+							["missionState"] = 0,
+							["id"] = 6,
+							["duration"] = 1800,
+							["followers"] = {
+								{
+									["name"] = "卡拉",
+									["id"] = "0x0000000002C59996",
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+									["abilities"] = {
+										{
+											["id"] = 159,
+											["name"] = "闪避",
+											["icon"] = 136205,
+										}, -- [1]
+										{
+											["id"] = 60,
+											["name"] = "制皮",
+											["icon"] = 136247,
+										}, -- [2]
+									},
+									["iconId"] = 1066122,
+								}, -- [1]
+							},
+							["statusComplete"] = true,
+							["timeLeftCalc"] = 0,
+							["notification"] = 1,
+							["name"] = "肃霜虐狼者",
+							["followerTypeID"] = 1,
+							["start"] = 0,
+							["level"] = 90,
+							["timeLeft"] = "30分钟",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+					},
+					["tooltipEnabled"] = true,
+					["garrisonCacheLastLooted"] = 1487938325,
+					["currencySealOfTemperedFateAmount"] = 0,
+					["invasion"] = {
+					},
+					["buildingsExpanded"] = true,
+					["currencyOil"] = 0,
+					["missionsExpanded"] = true,
+					["ldbEnabled"] = true,
+					["shipments"] = {
+					},
+					["buildings"] = {
+						[23] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 1,
+							["shipment"] = {
+							},
+							["id"] = 26,
+							["plotID"] = 23,
+							["isBuilding"] = false,
+							["canActivate"] = false,
+							["buildTime"] = 3600,
+							["notification"] = 1,
+							["name"] = "兵营",
+							["timeStart"] = 1486868815,
+							["texPrefix"] = "GarrBuilding_Barracks_1_H",
+							["plotSize"] = 3,
+							["icon"] = 975738,
+							["buildingState"] = 0,
+						},
+						[22] = {
+							["hasFollowerSlot"] = false,
+							["rank"] = 1,
+							["shipment"] = {
+							},
+							["id"] = 34,
+							["plotID"] = 22,
+							["isBuilding"] = false,
+							["canActivate"] = false,
+							["buildTime"] = 3600,
+							["notification"] = 1,
+							["name"] = "霜壁旅社",
+							["timeStart"] = 1487336880,
+							["texPrefix"] = "GarrBuilding_Inn_1_H",
+							["plotSize"] = 2,
+							["icon"] = 134414,
+							["buildingState"] = 0,
+						},
+					},
+					["currencyOrderResourcesAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+					["trackWeekly"] = {
+					},
+					["looseShipments"] = {
+					},
+					["notificationEnabled"] = true,
+					["followerShipments"] = {
+					},
+					["currencyApexisAmount"] = 0,
+					["currencyAncientManaAmount"] = 0,
+					["currencyArtifactKnowledge"] = 0,
+					["order"] = 5,
+					["orderhallExpanded"] = true,
+					["currencySealOfInevitableFateAmount"] = 0,
+					["info"] = {
+						["playerName"] = "海上五月花",
+						["playerFaction"] = "Horde",
+						["playerClass"] = "DEMONHUNTER",
+						["realmName"] = "火羽山",
+					},
+					["trackDaily"] = {
+					},
+					["cacheSize"] = 750,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 3232,
+					["lootedToday"] = {
+					},
+				},
+				["那总二号"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["lootedToday"] = {
 					},
 					["configVersion"] = 2,
@@ -26328,13 +45033,21 @@ Broker_GarrisonDB = {
 					["trackWeekly"] = {
 					},
 					["currencyApexisAmount"] = 0,
+<<<<<<< HEAD
 					["lootedNextReset"] = 1489618799,
+=======
+					["lootedNextReset"] = 1489445999,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["tooltipEnabled"] = true,
 					["weeklyNextReset"] = 1489618799,
 					["currencyOil"] = 0,
 					["currencySealOfInevitableFateAmount"] = 0,
 					["info"] = {
+<<<<<<< HEAD
 						["playerName"] = "那总一号",
+=======
+						["playerName"] = "那总二号",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						["playerFaction"] = "Horde",
 						["realmName"] = "火羽山",
 						["playerClass"] = "HUNTER",
@@ -26346,19 +45059,61 @@ Broker_GarrisonDB = {
 					["currencyAmount"] = 0,
 					["missionsExpanded"] = true,
 				},
+<<<<<<< HEAD
 				["涨姿势"] = {
+=======
+			},
+			["迦拉克隆"] = {
+				["悠悠龟"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["lootedToday"] = {
 					},
 					["configVersion"] = 2,
 					["missions"] = {
 					},
+<<<<<<< HEAD
 					["order"] = 5,
+=======
+					["tooltipEnabled"] = true,
+					["currencySealOfTemperedFateAmount"] = 0,
+					["invasion"] = {
+					},
+					["buildingsExpanded"] = true,
+					["missionsExpanded"] = true,
+					["trackWeekly"] = {
+					},
+					["currencyApexisAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+					["buildings"] = {
+					},
+					["info"] = {
+						["playerName"] = "悠悠龟",
+						["playerFaction"] = "Horde",
+						["playerClass"] = "WARRIOR",
+						["realmName"] = "迦拉克隆",
+					},
+					["trackDaily"] = {
+					},
+					["notificationEnabled"] = true,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 0,
+					["order"] = 5,
+				},
+				["弹弹堂一号"] = {
+					["lootedToday"] = {
+					},
+					["configVersion"] = 2,
+					["missions"] = {
+					},
+					["tooltipEnabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["currencySealOfTemperedFateAmount"] = 0,
 					["invasion"] = {
 					},
 					["buildingsExpanded"] = true,
 					["buildings"] = {
 					},
+<<<<<<< HEAD
 					["cacheSize"] = 500,
 					["trackWeekly"] = {
 					},
@@ -26386,6 +45141,188 @@ Broker_GarrisonDB = {
 					},
 					["talents"] = {
 						[413] = {
+=======
+					["lootedNextReset"] = 1489445999,
+					["currencyApexisAmount"] = 0,
+					["notificationEnabled"] = true,
+					["trackWeekly"] = {
+					},
+					["info"] = {
+						["playerName"] = "弹弹堂一号",
+						["playerFaction"] = "Horde",
+						["playerClass"] = "DEATHKNIGHT",
+						["realmName"] = "迦拉克隆",
+					},
+					["trackDaily"] = {
+					},
+					["missionsExpanded"] = true,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 0,
+					["order"] = 5,
+				},
+			},
+			["遗忘海岸"] = {
+				["弹弹堂"] = {
+					["lootedToday"] = {
+					},
+					["configVersion"] = 2,
+					["missions"] = {
+					},
+					["tooltipEnabled"] = true,
+					["invasion"] = {
+					},
+					["buildingsExpanded"] = true,
+					["buildings"] = {
+					},
+					["lootedNextReset"] = 1489445999,
+					["currencyApexisAmount"] = 0,
+					["notificationEnabled"] = true,
+					["trackWeekly"] = {
+					},
+					["info"] = {
+						["playerName"] = "弹弹堂",
+						["playerFaction"] = "Horde",
+						["playerClass"] = "WARRIOR",
+						["realmName"] = "遗忘海岸",
+					},
+					["trackDaily"] = {
+					},
+					["missionsExpanded"] = true,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 0,
+					["order"] = 5,
+				},
+			},
+			["暗影裂口"] = {
+				["悠悠龟"] = {
+					["lootedToday"] = {
+					},
+					["configVersion"] = 2,
+					["missions"] = {
+					},
+					["tooltipEnabled"] = true,
+					["currencySealOfTemperedFateAmount"] = 0,
+					["invasion"] = {
+					},
+					["buildingsExpanded"] = true,
+					["notificationEnabled"] = true,
+					["trackWeekly"] = {
+					},
+					["currencyApexisAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+					["buildings"] = {
+					},
+					["info"] = {
+						["playerName"] = "悠悠龟",
+						["playerFaction"] = "Horde",
+						["playerClass"] = "WARRIOR",
+						["realmName"] = "暗影裂口",
+					},
+					["trackDaily"] = {
+					},
+					["missionsExpanded"] = true,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 0,
+					["order"] = 5,
+				},
+			},
+			["洛肯"] = {
+				["Ggwdtx"] = {
+					["lootedToday"] = {
+					},
+					["configVersion"] = 2,
+					["missions"] = {
+					},
+					["tooltipEnabled"] = true,
+					["currencySealOfTemperedFateAmount"] = 0,
+					["invasion"] = {
+					},
+					["buildingsExpanded"] = true,
+					["notificationEnabled"] = true,
+					["trackWeekly"] = {
+					},
+					["currencyApexisAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+					["missionsExpanded"] = true,
+					["info"] = {
+						["playerName"] = "Ggwdtx",
+						["playerFaction"] = "Horde",
+						["playerClass"] = "DEATHKNIGHT",
+						["realmName"] = "洛肯",
+					},
+					["trackDaily"] = {
+					},
+					["buildings"] = {
+					},
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 0,
+					["order"] = 5,
+				},
+			},
+			["安东尼达斯"] = {
+				["Dxnbz"] = {
+					["categories"] = {
+					},
+					["talents"] = {
+						[410] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达一个战争号角的工作订单，使用后可释放一个瓦格里先锋，立即完成你地图上的一个非精英类世界任务。每18个小时可以使用一次。",
+							["perkSpellID"] = 221597,
+							["researchCost"] = 12500,
+							["researchDuration"] = 432000,
+							["tier"] = 4,
+							["selected"] = false,
+							["icon"] = 1349535,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 410,
+							["researchCurrency"] = 1220,
+							["name"] = "瓦格里的呼唤",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[411] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以下达工作订单，用职业大厅资源换取勇士的武器或装备。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 1000,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 1357798,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 411,
+							["researchCurrency"] = 1220,
+							["name"] = "天堂熔铸",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[412] = {
+							["isBeingResearched"] = false,
+							["description"] = "你可以装备的传说物品数量提高1。",
+							["perkSpellID"] = 0,
+							["researchCost"] = 15000,
+							["researchDuration"] = 604800,
+							["tier"] = 5,
+							["selected"] = false,
+							["icon"] = 460957,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 412,
+							["researchCurrency"] = 1220,
+							["name"] = "黄昏传说",
+							["researchTimeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["researchStartTime"] = 0,
+						},
+						[402] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["isBeingResearched"] = false,
 							["description"] = "使你非重复类的任务奖励额外升级为稀有或史诗品质的几率提高。",
 							["perkSpellID"] = 219866,
@@ -26393,175 +45330,312 @@ Broker_GarrisonDB = {
 							["researchDuration"] = 7200,
 							["tier"] = 0,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 607854,
 							["researched"] = false,
 							["talentAvailability"] = 2,
 							["id"] = 413,
 							["researchCurrency"] = 1220,
 							["name"] = "充分准备",
+=======
+							["icon"] = 132275,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 402,
+							["researchCurrency"] = 1220,
+							["name"] = "奥丁的眷顾",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
 						},
+<<<<<<< HEAD
 						[414] = {
 							["isBeingResearched"] = false,
 							["description"] = "可以使用猎杀行动技能，每天派出的第一个任务的成功率提高20%。",
+=======
+						[403] = {
+							["isBeingResearched"] = false,
+							["description"] = "可以使用技能集结呐喊，执行每天第一个任务的部队每有一点活力，就会使该任务的成功率提高5%。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["perkSpellID"] = 0,
 							["researchCost"] = 50,
 							["researchDuration"] = 7200,
 							["tier"] = 0,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 1344654,
+=======
+							["icon"] = 236317,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researched"] = false,
 							["talentAvailability"] = 2,
 							["ability"] = {
 								["temporary"] = false,
+<<<<<<< HEAD
 								["description"] = "每天第一个任务的成功率提高20%。",
 								["id"] = 614,
 								["name"] = "猎杀行动",
+=======
+								["description"] = "执行每天第一个任务的部队每有一点活力，就会使该任务的成功率提高5%。",
+								["id"] = 596,
+								["name"] = "集结呐喊",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								["isSpecialization"] = false,
 								["counters"] = {
 								},
 								["isEmptySlot"] = false,
+<<<<<<< HEAD
 								["icon"] = 1344654,
 								["isTrait"] = false,
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "猎杀行动",
 							["id"] = 414,
+=======
+								["icon"] = 236317,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "集结呐喊",
+							["id"] = 403,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
 						},
+<<<<<<< HEAD
 						[415] = {
 							["isBeingResearched"] = false,
 							["description"] = "在所有任务中可以使用复仇回避技能，使带有|C00b3ffff爪牙|R的任务成功率提高10%。",
+=======
+						[404] = {
+							["isBeingResearched"] = false,
+							["description"] = "在所有任务中可以使用急行军技能，使任务时长缩短20%。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["perkSpellID"] = 0,
 							["researchCost"] = 500,
 							["researchDuration"] = 14400,
 							["tier"] = 1,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 1348401,
+=======
+							["icon"] = 132277,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researched"] = false,
 							["talentAvailability"] = 2,
 							["ability"] = {
 								["temporary"] = false,
+<<<<<<< HEAD
 								["description"] = "有|C00b3ffff爪牙|R的任务成功率提高10%。",
 								["id"] = 616,
 								["name"] = "复仇回避",
+=======
+								["description"] = "所有任务的时长缩短20%。",
+								["id"] = 597,
+								["name"] = "急行军",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								["isSpecialization"] = false,
 								["counters"] = {
 								},
 								["isEmptySlot"] = false,
+<<<<<<< HEAD
 								["icon"] = 1348401,
 								["isTrait"] = false,
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "复仇回避",
 							["id"] = 415,
+=======
+								["icon"] = 132277,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "急行军",
+							["id"] = 404,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researchStartTime"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
 						},
+<<<<<<< HEAD
 						[416] = {
 							["isBeingResearched"] = false,
 							["description"] = "你的灰舌战士、纳迦忠仆、伊利达雷精锐和变身的伊利达雷精锐招募上限提高1。",
+=======
+						[405] = {
+							["isBeingResearched"] = false,
+							["description"] = "你的瓦拉加尔候选者、瓦拉加尔雷铸者、女武神和瓦尔基拉女武神的招募上限提高1。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["perkSpellID"] = 0,
 							["researchCost"] = 1000,
 							["researchDuration"] = 86400,
 							["tier"] = 2,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 1380677,
+=======
+							["icon"] = 132351,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researched"] = false,
 							["talentAvailability"] = 2,
 							["ability"] = {
 								["temporary"] = false,
+<<<<<<< HEAD
 								["description"] = "你的灰舌战士、纳迦忠仆、伊利达雷精锐和变身的伊利达雷精锐招募上限提高1。",
 								["id"] = 615,
 								["name"] = "训练场",
+=======
+								["description"] = "你的女武神和瓦格里招募上限提高1。",
+								["id"] = 598,
+								["name"] = "英勇四溢",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 								["isSpecialization"] = false,
 								["counters"] = {
 								},
 								["isEmptySlot"] = false,
+<<<<<<< HEAD
 								["icon"] = 1380677,
 								["isTrait"] = false,
 							},
 							["researchCurrency"] = 1220,
 							["name"] = "训练场",
 							["id"] = 416,
+=======
+								["icon"] = 132351,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "英勇四溢",
+							["id"] = 405,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researchStartTime"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchTimeRemaining"] = 0,
 						},
+<<<<<<< HEAD
 						[417] = {
 							["isBeingResearched"] = false,
 							["description"] = "新招募的灰舌战士变为纳迦忠仆，使其任务成功率提高5%。",
+=======
+						[406] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的瓦拉加尔候选者变为瓦拉加尔雷铸者，使其任务成功率提高5%。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["perkSpellID"] = 0,
 							["researchCost"] = 10000,
 							["researchDuration"] = 259200,
 							["tier"] = 3,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 1391617,
 							["researched"] = false,
 							["talentAvailability"] = 2,
 							["id"] = 417,
 							["researchCurrency"] = 1220,
 							["name"] = "纳迦忠仆",
+=======
+							["icon"] = 132346,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 406,
+							["researchCurrency"] = 1220,
+							["name"] = "火焰试炼",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
 						},
+<<<<<<< HEAD
 						[418] = {
 							["isBeingResearched"] = false,
 							["description"] = "新招募的伊利达雷精锐变为变身的伊利达雷精锐，获得：\r\n\r\n|TInterface\\ICONS\\ABILITY_WARLOCK_SHADOWFURYTGA.BLP:20:20:0:0|t |Cffffffff恶魔形态|R\r\n有|C00b3ffff爪牙|R或|C00b3ffff危害|R的任务成功率提高15%。",
+=======
+						[407] = {
+							["isBeingResearched"] = false,
+							["description"] = "新招募的女武神变为瓦尔基拉女武神，获得：\r\n\r\n|TInterface\\ICONS\\Ability_Paladin_TowerofLight.blp:20:20:0:0|t |Cffffffff瓦尔基拉的飞翔|R\r\n有|C00b3ffff危害|R的任务成功率提高15%。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["perkSpellID"] = 0,
 							["researchCost"] = 10000,
 							["researchDuration"] = 259200,
 							["tier"] = 3,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 1247262,
 							["researched"] = false,
 							["talentAvailability"] = 2,
 							["id"] = 418,
 							["researchCurrency"] = 1220,
 							["name"] = "恶魔之力",
+=======
+							["icon"] = 132339,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 407,
+							["researchCurrency"] = 1220,
+							["name"] = "晋升",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 1,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
 						},
+<<<<<<< HEAD
 						[419] = {
 							["isBeingResearched"] = false,
 							["description"] = "你可以进入扭曲虚空传送门，召唤强大的恶魔。你和你的盟友可以击败恶魔，获得强化奖励，还可能获得宝物。",
 							["perkSpellID"] = 228651,
+=======
+						[408] = {
+							["isBeingResearched"] = false,
+							["description"] = "让你可以在危机四伏的荣耀之环里看到苍穹要塞财宝箱。你可以与其他战士同僚争夺拾取其中财宝的机会，每周一次。",
+							["perkSpellID"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researchCost"] = 500,
 							["researchDuration"] = 14400,
 							["tier"] = 1,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 134544,
 							["researched"] = false,
 							["talentAvailability"] = 2,
 							["id"] = 419,
 							["researchCurrency"] = 1220,
 							["name"] = "扭曲虚空",
+=======
+							["icon"] = 132334,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["id"] = 408,
+							["researchCurrency"] = 1220,
+							["name"] = "为了荣耀",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["researchTimeRemaining"] = 0,
 							["uiOrder"] = 0,
 							["researchGoldCost"] = 0,
 							["researchStartTime"] = 0,
 						},
+<<<<<<< HEAD
 						[420] = {
 							["isBeingResearched"] = false,
 							["description"] = "你可以下达工作订单，用职业大厅资源交易获得每周3个破碎命运印记中的1个。",
+=======
+						[409] = {
+							["isBeingResearched"] = false,
+							["description"] = "和一个战友一起完成世界任务可以获得职业大厅资源。",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 							["perkSpellID"] = 0,
 							["researchCost"] = 12500,
 							["researchDuration"] = 432000,
 							["tier"] = 4,
 							["selected"] = false,
+<<<<<<< HEAD
 							["icon"] = 1392947,
 							["researched"] = false,
 							["talentAvailability"] = 2,
@@ -26681,10 +45755,41 @@ Broker_GarrisonDB = {
 					["tooltipEnabled"] = true,
 					["lootedToday"] = {
 					},
+=======
+							["icon"] = 236307,
+							["researched"] = false,
+							["talentAvailability"] = 2,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "当你拥有激活的战友时，任务会奖励额外资源。",
+								["id"] = 747,
+								["name"] = "战争横财",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["isEmptySlot"] = false,
+								["icon"] = 236307,
+								["isTrait"] = false,
+							},
+							["researchCurrency"] = 1220,
+							["name"] = "战争横财",
+							["id"] = 409,
+							["researchStartTime"] = 0,
+							["uiOrder"] = 1,
+							["researchGoldCost"] = 0,
+							["researchTimeRemaining"] = 0,
+						},
+					},
+					["configVersion"] = 3,
+					["missions"] = {
+					},
+					["tooltipEnabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["currencySealOfTemperedFateAmount"] = 0,
 					["invasion"] = {
 					},
 					["buildingsExpanded"] = true,
+<<<<<<< HEAD
 					["currencyOil"] = 0,
 					["missionsExpanded"] = true,
 					["weeklyNextReset"] = 1489618799,
@@ -26757,6 +45862,143 @@ Broker_GarrisonDB = {
 					["garrisonCacheLastLooted"] = 1487938325,
 				},
 				["那总二号"] = {
+=======
+					["missionsExpanded"] = true,
+					["buildings"] = {
+						[18] = {
+							["shipment"] = {
+							},
+							["id"] = 142,
+							["plotID"] = 18,
+							["buildingState"] = 0,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "仓库",
+							["timeStart"] = 1488229576,
+							["texPrefix"] = "GarrBuilding_Storehouse_1_H",
+							["isBuilding"] = false,
+							["icon"] = 975745,
+							["rank"] = 2,
+						},
+						[25] = {
+							["shipment"] = {
+								["shipmentCapacity"] = 19,
+								["name"] = "伐木场",
+								["texture"] = 975739,
+							},
+							["id"] = 41,
+							["plotID"] = 25,
+							["buildingState"] = 0,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "伐木场",
+							["timeStart"] = 1488229576,
+							["texPrefix"] = "GarrBuilding_LumberMill_2_H",
+							["isBuilding"] = false,
+							["icon"] = 975739,
+							["rank"] = 2,
+						},
+						[23] = {
+							["shipment"] = {
+							},
+							["id"] = 27,
+							["plotID"] = 23,
+							["buildingState"] = 0,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "兵营",
+							["timeStart"] = 1488229576,
+							["texPrefix"] = "GarrBuilding_Barracks_2_H",
+							["isBuilding"] = false,
+							["icon"] = 975738,
+							["rank"] = 2,
+						},
+						[19] = {
+							["shipment"] = {
+								["shipmentCapacity"] = 19,
+								["name"] = "熔炉",
+								["texture"] = 136241,
+							},
+							["id"] = 117,
+							["plotID"] = 19,
+							["buildingState"] = 0,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "熔炉",
+							["timeStart"] = 1488229576,
+							["texPrefix"] = "GarrBuilding_Blacksmith_2_H",
+							["isBuilding"] = false,
+							["icon"] = 136241,
+							["rank"] = 2,
+						},
+					},
+					["trackWeekly"] = {
+					},
+					["shipments"] = {
+					},
+					["ldbEnabled"] = true,
+					["currencyOrderResourcesAmount"] = 0,
+					["lootedNextReset"] = 1489445999,
+					["notificationEnabled"] = true,
+					["looseShipments"] = {
+					},
+					["currencyOil"] = 0,
+					["followerShipments"] = {
+					},
+					["currencyApexisAmount"] = 0,
+					["currencyAncientManaAmount"] = 0,
+					["currencyArtifactKnowledge"] = 0,
+					["order"] = 5,
+					["orderhallExpanded"] = true,
+					["currencySealOfInevitableFateAmount"] = 0,
+					["info"] = {
+						["playerName"] = "Dxnbz",
+						["playerFaction"] = "Horde",
+						["playerClass"] = "WARRIOR",
+						["realmName"] = "安东尼达斯",
+					},
+					["trackDaily"] = {
+					},
+					["cacheSize"] = 500,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 300,
+					["lootedToday"] = {
+					},
+				},
+			},
+			["沃金"] = {
+				["沃的悠悠龟"] = {
+					["lootedToday"] = {
+					},
+					["configVersion"] = 2,
+					["missions"] = {
+					},
+					["tooltipEnabled"] = true,
+					["invasion"] = {
+					},
+					["buildingsExpanded"] = true,
+					["buildings"] = {
+					},
+					["lootedNextReset"] = 1489445999,
+					["currencyApexisAmount"] = 0,
+					["notificationEnabled"] = true,
+					["trackWeekly"] = {
+					},
+					["info"] = {
+						["playerName"] = "沃的悠悠龟",
+						["playerFaction"] = "Horde",
+						["playerClass"] = "DEATHKNIGHT",
+						["realmName"] = "沃金",
+					},
+					["trackDaily"] = {
+					},
+					["missionsExpanded"] = true,
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 0,
+					["order"] = 5,
+				},
+				["这次我请"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 					["lootedToday"] = {
 					},
 					["configVersion"] = 2,
@@ -26773,6 +46015,7 @@ Broker_GarrisonDB = {
 					["trackWeekly"] = {
 					},
 					["currencyApexisAmount"] = 0,
+<<<<<<< HEAD
 					["missionsExpanded"] = true,
 					["tooltipEnabled"] = true,
 					["ldbEnabled"] = true,
@@ -26790,10 +46033,108 @@ Broker_GarrisonDB = {
 					["weeklyNextReset"] = 1489618799,
 					["currencyAmount"] = 0,
 					["lootedNextReset"] = 1489618799,
+=======
+					["lootedNextReset"] = 1489445999,
+					["tooltipEnabled"] = true,
+					["weeklyNextReset"] = 1489618799,
+					["currencyOil"] = 0,
+					["currencySealOfInevitableFateAmount"] = 0,
+					["info"] = {
+						["playerName"] = "这次我请",
+						["playerFaction"] = "Horde",
+						["realmName"] = "沃金",
+						["playerClass"] = "DEATHKNIGHT",
+					},
+					["trackDaily"] = {
+					},
+					["notificationEnabled"] = true,
+					["ldbEnabled"] = true,
+					["currencyAmount"] = 0,
+					["missionsExpanded"] = true,
+				},
+			},
+			["海克泰尔"] = {
+				["Ggwdtx"] = {
+					["lootedToday"] = {
+					},
+					["configVersion"] = 2,
+					["missions"] = {
+					},
+					["tooltipEnabled"] = true,
+					["invasion"] = {
+					},
+					["buildingsExpanded"] = true,
+					["notificationEnabled"] = true,
+					["lootedNextReset"] = 1489445999,
+					["currencyApexisAmount"] = 0,
+					["missionsExpanded"] = true,
+					["trackWeekly"] = {
+					},
+					["info"] = {
+						["playerName"] = "Ggwdtx",
+						["playerFaction"] = "Horde",
+						["realmName"] = "海克泰尔",
+						["playerClass"] = "DEATHKNIGHT",
+					},
+					["trackDaily"] = {
+					},
+					["buildings"] = {
+					},
+					["weeklyNextReset"] = 1489618799,
+					["currencyAmount"] = 0,
+					["order"] = 5,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				},
 			},
 		},
 	},
+<<<<<<< HEAD
+=======
+	["profileKeys"] = {
+		["悠悠龟 - 暗影裂口"] = "Default",
+		["悠悠战 - 末日祷告祭坛"] = "Default",
+		["厦门妇幼 - 末日祷告祭坛"] = "Default",
+		["弹弹堂一号 - 回音山"] = "Default",
+		["最后的悠悠 - 火羽山"] = "Default",
+		["沃的悠悠龟 - 沃金"] = "Default",
+		["这次我请 - 沃金"] = "Default",
+		["妈蛋 - 末日祷告祭坛"] = "Default",
+		["Bbxl - 迦罗娜"] = "Default",
+		["悠悠龟 - 迦拉克隆"] = "Default",
+		["弹弹堂一号 - 霜之哀伤"] = "Default",
+		["搞个大新闻 - 迦罗娜"] = "Default",
+		["梁帅 - 迦罗娜"] = "Default",
+		["涨姿势 - 火羽山"] = "Default",
+		["Dxnbz - 安东尼达斯"] = "Default",
+		["弹弹堂一号 - 神圣之歌"] = "Default",
+		["悠悠龟 - 冬拥湖"] = "Default",
+		["Ggwdtx - 海克泰尔"] = "Default",
+		["海上五月花 - 火羽山"] = "Default",
+		["那总二号 - 火羽山"] = "Default",
+		["帅帅爹 - 末日祷告祭坛"] = "Default",
+		["猴赛雷杀猪刀 - 火羽山"] = "Default",
+		["亦可赛艇 - 迦罗娜"] = "Default",
+		["悠悠龟 - 火羽山"] = "Default",
+		["悠悠龟 - 天谴之门"] = "Default",
+		["弹弹堂一号 - 迦拉克隆"] = "Default",
+		["最初的悠悠 - 日落沼泽"] = "Default",
+		["最后的悠悠 - 迦罗娜"] = "Default",
+		["弹弹堂 - 遗忘海岸"] = "Default",
+		["小学生放假了 - 火羽山"] = "Default",
+		["悠悠骑 - 末日祷告祭坛"] = "Default",
+		["猛牛悠悠乳 - 火羽山"] = "Default",
+		["那总一号 - 火羽山"] = "Default",
+		["杀猪刀猴赛雷 - 火羽山"] = "Default",
+		["云飞 - 迦罗娜"] = "Default",
+		["兮兮妹 - 末日祷告祭坛"] = "Default",
+		["Ggwdtx - 洛肯"] = "Default",
+		["打小怪的 - 迦罗娜"] = "Default",
+		["悠悠乳 - 金色平原"] = "Default",
+		["赞达拉使者 - 火羽山"] = "Default",
+		["悠悠龟 - 迦罗娜"] = "Default",
+		["最初的悠悠 - 迦罗娜"] = "Default",
+	},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	["profiles"] = {
 		["Default"] = {
 		},

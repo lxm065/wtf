@@ -3,6 +3,7 @@ tCDblackData = {
 }
 tCDcoolingData = {
 	{
+<<<<<<< HEAD
 		["spell"] = "剑刃风暴",
 		["start"] = 4158.897,
 		["duration"] = 90,
@@ -24,4 +25,13 @@ tCDcoolingData = {
 		["icon"] = 644389,
 		["rank"] = 0,
 	}, -- [3]
+=======
+		["spell"] = "达拉然炉石",
+		["name"] = "达拉然炉石",
+		["start"] = 2972.956,
+		["duration"] = 1200,
+		["icon"] = 1444943,
+		["rank"] = 0,
+	}, -- [1]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 }

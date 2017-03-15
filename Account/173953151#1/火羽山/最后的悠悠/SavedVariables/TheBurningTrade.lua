@@ -41,10 +41,17 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 3,
 		["playerItems"] = {
 			{
+<<<<<<< HEAD
 				["numItems"] = 1,
 				["name"] = "甜香垂饰",
 				["itemLink"] = "|cffa335ee|Hitem:93393:0:0:0:0:0:0:1439136960:90:0:445|h[甜香垂饰]|h|r",
 				["texture"] = "Interface\\Icons\\INV_Jewelry_Necklace_30",
+=======
+				["texture"] = "Interface\\Icons\\INV_Jewelry_Necklace_30",
+				["itemLink"] = "|cffa335ee|Hitem:93393:0:0:0:0:0:0:1439136960:90:0:445|h[甜香垂饰]|h|r",
+				["name"] = "甜香垂饰",
+				["numItems"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["targetItems"] = {
@@ -70,15 +77,25 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "活化钢带扣",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cff0070dd|Hitem:90046:0:0:0:0:0:0:1519140096:90:0:0|h[活化钢带扣]|h|r",
+=======
+				["itemLink"] = "|cff0070dd|Hitem:90046:0:0:0:0:0:0:1519140096:90:0:0|h[活化钢带扣]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_BELT_ROBE_PVPMAGE_D_01",
 			}, -- [1]
 			{
 				["name"] = "朴素源红石",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cff0070dd|Hitem:76696:0:0:0:0:0:0:308788096:90:0:0|h[朴素源红石]|h|r",
+=======
+				["itemLink"] = "|cff0070dd|Hitem:76696:0:0:0:0:0:0:308788096:90:0:0|h[朴素源红石]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\inv_misc_gem_x4_rare_cut_red",
 			}, -- [2]
 		},
@@ -104,8 +121,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "朴素源红石",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cff0070dd|Hitem:76696:0:0:0:0:0:0:1453841792:90:0:0|h[朴素源红石]|h|r",
+=======
+				["itemLink"] = "|cff0070dd|Hitem:76696:0:0:0:0:0:0:1453841792:90:0:0|h[朴素源红石]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\inv_misc_gem_x4_rare_cut_red",
 			}, -- [1]
 		},
@@ -125,8 +147,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "统御皇紫晶",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cff0070dd|Hitem:76691:0:0:0:0:0:0:1453991680:90:0:0|h[统御皇紫晶]|h|r",
+=======
+				["itemLink"] = "|cff0070dd|Hitem:76691:0:0:0:0:0:0:1453991680:90:0:0|h[统御皇紫晶]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\inv_misc_gem_x4_rare_cut_purple",
 			}, -- [1]
 		},
@@ -170,8 +197,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "赞达拉袭胫者",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cff0070dd|Hitem:94126:0:0:0:0:0:0:1306952192:90:0:0|h[赞达拉袭胫者]|h|r",
+=======
+				["itemLink"] = "|cff0070dd|Hitem:94126:0:0:0:0:0:0:1306952192:90:0:0|h[赞达拉袭胫者]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_ZANDALARIBABYRAPTORBLACK",
 			}, -- [1]
 		},
@@ -197,8 +229,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "赞达拉袭胫者",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cff0070dd|Hitem:94126:0:0:0:0:0:0:307517312:90:0:0|h[赞达拉袭胫者]|h|r",
+=======
+				["itemLink"] = "|cff0070dd|Hitem:94126:0:0:0:0:0:0:307517312:90:0:0|h[赞达拉袭胫者]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_ZANDALARIBABYRAPTORBLACK",
 			}, -- [1]
 		},
@@ -265,10 +302,17 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 13,
 		["playerItems"] = {
 			[2] = {
+<<<<<<< HEAD
 				["numItems"] = 1,
 				["name"] = "激流药剂",
 				["itemLink"] = "|cffffffff|Hitem:76078:0:0:0:0:0:0:900667008:90:0:0|h[激流药剂]|h|r",
 				["texture"] = "Interface\\Icons\\TRADE_ALCHEMY_POTIONB3",
+=======
+				["texture"] = "Interface\\Icons\\TRADE_ALCHEMY_POTIONB3",
+				["itemLink"] = "|cffffffff|Hitem:76078:0:0:0:0:0:0:900667008:90:0:0|h[激流药剂]|h|r",
+				["name"] = "激流药剂",
+				["numItems"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["targetItems"] = {
@@ -290,10 +334,17 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 14,
 		["playerItems"] = {
 			[2] = {
+<<<<<<< HEAD
 				["texture"] = "Interface\\Icons\\TRADE_ALCHEMY_POTIONE2",
 				["itemLink"] = "|cffffffff|Hitem:76086:0:0:0:0:0:0:463149312:90:0:0|h[秋叶合剂]|h|r",
 				["name"] = "秋叶合剂",
 				["numItems"] = 5,
+=======
+				["numItems"] = 5,
+				["name"] = "秋叶合剂",
+				["itemLink"] = "|cffffffff|Hitem:76086:0:0:0:0:0:0:463149312:90:0:0|h[秋叶合剂]|h|r",
+				["texture"] = "Interface\\Icons\\TRADE_ALCHEMY_POTIONE2",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["targetItems"] = {
@@ -319,43 +370,73 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:307911492:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:307911492:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [1]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:897402112:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:897402112:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [2]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:-1983219840:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:-1983219840:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [3]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:623159744:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:623159744:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [4]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1427568640:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1427568640:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [5]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:866627200:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:866627200:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [6]
 		},
@@ -380,43 +461,73 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:711682336:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:711682336:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [1]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1580630528:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1580630528:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [2]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:2001676160:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:2001676160:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [3]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:783843488:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:783843488:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [4]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1297664384:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1297664384:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [5]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:274705761:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:274705761:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [6]
 		},
@@ -442,43 +553,73 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1281964352:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1281964352:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [1]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1078805440:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1078805440:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [2]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:389992992:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:389992992:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [3]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:915024512:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:915024512:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [4]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:687099744:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:687099744:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [5]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:363707208:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:363707208:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [6]
 		},
@@ -501,43 +642,73 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1281964352:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1281964352:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [1]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1078805440:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1078805440:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [2]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:389992992:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:389992992:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [3]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:915024512:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:915024512:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [4]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:687099744:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:687099744:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [5]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:363707208:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:363707208:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [6]
 		},
@@ -564,22 +735,37 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:-2078278528:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:-2078278528:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [1]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1142233024:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1142233024:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [2]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1866979072:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1866979072:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [3]
 		},
@@ -604,43 +790,73 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:2083215872:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:2083215872:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [1]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1219420416:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1219420416:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [2]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:-1799027584:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:-1799027584:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [3]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:2115296768:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:2115296768:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [4]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:2070806400:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:2070806400:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [5]
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1544651776:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:1544651776:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [6]
 		},
@@ -665,8 +881,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "染煞之皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:-1941578624:90:0:0|h[染煞之皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72162:0:0:0:0:0:0:-1941578624:90:0:0|h[染煞之皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_LeatherScrap_18",
 			}, -- [1]
 		},
@@ -707,15 +928,25 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "异域皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:782005504:90:0:0|h[异域皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:782005504:90:0:0|h[异域皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_TRADESKILL_SKINNING_SHALEATHERSCRAPS",
 			}, -- [1]
 			{
 				["name"] = "异域皮",
 				["numItems"] = 18,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:1353290496:90:0:0|h[异域皮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:1353290496:90:0:0|h[异域皮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_TRADESKILL_SKINNING_SHALEATHERSCRAPS",
 			}, -- [2]
 		},
@@ -736,6 +967,7 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 24,
 		["playerItems"] = {
 			{
+<<<<<<< HEAD
 				["texture"] = "Interface\\Icons\\INV_FABRIC_WINDWOOL",
 				["itemLink"] = "|cffffffff|Hitem:72988:0:0:0:0:0:0:1030879872:90:0:0|h[风绒布]|h|r",
 				["name"] = "风绒布",
@@ -746,6 +978,18 @@ DuowanAddon_TradeLog_TradesHistory = {
 				["itemLink"] = "|cffffffff|Hitem:72988:0:0:0:0:0:0:1984914432:90:0:0|h[风绒布]|h|r",
 				["name"] = "风绒布",
 				["numItems"] = 20,
+=======
+				["numItems"] = 4,
+				["name"] = "风绒布",
+				["itemLink"] = "|cffffffff|Hitem:72988:0:0:0:0:0:0:1030879872:90:0:0|h[风绒布]|h|r",
+				["texture"] = "Interface\\Icons\\INV_FABRIC_WINDWOOL",
+			}, -- [1]
+			{
+				["numItems"] = 20,
+				["name"] = "风绒布",
+				["itemLink"] = "|cffffffff|Hitem:72988:0:0:0:0:0:0:1984914432:90:0:0|h[风绒布]|h|r",
+				["texture"] = "Interface\\Icons\\INV_FABRIC_WINDWOOL",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [2]
 		},
 		["targetItems"] = {
@@ -771,8 +1015,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "碳烤虎肉排",
 				["numItems"] = 6,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:74642:0:0:0:0:0:0:749788288:90:0:0|h[碳烤虎肉排]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:74642:0:0:0:0:0:0:749788288:90:0:0|h[碳烤虎肉排]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_MISC_FOOD_COOKED_TIGERSTEAK",
 			}, -- [1]
 		},
@@ -797,8 +1046,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "异域皮",
 				["numItems"] = 16,
+<<<<<<< HEAD
 				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:350087680:90:0:0|h[异域皮]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:350087680:90:0:0|h[异域皮]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_TRADESKILL_SKINNING_SHALEATHERSCRAPS",
 			}, -- [1]
 		},
@@ -823,8 +1077,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "异域皮",
 				["numItems"] = 16,
+<<<<<<< HEAD
 				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:1271602432:90:0:0|h[异域皮]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:1271602432:90:0:0|h[异域皮]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_TRADESKILL_SKINNING_SHALEATHERSCRAPS",
 			}, -- [1]
 		},
@@ -845,10 +1104,17 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 28,
 		["playerItems"] = {
 			[2] = {
+<<<<<<< HEAD
 				["texture"] = "Interface\\Icons\\inv_shirt_guildtabard_01",
 				["itemLink"] = "|cffa335ee|Hitem:52252:0:0:0:0:0:0:502117760:90:0:0|h[光明使者战袍]|h|r",
 				["name"] = "光明使者战袍",
 				["numItems"] = 1,
+=======
+				["numItems"] = 1,
+				["name"] = "光明使者战袍",
+				["itemLink"] = "|cffa335ee|Hitem:52252:0:0:0:0:0:0:502117760:90:0:0|h[光明使者战袍]|h|r",
+				["texture"] = "Interface\\Icons\\inv_shirt_guildtabard_01",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["targetItems"] = {
@@ -872,16 +1138,28 @@ DuowanAddon_TradeLog_TradesHistory = {
 		},
 		["targetItems"] = {
 			{
+<<<<<<< HEAD
 				["numItems"] = 1,
 				["name"] = "戮鱼之弩",
 				["itemLink"] = "|cffa335ee|Hitem:87650:0:0:0:0:0:0:1013634048:90:0:0|h[戮鱼之弩]|h|r",
 				["texture"] = "Interface\\Icons\\inv_bow_2h_crossbow_cataclysm_b_01",
+=======
+				["texture"] = "Interface\\Icons\\inv_bow_2h_crossbow_cataclysm_b_01",
+				["itemLink"] = "|cffa335ee|Hitem:87650:0:0:0:0:0:0:1013634048:90:0:0|h[戮鱼之弩]|h|r",
+				["name"] = "戮鱼之弩",
+				["numItems"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			{
 				["name"] = "苟汗的金色长裤",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["itemLink"] = "|cffa335ee|Hitem:90719:0:0:0:0:0:0:1013634048:90:0:0|h[苟汗的金色长裤]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffa335ee|Hitem:90719:0:0:0:0:0:0:1013634048:90:0:0|h[苟汗的金色长裤]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\inv_pant_mail_reputation_c_01",
 			}, -- [2]
 		},
@@ -902,10 +1180,17 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 30,
 		["playerItems"] = {
 			[2] = {
+<<<<<<< HEAD
 				["numItems"] = 1,
 				["name"] = "寇多克的复仇",
 				["itemLink"] = "|cffa335ee|Hitem:94720:0:0:0:0:0:0:1670278144:90:0:0|h[寇多克的复仇]|h|r",
 				["texture"] = "Interface\\Icons\\INV_SWORD_1H_PANDUNG_C_01",
+=======
+				["texture"] = "Interface\\Icons\\INV_SWORD_1H_PANDUNG_C_01",
+				["itemLink"] = "|cffa335ee|Hitem:94720:0:0:0:0:0:0:1670278144:90:0:0|h[寇多克的复仇]|h|r",
+				["name"] = "寇多克的复仇",
+				["numItems"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["targetItems"] = {
@@ -932,8 +1217,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			[7] = {
 				["name"] = "血色十字军战袍",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cff1eff00|Hitem:23192:0:0:0:0:0:0:569444736:90:0:0|h[血色十字军战袍]|h|r",
+=======
+				["itemLink"] = "|cff1eff00|Hitem:23192:0:0:0:0:0:0:569444736:90:0:0|h[血色十字军战袍]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_Misc_Cape_18",
 			},
 		},
@@ -950,6 +1240,7 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 32,
 		["playerItems"] = {
 			{
+<<<<<<< HEAD
 				["texture"] = "Interface\\Icons\\item_savageleather",
 				["itemLink"] = "|cffffffff|Hitem:52976:0:0:0:0:0:0:1615758848:90:0:0|h[蛮皮]|h|r",
 				["name"] = "蛮皮",
@@ -984,6 +1275,42 @@ DuowanAddon_TradeLog_TradesHistory = {
 				["itemLink"] = "|cffffffff|Hitem:52976:0:0:0:0:0:0:2077102592:90:0:0|h[蛮皮]|h|r",
 				["name"] = "蛮皮",
 				["numItems"] = 20,
+=======
+				["numItems"] = 20,
+				["name"] = "蛮皮",
+				["itemLink"] = "|cffffffff|Hitem:52976:0:0:0:0:0:0:1615758848:90:0:0|h[蛮皮]|h|r",
+				["texture"] = "Interface\\Icons\\item_savageleather",
+			}, -- [1]
+			{
+				["numItems"] = 20,
+				["name"] = "蛮皮",
+				["itemLink"] = "|cffffffff|Hitem:52976:0:0:0:0:0:0:1895872000:90:0:0|h[蛮皮]|h|r",
+				["texture"] = "Interface\\Icons\\item_savageleather",
+			}, -- [2]
+			{
+				["numItems"] = 20,
+				["name"] = "蛮皮",
+				["itemLink"] = "|cffffffff|Hitem:52976:0:0:0:0:0:0:1502912256:90:0:0|h[蛮皮]|h|r",
+				["texture"] = "Interface\\Icons\\item_savageleather",
+			}, -- [3]
+			{
+				["numItems"] = 20,
+				["name"] = "蛮皮",
+				["itemLink"] = "|cffffffff|Hitem:52976:0:0:0:0:0:0:1011315328:90:0:0|h[蛮皮]|h|r",
+				["texture"] = "Interface\\Icons\\item_savageleather",
+			}, -- [4]
+			{
+				["numItems"] = 20,
+				["name"] = "蛮皮",
+				["itemLink"] = "|cffffffff|Hitem:52976:0:0:0:0:0:0:1781703936:90:0:0|h[蛮皮]|h|r",
+				["texture"] = "Interface\\Icons\\item_savageleather",
+			}, -- [5]
+			{
+				["numItems"] = 20,
+				["name"] = "蛮皮",
+				["itemLink"] = "|cffffffff|Hitem:52976:0:0:0:0:0:0:2077102592:90:0:0|h[蛮皮]|h|r",
+				["texture"] = "Interface\\Icons\\item_savageleather",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [6]
 		},
 		["targetItems"] = {
@@ -1005,6 +1332,7 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 33,
 		["playerItems"] = {
 			{
+<<<<<<< HEAD
 				["texture"] = "Interface\\Icons\\item_savageleather",
 				["itemLink"] = "|cffffffff|Hitem:52976:0:0:0:0:0:0:883769088:90:0:0|h[蛮皮]|h|r",
 				["name"] = "蛮皮",
@@ -1027,6 +1355,30 @@ DuowanAddon_TradeLog_TradesHistory = {
 				["itemLink"] = "|cffffffff|Hitem:52976:0:0:0:0:0:0:1957572864:90:0:0|h[蛮皮]|h|r",
 				["name"] = "蛮皮",
 				["numItems"] = 20,
+=======
+				["numItems"] = 20,
+				["name"] = "蛮皮",
+				["itemLink"] = "|cffffffff|Hitem:52976:0:0:0:0:0:0:883769088:90:0:0|h[蛮皮]|h|r",
+				["texture"] = "Interface\\Icons\\item_savageleather",
+			}, -- [1]
+			{
+				["numItems"] = 20,
+				["name"] = "蛮皮",
+				["itemLink"] = "|cffffffff|Hitem:52976:0:0:0:0:0:0:1859736448:90:0:0|h[蛮皮]|h|r",
+				["texture"] = "Interface\\Icons\\item_savageleather",
+			}, -- [2]
+			{
+				["numItems"] = 20,
+				["name"] = "蛮皮",
+				["itemLink"] = "|cffffffff|Hitem:52976:0:0:0:0:0:0:270235008:90:0:0|h[蛮皮]|h|r",
+				["texture"] = "Interface\\Icons\\item_savageleather",
+			}, -- [3]
+			{
+				["numItems"] = 20,
+				["name"] = "蛮皮",
+				["itemLink"] = "|cffffffff|Hitem:52976:0:0:0:0:0:0:1957572864:90:0:0|h[蛮皮]|h|r",
+				["texture"] = "Interface\\Icons\\item_savageleather",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [4]
 		},
 		["targetItems"] = {
@@ -1052,8 +1404,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "萦绕之魂",
 				["numItems"] = 8,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cff0070dd|Hitem:94289:0:0:0:0:0:0:361964288:90:0:0|h[萦绕之魂]|h|r",
+=======
+				["itemLink"] = "|cff0070dd|Hitem:94289:0:0:0:0:0:0:361964288:90:0:0|h[萦绕之魂]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\ABILITY_ROGUE_ENVELOPINGSHADOWS",
 			}, -- [1]
 		},
@@ -1074,10 +1431,17 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 35,
 		["playerItems"] = {
 			{
+<<<<<<< HEAD
 				["texture"] = "Interface\\Icons\\INV_HELM_MAIL_RAIDHUNTER_M_01",
 				["itemLink"] = "|cffa335ee|Hitem:94272:0:0:0:0:0:0:951517440:90:0:465|h[恐惧行者头盔]|h|r",
 				["name"] = "恐惧行者头盔",
 				["numItems"] = 1,
+=======
+				["numItems"] = 1,
+				["name"] = "恐惧行者头盔",
+				["itemLink"] = "|cffa335ee|Hitem:94272:0:0:0:0:0:0:951517440:90:0:465|h[恐惧行者头盔]|h|r",
+				["texture"] = "Interface\\Icons\\INV_HELM_MAIL_RAIDHUNTER_M_01",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["targetItems"] = {
@@ -1140,53 +1504,90 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 38,
 		["playerItems"] = {
 			[3] = {
+<<<<<<< HEAD
 				["numItems"] = 1,
 				["name"] = "薄荷油腰带",
 				["itemLink"] = "|cffa335ee|Hitem:98609:0:0:0:0:0:0:529035136:90:0:491|h[薄荷油腰带]|h|r",
 				["texture"] = "Interface\\Icons\\inv_belt_leather_panprog_b_01",
+=======
+				["texture"] = "Interface\\Icons\\inv_belt_leather_panprog_b_01",
+				["itemLink"] = "|cffa335ee|Hitem:98609:0:0:0:0:0:0:529035136:90:0:491|h[薄荷油腰带]|h|r",
+				["name"] = "薄荷油腰带",
+				["numItems"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["targetItems"] = {
 			{
 				["name"] = "异域皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:632399488:90:0:0|h[异域皮]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:632399488:90:0:0|h[异域皮]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_TRADESKILL_SKINNING_SHALEATHERSCRAPS",
 			}, -- [1]
 			{
 				["name"] = "异域皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:1497781760:90:0:0|h[异域皮]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:1497781760:90:0:0|h[异域皮]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_TRADESKILL_SKINNING_SHALEATHERSCRAPS",
 			}, -- [2]
 			{
 				["name"] = "异域皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:1082805376:90:0:0|h[异域皮]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:1082805376:90:0:0|h[异域皮]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_TRADESKILL_SKINNING_SHALEATHERSCRAPS",
 			}, -- [3]
 			{
 				["name"] = "异域皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:1791795840:90:0:0|h[异域皮]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:1791795840:90:0:0|h[异域皮]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_TRADESKILL_SKINNING_SHALEATHERSCRAPS",
 			}, -- [4]
 			{
 				["name"] = "异域皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:2044285056:90:0:0|h[异域皮]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:2044285056:90:0:0|h[异域皮]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_TRADESKILL_SKINNING_SHALEATHERSCRAPS",
 			}, -- [5]
 			{
 				["name"] = "异域皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:844807552:90:0:0|h[异域皮]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:844807552:90:0:0|h[异域皮]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_TRADESKILL_SKINNING_SHALEATHERSCRAPS",
 			}, -- [6]
 		},
@@ -1211,43 +1612,73 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "异域皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:1552502528:90:0:0|h[异域皮]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:1552502528:90:0:0|h[异域皮]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_TRADESKILL_SKINNING_SHALEATHERSCRAPS",
 			}, -- [1]
 			{
 				["name"] = "异域皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:172582912:90:0:0|h[异域皮]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:172582912:90:0:0|h[异域皮]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_TRADESKILL_SKINNING_SHALEATHERSCRAPS",
 			}, -- [2]
 			{
 				["name"] = "异域皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:1762372736:90:0:0|h[异域皮]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:1762372736:90:0:0|h[异域皮]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_TRADESKILL_SKINNING_SHALEATHERSCRAPS",
 			}, -- [3]
 			{
 				["name"] = "异域皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:487074176:90:0:0|h[异域皮]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:487074176:90:0:0|h[异域皮]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_TRADESKILL_SKINNING_SHALEATHERSCRAPS",
 			}, -- [4]
 			{
 				["name"] = "异域皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:656732416:90:0:0|h[异域皮]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:656732416:90:0:0|h[异域皮]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_TRADESKILL_SKINNING_SHALEATHERSCRAPS",
 			}, -- [5]
 			{
 				["name"] = "异域皮",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:711426560:90:0:0|h[异域皮]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:711426560:90:0:0|h[异域皮]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_TRADESKILL_SKINNING_SHALEATHERSCRAPS",
 			}, -- [6]
 		},
@@ -1272,8 +1703,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "白云腰带",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffa335ee|Hitem:98608:0:0:0:0:0:0:1036727424:90:0:491|h[白云腰带]|h|r",
+=======
+				["itemLink"] = "|cffa335ee|Hitem:98608:0:0:0:0:0:0:1036727424:90:0:491|h[白云腰带]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\inv_belt_robe_panprog_b_01",
 			}, -- [1]
 		},
@@ -1294,10 +1730,17 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 41,
 		["playerItems"] = {
 			{
+<<<<<<< HEAD
 				["numItems"] = 1,
 				["name"] = "季鹍的复苏之风",
 				["itemLink"] = "|cffa335ee|Hitem:94527:0:0:0:0:0:0:307837312:90:0:465|h[季鹍的复苏之风]|h|r",
 				["texture"] = "Interface\\Icons\\SPELL_HOLY_HEAL",
+=======
+				["texture"] = "Interface\\Icons\\SPELL_HOLY_HEAL",
+				["itemLink"] = "|cffa335ee|Hitem:94527:0:0:0:0:0:0:307837312:90:0:465|h[季鹍的复苏之风]|h|r",
+				["name"] = "季鹍的复苏之风",
+				["numItems"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["targetItems"] = {
@@ -1319,10 +1762,17 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 42,
 		["playerItems"] = {
 			{
+<<<<<<< HEAD
 				["numItems"] = 1,
 				["name"] = "闪耀胜利者护腿",
 				["itemLink"] = "|cffa335ee|Hitem:95572:0:0:0:0:0:0:307837312:90:0:465|h[闪耀胜利者护腿]|h|r",
 				["texture"] = "Interface\\Icons\\INV_Misc_Desecrated_PlatePants",
+=======
+				["texture"] = "Interface\\Icons\\INV_Misc_Desecrated_PlatePants",
+				["itemLink"] = "|cffa335ee|Hitem:95572:0:0:0:0:0:0:307837312:90:0:465|h[闪耀胜利者护腿]|h|r",
+				["name"] = "闪耀胜利者护腿",
+				["numItems"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["targetItems"] = {
@@ -1344,10 +1794,17 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 43,
 		["playerItems"] = {
 			{
+<<<<<<< HEAD
 				["texture"] = "Interface\\Icons\\inv_belt_mail_panprog_b_01",
 				["itemLink"] = "|cffa335ee|Hitem:98614:0:0:0:0:0:0:1237213056:90:0:491|h[峡谷追猎者腰带]|h|r",
 				["name"] = "峡谷追猎者腰带",
 				["numItems"] = 1,
+=======
+				["numItems"] = 1,
+				["name"] = "峡谷追猎者腰带",
+				["itemLink"] = "|cffa335ee|Hitem:98614:0:0:0:0:0:0:1237213056:90:0:491|h[峡谷追猎者腰带]|h|r",
+				["texture"] = "Interface\\Icons\\inv_belt_mail_panprog_b_01",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["targetItems"] = {
@@ -1481,10 +1938,17 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 50,
 		["playerItems"] = {
 			{
+<<<<<<< HEAD
 				["numItems"] = 1,
 				["name"] = "飞天魔像",
 				["itemLink"] = "|cffa335ee|Hitem:95416:0:0:0:0:0:0:1030269440:90:0:0|h[飞天魔像]|h|r",
 				["texture"] = "Interface\\Icons\\ABILITY_MOUNT_SHREDDERMOUNT",
+=======
+				["texture"] = "Interface\\Icons\\ABILITY_MOUNT_SHREDDERMOUNT",
+				["itemLink"] = "|cffa335ee|Hitem:95416:0:0:0:0:0:0:1030269440:90:0:0|h[飞天魔像]|h|r",
+				["name"] = "飞天魔像",
+				["numItems"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["reason"] = "other",
@@ -1503,6 +1967,7 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 51,
 		["playerItems"] = {
 			[3] = {
+<<<<<<< HEAD
 				["numItems"] = 1,
 				["name"] = "幽暗之杖",
 				["itemLink"] = "|cff0070dd|Hitem:55815:0:0:0:0:0:0:795158144:90:0:0|h[幽暗之杖]|h|r",
@@ -1519,6 +1984,24 @@ DuowanAddon_TradeLog_TradesHistory = {
 				["name"] = "红色冬帽",
 				["itemLink"] = "|cff1eff00|Hitem:21524:0:0:0:0:0:0:795158144:90:0:0|h[红色冬帽]|h|r",
 				["texture"] = "Interface\\Icons\\INV_Helmet_67",
+=======
+				["texture"] = "Interface\\Icons\\inv_stave_2h_cataclysm_c_03",
+				["itemLink"] = "|cff0070dd|Hitem:55815:0:0:0:0:0:0:795158144:90:0:0|h[幽暗之杖]|h|r",
+				["name"] = "幽暗之杖",
+				["numItems"] = 1,
+			},
+			[2] = {
+				["texture"] = "Interface\\Icons\\Spell_Shadow_LifeDrain",
+				["itemLink"] = "|cff0070dd|Hitem:55819:0:0:0:0:0:0:795158144:90:0:0|h[血红之泪]|h|r",
+				["name"] = "血红之泪",
+				["numItems"] = 1,
+			},
+			[7] = {
+				["texture"] = "Interface\\Icons\\INV_Helmet_67",
+				["itemLink"] = "|cff1eff00|Hitem:21524:0:0:0:0:0:0:795158144:90:0:0|h[红色冬帽]|h|r",
+				["name"] = "红色冬帽",
+				["numItems"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["targetItems"] = {
@@ -1595,8 +2078,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			[3] = {
 				["name"] = "缠身忧思大氅",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffa335ee|Hitem:105188:0:0:0:0:0:0:1939020032:90:0:496|h[缠身忧思大氅]|h|r",
+=======
+				["itemLink"] = "|cffa335ee|Hitem:105188:0:0:0:0:0:0:1939020032:90:0:496|h[缠身忧思大氅]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_CAPE_PANDARIA_D_04",
 			},
 		},
@@ -1621,8 +2109,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			[2] = {
 				["name"] = "融火之核",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffa335ee|Hitem:105210:0:0:0:0:0:0:1777287936:90:0:496|h[融火之核]|h|r",
+=======
+				["itemLink"] = "|cffa335ee|Hitem:105210:0:0:0:0:0:0:1777287936:90:0:496|h[融火之核]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_JEWELRY_ORGRIMMARRAID_TRINKET_05",
 			},
 		},
@@ -1643,10 +2136,17 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 57,
 		["playerItems"] = {
 			[2] = {
+<<<<<<< HEAD
 				["texture"] = "Interface\\Icons\\INV_GAUNTLET_PLATE_RAIDWARRIOR_N_01",
 				["itemLink"] = "|cffa335ee|Hitem:103735:0:0:0:0:0:0:1249156608:90:0:496|h[焦覆手甲]|h|r",
 				["name"] = "焦覆手甲",
 				["numItems"] = 1,
+=======
+				["numItems"] = 1,
+				["name"] = "焦覆手甲",
+				["itemLink"] = "|cffa335ee|Hitem:103735:0:0:0:0:0:0:1249156608:90:0:496|h[焦覆手甲]|h|r",
+				["texture"] = "Interface\\Icons\\INV_GAUNTLET_PLATE_RAIDWARRIOR_N_01",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["targetItems"] = {
@@ -1668,10 +2168,17 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 58,
 		["playerItems"] = {
 			[2] = {
+<<<<<<< HEAD
 				["texture"] = "Interface\\Icons\\INV_PANT_CLOTH_RAIDWARLOCK_N_01",
 				["itemLink"] = "|cffa335ee|Hitem:103921:0:0:0:0:0:0:1249156608:90:0:496|h[怒火护腿]|h|r",
 				["name"] = "怒火护腿",
 				["numItems"] = 1,
+=======
+				["numItems"] = 1,
+				["name"] = "怒火护腿",
+				["itemLink"] = "|cffa335ee|Hitem:103921:0:0:0:0:0:0:1249156608:90:0:496|h[怒火护腿]|h|r",
+				["texture"] = "Interface\\Icons\\INV_PANT_CLOTH_RAIDWARLOCK_N_01",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["targetItems"] = {
@@ -1786,15 +2293,25 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "兔妖之啮",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:76089:0:0:0:0:0:0:1207116800:90:0:0|h[兔妖之啮]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:76089:0:0:0:0:0:0:1207116800:90:0:0|h[兔妖之啮]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\TRADE_ALCHEMY_POTIOND6",
 			}, -- [1]
 			{
 				["name"] = "魔古之力药水",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffffffff|Hitem:76095:0:0:0:0:0:0:722055424:90:0:0|h[魔古之力药水]|h|r",
+=======
+				["itemLink"] = "|cffffffff|Hitem:76095:0:0:0:0:0:0:722055424:90:0:0|h[魔古之力药水]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\TRADE_ALCHEMY_POTIOND5",
 			}, -- [2]
 		},
@@ -1815,10 +2332,17 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 65,
 		["playerItems"] = {
 			[4] = {
+<<<<<<< HEAD
 				["texture"] = "Interface\\Icons\\INV_Jewelry_Necklace_30",
 				["itemLink"] = "|cffa335ee|Hitem:93393:0:0:0:0:0:0:714449280:90:0:0|h[甜香垂饰]|h|r",
 				["name"] = "甜香垂饰",
 				["numItems"] = 1,
+=======
+				["numItems"] = 1,
+				["name"] = "甜香垂饰",
+				["itemLink"] = "|cffa335ee|Hitem:93393:0:0:0:0:0:0:714449280:90:0:0|h[甜香垂饰]|h|r",
+				["texture"] = "Interface\\Icons\\INV_Jewelry_Necklace_30",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["targetItems"] = {
@@ -1844,15 +2368,25 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "延极锭",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:421145472:90:0:0|h[延极锭]|h|r",
+=======
+				["itemLink"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:421145472:90:0:0|h[延极锭]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\inv_ingot_trillium",
 			}, -- [1]
 			{
 				["name"] = "延极锭",
 				["numItems"] = 20,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:1006560256:90:0:0|h[延极锭]|h|r",
+=======
+				["itemLink"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:1006560256:90:0:0|h[延极锭]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\inv_ingot_trillium",
 			}, -- [2]
 		},
@@ -1877,8 +2411,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			[2] = {
 				["name"] = "受诅碾压者胸甲",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["itemLink"] = "|cffa335ee|Hitem:99696:0:0:0:0:0:0:972898816:90:0:496|h[受诅碾压者胸甲]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffa335ee|Hitem:99696:0:0:0:0:0:0:972898816:90:0:496|h[受诅碾压者胸甲]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\inv_chest_chain_10",
 			},
 		},
@@ -1918,6 +2457,7 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 69,
 		["playerItems"] = {
 			{
+<<<<<<< HEAD
 				["numItems"] = 1,
 				["name"] = "毒毒",
 				["itemLink"] = "|cff1eff00|Hbattlepet:251:1:2:154:11:9:0x0000000000000000|h[毒毒]|h|r",
@@ -1928,6 +2468,18 @@ DuowanAddon_TradeLog_TradesHistory = {
 				["name"] = "毒毒",
 				["itemLink"] = "|cff1eff00|Hbattlepet:251:1:2:154:11:9:0x0000000000000000|h[毒毒]|h|r",
 				["texture"] = "INTERFACE\\ICONS\\INV_MISC_SLIME_01.BLP",
+=======
+				["texture"] = "INTERFACE\\ICONS\\INV_MISC_SLIME_01.BLP",
+				["itemLink"] = "|cff1eff00|Hbattlepet:251:1:2:154:11:9:0x0000000000000000|h[毒毒]|h|r",
+				["name"] = "毒毒",
+				["numItems"] = 1,
+			}, -- [1]
+			{
+				["texture"] = "INTERFACE\\ICONS\\INV_MISC_SLIME_01.BLP",
+				["itemLink"] = "|cff1eff00|Hbattlepet:251:1:2:154:11:9:0x0000000000000000|h[毒毒]|h|r",
+				["name"] = "毒毒",
+				["numItems"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [2]
 		},
 		["targetItems"] = {
@@ -1974,8 +2526,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "悲伤之路玺戒",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["itemLink"] = "|cffa335ee|Hitem:105187:0:0:0:0:0:0:953326208:90:0:496|h[悲伤之路玺戒]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffa335ee|Hitem:105187:0:0:0:0:0:0:953326208:90:0:496|h[悲伤之路玺戒]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_MISC_RING_MOP10",
 			}, -- [1]
 		},
@@ -2019,8 +2576,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "斯基尔的沁血护符",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffa335ee|Hitem:102308:0:0:0:0:0:0:1466962816:90:0:496|h[斯基尔的沁血护符]|h|r",
+=======
+				["itemLink"] = "|cffa335ee|Hitem:102308:0:0:0:0:0:0:1466962816:90:0:496|h[斯基尔的沁血护符]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_JEWELRY_ORGRIMMARRAID_TRINKET_06",
 			}, -- [1]
 		},
@@ -2136,8 +2698,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "自矜护胫",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["itemLink"] = "|cffa335ee|Hitem:103878:0:0:0:0:0:0:2131550976:90:0:496|h[自矜护胫]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffa335ee|Hitem:103878:0:0:0:0:0:0:2131550976:90:0:496|h[自矜护胫]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_PLATE_RAIDPALADIN_N_01BOOT",
 			}, -- [1]
 		},
@@ -2216,6 +2783,7 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 83,
 		["playerItems"] = {
 			[3] = {
+<<<<<<< HEAD
 				["texture"] = "Interface\\Icons\\inv_misc_gem_x4_rare_cut_blue",
 				["itemLink"] = "|cff0070dd|Hitem:76638:0:0:0:0:0:0:701331840:90:0:0|h[火花河心石]|h|r",
 				["name"] = "火花河心石",
@@ -2226,6 +2794,18 @@ DuowanAddon_TradeLog_TradesHistory = {
 				["itemLink"] = "|cff0070dd|Hitem:74724:0:0:0:0:0:0:1991823744:90:0:0|h[附魔武器 - 玉魂]|h|r",
 				["name"] = "附魔武器 - 玉魂",
 				["numItems"] = 1,
+=======
+				["numItems"] = 1,
+				["name"] = "火花河心石",
+				["itemLink"] = "|cff0070dd|Hitem:76638:0:0:0:0:0:0:701331840:90:0:0|h[火花河心石]|h|r",
+				["texture"] = "Interface\\Icons\\inv_misc_gem_x4_rare_cut_blue",
+			},
+			[2] = {
+				["numItems"] = 1,
+				["name"] = "附魔武器 - 玉魂",
+				["itemLink"] = "|cff0070dd|Hitem:74724:0:0:0:0:0:0:1991823744:90:0:0|h[附魔武器 - 玉魂]|h|r",
+				["texture"] = "Interface\\Icons\\inv_misc_enchantedscroll",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["targetItems"] = {
@@ -2321,6 +2901,7 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 88,
 		["playerItems"] = {
 			{
+<<<<<<< HEAD
 				["texture"] = "Interface\\Icons\\inv_misc_gem_x4_rare_cut_green",
 				["itemLink"] = "|cff0070dd|Hitem:76640:0:0:0:0:0:0:1252122240:90:0:0|h[迷雾荒玉]|h|r",
 				["name"] = "迷雾荒玉",
@@ -2331,6 +2912,18 @@ DuowanAddon_TradeLog_TradesHistory = {
 				["itemLink"] = "|cffffffff|Hitem:76086:0:0:0:0:0:0:567325824:90:0:0|h[秋叶合剂]|h|r",
 				["name"] = "秋叶合剂",
 				["numItems"] = 9,
+=======
+				["numItems"] = 1,
+				["name"] = "迷雾荒玉",
+				["itemLink"] = "|cff0070dd|Hitem:76640:0:0:0:0:0:0:1252122240:90:0:0|h[迷雾荒玉]|h|r",
+				["texture"] = "Interface\\Icons\\inv_misc_gem_x4_rare_cut_green",
+			}, -- [1]
+			{
+				["numItems"] = 9,
+				["name"] = "秋叶合剂",
+				["itemLink"] = "|cffffffff|Hitem:76086:0:0:0:0:0:0:567325824:90:0:0|h[秋叶合剂]|h|r",
+				["texture"] = "Interface\\Icons\\TRADE_ALCHEMY_POTIONE2",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [2]
 		},
 		["targetItems"] = {
@@ -2542,8 +3135,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "遗忘列王印戒",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffa335ee|Hitem:103796:0:0:0:0:0:0:1333447680:90:0:496|h[遗忘列王印戒]|h|r",
+=======
+				["itemLink"] = "|cffa335ee|Hitem:103796:0:0:0:0:0:0:1333447680:90:0:496|h[遗忘列王印戒]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_MISC_RING_MOP18",
 			}, -- [1]
 		},
@@ -2644,8 +3242,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "迦拉卡斯的邪恶之眼",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffa335ee|Hitem:102298:0:0:0:0:0:0:2105051904:90:0:496|h[迦拉卡斯的邪恶之眼]|h|r",
+=======
+				["itemLink"] = "|cffa335ee|Hitem:102298:0:0:0:0:0:0:2105051904:90:0:496|h[迦拉卡斯的邪恶之眼]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_JEWELRY_ORGRIMMARRAID_TRINKET_11",
 			}, -- [1]
 		},
@@ -2670,8 +3273,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "穿墙护腕",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cffa335ee|Hitem:103739:0:0:0:0:0:0:683337856:90:0:496|h[穿墙护腕]|h|r",
+=======
+				["itemLink"] = "|cffa335ee|Hitem:103739:0:0:0:0:0:0:683337856:90:0:496|h[穿墙护腕]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_BRACER_PLATE_RAIDDEATHKNIGHT_N_01",
 			}, -- [1]
 		},
@@ -2825,10 +3433,17 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 113,
 		["playerItems"] = {
 			[3] = {
+<<<<<<< HEAD
 				["texture"] = "Interface\\Icons\\INV_MISC_FOOD_VENDOR_TANGYPEACHYOGURT",
 				["itemLink"] = "|cffffffff|Hitem:81409:0:0:0:0:0:0:2044149120:90:0:0|h[香浓酸奶]|h|r",
 				["name"] = "香浓酸奶",
 				["numItems"] = 2,
+=======
+				["numItems"] = 2,
+				["name"] = "香浓酸奶",
+				["itemLink"] = "|cffffffff|Hitem:81409:0:0:0:0:0:0:2044149120:90:0:0|h[香浓酸奶]|h|r",
+				["texture"] = "Interface\\Icons\\INV_MISC_FOOD_VENDOR_TANGYPEACHYOGURT",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["targetItems"] = {
@@ -2850,10 +3465,17 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 114,
 		["playerItems"] = {
 			{
+<<<<<<< HEAD
 				["texture"] = "Interface\\Icons\\inv_belt_mail_panprog_b_01",
 				["itemLink"] = "|cffa335ee|Hitem:98614:0:0:0:0:0:0:1364518144:90:0:491|h[峡谷追猎者腰带]|h|r",
 				["name"] = "峡谷追猎者腰带",
 				["numItems"] = 1,
+=======
+				["numItems"] = 1,
+				["name"] = "峡谷追猎者腰带",
+				["itemLink"] = "|cffa335ee|Hitem:98614:0:0:0:0:0:0:1364518144:90:0:491|h[峡谷追猎者腰带]|h|r",
+				["texture"] = "Interface\\Icons\\inv_belt_mail_panprog_b_01",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["targetItems"] = {
@@ -2879,8 +3501,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "碎沫护腕",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["itemLink"] = "|cffa335ee|Hitem:105411:0:0:0:0:0:0:1615396480:90:0:496|h[碎沫护腕]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffa335ee|Hitem:105411:0:0:0:0:0:0:1615396480:90:0:496|h[碎沫护腕]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_BRACER_PLATE_RAIDWARRIOR_N_01",
 			}, -- [1]
 		},
@@ -2901,10 +3528,17 @@ DuowanAddon_TradeLog_TradesHistory = {
 		["id"] = 116,
 		["playerItems"] = {
 			[5] = {
+<<<<<<< HEAD
 				["numItems"] = 1,
 				["name"] = "碎沫护腕",
 				["itemLink"] = "|cffa335ee|Hitem:105411:0:0:0:0:0:0:1615396480:90:0:496|h[碎沫护腕]|h|r",
 				["texture"] = "Interface\\Icons\\INV_BRACER_PLATE_RAIDWARRIOR_N_01",
+=======
+				["texture"] = "Interface\\Icons\\INV_BRACER_PLATE_RAIDWARRIOR_N_01",
+				["itemLink"] = "|cffa335ee|Hitem:105411:0:0:0:0:0:0:1615396480:90:0:496|h[碎沫护腕]|h|r",
+				["name"] = "碎沫护腕",
+				["numItems"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["targetItems"] = {
@@ -3025,8 +3659,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "索克的尾巴尖",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["itemLink"] = "|cffa335ee|Hitem:102305:0:0:0:0:0:0:1915659136:90:0:496|h[索克的尾巴尖]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffa335ee|Hitem:102305:0:0:0:0:0:0:1915659136:90:0:496|h[索克的尾巴尖]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_JEWELRY_ORGRIMMARRAID_TRINKET_03",
 			}, -- [1]
 		},
@@ -3105,8 +3744,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			[3] = {
 				["name"] = "活性腐蚀之瓶",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["itemLink"] = "|cffa335ee|Hitem:105319:0:0:0:0:0:0:1787117952:90:0:496|h[活性腐蚀之瓶]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffa335ee|Hitem:105319:0:0:0:0:0:0:1787117952:90:0:496|h[活性腐蚀之瓶]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_JEWELRY_ORGRIMMARRAID_TRINKET_10",
 			},
 		},
@@ -3131,8 +3775,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "马尔考罗克的斩首斧",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["itemLink"] = "|cffa335ee|Hitem:105318:0:0:0:0:0:0:1787117952:90:0:496|h[马尔考罗克的斩首斧]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffa335ee|Hitem:105318:0:0:0:0:0:0:1787117952:90:0:496|h[马尔考罗克的斩首斧]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_AXE_1H_ORGRIMMARRAID_D_02",
 			}, -- [1]
 		},
@@ -3195,8 +3844,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "马尔考罗克的斩首斧",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["itemLink"] = "|cffa335ee|Hitem:105318:0:0:0:0:0:0:1631342080:90:0:496|h[马尔考罗克的斩首斧]|h|r",
 				["isUsable"] = 1,
+=======
+				["isUsable"] = 1,
+				["itemLink"] = "|cffa335ee|Hitem:105318:0:0:0:0:0:0:1631342080:90:0:496|h[马尔考罗克的斩首斧]|h|r",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\INV_AXE_1H_ORGRIMMARRAID_D_02",
 			}, -- [1]
 		},
@@ -3259,8 +3913,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "山脉之血",
 				["numItems"] = 2,
+<<<<<<< HEAD
 				["isUsable"] = true,
 				["itemLink"] = "|cff1eff00|Hitem:11382:0:0:0:0:0:0:0:100:250:0:0:0|h[山脉之血]|h|r",
+=======
+				["itemLink"] = "|cff1eff00|Hitem:11382:0:0:0:0:0:0:0:100:250:0:0:0|h[山脉之血]|h|r",
+				["isUsable"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\ICONS\\INV_Misc_Gem_Bloodstone_03.blp",
 			}, -- [1]
 		},

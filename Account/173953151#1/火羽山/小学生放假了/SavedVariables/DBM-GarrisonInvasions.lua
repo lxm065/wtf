@@ -13,10 +13,17 @@ DBMGarrisonInvasions_SavedStats = {
 		["heroic25Kills"] = 0,
 		["challengeBestRank"] = 0,
 		["heroicKills"] = 0,
+<<<<<<< HEAD
 		["mythicPulls"] = 0,
 		["heroicPulls"] = 0,
 		["timewalkerKills"] = 0,
 		["timewalkerPulls"] = 0,
+=======
+		["timewalkerPulls"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["mythicPulls"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["challengePulls"] = 0,
 	},
 	["LadyFleshsear"] = {
@@ -32,6 +39,7 @@ DBMGarrisonInvasions_SavedStats = {
 		["heroic25Kills"] = 0,
 		["challengeBestRank"] = 0,
 		["heroicKills"] = 0,
+<<<<<<< HEAD
 		["mythicPulls"] = 0,
 		["heroicPulls"] = 0,
 		["timewalkerKills"] = 0,
@@ -39,6 +47,15 @@ DBMGarrisonInvasions_SavedStats = {
 		["challengePulls"] = 0,
 	},
 	["Drogan"] = {
+=======
+		["timewalkerPulls"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["mythicPulls"] = 0,
+		["challengePulls"] = 0,
+	},
+	["GarrisonInvasions"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["normalPulls"] = 0,
 		["challengeKills"] = 0,
 		["normal25Kills"] = 0,
@@ -51,10 +68,17 @@ DBMGarrisonInvasions_SavedStats = {
 		["heroic25Kills"] = 0,
 		["challengeBestRank"] = 0,
 		["heroicKills"] = 0,
+<<<<<<< HEAD
 		["mythicPulls"] = 0,
 		["heroicPulls"] = 0,
 		["timewalkerKills"] = 0,
 		["timewalkerPulls"] = 0,
+=======
+		["timewalkerPulls"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["mythicPulls"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["challengePulls"] = 0,
 	},
 	["Goggnathog"] = {
@@ -70,6 +94,7 @@ DBMGarrisonInvasions_SavedStats = {
 		["heroic25Kills"] = 0,
 		["challengeBestRank"] = 0,
 		["heroicKills"] = 0,
+<<<<<<< HEAD
 		["mythicPulls"] = 0,
 		["heroicPulls"] = 0,
 		["timewalkerKills"] = 0,
@@ -80,11 +105,24 @@ DBMGarrisonInvasions_SavedStats = {
 		["normalPulls"] = 0,
 		["challengeKills"] = 0,
 		["normal25Kills"] = 0,
+=======
+		["timewalkerPulls"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["mythicPulls"] = 0,
+		["challengePulls"] = 0,
+	},
+	["Annihilon"] = {
+		["normalPulls"] = 1,
+		["challengeKills"] = 0,
+		["mythicPulls"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["mythicKills"] = 0,
 		["lfr25Kills"] = 0,
 		["heroic25Pulls"] = 0,
 		["lfr25Pulls"] = 0,
 		["normal25Pulls"] = 0,
+<<<<<<< HEAD
 		["normalKills"] = 0,
 		["heroic25Kills"] = 0,
 		["challengeBestRank"] = 0,
@@ -99,11 +137,30 @@ DBMGarrisonInvasions_SavedStats = {
 		["normalPulls"] = 1,
 		["challengeKills"] = 0,
 		["mythicPulls"] = 0,
+=======
+		["challengeBestRank"] = 0,
+		["normalKills"] = 1,
+		["heroic25Kills"] = 0,
+		["normalBestTime"] = 171.1,
+		["normal25Kills"] = 0,
+		["heroicKills"] = 0,
+		["timewalkerPulls"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["normalLastTime"] = 171.1,
+		["challengePulls"] = 0,
+	},
+	["Teluur"] = {
+		["normalPulls"] = 0,
+		["challengeKills"] = 0,
+		["normal25Kills"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["mythicKills"] = 0,
 		["lfr25Kills"] = 0,
 		["heroic25Pulls"] = 0,
 		["lfr25Pulls"] = 0,
 		["normal25Pulls"] = 0,
+<<<<<<< HEAD
 		["challengeBestRank"] = 0,
 		["normalKills"] = 1,
 		["normalLastTime"] = 171.1,
@@ -117,6 +174,19 @@ DBMGarrisonInvasions_SavedStats = {
 		["challengePulls"] = 0,
 	},
 	["GarrisonInvasions"] = {
+=======
+		["normalKills"] = 0,
+		["heroic25Kills"] = 0,
+		["challengeBestRank"] = 0,
+		["heroicKills"] = 0,
+		["timewalkerPulls"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["mythicPulls"] = 0,
+		["challengePulls"] = 0,
+	},
+	["Drogan"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["normalPulls"] = 0,
 		["challengeKills"] = 0,
 		["normal25Kills"] = 0,
@@ -129,10 +199,17 @@ DBMGarrisonInvasions_SavedStats = {
 		["heroic25Kills"] = 0,
 		["challengeBestRank"] = 0,
 		["heroicKills"] = 0,
+<<<<<<< HEAD
 		["mythicPulls"] = 0,
 		["heroicPulls"] = 0,
 		["timewalkerKills"] = 0,
 		["timewalkerPulls"] = 0,
+=======
+		["timewalkerPulls"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["mythicPulls"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["challengePulls"] = 0,
 	},
 }

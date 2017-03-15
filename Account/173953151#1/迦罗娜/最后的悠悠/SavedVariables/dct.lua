@@ -614,6 +614,7 @@ DCT_SAVE_PERCHAR = {
 	},
 	["DCT_SHOWACTIVE"] = {
 		["fSizeCh"] = 4,
+<<<<<<< HEAD
 		["show"] = {
 			"→#sn", -- [1]
 		},
@@ -626,6 +627,8 @@ DCT_SAVE_PERCHAR = {
 		},
 		["frame"] = 0,
 		["sound"] = "",
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["colorEx"] = {
 			{
 				1, -- [1]
@@ -638,6 +641,21 @@ DCT_SAVE_PERCHAR = {
 				0, -- [3]
 			}, -- [2]
 		},
+<<<<<<< HEAD
+=======
+		["sound"] = "",
+		["fEff"] = 4,
+		["color"] = {
+			1, -- [1]
+			1, -- [2]
+			1, -- [3]
+		},
+		["frame"] = 0,
+		["fSizeEn"] = 4,
+		["show"] = {
+			"→#sn", -- [1]
+		},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	},
 	["DCT_SPECTARGETBUFFFADE"] = {
 	},
@@ -668,6 +686,7 @@ DCT_SAVE_PERCHAR = {
 		},
 	},
 	["DCT_ZeroHp_off"] = 1,
+<<<<<<< HEAD
 	["DCT_SHOWDEFLECT"] = {
 		["show"] = {
 			"#ms", -- [1]
@@ -693,6 +712,9 @@ DCT_SAVE_PERCHAR = {
 		},
 		["sound"] = "",
 	},
+=======
+	["DCT_UseCastBar"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	["DCT_SHOWDISPELLED"] = {
 		["color"] = {
 			1, -- [1]
@@ -779,6 +801,7 @@ DCT_SAVE_PERCHAR = {
 			["param7"] = 1,
 			["fCh"] = 4,
 			["alpha"] = 100,
+<<<<<<< HEAD
 			["fEff"] = 1,
 			["y"] = 0,
 			["x"] = -20,
@@ -788,6 +811,17 @@ DCT_SAVE_PERCHAR = {
 			["param6"] = 30,
 			["param2"] = 150,
 			["anchor"] = 1,
+=======
+			["anchor"] = 1,
+			["y"] = 0,
+			["x"] = -20,
+			["name"] = "",
+			["param2"] = 150,
+			["param6"] = 30,
+			["fSizeEn"] = 20,
+			["fSizeCh"] = 18,
+			["fEff"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		}, -- [1]
 		{
 			["active"] = true,
@@ -802,6 +836,7 @@ DCT_SAVE_PERCHAR = {
 			["param7"] = 1,
 			["fCh"] = 4,
 			["alpha"] = 100,
+<<<<<<< HEAD
 			["fEff"] = 1,
 			["y"] = 0,
 			["x"] = 0,
@@ -811,6 +846,17 @@ DCT_SAVE_PERCHAR = {
 			["param6"] = 30,
 			["param2"] = 100,
 			["anchor"] = 1,
+=======
+			["anchor"] = 1,
+			["y"] = 0,
+			["x"] = 0,
+			["name"] = "",
+			["param2"] = 100,
+			["param6"] = 30,
+			["fSizeEn"] = 20,
+			["fSizeCh"] = 18,
+			["fEff"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		}, -- [2]
 		{
 			["active"] = true,
@@ -825,6 +871,7 @@ DCT_SAVE_PERCHAR = {
 			["param7"] = 1,
 			["fCh"] = 4,
 			["alpha"] = 100,
+<<<<<<< HEAD
 			["fEff"] = 1,
 			["y"] = 0,
 			["x"] = 20,
@@ -834,6 +881,17 @@ DCT_SAVE_PERCHAR = {
 			["param6"] = 30,
 			["param2"] = 150,
 			["anchor"] = 1,
+=======
+			["anchor"] = 1,
+			["y"] = 0,
+			["x"] = 20,
+			["name"] = "",
+			["param2"] = 150,
+			["param6"] = 30,
+			["fSizeEn"] = 20,
+			["fSizeCh"] = 18,
+			["fEff"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		}, -- [3]
 		{
 			["active"] = true,
@@ -850,11 +908,19 @@ DCT_SAVE_PERCHAR = {
 			["y"] = -60,
 			["x"] = 0,
 			["name"] = "",
+<<<<<<< HEAD
 			["fEff"] = 2,
 			["fSizeCh"] = 24,
 			["fSizeEn"] = 24,
 			["param2"] = 3,
 			["anchor"] = 1,
+=======
+			["anchor"] = 1,
+			["param2"] = 3,
+			["fSizeEn"] = 24,
+			["fSizeCh"] = 24,
+			["fEff"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		}, -- [4]
 		{
 			["active"] = true,
@@ -871,11 +937,19 @@ DCT_SAVE_PERCHAR = {
 			["y"] = -150,
 			["x"] = 0,
 			["name"] = "",
+<<<<<<< HEAD
 			["fEff"] = 2,
 			["fSizeCh"] = 18,
 			["fSizeEn"] = 18,
 			["param2"] = 3,
 			["anchor"] = 1,
+=======
+			["anchor"] = 1,
+			["param2"] = 3,
+			["fSizeEn"] = 18,
+			["fSizeCh"] = 18,
+			["fEff"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		}, -- [5]
 		{
 			["active"] = true,
@@ -892,10 +966,17 @@ DCT_SAVE_PERCHAR = {
 			["y"] = 200,
 			["x"] = 0,
 			["name"] = "",
+<<<<<<< HEAD
 			["fEff"] = 1,
 			["fSizeCh"] = 15,
 			["fSizeEn"] = 15,
 			["param2"] = 4.5,
+=======
+			["param2"] = 4.5,
+			["fSizeEn"] = 15,
+			["fSizeCh"] = 15,
+			["fEff"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		}, -- [6]
 		{
 			["active"] = true,
@@ -912,11 +993,19 @@ DCT_SAVE_PERCHAR = {
 			["y"] = 60,
 			["x"] = 0,
 			["name"] = "",
+<<<<<<< HEAD
 			["fEff"] = 1,
 			["fSizeCh"] = 16,
 			["fSizeEn"] = 18,
 			["param6"] = 0,
 			["param2"] = 2.5,
+=======
+			["param2"] = 2.5,
+			["param6"] = 0,
+			["fSizeEn"] = 18,
+			["fSizeCh"] = 16,
+			["fEff"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		}, -- [7]
 		{
 			["active"] = true,
@@ -933,11 +1022,19 @@ DCT_SAVE_PERCHAR = {
 			["y"] = 80,
 			["x"] = 0,
 			["name"] = "",
+<<<<<<< HEAD
 			["fEff"] = 1,
 			["fSizeCh"] = 26,
 			["fSizeEn"] = 26,
 			["param6"] = 0,
 			["param2"] = 1,
+=======
+			["param2"] = 1,
+			["param6"] = 0,
+			["fSizeEn"] = 26,
+			["fSizeCh"] = 26,
+			["fEff"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		}, -- [8]
 		{
 			["active"] = true,
@@ -954,11 +1051,19 @@ DCT_SAVE_PERCHAR = {
 			["y"] = 80,
 			["x"] = -80,
 			["name"] = "",
+<<<<<<< HEAD
 			["fEff"] = 1,
 			["fSizeCh"] = 16,
 			["fSizeEn"] = 18,
 			["param6"] = 0,
 			["param2"] = 2,
+=======
+			["param2"] = 2,
+			["param6"] = 0,
+			["fSizeEn"] = 18,
+			["fSizeCh"] = 16,
+			["fEff"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		}, -- [9]
 		{
 			["active"] = false,
@@ -1011,6 +1116,7 @@ DCT_SAVE_PERCHAR = {
 		},
 		["sound"] = "",
 	},
+<<<<<<< HEAD
 	["DCT_SSC_Number"] = 0,
 	["DCT_SSColor8"] = {
 		["color"] = {
@@ -1024,11 +1130,16 @@ DCT_SAVE_PERCHAR = {
 			"#ms", -- [1]
 			"#ms #c1(#sn)#ce", -- [2]
 		},
+=======
+	["DCT_PRETEXTNAME"] = "none",
+	["DCT_SSColor1"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["color"] = {
 			1, -- [1]
 			1, -- [2]
 			1, -- [3]
 		},
+<<<<<<< HEAD
 		["frame"] = 1,
 		["colorEx"] = {
 			{
@@ -1061,13 +1172,45 @@ DCT_SAVE_PERCHAR = {
 		["colorEx"] = {
 			{
 				1, -- [1]
+=======
+	},
+	["DCT_SPECBUFFFADE"] = {
+	},
+	["DCT_SSColor8"] = {
+		["color"] = {
+			0.5, -- [1]
+			0.7, -- [2]
+			0.2, -- [3]
+		},
+	},
+	["DCT_SaveVer"] = 2011,
+	["DCT_SHOWCOMBAT"] = {
+		["show"] = {
+			"**进入战斗**", -- [1]
+		},
+		["fEff"] = 2,
+		["color"] = {
+			1, -- [1]
+			0.4, -- [2]
+			0, -- [3]
+		},
+		["frame"] = 2,
+		["colorEx"] = {
+			{
+				0, -- [1]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				1, -- [2]
 				0, -- [3]
 			}, -- [1]
 			{
 				1, -- [1]
+<<<<<<< HEAD
 				0, -- [2]
 				0, -- [3]
+=======
+				1, -- [2]
+				1, -- [3]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [2]
 		},
 		["sound"] = "",
@@ -1104,6 +1247,7 @@ DCT_SAVE_PERCHAR = {
 			0, -- [3]
 		},
 	},
+<<<<<<< HEAD
 	["DCT_SHOWCOOLDOWN"] = {
 		["show"] = {
 			"可用:#sn", -- [1]
@@ -1119,15 +1263,40 @@ DCT_SAVE_PERCHAR = {
 			{
 				1, -- [1]
 				0, -- [2]
+=======
+	["DCT_SHOWPERIODIC"] = {
+		["show"] = {
+			"-#am #sn", -- [1]
+			"-#am #sn (#bt)", -- [2]
+		},
+		["per"] = 0,
+		["color"] = {
+			1, -- [1]
+			0, -- [2]
+			1, -- [3]
+		},
+		["frame"] = 1,
+		["colorEx"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				0, -- [3]
 			}, -- [1]
 			{
 				1, -- [1]
+<<<<<<< HEAD
 				1, -- [2]
 				0, -- [3]
 			}, -- [2]
 		},
 		["sound"] = "",
+=======
+				0, -- [2]
+				0, -- [3]
+			}, -- [2]
+		},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	},
 	["DCT_SHOWSHIELD"] = {
 		["show"] = {
@@ -1180,6 +1349,7 @@ DCT_SAVE_PERCHAR = {
 	},
 	["DCT_SPECCOOLDOWN"] = {
 	},
+<<<<<<< HEAD
 	["DCT_SSColor64"] = {
 		["color"] = {
 			0, -- [1]
@@ -1196,6 +1366,16 @@ DCT_SAVE_PERCHAR = {
 		["color"] = {
 			1, -- [1]
 			0, -- [2]
+=======
+	["DCT_SHOWRESIST"] = {
+		["show"] = {
+			"#ms", -- [1]
+			"#ms #c1(#sn)#ce", -- [2]
+		},
+		["color"] = {
+			1, -- [1]
+			1, -- [2]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			1, -- [3]
 		},
 		["frame"] = 1,
@@ -1211,6 +1391,7 @@ DCT_SAVE_PERCHAR = {
 				0, -- [3]
 			}, -- [2]
 		},
+<<<<<<< HEAD
 	},
 	["DCT_SHOWSPECTARGETDEBUFFFADE"] = {
 		["show"] = {
@@ -1224,6 +1405,21 @@ DCT_SAVE_PERCHAR = {
 		},
 		["frame"] = 0,
 		["sound"] = "",
+=======
+		["sound"] = "",
+	},
+	["DCT_SHOWCOOLDOWN"] = {
+		["show"] = {
+			"可用:#sn", -- [1]
+		},
+		["fEff"] = 3,
+		["color"] = {
+			0.5, -- [1]
+			0.5, -- [2]
+			1, -- [3]
+		},
+		["frame"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["colorEx"] = {
 			{
 				1, -- [1]
@@ -1236,6 +1432,7 @@ DCT_SAVE_PERCHAR = {
 				0, -- [3]
 			}, -- [2]
 		},
+<<<<<<< HEAD
 	},
 	["DCT_SSC_Spell"] = 0,
 	["DCT_SHOWSPECDEBUFFFADE"] = {
@@ -1243,21 +1440,39 @@ DCT_SAVE_PERCHAR = {
 			0.8, -- [1]
 			0.3, -- [2]
 			0.3, -- [3]
+=======
+		["sound"] = "",
+	},
+	["DCT_SHOWBUFF"] = {
+		["color"] = {
+			0, -- [1]
+			1, -- [2]
+			0, -- [3]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		},
 		["frame"] = 0,
 		["colorEx"] = {
 			{
 				1, -- [1]
+<<<<<<< HEAD
 				0, -- [2]
+=======
+				1, -- [2]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				0, -- [3]
 			}, -- [1]
 			{
 				1, -- [1]
+<<<<<<< HEAD
 				1, -- [2]
+=======
+				0, -- [2]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				0, -- [3]
 			}, -- [2]
 		},
 		["show"] = {
+<<<<<<< HEAD
 			"消失: #sn", -- [1]
 		},
 	},
@@ -1279,6 +1494,23 @@ DCT_SAVE_PERCHAR = {
 		},
 		["frame"] = 5,
 		["sound"] = "",
+=======
+			"获得: #sn", -- [1]
+		},
+	},
+	["DCT_SSC_Spell"] = 0,
+	["DCT_SHOWPOWER"] = {
+		["show"] = {
+			"+#am #pt", -- [1]
+		},
+		["per"] = 0,
+		["color"] = {
+			1, -- [1]
+			1, -- [2]
+			0, -- [3]
+		},
+		["frame"] = 3,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["colorEx"] = {
 			{
 				1, -- [1]
@@ -1315,6 +1547,7 @@ DCT_SAVE_PERCHAR = {
 			"-#am #et", -- [1]
 		},
 	},
+<<<<<<< HEAD
 	["DCT_SHOWPOWER"] = {
 		["show"] = {
 			"+#am #pt", -- [1]
@@ -1326,6 +1559,19 @@ DCT_SAVE_PERCHAR = {
 			0, -- [3]
 		},
 		["frame"] = 3,
+=======
+	["DCT_SHOWEXTRAATTACKS"] = {
+		["show"] = {
+			"#sn x#am", -- [1]
+		},
+		["color"] = {
+			1, -- [1]
+			1, -- [2]
+			1, -- [3]
+		},
+		["frame"] = 5,
+		["sound"] = "",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["colorEx"] = {
 			{
 				1, -- [1]
@@ -1339,6 +1585,39 @@ DCT_SAVE_PERCHAR = {
 			}, -- [2]
 		},
 	},
+<<<<<<< HEAD
+=======
+	["DCT_SSColor32"] = {
+		["color"] = {
+			1, -- [1]
+			0.4, -- [2]
+			1, -- [3]
+		},
+	},
+	["DCT_SHOWSPECDEBUFFFADE"] = {
+		["color"] = {
+			0.8, -- [1]
+			0.3, -- [2]
+			0.3, -- [3]
+		},
+		["frame"] = 0,
+		["colorEx"] = {
+			{
+				1, -- [1]
+				0, -- [2]
+				0, -- [3]
+			}, -- [1]
+			{
+				1, -- [1]
+				1, -- [2]
+				0, -- [3]
+			}, -- [2]
+		},
+		["show"] = {
+			"消失: #sn", -- [1]
+		},
+	},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	["DCT_SHOWDODGE"] = {
 		["show"] = {
 			"#ms", -- [1]
@@ -1364,6 +1643,7 @@ DCT_SAVE_PERCHAR = {
 		},
 		["sound"] = "",
 	},
+<<<<<<< HEAD
 	["DCT_SHOWBUFF"] = {
 		["color"] = {
 			0, -- [1]
@@ -1375,10 +1655,29 @@ DCT_SAVE_PERCHAR = {
 			{
 				1, -- [1]
 				1, -- [2]
+=======
+	["DCT_SHOWSPECTARGETDEBUFFFADE"] = {
+		["show"] = {
+			"*-#sn-*", -- [1]
+			"O_O #sn", -- [2]
+		},
+		["color"] = {
+			1, -- [1]
+			0, -- [2]
+			0, -- [3]
+		},
+		["frame"] = 0,
+		["sound"] = "",
+		["colorEx"] = {
+			{
+				1, -- [1]
+				0, -- [2]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				0, -- [3]
 			}, -- [1]
 			{
 				1, -- [1]
+<<<<<<< HEAD
 				0, -- [2]
 				0, -- [3]
 			}, -- [2]
@@ -1386,6 +1685,12 @@ DCT_SAVE_PERCHAR = {
 		["show"] = {
 			"获得: #sn", -- [1]
 		},
+=======
+				1, -- [2]
+				0, -- [3]
+			}, -- [2]
+		},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	},
 	["DCT_SHOWDEBUFFFADE"] = {
 		["color"] = {
@@ -1410,6 +1715,7 @@ DCT_SAVE_PERCHAR = {
 			"消失:#c1#sn#ce", -- [1]
 		},
 	},
+<<<<<<< HEAD
 	["DCT_SHOWCOMBAT"] = {
 		["show"] = {
 			"**进入战斗**", -- [1]
@@ -1424,24 +1730,67 @@ DCT_SAVE_PERCHAR = {
 		["colorEx"] = {
 			{
 				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-			}, -- [1]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [2]
+=======
+	["DCT_SSColor64"] = {
+		["color"] = {
+			0, -- [1]
+			1, -- [2]
+			1, -- [3]
 		},
-		["sound"] = "",
 	},
 	["DCT_ManaSelfNoneName"] = 0,
-	["DCT_SSColor1"] = {
+	["DCT_SHOWREFLECT"] = {
+		["show"] = {
+			"#ms", -- [1]
+			"#ms #c1(#sn)#ce", -- [2]
+		},
 		["color"] = {
 			1, -- [1]
 			1, -- [2]
 			1, -- [3]
 		},
+		["frame"] = 1,
+		["colorEx"] = {
+			{
+				1, -- [1]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+				1, -- [2]
+				0, -- [3]
+			}, -- [1]
+			{
+				1, -- [1]
+<<<<<<< HEAD
+				1, -- [2]
+				1, -- [3]
+=======
+				0, -- [2]
+				0, -- [3]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+			}, -- [2]
+		},
+		["sound"] = "",
+	},
+<<<<<<< HEAD
+	["DCT_ManaSelfNoneName"] = 0,
+	["DCT_SSColor1"] = {
+=======
+	["DCT_SSC_Number"] = 0,
+	["DCT_EnglishInfo"] = 0,
+	["DCT_Enable"] = 1,
+	["DCT_SPECTARGETBUFF"] = {
+	},
+	["DCT_SHOWEVADE"] = {
+		["show"] = {
+			"#ms", -- [1]
+			"#ms #c1(#sn)#ce", -- [2]
+		},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["color"] = {
+			1, -- [1]
+			1, -- [2]
+			1, -- [3]
+		},
+<<<<<<< HEAD
 	},
 	["DCT_PRETEXTNAME"] = "none",
 	["DCT_EnglishInfo"] = 0,
@@ -1449,6 +1798,24 @@ DCT_SAVE_PERCHAR = {
 	["DCT_SPECTARGETBUFF"] = {
 	},
 	["DCT_SHOWEVADE"] = {
+=======
+		["frame"] = 1,
+		["colorEx"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+				0, -- [3]
+			}, -- [1]
+			{
+				1, -- [1]
+				0, -- [2]
+				0, -- [3]
+			}, -- [2]
+		},
+		["sound"] = "",
+	},
+	["DCT_SHOWDEFLECT"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["show"] = {
 			"#ms", -- [1]
 			"#ms #c1(#sn)#ce", -- [2]
@@ -1473,5 +1840,8 @@ DCT_SAVE_PERCHAR = {
 		},
 		["sound"] = "",
 	},
+<<<<<<< HEAD
 	["DCT_UseCastBar"] = 1,
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 }

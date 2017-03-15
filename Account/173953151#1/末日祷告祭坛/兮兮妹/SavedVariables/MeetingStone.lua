@@ -160,11 +160,19 @@ MEETINGSTONE_CHARACTER_DB = {
 				},
 			},
 			["searchHistoryList"] = {
+<<<<<<< HEAD
 				"3-110-412-0", -- [1]
 				"3-15-400-0", -- [2]
 				"6-0-0-0", -- [3]
 			},
 			["lastSearchValue"] = "3-110-412-0",
+=======
+				"3-15-400-0", -- [1]
+				"3-110-412-0", -- [2]
+				"6-0-0-0", -- [3]
+			},
+			["lastSearchValue"] = "3-15-400-0",
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			["chatGroupListening"] = {
 				["APP_WHISPER"] = {
 					nil, -- [1]

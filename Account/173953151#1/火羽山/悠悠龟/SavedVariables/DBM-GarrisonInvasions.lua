@@ -13,10 +13,17 @@ DBMGarrisonInvasions_SavedStats = {
 		["heroic25Kills"] = 0,
 		["challengeBestRank"] = 0,
 		["heroicKills"] = 0,
+<<<<<<< HEAD
 		["normal25Kills"] = 0,
 		["heroicPulls"] = 0,
 		["timewalkerKills"] = 0,
 		["timewalkerPulls"] = 0,
+=======
+		["timewalkerPulls"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["normal25Kills"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["challengePulls"] = 0,
 	},
 	["LadyFleshsear"] = {
@@ -32,6 +39,7 @@ DBMGarrisonInvasions_SavedStats = {
 		["heroic25Kills"] = 0,
 		["challengeBestRank"] = 0,
 		["heroicKills"] = 0,
+<<<<<<< HEAD
 		["normal25Kills"] = 0,
 		["heroicPulls"] = 0,
 		["timewalkerKills"] = 0,
@@ -39,6 +47,15 @@ DBMGarrisonInvasions_SavedStats = {
 		["challengePulls"] = 0,
 	},
 	["GarrisonInvasions"] = {
+=======
+		["timewalkerPulls"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["normal25Kills"] = 0,
+		["challengePulls"] = 0,
+	},
+	["Drogan"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["normalPulls"] = 0,
 		["challengeKills"] = 0,
 		["mythicPulls"] = 0,
@@ -51,10 +68,17 @@ DBMGarrisonInvasions_SavedStats = {
 		["heroic25Kills"] = 0,
 		["challengeBestRank"] = 0,
 		["heroicKills"] = 0,
+<<<<<<< HEAD
 		["normal25Kills"] = 0,
 		["heroicPulls"] = 0,
 		["timewalkerKills"] = 0,
 		["timewalkerPulls"] = 0,
+=======
+		["timewalkerPulls"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["normal25Kills"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["challengePulls"] = 0,
 	},
 	["Goggnathog"] = {
@@ -70,6 +94,7 @@ DBMGarrisonInvasions_SavedStats = {
 		["heroic25Kills"] = 0,
 		["challengeBestRank"] = 0,
 		["heroicKills"] = 0,
+<<<<<<< HEAD
 		["normal25Kills"] = 0,
 		["heroicPulls"] = 0,
 		["timewalkerKills"] = 0,
@@ -77,6 +102,15 @@ DBMGarrisonInvasions_SavedStats = {
 		["challengePulls"] = 0,
 	},
 	["Annihilon"] = {
+=======
+		["timewalkerPulls"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["normal25Kills"] = 0,
+		["challengePulls"] = 0,
+	},
+	["Teluur"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["normalPulls"] = 0,
 		["challengeKills"] = 0,
 		["mythicPulls"] = 0,
@@ -89,6 +123,7 @@ DBMGarrisonInvasions_SavedStats = {
 		["heroic25Kills"] = 0,
 		["challengeBestRank"] = 0,
 		["heroicKills"] = 0,
+<<<<<<< HEAD
 		["normal25Kills"] = 0,
 		["heroicPulls"] = 0,
 		["timewalkerKills"] = 0,
@@ -96,6 +131,15 @@ DBMGarrisonInvasions_SavedStats = {
 		["challengePulls"] = 0,
 	},
 	["Teluur"] = {
+=======
+		["timewalkerPulls"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["normal25Kills"] = 0,
+		["challengePulls"] = 0,
+	},
+	["Annihilon"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["normalPulls"] = 0,
 		["challengeKills"] = 0,
 		["mythicPulls"] = 0,
@@ -108,6 +152,7 @@ DBMGarrisonInvasions_SavedStats = {
 		["heroic25Kills"] = 0,
 		["challengeBestRank"] = 0,
 		["heroicKills"] = 0,
+<<<<<<< HEAD
 		["normal25Kills"] = 0,
 		["heroicPulls"] = 0,
 		["timewalkerKills"] = 0,
@@ -115,6 +160,15 @@ DBMGarrisonInvasions_SavedStats = {
 		["challengePulls"] = 0,
 	},
 	["Drogan"] = {
+=======
+		["timewalkerPulls"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["normal25Kills"] = 0,
+		["challengePulls"] = 0,
+	},
+	["GarrisonInvasions"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["normalPulls"] = 0,
 		["challengeKills"] = 0,
 		["mythicPulls"] = 0,
@@ -127,10 +181,17 @@ DBMGarrisonInvasions_SavedStats = {
 		["heroic25Kills"] = 0,
 		["challengeBestRank"] = 0,
 		["heroicKills"] = 0,
+<<<<<<< HEAD
 		["normal25Kills"] = 0,
 		["heroicPulls"] = 0,
 		["timewalkerKills"] = 0,
 		["timewalkerPulls"] = 0,
+=======
+		["timewalkerPulls"] = 0,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["normal25Kills"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["challengePulls"] = 0,
 	},
 }

@@ -1,6 +1,7 @@
 
 DBMGarrisonInvasions_AllSavedVars = {
 	["帅帅爹-末日祷告祭坛"] = {
+<<<<<<< HEAD
 		["GarrisonInvasions"] = {
 			{
 				["Enabled"] = true,
@@ -17,6 +18,18 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["specWarnSpySWNote"] = true,
 				["specWarnBuildingSWSound"] = 1,
 				["specWarnBuildingSWNote"] = true,
+=======
+		["Drogan"] = {
+			{
+				["Enabled"] = true,
+				["announce180882spell"] = true,
+				["Voice180880"] = true,
+				["SpecWarn180880youSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180880youSWSound"] = 1,
+				["announceother180880target"] = true,
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["Gaur"] = {
@@ -37,13 +50,19 @@ DBMGarrisonInvasions_AllSavedVars = {
 		["LadyFleshsear"] = {
 			{
 				["Enabled"] = true,
+<<<<<<< HEAD
 				["HealthFrame"] = false,
 				["SpecWarn180776moveawaySWNote"] = true,
+=======
+				["Voice180776"] = true,
+				["SpecWarn180779spell"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Voice180775"] = true,
 				["announceother180776target"] = true,
 				["SpecWarn180779spellSWNote"] = true,
 				["SpecWarn180775move"] = true,
 				["Yell180776"] = true,
+<<<<<<< HEAD
 				["SpecWarn180775moveSWNote"] = true,
 				["SpecWarn180776moveawaySWSound"] = 1,
 				["SpecWarn180776moveaway"] = true,
@@ -52,6 +71,16 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180779spellSWSound"] = 2,
 				["SpecWarn180779spell"] = true,
 				["Voice180776"] = true,
+=======
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["HealthFrame"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["talent1"] = "野兽控制",
@@ -67,6 +96,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["SpecWarn180819spellSWSound"] = 2,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -98,6 +128,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["Voice180939"] = true,
 				["SpecWarn180939you"] = true,
+=======
+				["RangeFrame"] = true,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["Voice180819"] = true,
+				["Yell180908"] = true,
+				["Voice180816"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["Voice180908"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["HealthFrame"] = false,
+				["SpecWarn180908moveaway"] = true,
+				["SpecWarn180819spellSWSound"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["Teluur"] = {
@@ -113,6 +157,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["announceother180836target"] = true,
 			}, -- [1]
 		},
+<<<<<<< HEAD
 		["Drogan"] = {
 			{
 				["Enabled"] = true,
@@ -123,6 +168,43 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
 				["Voice180880"] = true,
+=======
+		["Annihilon"] = {
+			{
+				["announceother180950target"] = true,
+				["HudMapOnMC"] = true,
+				["SpecWarn180950switch"] = true,
+				["Voice163472"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180939you"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["Yell180939"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Enabled"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Voice180939"] = true,
+				["announceother180939target"] = true,
+			}, -- [1]
+		},
+		["GarrisonInvasions"] = {
+			{
+				["Enabled"] = true,
+				["specWarnRylak"] = true,
+				["specWarnWorker"] = true,
+				["HealthFrame"] = false,
+				["specWarnBuildingSWNote"] = true,
+				["specWarnBuilding"] = true,
+				["specWarnSpy"] = true,
+				["specWarnBuildingSWSound"] = 1,
+				["specWarnWorkerSWNote"] = true,
+				["specWarnRylakSWNote"] = true,
+				["specWarnSpySWSound"] = 1,
+				["specWarnSpySWNote"] = true,
+				["specWarnWorkerSWSound"] = 1,
+				["specWarnRylakSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 	},
@@ -141,6 +223,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["RangeFrame"] = true,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -153,6 +236,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["HealthFrame"] = false,
 				["SpecWarn180908moveaway"] = true,
 				["SpecWarn180819spellSWSound"] = 2,
+=======
+				["SpecWarn180819spellSWSound"] = 2,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["SpecWarn180908moveaway"] = true,
+				["Yell180908"] = true,
+				["Voice180819"] = true,
+				["HealthFrame"] = false,
+				["Voice180908"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["Voice180816"] = true,
+				["RangeFrame"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 			[4] = {
 				["announceother180908target"] = true,
@@ -165,6 +262,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["SpecWarn180819spellSWSound"] = 2,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -177,6 +275,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180816dispelSWSound"] = 1,
 				["Voice180816"] = true,
 				["SpecWarn180816dispelSWNote"] = true,
+=======
+				["SpecWarn180816dispelSWNote"] = true,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["Voice180819"] = true,
+				["Yell180908"] = true,
+				["Voice180816"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["Voice180908"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["HealthFrame"] = false,
+				["SpecWarn180908moveaway"] = true,
+				["SpecWarn180819spellSWSound"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["GarrisonInvasions"] = {
@@ -185,32 +297,54 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["specWarnBuildingSWNote"] = true,
 				["specWarnBuildingSWSound"] = 1,
+=======
+				["specWarnRylakSWSound"] = 1,
+				["specWarnWorkerSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["specWarnSpy"] = true,
 				["specWarnBuilding"] = true,
 				["specWarnWorkerSWNote"] = true,
 				["specWarnRylakSWNote"] = true,
 				["specWarnSpySWSound"] = 1,
 				["specWarnSpySWNote"] = true,
+<<<<<<< HEAD
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnRylakSWSound"] = 1,
+=======
+				["specWarnBuildingSWSound"] = 1,
+				["specWarnBuildingSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 			[4] = {
 				["Enabled"] = true,
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["specWarnRylakSWSound"] = 1,
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnSpy"] = true,
 				["specWarnBuilding"] = true,
+=======
+				["specWarnBuildingSWNote"] = true,
+				["specWarnBuilding"] = true,
+				["specWarnSpy"] = true,
+				["specWarnBuildingSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["specWarnWorkerSWNote"] = true,
 				["specWarnRylakSWNote"] = true,
 				["specWarnSpySWSound"] = 1,
 				["specWarnSpySWNote"] = true,
+<<<<<<< HEAD
 				["specWarnBuildingSWSound"] = 1,
 				["specWarnBuildingSWNote"] = true,
+=======
+				["specWarnWorkerSWSound"] = 1,
+				["specWarnRylakSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["Gaur"] = {
@@ -244,6 +378,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 		["LadyFleshsear"] = {
 			[2] = {
 				["Enabled"] = true,
+<<<<<<< HEAD
 				["Voice180776"] = true,
 				["SpecWarn180779spell"] = true,
 				["Voice180775"] = true,
@@ -277,6 +412,41 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180779spellSWSound"] = 2,
 				["SpecWarn180779spell"] = true,
 				["HealthFrame"] = false,
+=======
+				["HealthFrame"] = false,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["Voice180775"] = true,
+				["announceother180776target"] = true,
+				["SpecWarn180779spellSWNote"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180779spell"] = true,
+				["Voice180776"] = true,
+			},
+			[4] = {
+				["Enabled"] = true,
+				["SpecWarn180779spellSWNote"] = true,
+				["SpecWarn180779spell"] = true,
+				["Voice180775"] = true,
+				["HealthFrame"] = false,
+				["Voice180776"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["announceother180776target"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["Annihilon"] = {
@@ -286,6 +456,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = true,
 				["Voice163472"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["SpecWarn180939you"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -296,6 +467,18 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180939youSWNote"] = true,
 				["Voice180939"] = true,
 				["announceother180939target"] = true,
+=======
+				["announceother180939target"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Yell180939"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Enabled"] = true,
+				["Voice180939"] = true,
+				["SpecWarn180939you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 			[4] = {
 				["announceother180950target"] = true,
@@ -303,6 +486,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = false,
 				["Voice163472"] = false,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["announceother180939target"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -313,6 +497,18 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["Voice180939"] = true,
 				["SpecWarn180939you"] = true,
+=======
+				["SpecWarn180939you"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["Yell180939"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Enabled"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Voice180939"] = true,
+				["announceother180939target"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["Teluur"] = {
@@ -343,26 +539,43 @@ DBMGarrisonInvasions_AllSavedVars = {
 			[2] = {
 				["Enabled"] = true,
 				["announce180882spell"] = true,
+<<<<<<< HEAD
 				["Voice180880"] = true,
+=======
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["SpecWarn180880you"] = true,
+=======
+				["Voice180880"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 			[4] = {
 				["Voice180880"] = true,
 				["announce180882spell"] = true,
+<<<<<<< HEAD
 				["SpecWarn180880you"] = true,
+=======
+				["Enabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["Enabled"] = true,
+=======
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 	},
 	["兮兮妹-末日祷告祭坛"] = {
+<<<<<<< HEAD
 		["GarrisonInvasions"] = {
 			{
 				["Enabled"] = true,
@@ -379,6 +592,18 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["specWarnSpySWNote"] = true,
 				["specWarnBuilding"] = true,
 				["specWarnBuildingSWNote"] = true,
+=======
+		["Drogan"] = {
+			{
+				["Enabled"] = true,
+				["announce180882spell"] = true,
+				["Voice180880"] = true,
+				["SpecWarn180880youSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180880youSWSound"] = 1,
+				["announceother180880target"] = true,
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["Gaur"] = {
@@ -399,13 +624,19 @@ DBMGarrisonInvasions_AllSavedVars = {
 		["LadyFleshsear"] = {
 			{
 				["Enabled"] = true,
+<<<<<<< HEAD
 				["announceother180776target"] = true,
 				["SpecWarn180776moveawaySWNote"] = true,
+=======
+				["Voice180776"] = true,
+				["SpecWarn180779spell"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Voice180775"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180779spellSWNote"] = true,
 				["SpecWarn180775move"] = true,
 				["Yell180776"] = true,
+<<<<<<< HEAD
 				["SpecWarn180775moveSWNote"] = true,
 				["SpecWarn180776moveawaySWSound"] = 1,
 				["SpecWarn180776moveaway"] = true,
@@ -414,6 +645,16 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180779spellSWSound"] = 2,
 				["SpecWarn180779spell"] = true,
 				["Voice180776"] = true,
+=======
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["announceother180776target"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["talent1"] = "野兽控制",
@@ -429,6 +670,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["SpecWarn180819spellSWSound"] = 2,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -463,6 +705,23 @@ DBMGarrisonInvasions_AllSavedVars = {
 			}, -- [1]
 		},
 		["Teluur"] = {
+=======
+				["RangeFrame"] = true,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["Voice180816"] = true,
+				["Yell180908"] = true,
+				["Voice180819"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["Voice180908"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180908moveaway"] = true,
+				["SpecWarn180819spellSWSound"] = 2,
+			}, -- [1]
+		},
+		["Teluur"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			{
 				["Enabled"] = true,
 				["announce180849spell"] = true,
@@ -475,6 +734,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["announceother180836target"] = true,
 			}, -- [1]
 		},
+<<<<<<< HEAD
 		["Drogan"] = {
 			{
 				["Enabled"] = true,
@@ -485,6 +745,43 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
 				["Voice180880"] = true,
+=======
+		["Annihilon"] = {
+			{
+				["announceother180950target"] = true,
+				["HudMapOnMC"] = true,
+				["SpecWarn180950switch"] = true,
+				["Voice163472"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180939you"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["Yell180939"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Enabled"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Voice180939"] = true,
+				["announceother180939target"] = true,
+			}, -- [1]
+		},
+		["GarrisonInvasions"] = {
+			{
+				["Enabled"] = true,
+				["specWarnRylak"] = true,
+				["specWarnWorker"] = true,
+				["HealthFrame"] = false,
+				["specWarnBuildingSWNote"] = true,
+				["specWarnBuildingSWSound"] = 1,
+				["specWarnSpy"] = true,
+				["specWarnBuilding"] = true,
+				["specWarnWorkerSWNote"] = true,
+				["specWarnRylakSWNote"] = true,
+				["specWarnSpySWSound"] = 1,
+				["specWarnSpySWNote"] = true,
+				["specWarnWorkerSWSound"] = 1,
+				["specWarnRylakSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 	},
@@ -507,6 +804,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 		["LadyFleshsear"] = {
 			[0] = {
 				["Enabled"] = true,
+<<<<<<< HEAD
 				["Voice180776"] = true,
 				["SpecWarn180779spell"] = true,
 				["Voice180775"] = true,
@@ -534,6 +832,41 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
 				["SpecWarn180880you"] = true,
+=======
+				["HealthFrame"] = false,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["Voice180775"] = true,
+				["announceother180776target"] = true,
+				["SpecWarn180779spellSWNote"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180779spell"] = true,
+				["Voice180776"] = true,
+			},
+		},
+		["GarrisonInvasions"] = {
+			[0] = {
+				["Enabled"] = true,
+				["specWarnRylak"] = true,
+				["specWarnWorker"] = true,
+				["HealthFrame"] = false,
+				["specWarnRylakSWSound"] = 1,
+				["specWarnWorkerSWSound"] = 1,
+				["specWarnSpy"] = true,
+				["specWarnBuilding"] = true,
+				["specWarnWorkerSWNote"] = true,
+				["specWarnRylakSWNote"] = true,
+				["specWarnSpySWSound"] = 1,
+				["specWarnSpySWNote"] = true,
+				["specWarnBuildingSWSound"] = 1,
+				["specWarnBuildingSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["Goggnathog"] = {
@@ -548,6 +881,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["RangeFrame"] = true,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -573,6 +907,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Voice180836"] = true,
 				["HealthFrame"] = false,
 				["announceother180836target"] = true,
+=======
+				["SpecWarn180819spellSWSound"] = 2,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["SpecWarn180908moveaway"] = true,
+				["Yell180908"] = true,
+				["Voice180819"] = true,
+				["HealthFrame"] = false,
+				["Voice180908"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["Voice180816"] = true,
+				["RangeFrame"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["Annihilon"] = {
@@ -582,6 +930,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = true,
 				["Voice163472"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["SpecWarn180939you"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -610,6 +959,43 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["specWarnSpySWNote"] = true,
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnRylakSWSound"] = 1,
+=======
+				["announceother180939target"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Yell180939"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Enabled"] = true,
+				["Voice180939"] = true,
+				["SpecWarn180939you"] = true,
+			},
+		},
+		["Teluur"] = {
+			[0] = {
+				["Enabled"] = true,
+				["announce180849spell"] = true,
+				["announce180825spell"] = true,
+				["SpecWarn180836dodge"] = true,
+				["SpecWarn180836dodgeSWSound"] = 1,
+				["SpecWarn180836dodgeSWNote"] = true,
+				["Voice180836"] = true,
+				["HealthFrame"] = false,
+				["announceother180836target"] = true,
+			},
+		},
+		["Drogan"] = {
+			[0] = {
+				["Enabled"] = true,
+				["announce180882spell"] = true,
+				["SpecWarn180880you"] = true,
+				["SpecWarn180880youSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180880youSWSound"] = 1,
+				["announceother180880target"] = true,
+				["Voice180880"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 	},
@@ -632,6 +1018,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 		["LadyFleshsear"] = {
 			[0] = {
 				["Enabled"] = true,
+<<<<<<< HEAD
 				["Voice180776"] = true,
 				["SpecWarn180779spell"] = true,
 				["Voice180775"] = true,
@@ -659,6 +1046,41 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
 				["SpecWarn180880you"] = true,
+=======
+				["announceother180776target"] = true,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["Voice180775"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180779spellSWNote"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180779spell"] = true,
+				["Voice180776"] = true,
+			},
+		},
+		["GarrisonInvasions"] = {
+			[0] = {
+				["Enabled"] = true,
+				["specWarnRylak"] = true,
+				["specWarnWorker"] = true,
+				["HealthFrame"] = false,
+				["specWarnRylakSWSound"] = 1,
+				["specWarnWorkerSWSound"] = 1,
+				["specWarnSpy"] = true,
+				["specWarnBuildingSWSound"] = 1,
+				["specWarnWorkerSWNote"] = true,
+				["specWarnRylakSWNote"] = true,
+				["specWarnSpySWSound"] = 1,
+				["specWarnSpySWNote"] = true,
+				["specWarnBuilding"] = true,
+				["specWarnBuildingSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["Goggnathog"] = {
@@ -673,6 +1095,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["RangeFrame"] = true,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -698,6 +1121,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Voice180836"] = true,
 				["HealthFrame"] = false,
 				["announceother180836target"] = true,
+=======
+				["SpecWarn180819spellSWSound"] = 2,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["SpecWarn180908moveaway"] = true,
+				["Yell180908"] = true,
+				["Voice180816"] = true,
+				["HealthFrame"] = false,
+				["Voice180908"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["SpecWarn180819spellSWNote"] = true,
+				["Voice180819"] = true,
+				["RangeFrame"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["Annihilon"] = {
@@ -707,6 +1144,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = true,
 				["Voice163472"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["SpecWarn180939you"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -735,6 +1173,43 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["specWarnSpySWNote"] = true,
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnRylakSWSound"] = 1,
+=======
+				["announceother180939target"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Yell180939"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Enabled"] = true,
+				["Voice180939"] = true,
+				["SpecWarn180939you"] = true,
+			},
+		},
+		["Teluur"] = {
+			[0] = {
+				["Enabled"] = true,
+				["announce180849spell"] = true,
+				["announce180825spell"] = true,
+				["SpecWarn180836dodge"] = true,
+				["SpecWarn180836dodgeSWSound"] = 1,
+				["SpecWarn180836dodgeSWNote"] = true,
+				["Voice180836"] = true,
+				["HealthFrame"] = false,
+				["announceother180836target"] = true,
+			},
+		},
+		["Drogan"] = {
+			[0] = {
+				["Enabled"] = true,
+				["announce180882spell"] = true,
+				["SpecWarn180880you"] = true,
+				["SpecWarn180880youSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180880youSWSound"] = 1,
+				["announceother180880target"] = true,
+				["Voice180880"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 	},
@@ -752,6 +1227,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["SpecWarn180819spellSWSound"] = 2,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -764,6 +1240,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180819spellSWNote"] = true,
 				["Voice180819"] = true,
 				["RangeFrame"] = true,
+=======
+				["RangeFrame"] = true,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["Voice180816"] = true,
+				["Yell180908"] = true,
+				["Voice180819"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["Voice180908"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180908moveaway"] = true,
+				["SpecWarn180819spellSWSound"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			{
 				["announceother180908target"] = true,
@@ -776,6 +1266,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = true,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["SpecWarn180819spellSWSound"] = 2,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -788,6 +1279,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180816dispelSWSound"] = 1,
 				["Voice180816"] = true,
 				["SpecWarn180816dispelSWNote"] = true,
+=======
+				["SpecWarn180816dispelSWNote"] = true,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["Voice180819"] = true,
+				["Yell180908"] = true,
+				["Voice180816"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["Voice180908"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["HealthFrame"] = false,
+				["SpecWarn180908moveaway"] = true,
+				["SpecWarn180819spellSWSound"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [2]
 			{
 				["announceother180908target"] = true,
@@ -800,6 +1305,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["SpecWarn180816dispelSWNote"] = true,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -812,6 +1318,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["HealthFrame"] = false,
 				["SpecWarn180908moveaway"] = true,
 				["SpecWarn180819spellSWSound"] = 2,
+=======
+				["SpecWarn180819spellSWSound"] = 2,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["SpecWarn180908moveaway"] = true,
+				["Yell180908"] = true,
+				["Voice180819"] = true,
+				["HealthFrame"] = false,
+				["Voice180908"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["Voice180816"] = true,
+				["SpecWarn180816dispelSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [3]
 		},
 		["GarrisonInvasions"] = {
@@ -820,48 +1340,82 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["specWarnRylakSWSound"] = 1,
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnSpy"] = true,
 				["specWarnBuildingSWSound"] = 1,
+=======
+				["specWarnBuildingSWNote"] = true,
+				["specWarnBuildingSWSound"] = 1,
+				["specWarnSpy"] = true,
+				["specWarnBuilding"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["specWarnWorkerSWNote"] = true,
 				["specWarnRylakSWNote"] = true,
 				["specWarnSpySWSound"] = 1,
 				["specWarnSpySWNote"] = true,
+<<<<<<< HEAD
 				["specWarnBuilding"] = true,
 				["specWarnBuildingSWNote"] = true,
+=======
+				["specWarnWorkerSWSound"] = 1,
+				["specWarnRylakSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			{
 				["Enabled"] = true,
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["specWarnRylakSWSound"] = 1,
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnSpy"] = true,
 				["specWarnBuilding"] = true,
+=======
+				["specWarnBuildingSWNote"] = true,
+				["specWarnBuilding"] = true,
+				["specWarnSpy"] = true,
+				["specWarnBuildingSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["specWarnWorkerSWNote"] = true,
 				["specWarnRylakSWNote"] = true,
 				["specWarnSpySWSound"] = 1,
 				["specWarnSpySWNote"] = true,
+<<<<<<< HEAD
 				["specWarnBuildingSWSound"] = 1,
 				["specWarnBuildingSWNote"] = true,
+=======
+				["specWarnWorkerSWSound"] = 1,
+				["specWarnRylakSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [2]
 			{
 				["Enabled"] = true,
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["specWarnBuildingSWNote"] = true,
 				["specWarnBuildingSWSound"] = 1,
+=======
+				["specWarnRylakSWSound"] = 1,
+				["specWarnWorkerSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["specWarnSpy"] = true,
 				["specWarnBuilding"] = true,
 				["specWarnWorkerSWNote"] = true,
 				["specWarnRylakSWNote"] = true,
 				["specWarnSpySWSound"] = 1,
 				["specWarnSpySWNote"] = true,
+<<<<<<< HEAD
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnRylakSWSound"] = 1,
+=======
+				["specWarnBuildingSWSound"] = 1,
+				["specWarnBuildingSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [3]
 		},
 		["Gaur"] = {
@@ -908,13 +1462,19 @@ DBMGarrisonInvasions_AllSavedVars = {
 		["LadyFleshsear"] = {
 			{
 				["Enabled"] = true,
+<<<<<<< HEAD
 				["announceother180776target"] = true,
 				["SpecWarn180776moveawaySWNote"] = true,
+=======
+				["Voice180776"] = true,
+				["SpecWarn180779spell"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Voice180775"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180779spellSWNote"] = true,
 				["SpecWarn180775move"] = true,
 				["Yell180776"] = true,
+<<<<<<< HEAD
 				["SpecWarn180775moveSWNote"] = true,
 				["SpecWarn180776moveawaySWSound"] = 1,
 				["SpecWarn180776moveaway"] = true,
@@ -959,6 +1519,52 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180779spellSWSound"] = 2,
 				["SpecWarn180776moveawaySWNote"] = true,
 				["HealthFrame"] = false,
+=======
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["announceother180776target"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180779spell"] = true,
+				["Voice180775"] = true,
+				["announceother180776target"] = true,
+				["Voice180776"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["SpecWarn180779spellSWNote"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+				["SpecWarn180779spellSWNote"] = true,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["Voice180775"] = true,
+				["HealthFrame"] = false,
+				["Voice180776"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180779spell"] = true,
+				["announceother180776target"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [3]
 		},
 		["talent1"] = "武器",
@@ -1005,6 +1611,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = true,
 				["Voice163472"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["announceother180939target"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -1015,6 +1622,18 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["Voice180939"] = true,
 				["SpecWarn180939you"] = true,
+=======
+				["SpecWarn180939you"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["Yell180939"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Enabled"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Voice180939"] = true,
+				["announceother180939target"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			{
 				["announceother180950target"] = true,
@@ -1022,6 +1641,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = false,
 				["Voice163472"] = false,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["announceother180939target"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -1032,6 +1652,18 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["Voice180939"] = true,
 				["SpecWarn180939you"] = true,
+=======
+				["SpecWarn180939you"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["Yell180939"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Enabled"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Voice180939"] = true,
+				["announceother180939target"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [2]
 			{
 				["announceother180950target"] = true,
@@ -1039,6 +1671,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = true,
 				["Voice163472"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["SpecWarn180939you"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -1049,38 +1682,74 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180939youSWNote"] = true,
 				["Voice180939"] = true,
 				["announceother180939target"] = true,
+=======
+				["announceother180939target"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Yell180939"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Enabled"] = true,
+				["Voice180939"] = true,
+				["SpecWarn180939you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [3]
 		},
 		["Drogan"] = {
 			{
 				["Enabled"] = true,
 				["announce180882spell"] = true,
+<<<<<<< HEAD
 				["SpecWarn180880you"] = true,
+=======
+				["Voice180880"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["Voice180880"] = true,
+=======
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			{
 				["Voice180880"] = true,
 				["announce180882spell"] = true,
+<<<<<<< HEAD
 				["SpecWarn180880you"] = true,
+=======
+				["Enabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["Enabled"] = true,
+=======
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [2]
 			{
 				["Voice180880"] = true,
 				["announce180882spell"] = true,
+<<<<<<< HEAD
 				["Enabled"] = true,
+=======
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["SpecWarn180880you"] = true,
+=======
+				["Enabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [3]
 		},
 	},
@@ -1098,6 +1767,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = true,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["RangeFrame"] = true,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -1110,6 +1780,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["HealthFrame"] = false,
 				["SpecWarn180908moveaway"] = true,
 				["SpecWarn180819spellSWSound"] = 2,
+=======
+				["SpecWarn180819spellSWSound"] = 2,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["SpecWarn180908moveaway"] = true,
+				["Yell180908"] = true,
+				["Voice180816"] = true,
+				["HealthFrame"] = false,
+				["Voice180908"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["SpecWarn180819spellSWNote"] = true,
+				["Voice180819"] = true,
+				["RangeFrame"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 			[2] = {
 				["announceother180908target"] = true,
@@ -1122,6 +1806,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = true,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["SpecWarn180816dispelSWNote"] = true,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -1134,6 +1819,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["HealthFrame"] = false,
 				["SpecWarn180908moveaway"] = true,
 				["SpecWarn180819spellSWSound"] = 2,
+=======
+				["SpecWarn180819spellSWSound"] = 2,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["SpecWarn180908moveaway"] = true,
+				["Yell180908"] = true,
+				["Voice180819"] = true,
+				["HealthFrame"] = false,
+				["Voice180908"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["Voice180816"] = true,
+				["SpecWarn180816dispelSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["GarrisonInvasions"] = {
@@ -1142,32 +1841,52 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["specWarnBuildingSWNote"] = true,
 				["specWarnBuilding"] = true,
+=======
+				["specWarnRylakSWSound"] = 1,
+				["specWarnWorkerSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["specWarnSpy"] = true,
 				["specWarnBuildingSWSound"] = 1,
 				["specWarnWorkerSWNote"] = true,
 				["specWarnRylakSWNote"] = true,
 				["specWarnSpySWSound"] = 1,
 				["specWarnSpySWNote"] = true,
+<<<<<<< HEAD
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnRylakSWSound"] = 1,
+=======
+				["specWarnBuilding"] = true,
+				["specWarnBuildingSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 			[2] = {
 				["Enabled"] = true,
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["specWarnBuildingSWNote"] = true,
 				["specWarnBuildingSWSound"] = 1,
+=======
+				["specWarnRylakSWSound"] = 1,
+				["specWarnWorkerSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["specWarnSpy"] = true,
 				["specWarnBuilding"] = true,
 				["specWarnWorkerSWNote"] = true,
 				["specWarnRylakSWNote"] = true,
 				["specWarnSpySWSound"] = 1,
 				["specWarnSpySWNote"] = true,
+<<<<<<< HEAD
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnRylakSWSound"] = 1,
+=======
+				["specWarnBuildingSWSound"] = 1,
+				["specWarnBuildingSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["Gaur"] = {
@@ -1201,6 +1920,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 		["LadyFleshsear"] = {
 			[3] = {
 				["Enabled"] = true,
+<<<<<<< HEAD
 				["Voice180776"] = true,
 				["SpecWarn180779spell"] = true,
 				["Voice180775"] = true,
@@ -1234,6 +1954,41 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180779spellSWSound"] = 2,
 				["SpecWarn180776moveawaySWNote"] = true,
 				["announceother180776target"] = true,
+=======
+				["announceother180776target"] = true,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["Voice180775"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180779spellSWNote"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180779spell"] = true,
+				["Voice180776"] = true,
+			},
+			[2] = {
+				["Enabled"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["Voice180775"] = true,
+				["announceother180776target"] = true,
+				["Voice180776"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180779spell"] = true,
+				["SpecWarn180779spellSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["Teluur"] = {
@@ -1268,6 +2023,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = true,
 				["Voice163472"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["SpecWarn180939you"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -1278,6 +2034,18 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180939youSWNote"] = true,
 				["Voice180939"] = true,
 				["announceother180939target"] = true,
+=======
+				["announceother180939target"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Yell180939"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Enabled"] = true,
+				["Voice180939"] = true,
+				["SpecWarn180939you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 			[2] = {
 				["announceother180950target"] = true,
@@ -1285,6 +2053,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = false,
 				["Voice163472"] = false,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["SpecWarn180939you"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -1295,32 +2064,61 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180939youSWNote"] = true,
 				["Voice180939"] = true,
 				["announceother180939target"] = true,
+=======
+				["announceother180939target"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Yell180939"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Enabled"] = true,
+				["Voice180939"] = true,
+				["SpecWarn180939you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["Drogan"] = {
 			[3] = {
 				["Enabled"] = true,
 				["announce180882spell"] = true,
+<<<<<<< HEAD
 				["Voice180880"] = true,
+=======
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["SpecWarn180880you"] = true,
+=======
+				["Voice180880"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 			[2] = {
 				["Voice180880"] = true,
 				["announce180882spell"] = true,
+<<<<<<< HEAD
 				["Enabled"] = true,
+=======
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["SpecWarn180880you"] = true,
+=======
+				["Enabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 	},
 	["梁帅-迦罗娜"] = {
+<<<<<<< HEAD
 		["Drogan"] = {
 			{
 				["Enabled"] = true,
@@ -1331,6 +2129,24 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
 				["SpecWarn180880you"] = true,
+=======
+		["GarrisonInvasions"] = {
+			{
+				["Enabled"] = true,
+				["specWarnRylak"] = true,
+				["specWarnWorker"] = true,
+				["HealthFrame"] = false,
+				["specWarnRylakSWSound"] = 1,
+				["specWarnWorkerSWSound"] = 1,
+				["specWarnSpy"] = true,
+				["specWarnBuildingSWSound"] = 1,
+				["specWarnWorkerSWNote"] = true,
+				["specWarnRylakSWNote"] = true,
+				["specWarnSpySWSound"] = 1,
+				["specWarnSpySWNote"] = true,
+				["specWarnBuilding"] = true,
+				["specWarnBuildingSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["Gaur"] = {
@@ -1351,6 +2167,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 		["LadyFleshsear"] = {
 			{
 				["Enabled"] = true,
+<<<<<<< HEAD
 				["Voice180776"] = true,
 				["SpecWarn180779spell"] = true,
 				["Voice180775"] = true,
@@ -1366,6 +2183,23 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180779spellSWSound"] = 2,
 				["SpecWarn180776moveawaySWNote"] = true,
 				["HealthFrame"] = false,
+=======
+				["announceother180776target"] = true,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["Voice180775"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180779spellSWNote"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180779spell"] = true,
+				["Voice180776"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["talent1"] = "野兽控制",
@@ -1381,6 +2215,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["RangeFrame"] = true,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -1406,6 +2241,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Voice180836"] = true,
 				["HealthFrame"] = false,
 				["announceother180836target"] = true,
+=======
+				["SpecWarn180819spellSWSound"] = 2,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["SpecWarn180908moveaway"] = true,
+				["Yell180908"] = true,
+				["Voice180816"] = true,
+				["HealthFrame"] = false,
+				["Voice180908"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["SpecWarn180819spellSWNote"] = true,
+				["Voice180819"] = true,
+				["RangeFrame"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["Annihilon"] = {
@@ -1415,6 +2264,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = true,
 				["Voice163472"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["SpecWarn180939you"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -1443,10 +2293,48 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["specWarnSpySWNote"] = true,
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnRylakSWSound"] = 1,
+=======
+				["announceother180939target"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Yell180939"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Enabled"] = true,
+				["Voice180939"] = true,
+				["SpecWarn180939you"] = true,
+			}, -- [1]
+		},
+		["Teluur"] = {
+			{
+				["Enabled"] = true,
+				["announce180849spell"] = true,
+				["announce180825spell"] = true,
+				["SpecWarn180836dodge"] = true,
+				["SpecWarn180836dodgeSWSound"] = 1,
+				["SpecWarn180836dodgeSWNote"] = true,
+				["Voice180836"] = true,
+				["HealthFrame"] = false,
+				["announceother180836target"] = true,
+			}, -- [1]
+		},
+		["Drogan"] = {
+			{
+				["Enabled"] = true,
+				["announce180882spell"] = true,
+				["SpecWarn180880you"] = true,
+				["SpecWarn180880youSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180880youSWSound"] = 1,
+				["announceother180880target"] = true,
+				["Voice180880"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 	},
 	["最后的悠悠-迦罗娜"] = {
+<<<<<<< HEAD
 		["GarrisonInvasions"] = {
 			{
 				["Enabled"] = true,
@@ -1463,6 +2351,18 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["specWarnSpySWNote"] = true,
 				["specWarnBuildingSWSound"] = 1,
 				["specWarnBuildingSWNote"] = true,
+=======
+		["Drogan"] = {
+			{
+				["Enabled"] = true,
+				["announce180882spell"] = true,
+				["Voice180880"] = true,
+				["SpecWarn180880youSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180880youSWSound"] = 1,
+				["announceother180880target"] = true,
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["Gaur"] = {
@@ -1483,13 +2383,19 @@ DBMGarrisonInvasions_AllSavedVars = {
 		["LadyFleshsear"] = {
 			{
 				["Enabled"] = true,
+<<<<<<< HEAD
 				["HealthFrame"] = false,
 				["SpecWarn180776moveawaySWNote"] = true,
+=======
+				["Voice180776"] = true,
+				["SpecWarn180779spell"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Voice180775"] = true,
 				["announceother180776target"] = true,
 				["SpecWarn180779spellSWNote"] = true,
 				["SpecWarn180775move"] = true,
 				["Yell180776"] = true,
+<<<<<<< HEAD
 				["SpecWarn180775moveSWNote"] = true,
 				["SpecWarn180776moveawaySWSound"] = 1,
 				["SpecWarn180776moveaway"] = true,
@@ -1498,6 +2404,16 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180779spellSWSound"] = 2,
 				["SpecWarn180779spell"] = true,
 				["Voice180776"] = true,
+=======
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["HealthFrame"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["talent1"] = "野兽控制",
@@ -1513,6 +2429,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["SpecWarn180819spellSWSound"] = 2,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -1544,6 +2461,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["Voice180939"] = true,
 				["SpecWarn180939you"] = true,
+=======
+				["RangeFrame"] = true,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["Voice180819"] = true,
+				["Yell180908"] = true,
+				["Voice180816"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["Voice180908"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["HealthFrame"] = false,
+				["SpecWarn180908moveaway"] = true,
+				["SpecWarn180819spellSWSound"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["Teluur"] = {
@@ -1559,6 +2490,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["announceother180836target"] = true,
 			}, -- [1]
 		},
+<<<<<<< HEAD
 		["Drogan"] = {
 			{
 				["Enabled"] = true,
@@ -1569,6 +2501,43 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
 				["Voice180880"] = true,
+=======
+		["Annihilon"] = {
+			{
+				["announceother180950target"] = true,
+				["HudMapOnMC"] = true,
+				["SpecWarn180950switch"] = true,
+				["Voice163472"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180939you"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["Yell180939"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Enabled"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Voice180939"] = true,
+				["announceother180939target"] = true,
+			}, -- [1]
+		},
+		["GarrisonInvasions"] = {
+			{
+				["Enabled"] = true,
+				["specWarnRylak"] = true,
+				["specWarnWorker"] = true,
+				["HealthFrame"] = false,
+				["specWarnBuildingSWNote"] = true,
+				["specWarnBuilding"] = true,
+				["specWarnSpy"] = true,
+				["specWarnBuildingSWSound"] = 1,
+				["specWarnWorkerSWNote"] = true,
+				["specWarnRylakSWNote"] = true,
+				["specWarnSpySWSound"] = 1,
+				["specWarnSpySWNote"] = true,
+				["specWarnWorkerSWSound"] = 1,
+				["specWarnRylakSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 	},
@@ -1586,6 +2555,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["SpecWarn180819spellSWSound"] = 2,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -1598,6 +2568,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180819spellSWNote"] = true,
 				["Voice180819"] = true,
 				["RangeFrame"] = true,
+=======
+				["RangeFrame"] = true,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["Voice180816"] = true,
+				["Yell180908"] = true,
+				["Voice180819"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["Voice180908"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180908moveaway"] = true,
+				["SpecWarn180819spellSWSound"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 			[3] = {
 				["announceother180908target"] = true,
@@ -1610,6 +2594,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["SpecWarn180816dispelSWNote"] = true,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -1622,6 +2607,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["HealthFrame"] = false,
 				["SpecWarn180908moveaway"] = true,
 				["SpecWarn180819spellSWSound"] = 2,
+=======
+				["SpecWarn180819spellSWSound"] = 2,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["SpecWarn180908moveaway"] = true,
+				["Yell180908"] = true,
+				["Voice180816"] = true,
+				["HealthFrame"] = false,
+				["Voice180908"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["SpecWarn180819spellSWNote"] = true,
+				["Voice180819"] = true,
+				["SpecWarn180816dispelSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["GarrisonInvasions"] = {
@@ -1630,32 +2629,54 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["specWarnRylakSWSound"] = 1,
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnSpy"] = true,
 				["specWarnBuildingSWSound"] = 1,
+=======
+				["specWarnBuildingSWNote"] = true,
+				["specWarnBuildingSWSound"] = 1,
+				["specWarnSpy"] = true,
+				["specWarnBuilding"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["specWarnWorkerSWNote"] = true,
 				["specWarnRylakSWNote"] = true,
 				["specWarnSpySWSound"] = 1,
 				["specWarnSpySWNote"] = true,
+<<<<<<< HEAD
 				["specWarnBuilding"] = true,
 				["specWarnBuildingSWNote"] = true,
+=======
+				["specWarnWorkerSWSound"] = 1,
+				["specWarnRylakSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 			[3] = {
 				["Enabled"] = true,
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["specWarnBuildingSWNote"] = true,
 				["specWarnBuilding"] = true,
+=======
+				["specWarnRylakSWSound"] = 1,
+				["specWarnWorkerSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["specWarnSpy"] = true,
 				["specWarnBuildingSWSound"] = 1,
 				["specWarnWorkerSWNote"] = true,
 				["specWarnRylakSWNote"] = true,
 				["specWarnSpySWSound"] = 1,
 				["specWarnSpySWNote"] = true,
+<<<<<<< HEAD
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnRylakSWSound"] = 1,
+=======
+				["specWarnBuilding"] = true,
+				["specWarnBuildingSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["Gaur"] = {
@@ -1689,13 +2710,19 @@ DBMGarrisonInvasions_AllSavedVars = {
 		["LadyFleshsear"] = {
 			[2] = {
 				["Enabled"] = true,
+<<<<<<< HEAD
 				["announceother180776target"] = true,
 				["SpecWarn180776moveawaySWNote"] = true,
+=======
+				["Voice180776"] = true,
+				["SpecWarn180779spell"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Voice180775"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180779spellSWNote"] = true,
 				["SpecWarn180775move"] = true,
 				["Yell180776"] = true,
+<<<<<<< HEAD
 				["SpecWarn180775moveSWNote"] = true,
 				["SpecWarn180776moveawaySWSound"] = 1,
 				["SpecWarn180776moveaway"] = true,
@@ -1722,6 +2749,34 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180779spellSWSound"] = 2,
 				["SpecWarn180776moveawaySWNote"] = true,
 				["announceother180776target"] = true,
+=======
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["announceother180776target"] = true,
+			},
+			[3] = {
+				["Enabled"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["Voice180775"] = true,
+				["announceother180776target"] = true,
+				["Voice180776"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180779spell"] = true,
+				["SpecWarn180779spellSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["Annihilon"] = {
@@ -1731,6 +2786,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = false,
 				["Voice163472"] = false,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["announceother180939target"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -1741,6 +2797,18 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["Voice180939"] = true,
 				["SpecWarn180939you"] = true,
+=======
+				["SpecWarn180939you"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["Yell180939"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Enabled"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Voice180939"] = true,
+				["announceother180939target"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 			[3] = {
 				["announceother180950target"] = true,
@@ -1748,6 +2816,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = true,
 				["Voice163472"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["SpecWarn180939you"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -1758,6 +2827,18 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180939youSWNote"] = true,
 				["Voice180939"] = true,
 				["announceother180939target"] = true,
+=======
+				["announceother180939target"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Yell180939"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Enabled"] = true,
+				["Voice180939"] = true,
+				["SpecWarn180939you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["talent3"] = "惩戒",
@@ -1789,22 +2870,38 @@ DBMGarrisonInvasions_AllSavedVars = {
 			[2] = {
 				["Enabled"] = true,
 				["announce180882spell"] = true,
+<<<<<<< HEAD
 				["SpecWarn180880you"] = true,
+=======
+				["Voice180880"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["Voice180880"] = true,
+=======
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 			[3] = {
 				["Voice180880"] = true,
 				["announce180882spell"] = true,
+<<<<<<< HEAD
 				["Enabled"] = true,
+=======
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["SpecWarn180880you"] = true,
+=======
+				["Enabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 	},
@@ -1822,6 +2919,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["SpecWarn180819spellSWSound"] = 2,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -1834,6 +2932,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180816dispelSWSound"] = 1,
 				["Voice180816"] = true,
 				["RangeFrame"] = true,
+=======
+				["RangeFrame"] = true,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["Voice180819"] = true,
+				["Yell180908"] = true,
+				["Voice180816"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["Voice180908"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["HealthFrame"] = false,
+				["SpecWarn180908moveaway"] = true,
+				["SpecWarn180819spellSWSound"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			{
 				["announceother180908target"] = true,
@@ -1846,6 +2958,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["SpecWarn180816dispelSWNote"] = true,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -1858,6 +2971,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["HealthFrame"] = false,
 				["SpecWarn180908moveaway"] = true,
 				["SpecWarn180819spellSWSound"] = 2,
+=======
+				["SpecWarn180819spellSWSound"] = 2,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["SpecWarn180908moveaway"] = true,
+				["Yell180908"] = true,
+				["Voice180819"] = true,
+				["HealthFrame"] = false,
+				["Voice180908"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["Voice180816"] = true,
+				["SpecWarn180816dispelSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [2]
 		},
 		["GarrisonInvasions"] = {
@@ -1866,32 +2993,54 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["specWarnRylakSWSound"] = 1,
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnSpy"] = true,
 				["specWarnBuilding"] = true,
+=======
+				["specWarnBuildingSWNote"] = true,
+				["specWarnBuilding"] = true,
+				["specWarnSpy"] = true,
+				["specWarnBuildingSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["specWarnWorkerSWNote"] = true,
 				["specWarnRylakSWNote"] = true,
 				["specWarnSpySWSound"] = 1,
 				["specWarnSpySWNote"] = true,
+<<<<<<< HEAD
 				["specWarnBuildingSWSound"] = 1,
 				["specWarnBuildingSWNote"] = true,
+=======
+				["specWarnWorkerSWSound"] = 1,
+				["specWarnRylakSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			{
 				["Enabled"] = true,
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["specWarnBuildingSWNote"] = true,
 				["specWarnBuildingSWSound"] = 1,
+=======
+				["specWarnRylakSWSound"] = 1,
+				["specWarnWorkerSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["specWarnSpy"] = true,
 				["specWarnBuilding"] = true,
 				["specWarnWorkerSWNote"] = true,
 				["specWarnRylakSWNote"] = true,
 				["specWarnSpySWSound"] = 1,
 				["specWarnSpySWNote"] = true,
+<<<<<<< HEAD
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnRylakSWSound"] = 1,
+=======
+				["specWarnBuildingSWSound"] = 1,
+				["specWarnBuildingSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [2]
 		},
 		["Gaur"] = {
@@ -1925,13 +3074,19 @@ DBMGarrisonInvasions_AllSavedVars = {
 		["LadyFleshsear"] = {
 			{
 				["Enabled"] = true,
+<<<<<<< HEAD
 				["HealthFrame"] = false,
 				["SpecWarn180776moveawaySWNote"] = true,
+=======
+				["Voice180776"] = true,
+				["SpecWarn180779spell"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Voice180775"] = true,
 				["announceother180776target"] = true,
 				["SpecWarn180779spellSWNote"] = true,
 				["SpecWarn180775move"] = true,
 				["Yell180776"] = true,
+<<<<<<< HEAD
 				["SpecWarn180775moveSWNote"] = true,
 				["SpecWarn180776moveawaySWSound"] = 1,
 				["SpecWarn180776moveaway"] = true,
@@ -1958,6 +3113,34 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180779spellSWSound"] = 2,
 				["SpecWarn180776moveawaySWNote"] = true,
 				["announceother180776target"] = true,
+=======
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["HealthFrame"] = false,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["Voice180775"] = true,
+				["announceother180776target"] = true,
+				["Voice180776"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180779spell"] = true,
+				["SpecWarn180779spellSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [2]
 		},
 		["talent1"] = "鲜血",
@@ -1968,6 +3151,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = true,
 				["Voice163472"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["announceother180939target"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -1978,6 +3162,18 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["Voice180939"] = true,
 				["SpecWarn180939you"] = true,
+=======
+				["SpecWarn180939you"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["Yell180939"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Enabled"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Voice180939"] = true,
+				["announceother180939target"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			{
 				["announceother180950target"] = true,
@@ -1985,6 +3181,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = false,
 				["Voice163472"] = false,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["SpecWarn180939you"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -1995,6 +3192,18 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180939youSWNote"] = true,
 				["Voice180939"] = true,
 				["announceother180939target"] = true,
+=======
+				["announceother180939target"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Yell180939"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Enabled"] = true,
+				["Voice180939"] = true,
+				["SpecWarn180939you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [2]
 		},
 		["Teluur"] = {
@@ -2025,22 +3234,38 @@ DBMGarrisonInvasions_AllSavedVars = {
 			{
 				["Enabled"] = true,
 				["announce180882spell"] = true,
+<<<<<<< HEAD
 				["SpecWarn180880you"] = true,
+=======
+				["Voice180880"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["Voice180880"] = true,
+=======
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			{
 				["Voice180880"] = true,
 				["announce180882spell"] = true,
+<<<<<<< HEAD
 				["Enabled"] = true,
+=======
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["SpecWarn180880you"] = true,
+=======
+				["Enabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [2]
 		},
 	},
@@ -2058,6 +3283,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["SpecWarn180819spellSWSound"] = 2,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -2070,6 +3296,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180816dispelSWSound"] = 1,
 				["Voice180816"] = true,
 				["SpecWarn180816dispelSWNote"] = true,
+=======
+				["SpecWarn180816dispelSWNote"] = true,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["Voice180819"] = true,
+				["Yell180908"] = true,
+				["Voice180816"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["Voice180908"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["HealthFrame"] = false,
+				["SpecWarn180908moveaway"] = true,
+				["SpecWarn180819spellSWSound"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			{
 				["announceother180908target"] = true,
@@ -2082,6 +3322,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["RangeFrame"] = true,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -2094,6 +3335,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["HealthFrame"] = false,
 				["SpecWarn180908moveaway"] = true,
 				["SpecWarn180819spellSWSound"] = 2,
+=======
+				["SpecWarn180819spellSWSound"] = 2,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["SpecWarn180908moveaway"] = true,
+				["Yell180908"] = true,
+				["Voice180816"] = true,
+				["HealthFrame"] = false,
+				["Voice180908"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["SpecWarn180819spellSWNote"] = true,
+				["Voice180819"] = true,
+				["RangeFrame"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [2]
 		},
 		["GarrisonInvasions"] = {
@@ -2102,32 +3357,54 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["specWarnRylakSWSound"] = 1,
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnSpy"] = true,
 				["specWarnBuilding"] = true,
+=======
+				["specWarnBuildingSWNote"] = true,
+				["specWarnBuilding"] = true,
+				["specWarnSpy"] = true,
+				["specWarnBuildingSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["specWarnWorkerSWNote"] = true,
 				["specWarnRylakSWNote"] = true,
 				["specWarnSpySWSound"] = 1,
 				["specWarnSpySWNote"] = true,
+<<<<<<< HEAD
 				["specWarnBuildingSWSound"] = 1,
 				["specWarnBuildingSWNote"] = true,
+=======
+				["specWarnWorkerSWSound"] = 1,
+				["specWarnRylakSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			{
 				["Enabled"] = true,
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["specWarnBuildingSWNote"] = true,
 				["specWarnBuilding"] = true,
+=======
+				["specWarnRylakSWSound"] = 1,
+				["specWarnWorkerSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["specWarnSpy"] = true,
 				["specWarnBuildingSWSound"] = 1,
 				["specWarnWorkerSWNote"] = true,
 				["specWarnRylakSWNote"] = true,
 				["specWarnSpySWSound"] = 1,
 				["specWarnSpySWNote"] = true,
+<<<<<<< HEAD
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnRylakSWSound"] = 1,
+=======
+				["specWarnBuilding"] = true,
+				["specWarnBuildingSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [2]
 		},
 		["Gaur"] = {
@@ -2161,6 +3438,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 		["LadyFleshsear"] = {
 			{
 				["Enabled"] = true,
+<<<<<<< HEAD
 				["announceother180776target"] = true,
 				["SpecWarn180776moveawaySWNote"] = true,
 				["Voice180775"] = true,
@@ -2194,6 +3472,41 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180779spellSWSound"] = 2,
 				["SpecWarn180776moveawaySWNote"] = true,
 				["HealthFrame"] = false,
+=======
+				["SpecWarn180779spellSWNote"] = true,
+				["SpecWarn180779spell"] = true,
+				["Voice180775"] = true,
+				["HealthFrame"] = false,
+				["Voice180776"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["announceother180776target"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+				["announceother180776target"] = true,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["Voice180775"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180779spellSWNote"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180779spell"] = true,
+				["Voice180776"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [2]
 		},
 		["talent1"] = "防护",
@@ -2228,6 +3541,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = false,
 				["Voice163472"] = false,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["announceother180939target"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -2238,6 +3552,18 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["Voice180939"] = true,
 				["SpecWarn180939you"] = true,
+=======
+				["SpecWarn180939you"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["Yell180939"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Enabled"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Voice180939"] = true,
+				["announceother180939target"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			{
 				["announceother180950target"] = true,
@@ -2245,6 +3571,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = true,
 				["Voice163472"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["SpecWarn180939you"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -2255,28 +3582,56 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180939youSWNote"] = true,
 				["Voice180939"] = true,
 				["announceother180939target"] = true,
+=======
+				["announceother180939target"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Yell180939"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Enabled"] = true,
+				["Voice180939"] = true,
+				["SpecWarn180939you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [2]
 		},
 		["Drogan"] = {
 			{
 				["Voice180880"] = true,
 				["announce180882spell"] = true,
+<<<<<<< HEAD
 				["SpecWarn180880you"] = true,
+=======
+				["Enabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["Enabled"] = true,
+=======
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			{
 				["Enabled"] = true,
 				["announce180882spell"] = true,
+<<<<<<< HEAD
 				["Voice180880"] = true,
+=======
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["SpecWarn180880you"] = true,
+=======
+				["Voice180880"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [2]
 		},
 	},
@@ -2293,6 +3648,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["SpecWarn180819spellSWSound"] = 2,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -2305,6 +3661,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180816dispelSWSound"] = 1,
 				["Voice180816"] = true,
 				["RangeFrame"] = true,
+=======
+				["RangeFrame"] = true,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["Voice180819"] = true,
+				["Yell180908"] = true,
+				["Voice180816"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["Voice180908"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["HealthFrame"] = false,
+				["SpecWarn180908moveaway"] = true,
+				["SpecWarn180819spellSWSound"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			[3] = {
 				["announceother180908target"] = true,
@@ -2317,6 +3687,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["SpecWarn180816dispelSWNote"] = true,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -2329,6 +3700,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["HealthFrame"] = false,
 				["SpecWarn180908moveaway"] = true,
 				["SpecWarn180819spellSWSound"] = 2,
+=======
+				["SpecWarn180819spellSWSound"] = 2,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["SpecWarn180908moveaway"] = true,
+				["Yell180908"] = true,
+				["Voice180819"] = true,
+				["HealthFrame"] = false,
+				["Voice180908"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["Voice180816"] = true,
+				["SpecWarn180816dispelSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["GarrisonInvasions"] = {
@@ -2337,32 +3722,54 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["specWarnRylakSWSound"] = 1,
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnSpy"] = true,
 				["specWarnBuilding"] = true,
+=======
+				["specWarnBuildingSWNote"] = true,
+				["specWarnBuilding"] = true,
+				["specWarnSpy"] = true,
+				["specWarnBuildingSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["specWarnWorkerSWNote"] = true,
 				["specWarnRylakSWNote"] = true,
 				["specWarnSpySWSound"] = 1,
 				["specWarnSpySWNote"] = true,
+<<<<<<< HEAD
 				["specWarnBuildingSWSound"] = 1,
 				["specWarnBuildingSWNote"] = true,
+=======
+				["specWarnWorkerSWSound"] = 1,
+				["specWarnRylakSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			[3] = {
 				["Enabled"] = true,
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["specWarnBuildingSWNote"] = true,
 				["specWarnBuildingSWSound"] = 1,
+=======
+				["specWarnRylakSWSound"] = 1,
+				["specWarnWorkerSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["specWarnSpy"] = true,
 				["specWarnBuilding"] = true,
 				["specWarnWorkerSWNote"] = true,
 				["specWarnRylakSWNote"] = true,
 				["specWarnSpySWSound"] = 1,
 				["specWarnSpySWNote"] = true,
+<<<<<<< HEAD
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnRylakSWSound"] = 1,
+=======
+				["specWarnBuildingSWSound"] = 1,
+				["specWarnBuildingSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["Gaur"] = {
@@ -2396,13 +3803,19 @@ DBMGarrisonInvasions_AllSavedVars = {
 		["LadyFleshsear"] = {
 			{
 				["Enabled"] = true,
+<<<<<<< HEAD
 				["HealthFrame"] = false,
 				["SpecWarn180776moveawaySWNote"] = true,
+=======
+				["Voice180776"] = true,
+				["SpecWarn180779spell"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Voice180775"] = true,
 				["announceother180776target"] = true,
 				["SpecWarn180779spellSWNote"] = true,
 				["SpecWarn180775move"] = true,
 				["Yell180776"] = true,
+<<<<<<< HEAD
 				["SpecWarn180775moveSWNote"] = true,
 				["SpecWarn180776moveawaySWSound"] = 1,
 				["SpecWarn180776moveaway"] = true,
@@ -2429,6 +3842,34 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180779spellSWSound"] = 2,
 				["SpecWarn180776moveawaySWNote"] = true,
 				["announceother180776target"] = true,
+=======
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["HealthFrame"] = false,
+			}, -- [1]
+			[3] = {
+				["Enabled"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["Voice180775"] = true,
+				["announceother180776target"] = true,
+				["Voice180776"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180779spell"] = true,
+				["SpecWarn180779spellSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["talent1"] = "酒仙",
@@ -2439,6 +3880,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = false,
 				["Voice163472"] = false,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["announceother180939target"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -2449,6 +3891,18 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["Voice180939"] = true,
 				["SpecWarn180939you"] = true,
+=======
+				["SpecWarn180939you"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["Yell180939"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Enabled"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Voice180939"] = true,
+				["announceother180939target"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			[3] = {
 				["announceother180950target"] = true,
@@ -2456,6 +3910,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = true,
 				["Voice163472"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["SpecWarn180939you"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -2466,6 +3921,18 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180939youSWNote"] = true,
 				["Voice180939"] = true,
 				["announceother180939target"] = true,
+=======
+				["announceother180939target"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Yell180939"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Enabled"] = true,
+				["Voice180939"] = true,
+				["SpecWarn180939you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["talent3"] = "踏风",
@@ -2497,26 +3964,43 @@ DBMGarrisonInvasions_AllSavedVars = {
 			{
 				["Enabled"] = true,
 				["announce180882spell"] = true,
+<<<<<<< HEAD
 				["SpecWarn180880you"] = true,
+=======
+				["Voice180880"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["Voice180880"] = true,
+=======
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			[3] = {
 				["Voice180880"] = true,
 				["announce180882spell"] = true,
+<<<<<<< HEAD
 				["Enabled"] = true,
+=======
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["SpecWarn180880you"] = true,
+=======
+				["Enabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 	},
 	["云飞-迦罗娜"] = {
+<<<<<<< HEAD
 		["GarrisonInvasions"] = {
 			{
 				["Enabled"] = true,
@@ -2533,6 +4017,18 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["specWarnSpySWNote"] = true,
 				["specWarnBuilding"] = true,
 				["specWarnBuildingSWNote"] = true,
+=======
+		["Drogan"] = {
+			{
+				["Enabled"] = true,
+				["announce180882spell"] = true,
+				["Voice180880"] = true,
+				["SpecWarn180880youSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180880youSWSound"] = 1,
+				["announceother180880target"] = true,
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["Gaur"] = {
@@ -2553,13 +4049,19 @@ DBMGarrisonInvasions_AllSavedVars = {
 		["LadyFleshsear"] = {
 			{
 				["Enabled"] = true,
+<<<<<<< HEAD
 				["announceother180776target"] = true,
 				["SpecWarn180776moveawaySWNote"] = true,
+=======
+				["Voice180776"] = true,
+				["SpecWarn180779spell"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Voice180775"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180779spellSWNote"] = true,
 				["SpecWarn180775move"] = true,
 				["Yell180776"] = true,
+<<<<<<< HEAD
 				["SpecWarn180775moveSWNote"] = true,
 				["SpecWarn180776moveawaySWSound"] = 1,
 				["SpecWarn180776moveaway"] = true,
@@ -2568,6 +4070,16 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180779spellSWSound"] = 2,
 				["SpecWarn180779spell"] = true,
 				["Voice180776"] = true,
+=======
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["announceother180776target"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["talent1"] = "野兽控制",
@@ -2583,6 +4095,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["SpecWarn180819spellSWSound"] = 2,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -2614,6 +4127,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["Voice180939"] = true,
 				["SpecWarn180939you"] = true,
+=======
+				["RangeFrame"] = true,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["Voice180816"] = true,
+				["Yell180908"] = true,
+				["Voice180819"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["Voice180908"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180908moveaway"] = true,
+				["SpecWarn180819spellSWSound"] = 2,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 		},
 		["Teluur"] = {
@@ -2629,6 +4156,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["announceother180836target"] = true,
 			}, -- [1]
 		},
+<<<<<<< HEAD
 		["Drogan"] = {
 			{
 				["Enabled"] = true,
@@ -2639,59 +4167,25 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
 				["Voice180880"] = true,
-			}, -- [1]
-		},
-	},
-	["打小怪的-迦罗娜"] = {
-		["Goggnathog"] = {
+=======
+		["Annihilon"] = {
 			{
-				["announceother180908target"] = true,
-				["announceother180815target"] = true,
-				["SpecWarn180816interruptSWSound"] = 1,
-				["SpecWarn180908moveawaySWSound"] = 1,
-				["SpecWarn180816dispelSWNote"] = true,
-				["HudMapOnUnleashed"] = true,
-				["SpecWarn180819spell"] = true,
-				["Enabled"] = true,
-				["SpecWarn180816dispel"] = false,
-				["SpecWarn180816interrupt"] = false,
-				["RangeFrame"] = true,
-				["SpecWarn180908moveawaySWNote"] = true,
-				["SpecWarn180816interruptSWNote"] = true,
-				["Voice180816"] = true,
-				["Yell180908"] = true,
-				["Voice180819"] = true,
-				["SpecWarn180816dispelSWSound"] = 1,
-				["Voice180908"] = true,
-				["SpecWarn180819spellSWNote"] = true,
+				["announceother180950target"] = true,
+				["HudMapOnMC"] = true,
+				["SpecWarn180950switch"] = true,
+				["Voice163472"] = true,
 				["HealthFrame"] = false,
-				["SpecWarn180908moveaway"] = true,
-				["SpecWarn180819spellSWSound"] = 2,
+				["SpecWarn180939you"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["Yell180939"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Enabled"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Voice180939"] = true,
+				["announceother180939target"] = true,
 			}, -- [1]
-			[3] = {
-				["announceother180908target"] = true,
-				["announceother180815target"] = true,
-				["SpecWarn180816interruptSWSound"] = 1,
-				["SpecWarn180908moveawaySWSound"] = 1,
-				["SpecWarn180816dispelSWNote"] = true,
-				["HudMapOnUnleashed"] = true,
-				["SpecWarn180819spell"] = true,
-				["Enabled"] = true,
-				["SpecWarn180816dispel"] = false,
-				["SpecWarn180816interrupt"] = false,
-				["RangeFrame"] = true,
-				["SpecWarn180908moveawaySWNote"] = true,
-				["SpecWarn180816interruptSWNote"] = true,
-				["Voice180816"] = true,
-				["Yell180908"] = true,
-				["Voice180819"] = true,
-				["SpecWarn180816dispelSWSound"] = 1,
-				["Voice180908"] = true,
-				["SpecWarn180819spellSWNote"] = true,
-				["HealthFrame"] = false,
-				["SpecWarn180908moveaway"] = true,
-				["SpecWarn180819spellSWSound"] = 2,
-			},
 		},
 		["GarrisonInvasions"] = {
 			{
@@ -2709,22 +4203,143 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["specWarnSpySWNote"] = true,
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnRylakSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+			}, -- [1]
+		},
+	},
+	["打小怪的-迦罗娜"] = {
+		["Goggnathog"] = {
+			{
+				["announceother180908target"] = true,
+				["announceother180815target"] = true,
+				["SpecWarn180816interruptSWSound"] = 1,
+				["SpecWarn180908moveawaySWSound"] = 1,
+				["SpecWarn180816dispelSWNote"] = true,
+				["HudMapOnUnleashed"] = true,
+				["SpecWarn180819spell"] = true,
+				["Enabled"] = true,
+				["SpecWarn180816dispel"] = false,
+				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
+				["RangeFrame"] = true,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["Voice180816"] = true,
+				["Yell180908"] = true,
+				["Voice180819"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["Voice180908"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180908moveaway"] = true,
+				["SpecWarn180819spellSWSound"] = 2,
+=======
+				["SpecWarn180819spellSWSound"] = 2,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["SpecWarn180908moveaway"] = true,
+				["Yell180908"] = true,
+				["Voice180819"] = true,
+				["HealthFrame"] = false,
+				["Voice180908"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["Voice180816"] = true,
+				["RangeFrame"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			[3] = {
+				["announceother180908target"] = true,
+				["announceother180815target"] = true,
+				["SpecWarn180816interruptSWSound"] = 1,
+				["SpecWarn180908moveawaySWSound"] = 1,
+				["SpecWarn180816dispelSWNote"] = true,
+				["HudMapOnUnleashed"] = true,
+				["SpecWarn180819spell"] = true,
+				["Enabled"] = true,
+				["SpecWarn180816dispel"] = false,
+				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
+				["RangeFrame"] = true,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["Voice180816"] = true,
+				["Yell180908"] = true,
+				["Voice180819"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["Voice180908"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180908moveaway"] = true,
+				["SpecWarn180819spellSWSound"] = 2,
+=======
+				["SpecWarn180819spellSWSound"] = 2,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["SpecWarn180908moveaway"] = true,
+				["Yell180908"] = true,
+				["Voice180819"] = true,
+				["HealthFrame"] = false,
+				["Voice180908"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["Voice180816"] = true,
+				["RangeFrame"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+			},
+		},
+		["GarrisonInvasions"] = {
+			{
 				["Enabled"] = true,
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["specWarnBuildingSWNote"] = true,
 				["specWarnBuildingSWSound"] = 1,
+=======
+				["specWarnRylakSWSound"] = 1,
+				["specWarnWorkerSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["specWarnSpy"] = true,
 				["specWarnBuilding"] = true,
 				["specWarnWorkerSWNote"] = true,
 				["specWarnRylakSWNote"] = true,
 				["specWarnSpySWSound"] = 1,
 				["specWarnSpySWNote"] = true,
+<<<<<<< HEAD
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnRylakSWSound"] = 1,
+=======
+				["specWarnBuildingSWSound"] = 1,
+				["specWarnBuildingSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+			}, -- [1]
+			[3] = {
+				["Enabled"] = true,
+				["specWarnRylak"] = true,
+				["specWarnWorker"] = true,
+				["HealthFrame"] = false,
+<<<<<<< HEAD
+				["specWarnBuildingSWNote"] = true,
+				["specWarnBuildingSWSound"] = 1,
+=======
+				["specWarnRylakSWSound"] = 1,
+				["specWarnWorkerSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+				["specWarnSpy"] = true,
+				["specWarnBuilding"] = true,
+				["specWarnWorkerSWNote"] = true,
+				["specWarnRylakSWNote"] = true,
+				["specWarnSpySWSound"] = 1,
+				["specWarnSpySWNote"] = true,
+<<<<<<< HEAD
+				["specWarnWorkerSWSound"] = 1,
+				["specWarnRylakSWSound"] = 1,
+=======
+				["specWarnBuildingSWSound"] = 1,
+				["specWarnBuildingSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["Gaur"] = {
@@ -2758,6 +4373,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 		["LadyFleshsear"] = {
 			{
 				["Enabled"] = true,
+<<<<<<< HEAD
 				["Voice180776"] = true,
 				["SpecWarn180779spell"] = true,
 				["Voice180775"] = true,
@@ -2791,6 +4407,41 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180779spellSWSound"] = 2,
 				["SpecWarn180776moveawaySWNote"] = true,
 				["announceother180776target"] = true,
+=======
+				["HealthFrame"] = false,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["Voice180775"] = true,
+				["announceother180776target"] = true,
+				["SpecWarn180779spellSWNote"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180779spell"] = true,
+				["Voice180776"] = true,
+			}, -- [1]
+			[3] = {
+				["Enabled"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["Voice180775"] = true,
+				["announceother180776target"] = true,
+				["SpecWarn180779spellSWNote"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180779spell"] = true,
+				["Voice180776"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["talent1"] = "野兽控制",
@@ -2801,6 +4452,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = true,
 				["Voice163472"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["SpecWarn180939you"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -2811,6 +4463,18 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180939youSWNote"] = true,
 				["Voice180939"] = true,
 				["announceother180939target"] = true,
+=======
+				["announceother180939target"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Yell180939"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Enabled"] = true,
+				["Voice180939"] = true,
+				["SpecWarn180939you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			[3] = {
 				["announceother180950target"] = true,
@@ -2818,6 +4482,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = true,
 				["Voice163472"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["SpecWarn180939you"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -2828,6 +4493,18 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180939youSWNote"] = true,
 				["Voice180939"] = true,
 				["announceother180939target"] = true,
+=======
+				["announceother180939target"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Yell180939"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Enabled"] = true,
+				["Voice180939"] = true,
+				["SpecWarn180939you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["talent3"] = "生存",
@@ -2859,22 +4536,38 @@ DBMGarrisonInvasions_AllSavedVars = {
 			{
 				["Enabled"] = true,
 				["announce180882spell"] = true,
+<<<<<<< HEAD
 				["Voice180880"] = true,
+=======
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["SpecWarn180880you"] = true,
+=======
+				["Voice180880"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			}, -- [1]
 			[3] = {
 				["Enabled"] = true,
 				["announce180882spell"] = true,
+<<<<<<< HEAD
 				["Voice180880"] = true,
+=======
+				["SpecWarn180880you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["SpecWarn180880you"] = true,
+=======
+				["Voice180880"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 	},
@@ -2897,6 +4590,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 		["LadyFleshsear"] = {
 			[0] = {
 				["Enabled"] = true,
+<<<<<<< HEAD
 				["Voice180776"] = true,
 				["SpecWarn180779spell"] = true,
 				["Voice180775"] = true,
@@ -2924,6 +4618,41 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
 				["SpecWarn180880you"] = true,
+=======
+				["announceother180776target"] = true,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["Voice180775"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180779spellSWNote"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180779spell"] = true,
+				["Voice180776"] = true,
+			},
+		},
+		["GarrisonInvasions"] = {
+			[0] = {
+				["Enabled"] = true,
+				["specWarnRylak"] = true,
+				["specWarnWorker"] = true,
+				["HealthFrame"] = false,
+				["specWarnRylakSWSound"] = 1,
+				["specWarnWorkerSWSound"] = 1,
+				["specWarnSpy"] = true,
+				["specWarnBuildingSWSound"] = 1,
+				["specWarnWorkerSWNote"] = true,
+				["specWarnRylakSWNote"] = true,
+				["specWarnSpySWSound"] = 1,
+				["specWarnSpySWNote"] = true,
+				["specWarnBuilding"] = true,
+				["specWarnBuildingSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["Goggnathog"] = {
@@ -2938,6 +4667,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["RangeFrame"] = true,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -2950,6 +4680,39 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["HealthFrame"] = false,
 				["SpecWarn180908moveaway"] = true,
 				["SpecWarn180819spellSWSound"] = 2,
+=======
+				["SpecWarn180819spellSWSound"] = 2,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["SpecWarn180908moveaway"] = true,
+				["Yell180908"] = true,
+				["Voice180816"] = true,
+				["HealthFrame"] = false,
+				["Voice180908"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["SpecWarn180819spellSWNote"] = true,
+				["Voice180819"] = true,
+				["RangeFrame"] = true,
+			},
+		},
+		["Annihilon"] = {
+			[0] = {
+				["announceother180950target"] = true,
+				["HudMapOnMC"] = true,
+				["SpecWarn180950switch"] = true,
+				["Voice163472"] = true,
+				["HealthFrame"] = false,
+				["announceother180939target"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Yell180939"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Enabled"] = true,
+				["Voice180939"] = true,
+				["SpecWarn180939you"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["Teluur"] = {
@@ -2965,6 +4728,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["announceother180836target"] = true,
 			},
 		},
+<<<<<<< HEAD
 		["Annihilon"] = {
 			[0] = {
 				["announceother180950target"] = true,
@@ -2986,18 +4750,44 @@ DBMGarrisonInvasions_AllSavedVars = {
 		},
 		["GarrisonInvasions"] = {
 			[0] = {
+=======
+		["Drogan"] = {
+			[0] = {
+				["Enabled"] = true,
+				["announce180882spell"] = true,
+				["SpecWarn180880you"] = true,
+				["SpecWarn180880youSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180880youSWSound"] = 1,
+				["announceother180880target"] = true,
+				["Voice180880"] = true,
+			},
+		},
+	},
+	["海上五月花-火羽山"] = {
+		["GarrisonInvasions"] = {
+			[2] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Enabled"] = true,
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["specWarnBuildingSWNote"] = true,
 				["specWarnBuilding"] = true,
 				["specWarnSpy"] = true,
 				["specWarnBuildingSWSound"] = 1,
+=======
+				["specWarnRylakSWSound"] = 1,
+				["specWarnWorkerSWSound"] = 1,
+				["specWarnSpy"] = true,
+				["specWarnBuilding"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["specWarnWorkerSWNote"] = true,
 				["specWarnRylakSWNote"] = true,
 				["specWarnSpySWSound"] = 1,
 				["specWarnSpySWNote"] = true,
+<<<<<<< HEAD
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnRylakSWSound"] = 1,
 			},
@@ -3014,12 +4804,17 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
 				["SpecWarn180880you"] = true,
+=======
+				["specWarnBuildingSWSound"] = 1,
+				["specWarnBuildingSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["talent2"] = "复仇",
 		["LadyFleshsear"] = {
 			[2] = {
 				["Enabled"] = true,
+<<<<<<< HEAD
 				["Voice180776"] = true,
 				["SpecWarn180779spell"] = true,
 				["Voice180775"] = true,
@@ -3061,6 +4856,23 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["HealthFrame"] = false,
 				["SpecWarn180908moveaway"] = true,
 				["SpecWarn180819spellSWSound"] = 2,
+=======
+				["HealthFrame"] = false,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["Voice180775"] = true,
+				["announceother180776target"] = true,
+				["SpecWarn180779spellSWNote"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180779spell"] = true,
+				["Voice180776"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["Teluur"] = {
@@ -3076,6 +4888,28 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["announceother180836target"] = true,
 			},
 		},
+<<<<<<< HEAD
+=======
+		["Annihilon"] = {
+			[2] = {
+				["announceother180950target"] = true,
+				["HudMapOnMC"] = true,
+				["SpecWarn180950switch"] = false,
+				["Voice163472"] = false,
+				["HealthFrame"] = false,
+				["announceother180939target"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Yell180939"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Enabled"] = true,
+				["Voice180939"] = true,
+				["SpecWarn180939you"] = true,
+			},
+		},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["Gaur"] = {
 			[2] = {
 				["Enabled"] = true,
@@ -3091,6 +4925,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Voice180868"] = true,
 			},
 		},
+<<<<<<< HEAD
 		["Annihilon"] = {
 			[2] = {
 				["announceother180950target"] = true,
@@ -3133,6 +4968,9 @@ DBMGarrisonInvasions_AllSavedVars = {
 		["talent2"] = "防护",
 		["Goggnathog"] = {
 			[3] = {
+=======
+		["Goggnathog"] = {
+			[2] = {
 				["announceother180908target"] = true,
 				["announceother180815target"] = true,
 				["SpecWarn180816interruptSWSound"] = 1,
@@ -3143,6 +4981,73 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+				["SpecWarn180819spellSWSound"] = 2,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["SpecWarn180908moveaway"] = true,
+				["Yell180908"] = true,
+				["Voice180819"] = true,
+				["HealthFrame"] = false,
+				["Voice180908"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["Voice180816"] = true,
+				["RangeFrame"] = true,
+			},
+		},
+		["Drogan"] = {
+			[2] = {
+				["Enabled"] = true,
+				["announce180882spell"] = true,
+				["SpecWarn180880you"] = true,
+				["SpecWarn180880youSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180880youSWSound"] = 1,
+				["announceother180880target"] = true,
+				["Voice180880"] = true,
+			},
+		},
+	},
+	["杀猪刀猴赛雷-火羽山"] = {
+		["talent2"] = "防护",
+		["Goggnathog"] = {
+			{
+				["announceother180908target"] = true,
+				["announceother180815target"] = true,
+				["SpecWarn180816interruptSWSound"] = 1,
+				["SpecWarn180908moveawaySWSound"] = 1,
+				["RangeFrame"] = true,
+				["HudMapOnUnleashed"] = true,
+				["SpecWarn180819spell"] = true,
+				["Enabled"] = true,
+				["SpecWarn180816dispel"] = false,
+				["SpecWarn180816interrupt"] = false,
+				["SpecWarn180816dispelSWNote"] = true,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["Voice180819"] = true,
+				["Yell180908"] = true,
+				["Voice180816"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["Voice180908"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["HealthFrame"] = false,
+				["SpecWarn180908moveaway"] = true,
+				["SpecWarn180819spellSWSound"] = 2,
+			}, -- [1]
+			{
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+				["announceother180908target"] = true,
+				["announceother180815target"] = true,
+				["SpecWarn180816interruptSWSound"] = 1,
+				["SpecWarn180908moveawaySWSound"] = 1,
+				["SpecWarn180816dispelSWNote"] = true,
+				["HudMapOnUnleashed"] = true,
+				["SpecWarn180819spell"] = true,
+				["Enabled"] = true,
+				["SpecWarn180816dispel"] = false,
+				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["RangeFrame"] = true,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -3157,6 +5062,22 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180819spellSWSound"] = 2,
 			},
 			[2] = {
+=======
+				["SpecWarn180819spellSWSound"] = 2,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["SpecWarn180908moveaway"] = true,
+				["Yell180908"] = true,
+				["Voice180816"] = true,
+				["HealthFrame"] = false,
+				["Voice180908"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["SpecWarn180819spellSWNote"] = true,
+				["Voice180819"] = true,
+				["RangeFrame"] = true,
+			}, -- [2]
+			{
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["announceother180908target"] = true,
 				["announceother180815target"] = true,
 				["SpecWarn180816interruptSWSound"] = 1,
@@ -3167,6 +5088,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["SpecWarn180819spellSWSound"] = 2,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -3183,22 +5105,51 @@ DBMGarrisonInvasions_AllSavedVars = {
 		},
 		["GarrisonInvasions"] = {
 			[3] = {
+=======
+				["SpecWarn180816dispelSWNote"] = true,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["Voice180819"] = true,
+				["Yell180908"] = true,
+				["Voice180816"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["Voice180908"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["HealthFrame"] = false,
+				["SpecWarn180908moveaway"] = true,
+				["SpecWarn180819spellSWSound"] = 2,
+			}, -- [3]
+		},
+		["GarrisonInvasions"] = {
+			{
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Enabled"] = true,
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
 				["HealthFrame"] = false,
 				["specWarnBuildingSWNote"] = true,
+<<<<<<< HEAD
 				["specWarnBuildingSWSound"] = 1,
 				["specWarnSpy"] = true,
 				["specWarnBuilding"] = true,
+=======
+				["specWarnBuilding"] = true,
+				["specWarnSpy"] = true,
+				["specWarnBuildingSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["specWarnWorkerSWNote"] = true,
 				["specWarnRylakSWNote"] = true,
 				["specWarnSpySWSound"] = 1,
 				["specWarnSpySWNote"] = true,
 				["specWarnWorkerSWSound"] = 1,
 				["specWarnRylakSWSound"] = 1,
+<<<<<<< HEAD
 			},
 			[2] = {
+=======
+			}, -- [1]
+			{
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Enabled"] = true,
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
@@ -3213,10 +5164,33 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["specWarnSpySWNote"] = true,
 				["specWarnBuilding"] = true,
 				["specWarnBuildingSWNote"] = true,
+<<<<<<< HEAD
 			},
 		},
 		["Gaur"] = {
 			[3] = {
+=======
+			}, -- [2]
+			{
+				["Enabled"] = true,
+				["specWarnRylak"] = true,
+				["specWarnWorker"] = true,
+				["HealthFrame"] = false,
+				["specWarnBuildingSWNote"] = true,
+				["specWarnBuilding"] = true,
+				["specWarnSpy"] = true,
+				["specWarnBuildingSWSound"] = 1,
+				["specWarnWorkerSWNote"] = true,
+				["specWarnRylakSWNote"] = true,
+				["specWarnSpySWSound"] = 1,
+				["specWarnSpySWNote"] = true,
+				["specWarnWorkerSWSound"] = 1,
+				["specWarnRylakSWSound"] = 1,
+			}, -- [3]
+		},
+		["Gaur"] = {
+			{
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Enabled"] = true,
 				["SpecWarn180830spellSWSound"] = 2,
 				["SpecWarn180830spellSWNote"] = true,
@@ -3228,8 +5202,13 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Voice180830"] = true,
 				["SpecWarn180868spellSWSound"] = 2,
 				["Voice180868"] = true,
+<<<<<<< HEAD
 			},
 			[2] = {
+=======
+			}, -- [1]
+			{
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Enabled"] = true,
 				["SpecWarn180830spellSWSound"] = 2,
 				["SpecWarn180830spellSWNote"] = true,
@@ -3241,6 +5220,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Voice180830"] = true,
 				["SpecWarn180868spellSWSound"] = 2,
 				["Voice180868"] = true,
+<<<<<<< HEAD
 			},
 		},
 		["LadyFleshsear"] = {
@@ -3251,6 +5231,31 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Voice180775"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180779spellSWNote"] = true,
+=======
+			}, -- [2]
+			{
+				["Enabled"] = true,
+				["SpecWarn180830spellSWSound"] = 2,
+				["SpecWarn180830spellSWNote"] = true,
+				["SpecWarn180868spellSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180830spell"] = true,
+				["announce180879spell"] = true,
+				["SpecWarn180868spell"] = true,
+				["Voice180830"] = true,
+				["SpecWarn180868spellSWSound"] = 2,
+				["Voice180868"] = true,
+			}, -- [3]
+		},
+		["LadyFleshsear"] = {
+			{
+				["Enabled"] = true,
+				["announceother180776target"] = true,
+				["SpecWarn180779spell"] = true,
+				["Voice180775"] = true,
+				["SpecWarn180779spellSWNote"] = true,
+				["Voice180776"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180775move"] = true,
 				["Yell180776"] = true,
 				["SpecWarn180775moveSWSound"] = 1,
@@ -3260,6 +5265,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180775moveSWNote"] = true,
 				["SpecWarn180779spellSWSound"] = 2,
 				["SpecWarn180776moveawaySWNote"] = true,
+<<<<<<< HEAD
 				["announceother180776target"] = true,
 			},
 			[2] = {
@@ -3269,6 +5275,17 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Voice180775"] = true,
 				["HealthFrame"] = false,
 				["Voice180776"] = true,
+=======
+				["HealthFrame"] = false,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+				["announceother180776target"] = true,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["Voice180775"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180779spellSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180775move"] = true,
 				["Yell180776"] = true,
 				["SpecWarn180775moveSWNote"] = true,
@@ -3278,11 +5295,92 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180775moveSWSound"] = 1,
 				["SpecWarn180779spellSWSound"] = 2,
 				["SpecWarn180779spell"] = true,
+<<<<<<< HEAD
 				["announceother180776target"] = true,
 			},
 		},
 		["Annihilon"] = {
 			[3] = {
+				["announceother180950target"] = true,
+				["HudMapOnMC"] = true,
+				["SpecWarn180950switch"] = true,
+				["Voice163472"] = true,
+=======
+				["Voice180776"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180779spell"] = true,
+				["Voice180775"] = true,
+				["announceother180776target"] = true,
+				["Voice180776"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["SpecWarn180779spellSWNote"] = true,
+			}, -- [3]
+		},
+		["talent1"] = "防护",
+		["Annihilon"] = {
+			{
+				["announceother180950target"] = true,
+				["HudMapOnMC"] = true,
+				["SpecWarn180950switch"] = false,
+				["Voice163472"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+				["HealthFrame"] = false,
+				["SpecWarn180939you"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["Yell180939"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Enabled"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Voice180939"] = true,
+				["announceother180939target"] = true,
+<<<<<<< HEAD
+			},
+			[2] = {
+				["announceother180950target"] = true,
+				["HudMapOnMC"] = true,
+				["SpecWarn180950switch"] = false,
+				["Voice163472"] = false,
+=======
+			}, -- [1]
+			{
+				["announceother180950target"] = true,
+				["HudMapOnMC"] = true,
+				["SpecWarn180950switch"] = true,
+				["Voice163472"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+				["HealthFrame"] = false,
+				["announceother180939target"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Yell180939"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Enabled"] = true,
+				["Voice180939"] = true,
+				["SpecWarn180939you"] = true,
+<<<<<<< HEAD
+			},
+		},
+		["talent3"] = "惩戒",
+		["Teluur"] = {
+			[3] = {
+=======
+			}, -- [2]
+			{
 				["announceother180950target"] = true,
 				["HudMapOnMC"] = true,
 				["SpecWarn180950switch"] = true,
@@ -3298,28 +5396,23 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180939youSWNote"] = true,
 				["Voice180939"] = true,
 				["announceother180939target"] = true,
-			},
-			[2] = {
-				["announceother180950target"] = true,
-				["HudMapOnMC"] = true,
-				["SpecWarn180950switch"] = false,
-				["Voice163472"] = false,
-				["HealthFrame"] = false,
-				["announceother180939target"] = true,
-				["SpecWarn180950switchSWSound"] = 1,
-				["announceother180932target"] = true,
-				["SpecWarn180939youSWSound"] = 1,
-				["Yell180939"] = true,
-				["SpecWarn180950switchSWNote"] = true,
-				["SpecWarn180939youSWNote"] = true,
-				["Enabled"] = true,
-				["Voice180939"] = true,
-				["SpecWarn180939you"] = true,
-			},
+			}, -- [3]
 		},
 		["talent3"] = "惩戒",
 		["Teluur"] = {
-			[3] = {
+			{
+				["Enabled"] = true,
+				["announce180849spell"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180836dodge"] = true,
+				["SpecWarn180836dodgeSWSound"] = 1,
+				["SpecWarn180836dodgeSWNote"] = true,
+				["Voice180836"] = true,
+				["announce180825spell"] = true,
+				["announceother180836target"] = true,
+			}, -- [1]
+			{
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Enabled"] = true,
 				["announce180849spell"] = true,
 				["announce180825spell"] = true,
@@ -3329,8 +5422,13 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Voice180836"] = true,
 				["HealthFrame"] = false,
 				["announceother180836target"] = true,
+<<<<<<< HEAD
 			},
 			[2] = {
+=======
+			}, -- [2]
+			{
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Enabled"] = true,
 				["announce180849spell"] = true,
 				["HealthFrame"] = false,
@@ -3340,6 +5438,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Voice180836"] = true,
 				["announce180825spell"] = true,
 				["announceother180836target"] = true,
+<<<<<<< HEAD
 			},
 		},
 		["Drogan"] = {
@@ -3347,22 +5446,52 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["announce180882spell"] = true,
 				["Voice180880"] = true,
+=======
+			}, -- [3]
+		},
+		["Drogan"] = {
+			{
+				["Voice180880"] = true,
+				["announce180882spell"] = true,
+				["Enabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
 				["SpecWarn180880you"] = true,
+<<<<<<< HEAD
 			},
 			[2] = {
 				["Voice180880"] = true,
+=======
+			}, -- [1]
+			{
+				["Enabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["announce180882spell"] = true,
 				["SpecWarn180880you"] = true,
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["Enabled"] = true,
 			},
+=======
+				["Voice180880"] = true,
+			}, -- [2]
+			{
+				["Voice180880"] = true,
+				["announce180882spell"] = true,
+				["Enabled"] = true,
+				["SpecWarn180880youSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180880youSWSound"] = 1,
+				["announceother180880target"] = true,
+				["SpecWarn180880you"] = true,
+			}, -- [3]
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		},
 	},
 	["亦可赛艇-迦罗娜"] = {
@@ -3384,6 +5513,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 		["LadyFleshsear"] = {
 			[0] = {
 				["Enabled"] = true,
+<<<<<<< HEAD
 				["Voice180776"] = true,
 				["SpecWarn180779spell"] = true,
 				["Voice180775"] = true,
@@ -3411,6 +5541,41 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
 				["SpecWarn180880you"] = true,
+=======
+				["announceother180776target"] = true,
+				["SpecWarn180776moveawaySWNote"] = true,
+				["Voice180775"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180779spellSWNote"] = true,
+				["SpecWarn180775move"] = true,
+				["Yell180776"] = true,
+				["SpecWarn180775moveSWNote"] = true,
+				["SpecWarn180776moveawaySWSound"] = 1,
+				["SpecWarn180776moveaway"] = true,
+				["announce180774spell"] = true,
+				["SpecWarn180775moveSWSound"] = 1,
+				["SpecWarn180779spellSWSound"] = 2,
+				["SpecWarn180779spell"] = true,
+				["Voice180776"] = true,
+			},
+		},
+		["GarrisonInvasions"] = {
+			[0] = {
+				["Enabled"] = true,
+				["specWarnRylak"] = true,
+				["specWarnWorker"] = true,
+				["HealthFrame"] = false,
+				["specWarnRylakSWSound"] = 1,
+				["specWarnWorkerSWSound"] = 1,
+				["specWarnSpy"] = true,
+				["specWarnBuildingSWSound"] = 1,
+				["specWarnWorkerSWNote"] = true,
+				["specWarnRylakSWNote"] = true,
+				["specWarnSpySWSound"] = 1,
+				["specWarnSpySWNote"] = true,
+				["specWarnBuilding"] = true,
+				["specWarnBuildingSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["Goggnathog"] = {
@@ -3425,6 +5590,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = true,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["RangeFrame"] = true,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -3450,6 +5616,20 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Voice180836"] = true,
 				["HealthFrame"] = false,
 				["announceother180836target"] = true,
+=======
+				["SpecWarn180819spellSWSound"] = 2,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["SpecWarn180908moveaway"] = true,
+				["Yell180908"] = true,
+				["Voice180816"] = true,
+				["HealthFrame"] = false,
+				["Voice180908"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["SpecWarn180819spellSWNote"] = true,
+				["Voice180819"] = true,
+				["RangeFrame"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 		["Annihilon"] = {
@@ -3459,6 +5639,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180950switch"] = true,
 				["Voice163472"] = true,
 				["HealthFrame"] = false,
+<<<<<<< HEAD
 				["SpecWarn180939you"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
 				["announceother180932target"] = true,
@@ -3494,11 +5675,59 @@ DBMGarrisonInvasions_AllSavedVars = {
 		["talent2"] = "防护",
 		["Goggnathog"] = {
 			{
+=======
+				["announceother180939target"] = true,
+				["SpecWarn180950switchSWSound"] = 1,
+				["announceother180932target"] = true,
+				["SpecWarn180939youSWSound"] = 1,
+				["Yell180939"] = true,
+				["SpecWarn180950switchSWNote"] = true,
+				["SpecWarn180939youSWNote"] = true,
+				["Enabled"] = true,
+				["Voice180939"] = true,
+				["SpecWarn180939you"] = true,
+			},
+		},
+		["Teluur"] = {
+			[0] = {
+				["Enabled"] = true,
+				["announce180849spell"] = true,
+				["announce180825spell"] = true,
+				["SpecWarn180836dodge"] = true,
+				["SpecWarn180836dodgeSWSound"] = 1,
+				["SpecWarn180836dodgeSWNote"] = true,
+				["Voice180836"] = true,
+				["HealthFrame"] = false,
+				["announceother180836target"] = true,
+			},
+		},
+		["Drogan"] = {
+			[0] = {
+				["Enabled"] = true,
+				["announce180882spell"] = true,
+				["SpecWarn180880you"] = true,
+				["SpecWarn180880youSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180880youSWSound"] = 1,
+				["announceother180880target"] = true,
+				["Voice180880"] = true,
+			},
+		},
+	},
+	["悠悠骑-末日祷告祭坛"] = {
+		["talent2"] = "防护",
+		["Goggnathog"] = {
+			[3] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["announceother180908target"] = true,
 				["announceother180815target"] = true,
 				["SpecWarn180816interruptSWSound"] = 1,
 				["SpecWarn180908moveawaySWSound"] = 1,
+<<<<<<< HEAD
 				["RangeFrame"] = true,
+=======
+				["SpecWarn180816dispelSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["HudMapOnUnleashed"] = true,
 				["SpecWarn180819spell"] = true,
 				["Enabled"] = true,
@@ -3515,6 +5744,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180819spellSWNote"] = true,
 				["SpecWarn180816dispelSWSound"] = 1,
 				["Voice180816"] = true,
+<<<<<<< HEAD
 				["SpecWarn180816dispelSWNote"] = true,
 			}, -- [1]
 			{
@@ -3542,6 +5772,11 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180819spellSWSound"] = 2,
 			}, -- [2]
 			{
+=======
+				["RangeFrame"] = true,
+			},
+			[2] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["announceother180908target"] = true,
 				["announceother180815target"] = true,
 				["SpecWarn180816interruptSWSound"] = 1,
@@ -3552,6 +5787,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["SpecWarn180816dispel"] = false,
 				["SpecWarn180816interrupt"] = false,
+<<<<<<< HEAD
 				["SpecWarn180819spellSWSound"] = 2,
 				["SpecWarn180908moveawaySWNote"] = true,
 				["SpecWarn180816interruptSWNote"] = true,
@@ -3568,6 +5804,24 @@ DBMGarrisonInvasions_AllSavedVars = {
 		},
 		["GarrisonInvasions"] = {
 			{
+=======
+				["SpecWarn180816dispelSWNote"] = true,
+				["SpecWarn180908moveawaySWNote"] = true,
+				["SpecWarn180816interruptSWNote"] = true,
+				["Voice180816"] = true,
+				["Yell180908"] = true,
+				["Voice180819"] = true,
+				["SpecWarn180816dispelSWSound"] = 1,
+				["Voice180908"] = true,
+				["SpecWarn180819spellSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180908moveaway"] = true,
+				["SpecWarn180819spellSWSound"] = 2,
+			},
+		},
+		["GarrisonInvasions"] = {
+			[3] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Enabled"] = true,
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
@@ -3582,13 +5836,19 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["specWarnSpySWNote"] = true,
 				["specWarnBuildingSWSound"] = 1,
 				["specWarnBuildingSWNote"] = true,
+<<<<<<< HEAD
 			}, -- [1]
 			{
+=======
+			},
+			[2] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Enabled"] = true,
 				["specWarnRylak"] = true,
 				["specWarnWorker"] = true,
 				["HealthFrame"] = false,
 				["specWarnBuildingSWNote"] = true,
+<<<<<<< HEAD
 				["specWarnBuilding"] = true,
 				["specWarnSpy"] = true,
 				["specWarnBuildingSWSound"] = 1,
@@ -3606,12 +5866,16 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["HealthFrame"] = false,
 				["specWarnRylakSWSound"] = 1,
 				["specWarnWorkerSWSound"] = 1,
+=======
+				["specWarnBuildingSWSound"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["specWarnSpy"] = true,
 				["specWarnBuilding"] = true,
 				["specWarnWorkerSWNote"] = true,
 				["specWarnRylakSWNote"] = true,
 				["specWarnSpySWSound"] = 1,
 				["specWarnSpySWNote"] = true,
+<<<<<<< HEAD
 				["specWarnBuildingSWSound"] = 1,
 				["specWarnBuildingSWNote"] = true,
 			}, -- [3]
@@ -3631,6 +5895,14 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Voice180868"] = true,
 			}, -- [1]
 			{
+=======
+				["specWarnWorkerSWSound"] = 1,
+				["specWarnRylakSWSound"] = 1,
+			},
+		},
+		["Gaur"] = {
+			[3] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Enabled"] = true,
 				["SpecWarn180830spellSWSound"] = 2,
 				["SpecWarn180830spellSWNote"] = true,
@@ -3642,8 +5914,13 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Voice180830"] = true,
 				["SpecWarn180868spellSWSound"] = 2,
 				["Voice180868"] = true,
+<<<<<<< HEAD
 			}, -- [2]
 			{
+=======
+			},
+			[2] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Enabled"] = true,
 				["SpecWarn180830spellSWSound"] = 2,
 				["SpecWarn180830spellSWNote"] = true,
@@ -3655,16 +5932,27 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Voice180830"] = true,
 				["SpecWarn180868spellSWSound"] = 2,
 				["Voice180868"] = true,
+<<<<<<< HEAD
 			}, -- [3]
 		},
 		["LadyFleshsear"] = {
 			{
+=======
+			},
+		},
+		["LadyFleshsear"] = {
+			[3] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Enabled"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180776moveawaySWNote"] = true,
 				["Voice180775"] = true,
 				["announceother180776target"] = true,
+<<<<<<< HEAD
 				["Voice180776"] = true,
+=======
+				["SpecWarn180779spellSWNote"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180775move"] = true,
 				["Yell180776"] = true,
 				["SpecWarn180775moveSWNote"] = true,
@@ -3674,6 +5962,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180775moveSWSound"] = 1,
 				["SpecWarn180779spellSWSound"] = 2,
 				["SpecWarn180779spell"] = true,
+<<<<<<< HEAD
 				["SpecWarn180779spellSWNote"] = true,
 			}, -- [1]
 			{
@@ -3683,6 +5972,17 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Voice180775"] = true,
 				["announceother180776target"] = true,
 				["SpecWarn180779spellSWNote"] = true,
+=======
+				["Voice180776"] = true,
+			},
+			[2] = {
+				["Enabled"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn180779spell"] = true,
+				["Voice180775"] = true,
+				["announceother180776target"] = true,
+				["Voice180776"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180775move"] = true,
 				["Yell180776"] = true,
 				["SpecWarn180775moveSWSound"] = 1,
@@ -3692,6 +5992,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180775moveSWNote"] = true,
 				["SpecWarn180779spellSWSound"] = 2,
 				["SpecWarn180776moveawaySWNote"] = true,
+<<<<<<< HEAD
 				["HealthFrame"] = false,
 			}, -- [2]
 			{
@@ -3720,6 +6021,17 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["HudMapOnMC"] = true,
 				["SpecWarn180950switch"] = false,
 				["Voice163472"] = false,
+=======
+				["SpecWarn180779spellSWNote"] = true,
+			},
+		},
+		["Annihilon"] = {
+			[3] = {
+				["announceother180950target"] = true,
+				["HudMapOnMC"] = true,
+				["SpecWarn180950switch"] = true,
+				["Voice163472"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["HealthFrame"] = false,
 				["announceother180939target"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
@@ -3731,12 +6043,21 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Enabled"] = true,
 				["Voice180939"] = true,
 				["SpecWarn180939you"] = true,
+<<<<<<< HEAD
 			}, -- [1]
 			{
 				["announceother180950target"] = true,
 				["HudMapOnMC"] = true,
 				["SpecWarn180950switch"] = true,
 				["Voice163472"] = true,
+=======
+			},
+			[2] = {
+				["announceother180950target"] = true,
+				["HudMapOnMC"] = true,
+				["SpecWarn180950switch"] = false,
+				["Voice163472"] = false,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["HealthFrame"] = false,
 				["SpecWarn180939you"] = true,
 				["SpecWarn180950switchSWSound"] = 1,
@@ -3748,6 +6069,7 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["SpecWarn180939youSWNote"] = true,
 				["Voice180939"] = true,
 				["announceother180939target"] = true,
+<<<<<<< HEAD
 			}, -- [2]
 			{
 				["announceother180950target"] = true,
@@ -3781,6 +6103,13 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["announceother180836target"] = true,
 			}, -- [1]
 			{
+=======
+			},
+		},
+		["talent3"] = "惩戒",
+		["Teluur"] = {
+			[3] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Enabled"] = true,
 				["announce180849spell"] = true,
 				["announce180825spell"] = true,
@@ -3790,8 +6119,13 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Voice180836"] = true,
 				["HealthFrame"] = false,
 				["announceother180836target"] = true,
+<<<<<<< HEAD
 			}, -- [2]
 			{
+=======
+			},
+			[2] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["Enabled"] = true,
 				["announce180849spell"] = true,
 				["HealthFrame"] = false,
@@ -3801,17 +6135,26 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Voice180836"] = true,
 				["announce180825spell"] = true,
 				["announceother180836target"] = true,
+<<<<<<< HEAD
 			}, -- [3]
 		},
 		["Drogan"] = {
 			{
 				["Voice180880"] = true,
+=======
+			},
+		},
+		["Drogan"] = {
+			[3] = {
+				["Enabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["announce180882spell"] = true,
 				["SpecWarn180880you"] = true,
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["Enabled"] = true,
 			}, -- [1]
 			{
@@ -3828,12 +6171,25 @@ DBMGarrisonInvasions_AllSavedVars = {
 				["Voice180880"] = true,
 				["announce180882spell"] = true,
 				["SpecWarn180880you"] = true,
+=======
+				["Voice180880"] = true,
+			},
+			[2] = {
+				["Voice180880"] = true,
+				["announce180882spell"] = true,
+				["Enabled"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["SpecWarn180880youSWNote"] = true,
 				["HealthFrame"] = false,
 				["SpecWarn180880youSWSound"] = 1,
 				["announceother180880target"] = true,
+<<<<<<< HEAD
 				["Enabled"] = true,
 			}, -- [3]
+=======
+				["SpecWarn180880you"] = true,
+			},
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		},
 	},
 }

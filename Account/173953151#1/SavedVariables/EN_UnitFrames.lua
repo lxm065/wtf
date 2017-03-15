@@ -16,11 +16,13 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
-		["COMPATIBLEVERSION"] = "3.1.1",
-		["VERSION"] = "3.1.1",
-		["PARTYHPMP"] = 1,
-		["PLAYERHPMP"] = 1,
+<<<<<<< HEAD
+=======
 		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
 		["PARTYINFO"] = 1,
 	},
 	["末日祷告祭坛.帅帅爹"] = {
@@ -39,11 +41,11 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
-		["COMPATIBLEVERSION"] = "3.1.1",
-		["VERSION"] = "3.1.1",
-		["PARTYHPMP"] = 1,
-		["PLAYERHPMP"] = 1,
 		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
 		["PARTYINFO"] = 1,
 	},
 	["火羽山.猪猪三号"] = {
@@ -62,6 +64,62 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+<<<<<<< HEAD
+	["末日祷告祭坛.帅帅爹"] = {
+=======
+	["凤凰之神.Ddtq"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["TARGETCLASSICONSMALL"] = 1,
+		["PARTYCLASSICONSMALL"] = 1,
+		["TARGETTARGETHPMPPERCENT"] = 1,
+		["PLAYERCLASSICONSMALL"] = 0,
+		["PLAYERXP"] = 1,
+		["PLAYERXPAUTO"] = 1,
+		["AUTOHEALTHCOLOR"] = 1,
+		["TARGETHPMPPERCENT"] = 1,
+		["TARGETHPMP"] = 1,
+		["PARTYCOLOR"] = 1,
+		["3DPORTRAIT"] = 0,
+		["TARGETINFO"] = 0,
+		["MOVINGTARGETTARGETFRAME"] = 0,
+		["PLAYERPETHPMP"] = 1,
+		["PLAYERFRM"] = 1,
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+<<<<<<< HEAD
+	["火羽山.猪猪三号"] = {
+=======
+	["迦拉克隆.弹弹堂一号"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["TARGETCLASSICONSMALL"] = 1,
+		["PARTYCLASSICONSMALL"] = 1,
+		["TARGETTARGETHPMPPERCENT"] = 1,
+		["PLAYERCLASSICONSMALL"] = 0,
+		["PLAYERXP"] = 1,
+		["PLAYERXPAUTO"] = 1,
+		["AUTOHEALTHCOLOR"] = 1,
+		["TARGETHPMPPERCENT"] = 1,
+		["TARGETHPMP"] = 1,
+		["PARTYCOLOR"] = 1,
+		["3DPORTRAIT"] = 0,
+		["TARGETINFO"] = 0,
+		["MOVINGTARGETTARGETFRAME"] = 0,
+		["PLAYERPETHPMP"] = 1,
+		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
@@ -70,6 +128,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["凤凰之神.Ddtq"] = {
+=======
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+	["埃霍恩.弹弹堂一号"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -92,7 +160,11 @@ DuowanAddon_EUF_Options = {
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
 	["迦拉克隆.弹弹堂一号"] = {
+=======
+	["雷霆之王.Obload"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -108,6 +180,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
@@ -116,52 +189,43 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["埃霍恩.弹弹堂一号"] = {
-		["TARGETCLASSICONSMALL"] = 1,
-		["PARTYCLASSICONSMALL"] = 1,
-		["TARGETTARGETHPMPPERCENT"] = 1,
-		["PLAYERCLASSICONSMALL"] = 0,
-		["PLAYERXP"] = 1,
-		["PLAYERXPAUTO"] = 1,
-		["AUTOHEALTHCOLOR"] = 1,
-		["TARGETHPMPPERCENT"] = 1,
-		["TARGETHPMP"] = 1,
-		["PARTYCOLOR"] = 1,
-		["3DPORTRAIT"] = 0,
-		["TARGETINFO"] = 0,
-		["MOVINGTARGETTARGETFRAME"] = 0,
-		["PLAYERPETHPMP"] = 1,
-		["PLAYERFRM"] = 1,
+=======
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["VERSION"] = "3.1.1",
 		["PARTYHPMP"] = 1,
 		["PLAYERHPMP"] = 1,
 		["PLAYERRARE"] = 0,
-		["PARTYINFO"] = 1,
-	},
-	["雷霆之王.Obload"] = {
-		["TARGETCLASSICONSMALL"] = 1,
-		["PARTYCLASSICONSMALL"] = 1,
-		["TARGETTARGETHPMPPERCENT"] = 1,
-		["PLAYERCLASSICONSMALL"] = 0,
-		["PLAYERXP"] = 1,
-		["PLAYERXPAUTO"] = 1,
-		["AUTOHEALTHCOLOR"] = 1,
-		["TARGETHPMPPERCENT"] = 1,
-		["TARGETHPMP"] = 1,
-		["PARTYCOLOR"] = 1,
-		["3DPORTRAIT"] = 0,
-		["TARGETINFO"] = 0,
-		["MOVINGTARGETTARGETFRAME"] = 0,
-		["PLAYERPETHPMP"] = 1,
-		["PLAYERFRM"] = 1,
-		["PLAYERRARE"] = 0,
-		["PLAYERHPMP"] = 1,
-		["PARTYHPMP"] = 1,
-		["VERSION"] = "3.1.1",
-		["COMPATIBLEVERSION"] = "3.1.1",
 		["PARTYINFO"] = 1,
 	},
 	["霜之哀伤.弹弹堂一号"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["TARGETCLASSICONSMALL"] = 1,
+		["PARTYCLASSICONSMALL"] = 1,
+		["TARGETTARGETHPMPPERCENT"] = 1,
+		["PLAYERCLASSICONSMALL"] = 0,
+		["PLAYERXP"] = 1,
+		["PLAYERXPAUTO"] = 1,
+		["AUTOHEALTHCOLOR"] = 1,
+		["TARGETHPMPPERCENT"] = 1,
+		["TARGETHPMP"] = 1,
+		["PARTYCOLOR"] = 1,
+		["3DPORTRAIT"] = 0,
+		["TARGETINFO"] = 0,
+		["MOVINGTARGETTARGETFRAME"] = 0,
+		["PLAYERPETHPMP"] = 1,
+		["PLAYERFRM"] = 1,
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+<<<<<<< HEAD
+	["雷霆之王.Obload"] = {
+=======
+	["沃金.沃的悠悠龟"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -184,7 +248,11 @@ DuowanAddon_EUF_Options = {
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["PARTYINFO"] = 1,
 	},
-	["沃金.沃的悠悠龟"] = {
+<<<<<<< HEAD
+	["霜之哀伤.弹弹堂一号"] = {
+=======
+	["亚雷戈斯.弹弹堂三号"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -200,6 +268,34 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["PARTYINFO"] = 1,
+	},
+<<<<<<< HEAD
+	["沃金.沃的悠悠龟"] = {
+=======
+	["回音山.弹弹堂一号"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["TARGETCLASSICONSMALL"] = 1,
+		["PARTYCLASSICONSMALL"] = 1,
+		["TARGETTARGETHPMPPERCENT"] = 1,
+		["PLAYERCLASSICONSMALL"] = 0,
+		["PLAYERXP"] = 1,
+		["PLAYERXPAUTO"] = 1,
+		["AUTOHEALTHCOLOR"] = 1,
+		["TARGETHPMPPERCENT"] = 1,
+		["TARGETHPMP"] = 1,
+		["PARTYCOLOR"] = 1,
+		["3DPORTRAIT"] = 0,
+		["TARGETINFO"] = 0,
+		["MOVINGTARGETTARGETFRAME"] = 0,
+		["PLAYERPETHPMP"] = 1,
+		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["VERSION"] = "3.1.1",
 		["PARTYHPMP"] = 1,
@@ -208,6 +304,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["亚雷戈斯.弹弹堂三号"] = {
+=======
+		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["PARTYINFO"] = 1,
+	},
+	["海克泰尔.Ggwdtx"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -223,6 +329,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["VERSION"] = "3.1.1",
 		["PARTYHPMP"] = 1,
@@ -231,6 +338,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["回音山.弹弹堂一号"] = {
+=======
+		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["PARTYINFO"] = 1,
+	},
+	["迦罗娜.打小怪的"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -246,6 +363,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["VERSION"] = "3.1.1",
 		["PARTYHPMP"] = 1,
@@ -254,6 +372,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["海克泰尔.Ggwdtx"] = {
+=======
+		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["PARTYINFO"] = 1,
+	},
+	["埃霍恩.悠悠龟"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -269,6 +397,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["VERSION"] = "3.1.1",
 		["PARTYHPMP"] = 1,
@@ -277,6 +406,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["迦罗娜.打小怪的"] = {
+=======
+		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["PARTYINFO"] = 1,
+	},
+	["末日祷告祭坛.厦门妇幼"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -292,6 +431,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["VERSION"] = "3.1.1",
 		["PARTYHPMP"] = 1,
@@ -300,6 +440,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["埃霍恩.悠悠龟"] = {
+=======
+		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["PARTYINFO"] = 1,
+	},
+	["伊森利恩.悠悠兔"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -315,6 +465,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["VERSION"] = "3.1.1",
 		["PARTYHPMP"] = 1,
@@ -323,6 +474,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["末日祷告祭坛.厦门妇幼"] = {
+=======
+		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["PARTYINFO"] = 1,
+	},
+	["Enigma.悠悠龟"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -345,12 +506,20 @@ DuowanAddon_EUF_Options = {
 		["PLAYERRARE"] = 0,
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
 	["伊森利恩.悠悠兔"] = {
+=======
+	["火羽山.赞达拉使者"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
 		["PLAYERCLASSICONSMALL"] = 0,
+<<<<<<< HEAD
 		["PLAYERXP"] = 1,
+=======
+		["PLAYERXP"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["PLAYERXPAUTO"] = 1,
 		["AUTOHEALTHCOLOR"] = 1,
 		["TARGETHPMPPERCENT"] = 1,
@@ -361,6 +530,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["VERSION"] = "3.1.1",
 		["PARTYHPMP"] = 1,
@@ -369,6 +539,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["Enigma.悠悠龟"] = {
+=======
+		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["PARTYINFO"] = 1,
+	},
+	["天谴之门.悠悠龟"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -391,12 +571,20 @@ DuowanAddon_EUF_Options = {
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
 	["火羽山.赞达拉使者"] = {
+=======
+	["Enigma.最后的悠悠"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
 		["PLAYERCLASSICONSMALL"] = 0,
+<<<<<<< HEAD
 		["PLAYERXP"] = 0,
+=======
+		["PLAYERXP"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["PLAYERXPAUTO"] = 1,
 		["AUTOHEALTHCOLOR"] = 1,
 		["TARGETHPMPPERCENT"] = 1,
@@ -407,6 +595,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["VERSION"] = "3.1.1",
 		["PARTYHPMP"] = 1,
@@ -415,6 +604,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["天谴之门.悠悠龟"] = {
+=======
+		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["PARTYINFO"] = 1,
+	},
+	["晴日峰 (江苏).Ddtq"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -430,6 +629,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["VERSION"] = "3.1.1",
 		["PARTYHPMP"] = 1,
@@ -438,6 +638,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["Enigma.最后的悠悠"] = {
+=======
+		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["PARTYINFO"] = 1,
+	},
+	["迦罗娜.云飞"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -460,7 +670,11 @@ DuowanAddon_EUF_Options = {
 		["PLAYERRARE"] = 0,
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
 	["晴日峰 (江苏).Ddtq"] = {
+=======
+	["晴日峰 (江苏).悠悠蛋"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -476,6 +690,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["VERSION"] = "3.1.1",
 		["PARTYHPMP"] = 1,
@@ -484,49 +699,12 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["迦罗娜.云飞"] = {
-		["TARGETCLASSICONSMALL"] = 1,
-		["PARTYCLASSICONSMALL"] = 1,
-		["TARGETTARGETHPMPPERCENT"] = 1,
-		["PLAYERCLASSICONSMALL"] = 0,
-		["PLAYERXP"] = 1,
-		["PLAYERXPAUTO"] = 1,
-		["AUTOHEALTHCOLOR"] = 1,
-		["TARGETHPMPPERCENT"] = 1,
-		["TARGETHPMP"] = 1,
-		["PARTYCOLOR"] = 1,
-		["3DPORTRAIT"] = 0,
-		["TARGETINFO"] = 0,
-		["MOVINGTARGETTARGETFRAME"] = 0,
-		["PLAYERPETHPMP"] = 1,
-		["PLAYERFRM"] = 1,
+=======
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
 		["VERSION"] = "3.1.1",
 		["COMPATIBLEVERSION"] = "3.1.1",
-		["PARTYINFO"] = 1,
-	},
-	["晴日峰 (江苏).悠悠蛋"] = {
-		["TARGETCLASSICONSMALL"] = 1,
-		["PARTYCLASSICONSMALL"] = 1,
-		["TARGETTARGETHPMPPERCENT"] = 1,
-		["PLAYERCLASSICONSMALL"] = 0,
-		["PLAYERXP"] = 1,
-		["PLAYERXPAUTO"] = 1,
-		["AUTOHEALTHCOLOR"] = 1,
-		["TARGETHPMPPERCENT"] = 1,
-		["TARGETHPMP"] = 1,
-		["PARTYCOLOR"] = 1,
-		["3DPORTRAIT"] = 0,
-		["TARGETINFO"] = 0,
-		["MOVINGTARGETTARGETFRAME"] = 0,
-		["PLAYERPETHPMP"] = 1,
-		["PLAYERFRM"] = 1,
-		["COMPATIBLEVERSION"] = "3.1.1",
-		["VERSION"] = "3.1.1",
-		["PARTYHPMP"] = 1,
-		["PLAYERHPMP"] = 1,
-		["PLAYERRARE"] = 0,
 		["PARTYINFO"] = 1,
 	},
 	["迦罗娜.Bbxl"] = {
@@ -545,14 +723,15 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
-		["COMPATIBLEVERSION"] = "3.1.1",
-		["VERSION"] = "3.1.1",
-		["PARTYHPMP"] = 1,
-		["PLAYERHPMP"] = 1,
 		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
 		["PARTYINFO"] = 1,
 	},
 	["火羽山.杀猪刀猴赛雷"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -568,14 +747,99 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
-		["COMPATIBLEVERSION"] = "3.1.1",
-		["VERSION"] = "3.1.1",
-		["PARTYHPMP"] = 1,
-		["PLAYERHPMP"] = 1,
 		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
+	["晴日峰 (江苏).悠悠蛋"] = {
+=======
 	["火羽山.猴赛雷杀猪刀"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["TARGETCLASSICONSMALL"] = 1,
+		["PARTYCLASSICONSMALL"] = 1,
+		["TARGETTARGETHPMPPERCENT"] = 1,
+		["PLAYERCLASSICONSMALL"] = 0,
+		["PLAYERXP"] = 1,
+		["PLAYERXPAUTO"] = 1,
+		["AUTOHEALTHCOLOR"] = 1,
+		["TARGETHPMPPERCENT"] = 1,
+		["TARGETHPMP"] = 1,
+		["PARTYCOLOR"] = 1,
+		["3DPORTRAIT"] = 0,
+		["TARGETINFO"] = 0,
+		["MOVINGTARGETTARGETFRAME"] = 0,
+		["PLAYERPETHPMP"] = 1,
+		["PLAYERFRM"] = 1,
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+<<<<<<< HEAD
+	["迦罗娜.Bbxl"] = {
+=======
+	["Enigma.杀猪刀猴赛雷"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["TARGETCLASSICONSMALL"] = 1,
+		["PARTYCLASSICONSMALL"] = 1,
+		["TARGETTARGETHPMPPERCENT"] = 1,
+		["PLAYERCLASSICONSMALL"] = 0,
+		["PLAYERXP"] = 1,
+		["PLAYERXPAUTO"] = 1,
+		["AUTOHEALTHCOLOR"] = 1,
+		["TARGETHPMPPERCENT"] = 1,
+		["TARGETHPMP"] = 1,
+		["PARTYCOLOR"] = 1,
+		["3DPORTRAIT"] = 0,
+		["TARGETINFO"] = 0,
+		["MOVINGTARGETTARGETFRAME"] = 0,
+		["PLAYERPETHPMP"] = 1,
+		["PLAYERFRM"] = 1,
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+<<<<<<< HEAD
+	["火羽山.杀猪刀猴赛雷"] = {
+=======
+	["迦罗娜.亦可赛艇"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["TARGETCLASSICONSMALL"] = 1,
+		["PARTYCLASSICONSMALL"] = 1,
+		["TARGETTARGETHPMPPERCENT"] = 1,
+		["PLAYERCLASSICONSMALL"] = 0,
+		["PLAYERXP"] = 1,
+		["PLAYERXPAUTO"] = 1,
+		["AUTOHEALTHCOLOR"] = 1,
+		["TARGETHPMPPERCENT"] = 1,
+		["TARGETHPMP"] = 1,
+		["PARTYCOLOR"] = 1,
+		["3DPORTRAIT"] = 0,
+		["TARGETINFO"] = 0,
+		["MOVINGTARGETTARGETFRAME"] = 0,
+		["PLAYERPETHPMP"] = 1,
+		["PLAYERFRM"] = 1,
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+<<<<<<< HEAD
+	["火羽山.猴赛雷杀猪刀"] = {
+=======
+	["火羽山.悠悠龟"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -598,7 +862,11 @@ DuowanAddon_EUF_Options = {
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
 	["Enigma.杀猪刀猴赛雷"] = {
+=======
+	["斯克提斯.悠悠龟"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -614,6 +882,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
@@ -622,6 +891,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["迦罗娜.亦可赛艇"] = {
+=======
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+	["萨洛拉丝.猪猪三"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -637,6 +916,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
@@ -645,6 +925,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["火羽山.悠悠龟"] = {
+=======
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+	[" 辛达苟萨.悠悠兔"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -667,7 +957,11 @@ DuowanAddon_EUF_Options = {
 		["PLAYERRARE"] = 0,
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
 	["斯克提斯.悠悠龟"] = {
+=======
+	["迦罗娜.悠悠龟"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -683,6 +977,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
@@ -691,6 +986,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["萨洛拉丝.猪猪三"] = {
+=======
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+	["安东尼达斯.猪猪一号"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -706,6 +1011,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
@@ -714,6 +1020,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	[" 辛达苟萨.悠悠兔"] = {
+=======
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+	["遗忘海岸.弹弹堂"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -736,12 +1052,20 @@ DuowanAddon_EUF_Options = {
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
 	["迦罗娜.悠悠龟"] = {
+=======
+	["Enigma.赞达拉使者"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
 		["PLAYERCLASSICONSMALL"] = 0,
+<<<<<<< HEAD
 		["PLAYERXP"] = 1,
+=======
+		["PLAYERXP"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["PLAYERXPAUTO"] = 1,
 		["AUTOHEALTHCOLOR"] = 1,
 		["TARGETHPMPPERCENT"] = 1,
@@ -752,6 +1076,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
@@ -760,6 +1085,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["安东尼达斯.猪猪一号"] = {
+=======
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+	["暗影裂口.悠悠兔"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -782,7 +1117,11 @@ DuowanAddon_EUF_Options = {
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
 	["遗忘海岸.弹弹堂"] = {
+=======
+	["火羽山.涨姿势"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -797,6 +1136,7 @@ DuowanAddon_EUF_Options = {
 		["TARGETINFO"] = 0,
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
+<<<<<<< HEAD
 		["PLAYERFRM"] = 1,
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["VERSION"] = "3.1.1",
@@ -806,75 +1146,48 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["Enigma.赞达拉使者"] = {
-		["TARGETCLASSICONSMALL"] = 1,
-		["PARTYCLASSICONSMALL"] = 1,
-		["TARGETTARGETHPMPPERCENT"] = 1,
-		["PLAYERCLASSICONSMALL"] = 0,
-		["PLAYERXP"] = 0,
-		["PLAYERXPAUTO"] = 1,
-		["AUTOHEALTHCOLOR"] = 1,
-		["TARGETHPMPPERCENT"] = 1,
-		["TARGETHPMP"] = 1,
-		["PARTYCOLOR"] = 1,
-		["3DPORTRAIT"] = 0,
-		["TARGETINFO"] = 0,
-		["MOVINGTARGETTARGETFRAME"] = 0,
-		["PLAYERPETHPMP"] = 1,
+=======
 		["PLAYERFRM"] = 1,
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
 		["VERSION"] = "3.1.1",
 		["COMPATIBLEVERSION"] = "3.1.1",
-		["PARTYINFO"] = 1,
-	},
-	["暗影裂口.悠悠兔"] = {
-		["TARGETCLASSICONSMALL"] = 1,
-		["PARTYCLASSICONSMALL"] = 1,
-		["TARGETTARGETHPMPPERCENT"] = 1,
-		["PLAYERCLASSICONSMALL"] = 0,
-		["PLAYERXP"] = 1,
-		["PLAYERXPAUTO"] = 1,
-		["AUTOHEALTHCOLOR"] = 1,
-		["TARGETHPMPPERCENT"] = 1,
-		["TARGETHPMP"] = 1,
-		["PARTYCOLOR"] = 1,
-		["3DPORTRAIT"] = 0,
-		["TARGETINFO"] = 0,
-		["MOVINGTARGETTARGETFRAME"] = 0,
-		["PLAYERPETHPMP"] = 1,
-		["PLAYERFRM"] = 1,
-		["COMPATIBLEVERSION"] = "3.1.1",
-		["VERSION"] = "3.1.1",
-		["PARTYHPMP"] = 1,
-		["PLAYERHPMP"] = 1,
-		["PLAYERRARE"] = 0,
-		["PARTYINFO"] = 1,
-	},
-	["火羽山.涨姿势"] = {
-		["TARGETCLASSICONSMALL"] = 1,
-		["PARTYCLASSICONSMALL"] = 1,
-		["TARGETTARGETHPMPPERCENT"] = 1,
-		["PLAYERCLASSICONSMALL"] = 0,
-		["PLAYERXP"] = 1,
-		["PLAYERXPAUTO"] = 1,
-		["AUTOHEALTHCOLOR"] = 1,
-		["TARGETHPMPPERCENT"] = 1,
-		["TARGETHPMP"] = 1,
-		["PARTYCOLOR"] = 1,
-		["3DPORTRAIT"] = 0,
-		["TARGETINFO"] = 0,
-		["MOVINGTARGETTARGETFRAME"] = 0,
-		["PLAYERPETHPMP"] = 1,
-		["PLAYERFRM"] = 1,
-		["COMPATIBLEVERSION"] = "3.1.1",
-		["VERSION"] = "3.1.1",
-		["PARTYHPMP"] = 1,
-		["PLAYERHPMP"] = 1,
-		["PLAYERRARE"] = 0,
 		["PARTYINFO"] = 1,
 	},
 	[" 时光之穴.悠悠龟"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["TARGETCLASSICONSMALL"] = 1,
+		["PARTYCLASSICONSMALL"] = 1,
+		["TARGETTARGETHPMPPERCENT"] = 1,
+		["PLAYERCLASSICONSMALL"] = 0,
+<<<<<<< HEAD
+		["PLAYERXP"] = 0,
+=======
+		["PLAYERXP"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["PLAYERXPAUTO"] = 1,
+		["AUTOHEALTHCOLOR"] = 1,
+		["TARGETHPMPPERCENT"] = 1,
+		["TARGETHPMP"] = 1,
+		["PARTYCOLOR"] = 1,
+		["3DPORTRAIT"] = 0,
+		["TARGETINFO"] = 0,
+		["MOVINGTARGETTARGETFRAME"] = 0,
+		["PLAYERPETHPMP"] = 1,
+		["PLAYERFRM"] = 1,
+		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["PARTYINFO"] = 1,
+	},
+<<<<<<< HEAD
+	["暗影裂口.悠悠兔"] = {
+=======
+	["海克泰尔.Ddtq"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -897,7 +1210,11 @@ DuowanAddon_EUF_Options = {
 		["PLAYERRARE"] = 0,
 		["PARTYINFO"] = 1,
 	},
-	["海克泰尔.Ddtq"] = {
+<<<<<<< HEAD
+	["火羽山.涨姿势"] = {
+=======
+	["伊森利恩.弹弹堂一号"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -913,6 +1230,61 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+<<<<<<< HEAD
+	[" 时光之穴.悠悠龟"] = {
+=======
+	["火羽山.那总二号"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["TARGETCLASSICONSMALL"] = 1,
+		["PARTYCLASSICONSMALL"] = 1,
+		["TARGETTARGETHPMPPERCENT"] = 1,
+		["PLAYERCLASSICONSMALL"] = 0,
+		["PLAYERXP"] = 1,
+		["PLAYERXPAUTO"] = 1,
+		["AUTOHEALTHCOLOR"] = 1,
+		["TARGETHPMPPERCENT"] = 1,
+		["TARGETHPMP"] = 1,
+		["PARTYCOLOR"] = 1,
+		["3DPORTRAIT"] = 0,
+		["TARGETINFO"] = 0,
+		["MOVINGTARGETTARGETFRAME"] = 0,
+		["PLAYERPETHPMP"] = 1,
+		["PLAYERFRM"] = 1,
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+<<<<<<< HEAD
+	["海克泰尔.Ddtq"] = {
+=======
+	["安东尼达斯.弹弹堂一号"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["TARGETCLASSICONSMALL"] = 1,
+		["PARTYCLASSICONSMALL"] = 1,
+		["TARGETTARGETHPMPPERCENT"] = 1,
+		["PLAYERCLASSICONSMALL"] = 0,
+		["PLAYERXP"] = 1,
+		["PLAYERXPAUTO"] = 1,
+		["AUTOHEALTHCOLOR"] = 1,
+		["TARGETHPMPPERCENT"] = 1,
+		["TARGETHPMP"] = 1,
+		["PARTYCOLOR"] = 1,
+		["3DPORTRAIT"] = 0,
+		["TARGETINFO"] = 0,
+		["MOVINGTARGETTARGETFRAME"] = 0,
+		["PLAYERPETHPMP"] = 1,
+		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
@@ -921,6 +1293,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["伊森利恩.弹弹堂一号"] = {
+=======
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+	["金色平原.悠悠乳"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -936,6 +1318,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
@@ -944,6 +1327,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["火羽山.那总二号"] = {
+=======
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+	["火羽山.猛牛悠悠乳"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -966,7 +1359,11 @@ DuowanAddon_EUF_Options = {
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
 	["安东尼达斯.弹弹堂一号"] = {
+=======
+	["奥特兰克.Yyga"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -982,6 +1379,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
@@ -990,11 +1388,25 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["金色平原.悠悠乳"] = {
+=======
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+	["冬拥湖.悠悠龟"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
 		["PLAYERCLASSICONSMALL"] = 0,
+<<<<<<< HEAD
 		["PLAYERXP"] = 1,
+=======
+		["PLAYERXP"] = 0,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["PLAYERXPAUTO"] = 1,
 		["AUTOHEALTHCOLOR"] = 1,
 		["TARGETHPMPPERCENT"] = 1,
@@ -1012,7 +1424,11 @@ DuowanAddon_EUF_Options = {
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
 	["火羽山.猛牛悠悠乳"] = {
+=======
+	["迦拉克隆.悠悠龟"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1028,6 +1444,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["VERSION"] = "3.1.1",
 		["PARTYHPMP"] = 1,
@@ -1036,6 +1453,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["奥特兰克.Yyga"] = {
+=======
+		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["PARTYINFO"] = 1,
+	},
+	["无底海渊.悠悠龟"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1058,7 +1485,11 @@ DuowanAddon_EUF_Options = {
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
 	["冬拥湖.悠悠龟"] = {
+=======
+	["火羽山.哥生气了"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1074,6 +1505,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["VERSION"] = "3.1.1",
 		["PARTYHPMP"] = 1,
@@ -1082,6 +1514,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["迦拉克隆.悠悠龟"] = {
+=======
+		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["PARTYINFO"] = 1,
+	},
+	["末日祷告祭坛.妈蛋"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1097,6 +1539,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["VERSION"] = "3.1.1",
 		["PARTYHPMP"] = 1,
@@ -1105,67 +1548,7 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["无底海渊.悠悠龟"] = {
-		["TARGETCLASSICONSMALL"] = 1,
-		["PARTYCLASSICONSMALL"] = 1,
-		["TARGETTARGETHPMPPERCENT"] = 1,
-		["PLAYERCLASSICONSMALL"] = 0,
-		["PLAYERXP"] = 1,
-		["PLAYERXPAUTO"] = 1,
-		["AUTOHEALTHCOLOR"] = 1,
-		["TARGETHPMPPERCENT"] = 1,
-		["TARGETHPMP"] = 1,
-		["PARTYCOLOR"] = 1,
-		["3DPORTRAIT"] = 0,
-		["TARGETINFO"] = 0,
-		["MOVINGTARGETTARGETFRAME"] = 0,
-		["PLAYERPETHPMP"] = 1,
-		["PLAYERFRM"] = 1,
-		["COMPATIBLEVERSION"] = "3.1.1",
-		["VERSION"] = "3.1.1",
-		["PARTYHPMP"] = 1,
-		["PLAYERHPMP"] = 1,
-		["PLAYERRARE"] = 0,
-		["PARTYINFO"] = 1,
-	},
-	["火羽山.哥生气了"] = {
-		["TARGETCLASSICONSMALL"] = 1,
-		["PARTYCLASSICONSMALL"] = 1,
-		["TARGETTARGETHPMPPERCENT"] = 1,
-		["PLAYERCLASSICONSMALL"] = 0,
-		["PLAYERXP"] = 0,
-		["PLAYERXPAUTO"] = 1,
-		["AUTOHEALTHCOLOR"] = 1,
-		["TARGETHPMPPERCENT"] = 1,
-		["TARGETHPMP"] = 1,
-		["PARTYCOLOR"] = 1,
-		["3DPORTRAIT"] = 0,
-		["TARGETINFO"] = 0,
-		["MOVINGTARGETTARGETFRAME"] = 0,
-		["PLAYERPETHPMP"] = 1,
-		["PLAYERFRM"] = 1,
-		["COMPATIBLEVERSION"] = "3.1.1",
-		["VERSION"] = "3.1.1",
-		["PARTYHPMP"] = 1,
-		["PLAYERHPMP"] = 1,
-		["PLAYERRARE"] = 0,
-		["PARTYINFO"] = 1,
-	},
-	["末日祷告祭坛.悠悠骑"] = {
-		["TARGETCLASSICONSMALL"] = 1,
-		["PARTYCLASSICONSMALL"] = 1,
-		["TARGETTARGETHPMPPERCENT"] = 1,
-		["PLAYERCLASSICONSMALL"] = 0,
-		["PLAYERXP"] = 1,
-		["PLAYERXPAUTO"] = 1,
-		["AUTOHEALTHCOLOR"] = 1,
-		["TARGETHPMPPERCENT"] = 1,
-		["TARGETHPMP"] = 1,
-		["PARTYCOLOR"] = 1,
-		["3DPORTRAIT"] = 0,
-		["TARGETINFO"] = 0,
-		["MOVINGTARGETTARGETFRAME"] = 0,
-		["PLAYERPETHPMP"] = 1,
-		["PLAYERFRM"] = 1,
+=======
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
@@ -1174,6 +1557,7 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["暗影裂口.悠悠龟"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1189,6 +1573,92 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+<<<<<<< HEAD
+	["火羽山.哥生气了"] = {
+=======
+	["火羽山.海上五月花"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["TARGETCLASSICONSMALL"] = 1,
+		["PARTYCLASSICONSMALL"] = 1,
+		["TARGETTARGETHPMPPERCENT"] = 1,
+		["PLAYERCLASSICONSMALL"] = 0,
+<<<<<<< HEAD
+		["PLAYERXP"] = 0,
+=======
+		["PLAYERXP"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["PLAYERXPAUTO"] = 1,
+		["AUTOHEALTHCOLOR"] = 1,
+		["TARGETHPMPPERCENT"] = 1,
+		["TARGETHPMP"] = 1,
+		["PARTYCOLOR"] = 1,
+		["3DPORTRAIT"] = 0,
+		["TARGETINFO"] = 0,
+		["MOVINGTARGETTARGETFRAME"] = 0,
+		["PLAYERPETHPMP"] = 1,
+		["PLAYERFRM"] = 1,
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+<<<<<<< HEAD
+	["末日祷告祭坛.悠悠骑"] = {
+=======
+	["火羽山.那总三号"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["TARGETCLASSICONSMALL"] = 1,
+		["PARTYCLASSICONSMALL"] = 1,
+		["TARGETTARGETHPMPPERCENT"] = 1,
+		["PLAYERCLASSICONSMALL"] = 0,
+		["PLAYERXP"] = 1,
+		["PLAYERXPAUTO"] = 1,
+		["AUTOHEALTHCOLOR"] = 1,
+		["TARGETHPMPPERCENT"] = 1,
+		["TARGETHPMP"] = 1,
+		["PARTYCOLOR"] = 1,
+		["3DPORTRAIT"] = 0,
+		["TARGETINFO"] = 0,
+		["MOVINGTARGETTARGETFRAME"] = 0,
+		["PLAYERPETHPMP"] = 1,
+		["PLAYERFRM"] = 1,
+		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["PARTYINFO"] = 1,
+	},
+<<<<<<< HEAD
+	["暗影裂口.悠悠龟"] = {
+=======
+	["火羽山.小学生放假了"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["TARGETCLASSICONSMALL"] = 1,
+		["PARTYCLASSICONSMALL"] = 1,
+		["TARGETTARGETHPMPPERCENT"] = 1,
+		["PLAYERCLASSICONSMALL"] = 0,
+		["PLAYERXP"] = 1,
+		["PLAYERXPAUTO"] = 1,
+		["AUTOHEALTHCOLOR"] = 1,
+		["TARGETHPMPPERCENT"] = 1,
+		["TARGETHPMP"] = 1,
+		["PARTYCOLOR"] = 1,
+		["3DPORTRAIT"] = 0,
+		["TARGETINFO"] = 0,
+		["MOVINGTARGETTARGETFRAME"] = 0,
+		["PLAYERPETHPMP"] = 1,
+		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
@@ -1220,6 +1690,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["火羽山.那总三号"] = {
+=======
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+	["末日祷告祭坛.兮兮妹"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1242,7 +1722,11 @@ DuowanAddon_EUF_Options = {
 		["PLAYERRARE"] = 0,
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
 	["火羽山.小学生放假了"] = {
+=======
+	["迦罗娜.梁帅"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1258,6 +1742,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
@@ -1266,52 +1751,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["末日祷告祭坛.兮兮妹"] = {
-		["TARGETCLASSICONSMALL"] = 1,
-		["PARTYCLASSICONSMALL"] = 1,
-		["TARGETTARGETHPMPPERCENT"] = 1,
-		["PLAYERCLASSICONSMALL"] = 0,
-		["PLAYERXP"] = 1,
-		["PLAYERXPAUTO"] = 1,
-		["AUTOHEALTHCOLOR"] = 1,
-		["TARGETHPMPPERCENT"] = 1,
-		["TARGETHPMP"] = 1,
-		["PARTYCOLOR"] = 1,
-		["3DPORTRAIT"] = 0,
-		["TARGETINFO"] = 0,
-		["MOVINGTARGETTARGETFRAME"] = 0,
-		["PLAYERPETHPMP"] = 1,
-		["PLAYERFRM"] = 1,
-		["PLAYERRARE"] = 0,
-		["PLAYERHPMP"] = 1,
-		["PARTYHPMP"] = 1,
-		["VERSION"] = "3.1.1",
+=======
 		["COMPATIBLEVERSION"] = "3.1.1",
-		["PARTYINFO"] = 1,
-	},
-	["火羽山.最后的悠悠"] = {
-		["TARGETCLASSICONSMALL"] = 1,
-		["PARTYCLASSICONSMALL"] = 1,
-		["TARGETTARGETHPMPPERCENT"] = 1,
-		["PLAYERCLASSICONSMALL"] = 0,
-		["PLAYERXP"] = 1,
-		["PLAYERXPAUTO"] = 1,
-		["AUTOHEALTHCOLOR"] = 1,
-		["TARGETHPMPPERCENT"] = 1,
-		["TARGETHPMP"] = 1,
-		["PARTYCOLOR"] = 1,
-		["3DPORTRAIT"] = 0,
-		["TARGETINFO"] = 0,
-		["MOVINGTARGETTARGETFRAME"] = 0,
-		["PLAYERPETHPMP"] = 1,
-		["PLAYERFRM"] = 1,
-		["PLAYERRARE"] = 0,
-		["PLAYERHPMP"] = 1,
-		["PARTYHPMP"] = 1,
 		["VERSION"] = "3.1.1",
-		["COMPATIBLEVERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
 		["PARTYINFO"] = 1,
 	},
 	["迦罗娜.最初的悠悠"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1327,14 +1776,45 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
-		["COMPATIBLEVERSION"] = "3.1.1",
-		["VERSION"] = "3.1.1",
-		["PARTYHPMP"] = 1,
-		["PLAYERHPMP"] = 1,
 		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
+	["火羽山.最后的悠悠"] = {
+=======
 	["迦罗娜.搞个大新闻"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["TARGETCLASSICONSMALL"] = 1,
+		["PARTYCLASSICONSMALL"] = 1,
+		["TARGETTARGETHPMPPERCENT"] = 1,
+		["PLAYERCLASSICONSMALL"] = 0,
+		["PLAYERXP"] = 1,
+		["PLAYERXPAUTO"] = 1,
+		["AUTOHEALTHCOLOR"] = 1,
+		["TARGETHPMPPERCENT"] = 1,
+		["TARGETHPMP"] = 1,
+		["PARTYCOLOR"] = 1,
+		["3DPORTRAIT"] = 0,
+		["TARGETINFO"] = 0,
+		["MOVINGTARGETTARGETFRAME"] = 0,
+		["PLAYERPETHPMP"] = 1,
+		["PLAYERFRM"] = 1,
+		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["PARTYINFO"] = 1,
+	},
+<<<<<<< HEAD
+	["迦罗娜.最初的悠悠"] = {
+=======
+	["洛肯.Ggwdtx"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1357,6 +1837,34 @@ DuowanAddon_EUF_Options = {
 		["PLAYERRARE"] = 0,
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
+	["迦罗娜.搞个大新闻"] = {
+=======
+	["安东尼达斯.猪猪二号"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["TARGETCLASSICONSMALL"] = 1,
+		["PARTYCLASSICONSMALL"] = 1,
+		["TARGETTARGETHPMPPERCENT"] = 1,
+		["PLAYERCLASSICONSMALL"] = 0,
+		["PLAYERXP"] = 1,
+		["PLAYERXPAUTO"] = 1,
+		["AUTOHEALTHCOLOR"] = 1,
+		["TARGETHPMPPERCENT"] = 1,
+		["TARGETHPMP"] = 1,
+		["PARTYCOLOR"] = 1,
+		["3DPORTRAIT"] = 0,
+		["TARGETINFO"] = 0,
+		["MOVINGTARGETTARGETFRAME"] = 0,
+		["PLAYERPETHPMP"] = 1,
+		["PLAYERFRM"] = 1,
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+<<<<<<< HEAD
 	["安东尼达斯.猪猪二号"] = {
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
@@ -1381,29 +1889,9 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["安东尼达斯.Dxnbz"] = {
-		["TARGETCLASSICONSMALL"] = 1,
-		["PARTYCLASSICONSMALL"] = 1,
-		["TARGETTARGETHPMPPERCENT"] = 1,
-		["PLAYERCLASSICONSMALL"] = 0,
-		["PLAYERXP"] = 1,
-		["PLAYERXPAUTO"] = 1,
-		["AUTOHEALTHCOLOR"] = 1,
-		["TARGETHPMPPERCENT"] = 1,
-		["TARGETHPMP"] = 1,
-		["PARTYCOLOR"] = 1,
-		["3DPORTRAIT"] = 0,
-		["TARGETINFO"] = 0,
-		["MOVINGTARGETTARGETFRAME"] = 0,
-		["PLAYERPETHPMP"] = 1,
-		["PLAYERFRM"] = 1,
-		["PLAYERRARE"] = 0,
-		["PLAYERHPMP"] = 1,
-		["PARTYHPMP"] = 1,
-		["VERSION"] = "3.1.1",
-		["COMPATIBLEVERSION"] = "3.1.1",
-		["PARTYINFO"] = 1,
-	},
+=======
 	["迦罗娜.最后的悠悠"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1419,14 +1907,18 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
-		["COMPATIBLEVERSION"] = "3.1.1",
-		["VERSION"] = "3.1.1",
-		["PARTYHPMP"] = 1,
-		["PLAYERHPMP"] = 1,
 		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
+	["迦罗娜.最后的悠悠"] = {
+=======
 	["白银之手.悠悠龟"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1442,14 +1934,45 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
-		["PLAYERRARE"] = 0,
-		["PLAYERHPMP"] = 1,
-		["PARTYHPMP"] = 1,
-		["VERSION"] = "3.1.1",
 		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
+	["白银之手.悠悠龟"] = {
+=======
 	["刀塔.悠悠龟"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["TARGETCLASSICONSMALL"] = 1,
+		["PARTYCLASSICONSMALL"] = 1,
+		["TARGETTARGETHPMPPERCENT"] = 1,
+		["PLAYERCLASSICONSMALL"] = 0,
+		["PLAYERXP"] = 1,
+		["PLAYERXPAUTO"] = 1,
+		["AUTOHEALTHCOLOR"] = 1,
+		["TARGETHPMPPERCENT"] = 1,
+		["TARGETHPMP"] = 1,
+		["PARTYCOLOR"] = 1,
+		["3DPORTRAIT"] = 0,
+		["TARGETINFO"] = 0,
+		["MOVINGTARGETTARGETFRAME"] = 0,
+		["PLAYERPETHPMP"] = 1,
+		["PLAYERFRM"] = 1,
+		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["PARTYINFO"] = 1,
+	},
+<<<<<<< HEAD
+	["刀塔.悠悠龟"] = {
+=======
+	["日落沼泽.最初的悠悠"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1472,7 +1995,11 @@ DuowanAddon_EUF_Options = {
 		["PLAYERRARE"] = 0,
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
 	[" 晴日峰(江苏).悠悠蛋"] = {
+=======
+	["Enigma.最初的悠悠"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1511,6 +2038,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
@@ -1519,6 +2047,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["Enigma.最初的悠悠"] = {
+=======
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+	[" 晴日峰(江苏).悠悠蛋"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1541,7 +2079,11 @@ DuowanAddon_EUF_Options = {
 		["PLAYERRARE"] = 0,
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
 	["日落沼泽.最初的悠悠"] = {
+=======
+	["末日祷告祭坛.悠悠战"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1557,6 +2099,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
@@ -1565,6 +2108,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["末日祷告祭坛.悠悠战"] = {
+=======
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+	["神圣之歌.弹弹堂一号"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1580,6 +2133,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
@@ -1588,6 +2142,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["神圣之歌.弹弹堂一号"] = {
+=======
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+	["安东尼达斯.Dxnbz"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1603,6 +2167,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
@@ -1611,29 +2176,43 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["洛肯.Ggwdtx"] = {
-		["TARGETCLASSICONSMALL"] = 1,
-		["PARTYCLASSICONSMALL"] = 1,
-		["TARGETTARGETHPMPPERCENT"] = 1,
-		["PLAYERCLASSICONSMALL"] = 0,
-		["PLAYERXP"] = 1,
-		["PLAYERXPAUTO"] = 1,
-		["AUTOHEALTHCOLOR"] = 1,
-		["TARGETHPMPPERCENT"] = 1,
-		["TARGETHPMP"] = 1,
-		["PARTYCOLOR"] = 1,
-		["3DPORTRAIT"] = 0,
-		["TARGETINFO"] = 0,
-		["MOVINGTARGETTARGETFRAME"] = 0,
-		["PLAYERPETHPMP"] = 1,
-		["PLAYERFRM"] = 1,
-		["PLAYERRARE"] = 0,
-		["PLAYERHPMP"] = 1,
-		["PARTYHPMP"] = 1,
-		["VERSION"] = "3.1.1",
+=======
 		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
 		["PARTYINFO"] = 1,
 	},
 	["火羽山.临时工四号"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["TARGETCLASSICONSMALL"] = 1,
+		["PARTYCLASSICONSMALL"] = 1,
+		["TARGETTARGETHPMPPERCENT"] = 1,
+		["PLAYERCLASSICONSMALL"] = 0,
+		["PLAYERXP"] = 1,
+		["PLAYERXPAUTO"] = 1,
+		["AUTOHEALTHCOLOR"] = 1,
+		["TARGETHPMPPERCENT"] = 1,
+		["TARGETHPMP"] = 1,
+		["PARTYCOLOR"] = 1,
+		["3DPORTRAIT"] = 0,
+		["TARGETINFO"] = 0,
+		["MOVINGTARGETTARGETFRAME"] = 0,
+		["PLAYERPETHPMP"] = 1,
+		["PLAYERFRM"] = 1,
+		["PLAYERRARE"] = 0,
+		["PLAYERHPMP"] = 1,
+		["PARTYHPMP"] = 1,
+		["VERSION"] = "3.1.1",
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["PARTYINFO"] = 1,
+	},
+<<<<<<< HEAD
+	["火羽山.临时工四号"] = {
+=======
+	["加里索斯.悠悠龟"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1656,7 +2235,11 @@ DuowanAddon_EUF_Options = {
 		["PLAYERRARE"] = 0,
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
 	["加里索斯.悠悠龟"] = {
+=======
+	["火羽山.最后的悠悠"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1672,6 +2255,7 @@ DuowanAddon_EUF_Options = {
 		["MOVINGTARGETTARGETFRAME"] = 0,
 		["PLAYERPETHPMP"] = 1,
 		["PLAYERFRM"] = 1,
+<<<<<<< HEAD
 		["PLAYERRARE"] = 0,
 		["PLAYERHPMP"] = 1,
 		["PARTYHPMP"] = 1,
@@ -1680,6 +2264,16 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["迦罗娜.梁帅"] = {
+=======
+		["COMPATIBLEVERSION"] = "3.1.1",
+		["VERSION"] = "3.1.1",
+		["PARTYHPMP"] = 1,
+		["PLAYERHPMP"] = 1,
+		["PLAYERRARE"] = 0,
+		["PARTYINFO"] = 1,
+	},
+	["沃金.悠悠龟"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,
@@ -1702,6 +2296,7 @@ DuowanAddon_EUF_Options = {
 		["COMPATIBLEVERSION"] = "3.1.1",
 		["PARTYINFO"] = 1,
 	},
+<<<<<<< HEAD
 	["沃金.悠悠龟"] = {
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
@@ -1726,6 +2321,9 @@ DuowanAddon_EUF_Options = {
 		["PARTYINFO"] = 1,
 	},
 	["末日祷告祭坛.妈蛋"] = {
+=======
+	["末日祷告祭坛.悠悠骑"] = {
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["TARGETCLASSICONSMALL"] = 1,
 		["PARTYCLASSICONSMALL"] = 1,
 		["TARGETTARGETHPMPPERCENT"] = 1,

@@ -2,7 +2,11 @@ SET blockTrades "1"
 SET autoLootDefault "1"
 SET showVKeyCastbarSpellName "0"
 SET autoQuestPopUps "v##$"
+<<<<<<< HEAD
 SET trackedQuests "v&HP&I='Wh'Yw'd>'fV'wv(&:(&I()r(*1(-(4~(6O(6o(7f(7i"
+=======
+SET trackedQuests "v(*1&HP&I='Wh'Yw'd>'fV'wv(&:(&I()r(-(4~(6O(6o(7f(7i"
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 SET hardTrackedQuests "v"
 SET trackedWorldQuests "v(*R"
 SET hardTrackedWorldQuests "v"
@@ -11,8 +15,13 @@ SET lockedWorldMap "0"
 SET showPartyPets "1"
 SET cameraSavedDistance "28.500000"
 SET cameraSavedVehicleDistance "43.956036"
+<<<<<<< HEAD
 SET cameraSavedPetBattleDistance "15.000"
 SET cameraSavedPitch "35.347507"
+=======
+SET cameraSavedPetBattleDistance "15.001"
+SET cameraSavedPitch "32.904697"
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 SET nameplateShowFriends "1"
 SET talentPointsSpent "1"
 SET guildRosterView "playerStatus"

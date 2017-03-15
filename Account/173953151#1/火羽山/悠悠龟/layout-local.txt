@@ -1,9 +1,15 @@
 Version: 1
 Frame: DuowanActionBar1
 FrameLevel: 1
+<<<<<<< HEAD
 Anchor: CENTER
 X: 48
 Y: -73
+=======
+Anchor: BOTTOM
+X: -39
+Y: 283
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 W: 40
 H: 40
 Frame: AccountantClassicMoneyInfoFrame
@@ -20,6 +26,37 @@ X: 132
 Y: 111
 W: 232
 H: 100
+<<<<<<< HEAD
+=======
+Frame: LootFrame
+FrameLevel: 1
+Anchor: BOTTOM
+X: 271
+Y: 110
+W: 170
+H: 240
+Frame: FriendsFrame
+FrameLevel: 1
+Anchor: TOPLEFT
+X: 16
+Y: -116
+W: 338
+H: 424
+Frame: RematchDialog
+FrameLevel: 1
+Anchor: BOTTOM
+X: -88
+Y: 98
+W: 420
+H: 200
+Frame: RematchPetCard
+FrameLevel: 1
+Anchor: TOP
+X: -232
+Y: -47
+W: 260
+H: 428
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: WhisperPopFrame
 FrameLevel: 1
 Anchor: LEFT
@@ -41,6 +78,7 @@ X: -196
 Y: -170
 W: 31
 H: 31
+<<<<<<< HEAD
 Frame: GossipFrame
 FrameLevel: 1
 Anchor: TOPLEFT
@@ -62,6 +100,8 @@ X: 16
 Y: -116
 W: 338
 H: 424
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: CombuctorFramebank
 FrameLevel: 1
 Anchor: LEFT
@@ -69,6 +109,7 @@ X: 162
 Y: -86
 W: 560
 H: 650
+<<<<<<< HEAD
 Frame: RematchDialog
 FrameLevel: 1
 Anchor: BOTTOM
@@ -76,6 +117,8 @@ X: -87
 Y: 135
 W: 300
 H: 236
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: TomTomCrazyArrow
 FrameLevel: 1
 Anchor: LEFT
@@ -83,6 +126,16 @@ X: 91
 Y: 234
 W: 56
 H: 42
+<<<<<<< HEAD
+=======
+Frame: GossipFrame
+FrameLevel: 1
+Anchor: TOPLEFT
+X: 16
+Y: -116
+W: 338
+H: 496
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: CombuctorFrameinventory
 FrameLevel: 1
 Anchor: BOTTOMRIGHT
@@ -90,6 +143,7 @@ X: -296
 Y: 148
 W: 384
 H: 512
+<<<<<<< HEAD
 Frame: LootFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -97,3 +151,5 @@ X: 104
 Y: 1
 W: 170
 H: 240
+=======
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53

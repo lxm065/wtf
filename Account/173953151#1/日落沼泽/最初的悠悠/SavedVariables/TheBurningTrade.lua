@@ -10,8 +10,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			{
 				["name"] = "裂魂胸甲",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["isUsable"] = 1,
 				["itemLink"] = "|cff0070dd|Hitem:82821:0:0:0:0:0:0:1062388608:90:0:451|h[裂魂胸甲]|h|r",
+=======
+				["itemLink"] = "|cff0070dd|Hitem:82821:0:0:0:0:0:0:1062388608:90:0:451|h[裂魂胸甲]|h|r",
+				["isUsable"] = 1,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\Icons\\inv_chest_plate_dungeonplate_c_07",
 			}, -- [1]
 		},
@@ -84,8 +89,13 @@ DuowanAddon_TradeLog_TradesHistory = {
 			[6] = {
 				["name"] = "石化南瓜指环",
 				["numItems"] = 1,
+<<<<<<< HEAD
 				["isUsable"] = true,
 				["itemLink"] = "|cffa335ee|Hitem:117363:0:0:0:0:0:0:0:90:0:1:1:573|h[石化南瓜指环]|h|r",
+=======
+				["itemLink"] = "|cffa335ee|Hitem:117363:0:0:0:0:0:0:0:90:0:1:1:573|h[石化南瓜指环]|h|r",
+				["isUsable"] = true,
+>>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["texture"] = "Interface\\ICONS\\INV_Misc_Bag_28_Halloween.blp",
 			},
 		},
