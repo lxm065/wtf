@@ -29,12 +29,7 @@ SET addFriendInfoShown "1"
 SET pendingInviteInfoShown "1"
 SET petJournalFilters ""
 SET petJournalSort "1"
-<<<<<<< HEAD
-SET petJournalTab "5"
-SET advJournalLastOpened "1489497345"
-=======
 SET petJournalTab "2"
-SET advJournalLastOpened "1489403548"
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+SET advJournalLastOpened "1489667548"
 SET seenAsiaCharacterUpgradePopup "1"
 SET AllowDangerousScripts "1"

@@ -1,15 +1,15 @@
-VER 3 000000000000005F "BF_Mount" "132226"
-/bfmount
-END
-VER 3 000000000000004C "BF_Mount" "132226"
-/run C_BlackMarket.RequestItems()N=C_BlackMarket.GetNumItems()for i=1,N do M=select(1, C_BlackMarket.GetItemInfoByIndex(i))D=select(16, C_BlackMarket.GetItemInfoByIndex(i))if M=="迅捷祖利安猛虎" then C_BlackMarket.ItemPlaceBid(D, 9530000000)end end
-END
 VER 3 000000000000004D "BF_Mount" "132226"
 /click HelpFrameCharacterStuckStuck
 END
 VER 3 0000000000000048 "BF_Mount" "INV_GIZMO_ROCKETLAUNCHER"
 /script SetRaidTarget("mouseover",2)
 /click ExtraActionButton1
+END
+VER 3 000000000000005F "BF_Mount" "132226"
+/bfmount
+END
+VER 3 000000000000004C "BF_Mount" "132226"
+/run C_BlackMarket.RequestItems()N=C_BlackMarket.GetNumItems()for i=1,N do M=select(1, C_BlackMarket.GetItemInfoByIndex(i))D=select(16, C_BlackMarket.GetItemInfoByIndex(i))if M=="迅捷祖利安猛虎" then C_BlackMarket.ItemPlaceBid(D, 9530000000)end end
 END
 VER 3 000000000000002A "BF_Pet" "236701"
 /tar 布尔吉·黑心

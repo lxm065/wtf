@@ -6,13 +6,9 @@ SET trackedWorldQuests "v"
 SET hardTrackedWorldQuests "v"
 SET trackedAchievements "v"
 SET showPartyPets "1"
-SET cameraSavedDistance "28.500000"
+SET cameraSavedDistance "28.480040"
 SET cameraSavedPetBattleDistance "15.000"
-<<<<<<< HEAD
-SET cameraSavedPitch "18.798893"
-=======
-SET cameraSavedPitch "21.499950"
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+SET cameraSavedPitch "17.141373"
 SET talentPointsSpent "1"
 SET currencyCategoriesCollapsed "v"
 SET lfgSelectedRoles "11"

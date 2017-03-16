@@ -48,39 +48,14 @@ EquipSwitcherDB = {
 		["帅帅爹 - 末日祷告祭坛"] = "Default",
 		["悠悠蛋 - 晴日峰 (江苏)"] = "Default",
 		["猴赛雷杀猪刀 - 火羽山"] = "Default",
-<<<<<<< HEAD
-		["兮兮妹 - 末日祷告祭坛"] = "Default",
-		["悠悠龟 - 暗影裂口"] = "Default",
-		["杀猪刀猴赛雷 - 火羽山"] = "Default",
-		["赞达拉使者 - 火羽山"] = "Default",
-=======
 		["厦门妇幼 - 末日祷告祭坛"] = "Default",
 		["悠悠龟 - 暗影裂口"] = "Default",
 		["杀猪刀猴赛雷 - 火羽山"] = "Default",
 		["最后的悠悠 - 火羽山"] = "Default",
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["猪猪一号 - 安东尼达斯"] = "Default",
 		["弹弹堂一号 - 迦拉克隆"] = "Default",
 		["最初的悠悠 - 日落沼泽"] = "Default",
 		["弹弹堂一号 - 安东尼达斯"] = "Default",
-<<<<<<< HEAD
-		["沃的悠悠龟 - 沃金"] = "Default",
-		["弹弹堂三号 - 亚雷戈斯"] = "Default",
-		["Ddtq - 凤凰之神"] = "Default",
-		["小学生放假了 - 火羽山"] = "Default",
-		["悠悠骑 - 末日祷告祭坛"] = "Default",
-		["猛牛悠悠乳 - 火羽山"] = "Default",
-		["悠悠龟 - 刀塔"] = "Default",
-		["涨姿势 - 火羽山"] = "Default",
-		["云飞 - 迦罗娜"] = "Default",
-		["悠悠兔 -  辛达苟萨"] = "Default",
-		["Ggwdtx - 洛肯"] = "Default",
-		["亦可赛艇 - 迦罗娜"] = "Default",
-		["悠悠龟 - 天谴之门"] = "Default",
-		["最后的悠悠 - 火羽山"] = "Default",
-		["悠悠龟 - 迦罗娜"] = "Default",
-		["厦门妇幼 - 末日祷告祭坛"] = "Default",
-=======
 		["悠悠龟 - 天谴之门"] = "Default",
 		["亦可赛艇 - 迦罗娜"] = "Default",
 		["Ggwdtx - 洛肯"] = "Default",
@@ -97,7 +72,6 @@ EquipSwitcherDB = {
 		["赞达拉使者 - 火羽山"] = "Default",
 		["悠悠龟 - 迦罗娜"] = "Default",
 		["兮兮妹 - 末日祷告祭坛"] = "Default",
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	},
 	["profiles"] = {
 		["Default"] = {

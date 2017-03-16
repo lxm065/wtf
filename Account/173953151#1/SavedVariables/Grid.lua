@@ -27,67 +27,6 @@ GridDB = {
 			["profiles"] = {
 				["Default"] = {
 					["colors"] = {
-<<<<<<< HEAD
-						["HUNTER"] = {
-							["r"] = 0.67,
-							["g"] = 0.83,
-							["b"] = 0.45,
-						},
-						["SHAMAN"] = {
-							["r"] = 0,
-							["g"] = 0.44,
-							["b"] = 0.87,
-						},
-						["MAGE"] = {
-							["r"] = 0.41,
-							["g"] = 0.8,
-							["b"] = 0.94,
-						},
-						["DRUID"] = {
-							["r"] = 1,
-							["g"] = 0.49,
-							["b"] = 0.04,
-						},
-						["MONK"] = {
-							["b"] = 0.59,
-							["g"] = 1,
-							["r"] = 0,
-						},
-						["DEATHKNIGHT"] = {
-							["r"] = 0.77,
-							["g"] = 0.12,
-							["b"] = 0.23,
-						},
-						["PRIEST"] = {
-							["r"] = 1,
-							["g"] = 1,
-							["b"] = 1,
-						},
-						["WARRIOR"] = {
-							["r"] = 0.78,
-							["g"] = 0.61,
-							["b"] = 0.43,
-						},
-						["WARLOCK"] = {
-							["r"] = 0.58,
-							["g"] = 0.51,
-							["b"] = 0.79,
-						},
-						["DEMONHUNTER"] = {
-							["b"] = 0.79,
-							["g"] = 0.19,
-							["r"] = 0.64,
-						},
-						["PALADIN"] = {
-							["r"] = 0.96,
-							["g"] = 0.55,
-							["b"] = 0.73,
-						},
-						["ROGUE"] = {
-							["r"] = 1,
-							["g"] = 0.96,
-							["b"] = 0.41,
-=======
 						["PALADIN"] = {
 							["b"] = 0.73,
 							["g"] = 0.55,
@@ -147,7 +86,6 @@ GridDB = {
 							["b"] = 0.41,
 							["g"] = 0.96,
 							["r"] = 1,
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 						},
 					},
 				},
@@ -169,71 +107,21 @@ GridDB = {
 		},
 		["GridStatusName"] = {
 		},
-<<<<<<< HEAD
-		["GridStatusAuras"] = {
-			["profiles"] = {
-				["Default"] = {
-					["buff_作茧缚命"] = {
-						["icon"] = "Interface\\Icons\\ability_monk_chicocoon",
-					},
-					["buff_恢复"] = {
-						["icon"] = "Interface\\Icons\\Spell_Holy_Renew",
-					},
-					["buff_大地之盾"] = {
-						["icon"] = "Interface\\Icons\\Spell_Nature_StoneSkinTotem",
-					},
-					["buff_生命绽放"] = {
-						["icon"] = "Interface\\Icons\\INV_Misc_Herb_Felblossom",
-					},
-					["buff_真言术：盾"] = {
-						["icon"] = "Interface\\Icons\\Spell_Holy_PowerWordShield",
-					},
-					["buff_愈合祷言"] = {
-						["icon"] = "Interface\\Icons\\Spell_Holy_PrayerOfMendingtga",
-					},
-					["buff_愈合"] = {
-						["icon"] = "Interface\\Icons\\Spell_Nature_ResistNature",
-					},
-					["buff_激流"] = {
-						["icon"] = "Interface\\Icons\\spell_nature_riptide",
-					},
-					["buff_圣光道标"] = {
-						["icon"] = "Interface\\Icons\\Ability_Paladin_BeaconofLight",
-					},
-					["buff_回春术"] = {
-						["icon"] = "Interface\\Icons\\Spell_Nature_Rejuvenation",
-					},
-				},
-			},
-=======
-		["GridBorderStyle"] = {
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
-		},
 		["GridStatusRes"] = {
+		},
+		["GridBorderStyle"] = {
 		},
 		["GridMBStatus"] = {
 		},
-		["GridStatusTarget"] = {
-		},
-		["GridStatusEnemyTarget"] = {
-		},
-<<<<<<< HEAD
-		["GridLayout"] = {
+		["GridStatusRaidDebuff"] = {
 			["profiles"] = {
 				["Default"] = {
-					["anchorRel"] = "TOPLEFT",
-					["PosX"] = 27,
-					["PosY"] = -356,
-					["layout"] = "5人小队",
+					["isFirst"] = false,
 				},
 			},
 		},
-		["GridStatusRole"] = {
+		["GridStatusTarget"] = {
 		},
-		["GridIndicatorSideIcons"] = {
-		},
-		["GridLayoutManager"] = {
-=======
 		["GridBuffIcons"] = {
 		},
 		["GridStatusRole"] = {
@@ -241,11 +129,10 @@ GridDB = {
 		["GridStatusGroup"] = {
 		},
 		["GridStatusMouseover"] = {
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
-		},
-		["GridStatusHots"] = {
 		},
 		["GridCooldownText"] = {
+		},
+		["GridStatusVoiceComm"] = {
 		},
 		["GridFrame"] = {
 			["profiles"] = {
@@ -272,32 +159,16 @@ GridDB = {
 				},
 			},
 		},
-<<<<<<< HEAD
-		["GridStatusThreat"] = {
-		},
-		["GridStatusMana"] = {
-		},
-=======
 		["GridStatusMana"] = {
 		},
 		["GridStatusThreat"] = {
 		},
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["GridStatusSinestra"] = {
 		},
-		["GridStatusVoiceComm"] = {
+		["GridStatusHots"] = {
 		},
 		["GridStatusReadyCheck"] = {
 		},
-<<<<<<< HEAD
-		["GridStatusMouseover"] = {
-		},
-		["GridStatusGroup"] = {
-		},
-		["GridStatusRaidIcon"] = {
-		},
-		["GridBuffIcons"] = {
-=======
 		["GridLayoutManager"] = {
 		},
 		["GridIndicatorSideIcons"] = {
@@ -313,18 +184,9 @@ GridDB = {
 					["layout"] = "5人小队",
 				},
 			},
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		},
-		["GridStatusRaidDebuff"] = {
-			["profiles"] = {
-				["Default"] = {
-					["isFirst"] = false,
-				},
-			},
+		["GridStatusEnemyTarget"] = {
 		},
-<<<<<<< HEAD
-		["GridBorderStyle"] = {
-=======
 		["GridStatusAuras"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -360,7 +222,6 @@ GridDB = {
 					},
 				},
 			},
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		},
 	},
 	["profileKeys"] = {
@@ -374,36 +235,20 @@ GridDB = {
 		["妈蛋 - 末日祷告祭坛"] = "Default",
 		["最初的悠悠 - 日落沼泽"] = "Default",
 		["Bbxl - 迦罗娜"] = "Default",
-<<<<<<< HEAD
-		["悠悠骑 - 末日祷告祭坛"] = "Default",
-		["小学生放假了 - 火羽山"] = "Default",
-		["搞个大新闻 - 迦罗娜"] = "Default",
-		["猛牛悠悠乳 - 火羽山"] = "Default",
-=======
 		["赞达拉使者 - 火羽山"] = "Default",
 		["小学生放假了 - 火羽山"] = "Default",
 		["搞个大新闻 - 迦罗娜"] = "Default",
-		["悠悠骑 - 末日祷告祭坛"] = "Default",
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["猛牛悠悠乳 - 火羽山"] = "Default",
 		["梁帅 - 迦罗娜"] = "Default",
 		["最后的悠悠 - 火羽山"] = "Default",
 		["云飞 - 迦罗娜"] = "Default",
 		["兮兮妹 - 末日祷告祭坛"] = "Default",
-<<<<<<< HEAD
-		["悠悠龟 - 冬拥湖"] = "Default",
+		["杀猪刀猴赛雷 - 火羽山"] = "Default",
 		["打小怪的 - 迦罗娜"] = "Default",
 		["最后的悠悠 - 迦罗娜"] = "Default",
-		["杀猪刀猴赛雷 - 火羽山"] = "Default",
-		["悠悠龟 - 迦罗娜"] = "Default",
-		["赞达拉使者 - 火羽山"] = "Default",
-=======
-		["杀猪刀猴赛雷 - 火羽山"] = "Default",
 		["悠悠龟 - 冬拥湖"] = "Default",
-		["最后的悠悠 - 迦罗娜"] = "Default",
-		["打小怪的 - 迦罗娜"] = "Default",
 		["悠悠龟 - 迦罗娜"] = "Default",
-		["猛牛悠悠乳 - 火羽山"] = "Default",
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["悠悠骑 - 末日祷告祭坛"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

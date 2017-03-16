@@ -27,44 +27,22 @@ QuesterDB = {
 		["悠悠蛋 - 晴日峰 (江苏)"] = "Default",
 		["猴赛雷杀猪刀 - 火羽山"] = "Default",
 		["亦可赛艇 - 迦罗娜"] = "Default",
-<<<<<<< HEAD
-		["厦门妇幼 - 末日祷告祭坛"] = "Default",
-=======
 		["海上五月花 - 火羽山"] = "Default",
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		["杀猪刀猴赛雷 - 火羽山"] = "Default",
 		["最初的悠悠 - 迦罗娜"] = "Default",
 		["悠悠龟 - 天谴之门"] = "Default",
 		["弹弹堂一号 - 迦拉克隆"] = "Default",
 		["最初的悠悠 - 日落沼泽"] = "Default",
-<<<<<<< HEAD
-		["涨姿势 - 火羽山"] = "Default",
-		["最后的悠悠 - 迦罗娜"] = "Default",
-		["最后的悠悠 - 火羽山"] = "Default",
-		["弹弹堂一号 - 霜之哀伤"] = "Default",
-		["悠悠龟 - 白银之手"] = "Default",
-		["Ggwdtx - 洛肯"] = "Default",
-=======
 		["Bbxl - 迦罗娜"] = "Default",
 		["悠悠龟 - 埃霍恩"] = "Default",
 		["最后的悠悠 - 火羽山"] = "Default",
-		["猛牛悠悠乳 - 火羽山"] = "Default",
+		["悠悠骑 - 末日祷告祭坛"] = "Default",
 		["悠悠龟 - 白银之手"] = "Default",
 		["兮兮妹 - 末日祷告祭坛"] = "Default",
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
-		["悠悠骑 - 末日祷告祭坛"] = "Default",
+		["猛牛悠悠乳 - 火羽山"] = "Default",
 		["赞达拉使者 - 火羽山"] = "Default",
 		["悠悠龟 - 火羽山"] = "Default",
 		["云飞 - 迦罗娜"] = "Default",
-<<<<<<< HEAD
-		["兮兮妹 - 末日祷告祭坛"] = "Default",
-		["猛牛悠悠乳 - 火羽山"] = "Default",
-		["打小怪的 - 迦罗娜"] = "Default",
-		["悠悠龟 - 埃霍恩"] = "Default",
-		["Bbxl - 迦罗娜"] = "Default",
-		["悠悠龟 - 迦罗娜"] = "Default",
-		["海上五月花 - 火羽山"] = "Default",
-=======
 		["Ggwdtx - 洛肯"] = "Default",
 		["弹弹堂一号 - 霜之哀伤"] = "Default",
 		["打小怪的 - 迦罗娜"] = "Default",
@@ -72,7 +50,6 @@ QuesterDB = {
 		["涨姿势 - 火羽山"] = "Default",
 		["悠悠龟 - 迦罗娜"] = "Default",
 		["厦门妇幼 - 末日祷告祭坛"] = "Default",
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	},
 	["profiles"] = {
 		["Default"] = {

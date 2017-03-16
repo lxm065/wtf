@@ -13,6 +13,13 @@ X: 21
 Y: -91
 W: 165
 H: 262
+Frame: _NPCScanButton
+FrameLevel: 1
+Anchor: TOP
+X: 0
+Y: -90
+W: 150
+H: 42
 Frame: DBMMinimapButton
 FrameLevel: 8
 Anchor: TOPRIGHT
@@ -27,10 +34,3 @@ X: 294
 Y: 107
 W: 345
 H: 480
-Frame: _NPCScanButton
-FrameLevel: 1
-Anchor: TOP
-X: 0
-Y: -90
-W: 150
-H: 42

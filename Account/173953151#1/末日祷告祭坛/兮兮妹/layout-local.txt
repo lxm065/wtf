@@ -37,14 +37,10 @@ H: 31
 Frame: RematchDialog
 FrameLevel: 1
 Anchor: BOTTOM
-<<<<<<< HEAD
-X: -87
-=======
-X: -88
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
-Y: 98
+X: 115
+Y: 200
 W: 300
-H: 310
+H: 236
 Frame: CombuctorFrameinventory
 FrameLevel: 1
 Anchor: RIGHT
@@ -52,13 +48,3 @@ X: -100
 Y: 23
 W: 345
 H: 480
-<<<<<<< HEAD
-=======
-Frame: CollectionsJournal
-FrameLevel: 1
-Anchor: LEFT
-X: 78
-Y: 78
-W: 703
-H: 606
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53

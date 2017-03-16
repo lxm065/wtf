@@ -1,15 +1,15 @@
 
 GridClickSetsForTalents = {
-	[2] = {
+	[0] = {
 		["1"] = {
 			["ctrl-"] = {
 				["type"] = "spellId:53563",
 			},
 			["shift-"] = {
-				["type"] = "spellId:639",
+				["type"] = "spellId:82326",
 			},
 			["alt-ctrl-"] = {
-				["type"] = "spellId:7328",
+				["type"] = "spellId:212056",
 			},
 			["alt-"] = {
 				["type"] = "spellId:19750",
@@ -17,26 +17,17 @@ GridClickSetsForTalents = {
 		},
 		["3"] = {
 			[""] = {
-				["type"] = "spellId:31789",
+				["type"] = "spellId:6940",
 			},
 			["alt-"] = {
-				["type"] = "spellId:20217",
-			},
-<<<<<<< HEAD
-			["ctrl-"] = {
-				["type"] = "spellId:19740",
-			},
-			["shift-"] = {
-				["type"] = "spellId:20911",
-			},
-=======
-			["shift-"] = {
-				["type"] = "spellId:20911",
+				["type"] = "spellId:203538",
 			},
 			["ctrl-"] = {
-				["type"] = "spellId:19740",
+				["type"] = "spellId:203528",
 			},
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+			["shift-"] = {
+				["type"] = "spellId:203539",
+			},
 		},
 		["2"] = {
 			[""] = {
@@ -52,7 +43,7 @@ GridClickSetsForTalents = {
 				["type"] = "spellId:633",
 			},
 			["ctrl-"] = {
-				["type"] = "spellId:4987",
+				["type"] = "spellId:213644",
 			},
 		},
 		["5"] = {
@@ -64,16 +55,16 @@ GridClickSetsForTalents = {
 		["6"] = {
 		},
 	},
-	[3] = {
+	[2] = {
 		["1"] = {
 			["ctrl-"] = {
 				["type"] = "spellId:53563",
 			},
 			["shift-"] = {
-				["type"] = "spellId:639",
+				["type"] = "spellId:82326",
 			},
 			["alt-ctrl-"] = {
-				["type"] = "spellId:7328",
+				["type"] = "spellId:212056",
 			},
 			["alt-"] = {
 				["type"] = "spellId:19750",
@@ -81,26 +72,17 @@ GridClickSetsForTalents = {
 		},
 		["3"] = {
 			[""] = {
-				["type"] = "spellId:31789",
+				["type"] = "spellId:6940",
 			},
 			["alt-"] = {
-				["type"] = "spellId:20217",
-			},
-<<<<<<< HEAD
-			["shift-"] = {
-				["type"] = "spellId:20911",
+				["type"] = "spellId:203538",
 			},
 			["ctrl-"] = {
-				["type"] = "spellId:19740",
-			},
-=======
-			["ctrl-"] = {
-				["type"] = "spellId:19740",
+				["type"] = "spellId:203528",
 			},
 			["shift-"] = {
-				["type"] = "spellId:20911",
+				["type"] = "spellId:203539",
 			},
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 		},
 		["2"] = {
 			[""] = {
@@ -116,7 +98,7 @@ GridClickSetsForTalents = {
 				["type"] = "spellId:633",
 			},
 			["ctrl-"] = {
-				["type"] = "spellId:4987",
+				["type"] = "spellId:213644",
 			},
 		},
 		["5"] = {

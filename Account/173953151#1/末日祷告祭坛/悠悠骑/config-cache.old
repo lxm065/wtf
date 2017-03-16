@@ -7,11 +7,7 @@ SET hardTrackedWorldQuests "v"
 SET trackedAchievements "v"
 SET cameraSavedDistance "28.500000"
 SET cameraSavedPetBattleDistance "15.000"
-<<<<<<< HEAD
-SET cameraSavedPitch "26.012230"
-=======
-SET cameraSavedPitch "30.383148"
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+SET cameraSavedPitch "43.432751"
 SET nameplateShowFriends "1"
 SET talentPointsSpent "1"
 SET currencyCategoriesCollapsed "v"

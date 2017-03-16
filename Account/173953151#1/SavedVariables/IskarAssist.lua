@@ -27,17 +27,6 @@ IskarAssistDB = {
 		["亦可赛艇 - 迦罗娜"] = "Default",
 		["悠悠龟 - 火羽山"] = "Default",
 		["悠悠龟 - 天谴之门"] = "Default",
-<<<<<<< HEAD
-		["杀猪刀猴赛雷 - 火羽山"] = "Default",
-		["最初的悠悠 - 日落沼泽"] = "Default",
-		["海上五月花 - 火羽山"] = "Default",
-		["最初的悠悠 - 迦罗娜"] = "Default",
-		["Bbxl - 迦罗娜"] = "Default",
-		["最后的悠悠 - 火羽山"] = "Default",
-		["悠悠龟 - 白银之手"] = "Default",
-		["悠悠骑 - 末日祷告祭坛"] = "Default",
-		["猛牛悠悠乳 - 火羽山"] = "Default",
-=======
 		["厦门妇幼 - 末日祷告祭坛"] = "Default",
 		["最初的悠悠 - 日落沼泽"] = "Default",
 		["海上五月花 - 火羽山"] = "Default",
@@ -46,43 +35,26 @@ IskarAssistDB = {
 		["最后的悠悠 - 火羽山"] = "Default",
 		["悠悠龟 - 白银之手"] = "Default",
 		["猴赛雷杀猪刀 - 火羽山"] = "Default",
-		["悠悠骑 - 末日祷告祭坛"] = "Default",
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+		["猛牛悠悠乳 - 火羽山"] = "Default",
 		["悠悠蛋 - 晴日峰 (江苏)"] = "Default",
 		["弹弹堂一号 - 霜之哀伤"] = "Default",
 		["云飞 - 迦罗娜"] = "Default",
 		["兮兮妹 - 末日祷告祭坛"] = "Default",
-<<<<<<< HEAD
-		["猴赛雷杀猪刀 - 火羽山"] = "Default",
-		["打小怪的 - 迦罗娜"] = "Default",
-		["涨姿势 - 火羽山"] = "Default",
-		["赞达拉使者 - 火羽山"] = "Default",
-		["悠悠龟 - 迦罗娜"] = "Default",
-		["厦门妇幼 - 末日祷告祭坛"] = "Default",
-=======
-		["猛牛悠悠乳 - 火羽山"] = "Default",
+		["悠悠骑 - 末日祷告祭坛"] = "Default",
 		["打小怪的 - 迦罗娜"] = "Default",
 		["Bbxl - 迦罗娜"] = "Default",
 		["最初的悠悠 - 迦罗娜"] = "Default",
 		["悠悠龟 - 迦罗娜"] = "Default",
 		["杀猪刀猴赛雷 - 火羽山"] = "Default",
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 	},
 	["profiles"] = {
 		["Default"] = {
 			["MainPanel"] = {
-<<<<<<< HEAD
-=======
 				["IsLocked"] = false,
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 				["position"] = {
 					["y"] = -297.913482666016,
 					["x"] = 320.924743652344,
 				},
-<<<<<<< HEAD
-				["IsLocked"] = false,
-=======
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 			},
 		},
 	},
