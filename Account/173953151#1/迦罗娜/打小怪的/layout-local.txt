@@ -1,25 +1,11 @@
 Version: 1
-Frame: GridLayoutFrame
-FrameLevel: 0
-Anchor: LEFT
-X: 62
-Y: -61
-W: 72
-H: 68
-Frame: DuowanActionBar1
-FrameLevel: 1
-Anchor: CENTER
-X: 159
-Y: -68
-W: 40
-H: 40
 Frame: AccountantClassicMoneyInfoFrame
 FrameLevel: 1
 Anchor: LEFT
 X: 0
 Y: 154
-W: 160
-H: 28
+W: 127
+H: 21
 Frame: LootFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -34,16 +20,6 @@ X: 20
 Y: -114
 W: 165
 H: 262
-<<<<<<< HEAD
-Frame: DBMMinimapButton
-FrameLevel: 8
-Anchor: TOPRIGHT
-X: -210
-Y: -163
-W: 31
-H: 31
-=======
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: _NPCScanButton
 FrameLevel: 1
 Anchor: TOP
@@ -51,8 +27,6 @@ X: 0
 Y: -90
 W: 150
 H: 42
-<<<<<<< HEAD
-=======
 Frame: DBMMinimapButton
 FrameLevel: 8
 Anchor: TOPRIGHT
@@ -60,7 +34,6 @@ X: -210
 Y: -163
 W: 31
 H: 31
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: CombuctorFrameinventory
 FrameLevel: 1
 Anchor: RIGHT
@@ -68,3 +41,10 @@ X: -178
 Y: 142
 W: 345
 H: 480
+Frame: RematchPetCard
+FrameLevel: 1
+Anchor: CENTER
+X: -212
+Y: -39
+W: 260
+H: 416

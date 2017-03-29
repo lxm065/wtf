@@ -1,6 +1,14 @@
 
 AtlasLootCharDB = {
-	["__addonrevision"] = 4318,
+	["MiniMapButton"] = {
+		["point"] = {
+			"CENTER", -- [1]
+			nil, -- [2]
+			"CENTER", -- [3]
+			-65.3499976009129, -- [4]
+			-38.7999986886977, -- [5]
+		},
+	},
 	["QuickLootFrame"] = {
 		["point"] = {
 			"TOPRIGHT", -- [1]
@@ -10,13 +18,10 @@ AtlasLootCharDB = {
 			-230.016989112913, -- [5]
 		},
 	},
-	["MiniMapButton"] = {
-		["point"] = {
-			"CENTER", -- [1]
-			nil, -- [2]
-			"CENTER", -- [3]
-			-65.3499976009129, -- [4]
-			-38.7999986886977, -- [5]
+	["__addonrevision"] = 4318,
+	["GUI"] = {
+		["selected"] = {
+			[5] = 0,
 		},
 	},
 }

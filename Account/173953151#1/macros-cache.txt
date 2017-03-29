@@ -1,6 +1,3 @@
-VER 3 000000000000004D "BF_Mount" "132226"
-/click HelpFrameCharacterStuckStuck
-END
 VER 3 0000000000000048 "BF_Mount" "INV_GIZMO_ROCKETLAUNCHER"
 /script SetRaidTarget("mouseover",2)
 /click ExtraActionButton1
@@ -10,6 +7,9 @@ VER 3 000000000000005F "BF_Mount" "132226"
 END
 VER 3 000000000000004C "BF_Mount" "132226"
 /run C_BlackMarket.RequestItems()N=C_BlackMarket.GetNumItems()for i=1,N do M=select(1, C_BlackMarket.GetItemInfoByIndex(i))D=select(16, C_BlackMarket.GetItemInfoByIndex(i))if M=="迅捷祖利安猛虎" then C_BlackMarket.ItemPlaceBid(D, 9530000000)end end
+END
+VER 3 000000000000004D "BF_Mount" "132226"
+/click HelpFrameCharacterStuckStuck
 END
 VER 3 000000000000002A "BF_Pet" "236701"
 /tar 布尔吉·黑心
@@ -194,12 +194,13 @@ VER 3 000000000000004B "宠物自动2" "SPELL_SHADOW_TELEPORT"
 /target 萨拉
 /script SelectGossipOption(1)
 END
+VER 3 0000000000000019 "急速手" "INV_MISC_QUESTIONMARK"
+/tar 斯奎特
+/tar 埃利亚诺
+END
 VER 3 000000000000005C "急速手" "998425"
 /tar 瑞迪尔
 /script SelectGossipOption(1)
-END
-VER 3 0000000000000019 "急速手" "INV_MISC_QUESTIONMARK"
-/tar 斯奎特
 END
 VER 3 0000000000000030 "手" "998425"
 /use 10
@@ -211,11 +212,6 @@ VER 3 000000000000000A "无敌牺牲" "INV_Misc_QuestionMark"
 /cast 圣盾术
 /cast 神圣牺牲
 END
-VER 3 0000000000000017 "武器" "INV_SWORD_27"
-#show 致死打击
-/cast 战吼
-/cast 致死打击
-END
 VER 3 0000000000000046 "武器" "INV_Misc_QuestionMark"
 #showtooltip 致死打击
 /startattack
@@ -223,6 +219,11 @@ VER 3 0000000000000046 "武器" "INV_Misc_QuestionMark"
 /equip  恶毒角斗士的巨剑
 /cast 致死打击
 /startattack 
+END
+VER 3 0000000000000017 "武器" "INV_SWORD_27"
+#show 致死打击
+/cast 战吼
+/cast 致死打击
 END
 VER 3 0000000000000020 "盾牌猛击" "ABILITY_WARRIOR_DEFENSIVESTANCE"
 #showtooltip 盾牌猛击 
@@ -242,13 +243,13 @@ VER 3 0000000000000015 "盾牌猛击" "ABILITY_WARRIOR_DEFENSIVESTANCE"
 /castsequence reset=0 0,复仇,0,0,0 
 /castsequence reset=0 盾牌猛击,0,0,0,0
 END
-VER 3 000000000000001F "研磨" "INV_MISC_QUESTIONMARK"
-/CAST 研磨
-/use 绿茶叶
-END
 VER 3 0000000000000021 "研磨" "INV_MISC_QUESTIONMARK"
 /CAST 研磨
 /use 雪百合
+END
+VER 3 000000000000001F "研磨" "INV_MISC_QUESTIONMARK"
+/CAST 研磨
+/use 绿茶叶
 END
 VER 3 000000000000000B "破釜沉船" "Ability_Warrior_StrengthOfArms"
 /cast 破釜沉舟
@@ -297,11 +298,11 @@ VER 3 000000000000005D "鸟" "294469"
 /y 出来吧，我的大鸟~
 /use 迅捷红色狮鹫
 END
-VER 3 0000000000000008 "龙" "Ability_Mount_Drake_Bronze"
-/y 出来吧，我的小龙女~
-/cast 青铜幼龙
-END
 VER 3 000000000000005E "龙" "643856"
 /tar  掠龙座狼
 /cast 阳炎术
+END
+VER 3 0000000000000008 "龙" "Ability_Mount_Drake_Bronze"
+/y 出来吧，我的小龙女~
+/cast 青铜幼龙
 END

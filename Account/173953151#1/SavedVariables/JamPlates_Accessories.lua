@@ -18,13 +18,13 @@ JamPlatesAccessoriesDB = {
 			["anchor"] = "RIGHT",
 		},
 		["threat"] = {
-			["y"] = 10,
-			["x"] = -1,
 			["enabled"] = false,
-			["height"] = 32,
+			["x"] = -1,
+			["y"] = 10,
 			["scale"] = 1,
-			["relative"] = "BOTTOMRIGHT",
 			["anchor"] = "LEFT",
+			["relative"] = "BOTTOMRIGHT",
+			["height"] = 32,
 			["width"] = 32,
 		},
 		["name"] = "弹弹堂一号",
@@ -35,7 +35,7 @@ JamPlatesAccessoriesDB = {
 			["scale"] = 1,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 			["y"] = 0,
 			["x"] = 0,
 			["anchor"] = "BOTTOMLEFT",
@@ -44,27 +44,27 @@ JamPlatesAccessoriesDB = {
 			["ShowBorder"] = true,
 			["height"] = 17,
 			["invert"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 		},
 		["id"] = "Player-877-03F5BA46",
 		["cp"] = {
-			["y"] = -2,
-			["x"] = 0,
 			["enabled"] = true,
-			["height"] = 16,
+			["x"] = 0,
+			["y"] = -2,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "CENTER",
+			["relative"] = "BOTTOM",
+			["height"] = 16,
 			["width"] = 12,
 		},
 		["combat"] = {
-			["y"] = -4,
-			["x"] = 0,
 			["enabled"] = true,
-			["height"] = 25,
+			["x"] = 0,
+			["y"] = -4,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "BOTTOM",
+			["relative"] = "BOTTOM",
+			["height"] = 25,
 			["width"] = 25,
 		},
 	},
@@ -73,16 +73,16 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 			["direction"] = true,
 			["scale"] = 1,
-			["showHostileBuff"] = true,
+			["showPlayerBuff"] = true,
 			["showFriendlyDebuff"] = true,
 			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
 			["ShowBorder"] = true,
 			["showTime"] = true,
-			["anchor"] = "RIGHT",
+			["xOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["xOffset"] = 0,
+			["yOffset"] = 14,
 			["showDefaultTime"] = false,
 			["ShowPet"] = true,
 			["relative"] = "LEFT",
@@ -95,8 +95,8 @@ JamPlatesAccessoriesDB = {
 			},
 			["showFriendlyBuff"] = true,
 			["showHostileDebuff"] = true,
-			["showPlayerBuff"] = true,
-			["yOffset"] = 14,
+			["showHostileBuff"] = true,
+			["anchor"] = "RIGHT",
 		},
 		["threat"] = {
 			["y"] = 10,
@@ -112,33 +112,33 @@ JamPlatesAccessoriesDB = {
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["xOffset"] = -5,
-			["showHostileBuff"] = false,
+			["scale"] = 1,
+			["showPlayerBuff"] = true,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
-			["yOffset"] = 0,
+			["xOffset"] = -5,
 			["showPlayerDebuff"] = true,
-			["anchor"] = "BOTTOMLEFT",
-			["invert"] = false,
+			["ShowBorder"] = true,
 			["showTime"] = true,
-			["showPlayerBuff"] = true,
+			["invert"] = false,
+			["yOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["showFriendlyBuff"] = false,
+			["height"] = 17,
 			["showDefaultTime"] = false,
-			["y"] = 0,
+			["ShowPet"] = true,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
-			["showHostileDebuff"] = false,
+			["width"] = 17,
+			["y"] = 0,
 			["x"] = 0,
-			["defaultEnabled"] = false,
+			["showHostileDebuff"] = false,
 			["filter"] = {
 			},
-			["height"] = 17,
-			["width"] = 17,
-			["scale"] = 1,
-			["ShowBorder"] = true,
+			["showFriendlyBuff"] = false,
+			["defaultEnabled"] = false,
+			["showHostileBuff"] = false,
+			["anchor"] = "BOTTOMLEFT",
 		},
 		["id"] = "Player-810-032DAB27",
 		["combat"] = {
@@ -167,43 +167,43 @@ JamPlatesAccessoriesDB = {
 			["scale"] = 1,
 			["showHostileBuff"] = true,
 			["showFriendlyDebuff"] = true,
-			["yOffset"] = 14,
+			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
 			["ShowBorder"] = true,
 			["showTime"] = true,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["anchor"] = "TOPRIGHT",
-			["showDefaultTime"] = false,
 			["xOffset"] = 0,
+			["showDefaultTime"] = false,
+			["yOffset"] = 14,
 			["relative"] = "LEFT",
 			["growth"] = false,
 			["width"] = 17,
-			["y"] = 0,
+			["showHostileDebuff"] = true,
 			["x"] = 0,
-			["showPetDebuff"] = true,
+			["anchor"] = "TOPRIGHT",
 			["filter"] = {
 			},
-			["height"] = 17,
 			["showFriendlyBuff"] = true,
-			["showHostileDebuff"] = true,
+			["height"] = 17,
+			["y"] = 0,
 			["showPlayerBuff"] = true,
 		},
 		["threat"] = {
-			["y"] = 10,
-			["x"] = -1,
 			["enabled"] = false,
-			["anchor"] = "LEFT",
+			["x"] = -1,
+			["y"] = 10,
 			["height"] = 32,
-			["relative"] = "BOTTOMRIGHT",
 			["scale"] = 1,
+			["relative"] = "BOTTOMRIGHT",
+			["anchor"] = "LEFT",
 			["width"] = 32,
 		},
 		["name"] = "兮兮妹",
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["xOffset"] = -5,
+			["scale"] = 1,
 			["showHostileBuff"] = false,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
@@ -213,31 +213,31 @@ JamPlatesAccessoriesDB = {
 			["yOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["showPlayerBuff"] = true,
+			["xOffset"] = -5,
 			["showDefaultTime"] = false,
-			["y"] = 0,
+			["showPlayerBuff"] = true,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
 			["defaultEnabled"] = false,
-			["showHostileDebuff"] = false,
+			["y"] = 0,
 			["x"] = 0,
-			["showFriendlyBuff"] = false,
+			["height"] = 17,
 			["filter"] = {
 			},
-			["height"] = 17,
+			["showFriendlyBuff"] = false,
+			["showHostileDebuff"] = false,
 			["width"] = 17,
-			["scale"] = 1,
 			["ShowBorder"] = true,
 		},
 		["id"] = "Player-810-033D7EA1",
 		["combat"] = {
-			["y"] = 0,
-			["x"] = 0,
 			["enabled"] = true,
-			["anchor"] = "LEFT",
+			["x"] = 0,
+			["y"] = 0,
 			["height"] = 25,
-			["relative"] = "RIGHT",
 			["scale"] = 1,
+			["relative"] = "RIGHT",
+			["anchor"] = "LEFT",
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -267,13 +267,13 @@ JamPlatesAccessoriesDB = {
 			["anchor"] = "RIGHT",
 		},
 		["threat"] = {
-			["enabled"] = false,
-			["x"] = -1,
 			["y"] = 10,
-			["anchor"] = "LEFT",
+			["x"] = -1,
+			["enabled"] = false,
 			["height"] = 32,
-			["relative"] = "BOTTOMRIGHT",
 			["scale"] = 1,
+			["relative"] = "BOTTOMRIGHT",
+			["anchor"] = "LEFT",
 			["width"] = 32,
 		},
 		["name"] = "临时工四号",
@@ -284,7 +284,7 @@ JamPlatesAccessoriesDB = {
 			["scale"] = 1,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 			["y"] = 0,
 			["x"] = 0,
 			["anchor"] = "BOTTOMLEFT",
@@ -293,27 +293,27 @@ JamPlatesAccessoriesDB = {
 			["ShowBorder"] = true,
 			["height"] = 17,
 			["invert"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 		},
 		["id"] = "Player-810-0221048D",
 		["cp"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -2,
-			["anchor"] = "CENTER",
+			["x"] = 0,
+			["enabled"] = true,
 			["height"] = 16,
-			["relative"] = "BOTTOM",
 			["scale"] = 1,
+			["relative"] = "BOTTOM",
+			["anchor"] = "CENTER",
 			["width"] = 12,
 		},
 		["combat"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -4,
-			["anchor"] = "BOTTOM",
+			["x"] = 0,
+			["enabled"] = true,
 			["height"] = 25,
-			["relative"] = "BOTTOM",
 			["scale"] = 1,
+			["relative"] = "BOTTOM",
+			["anchor"] = "BOTTOM",
 			["width"] = 25,
 		},
 	},
@@ -335,24 +335,24 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 		},
 		["threat"] = {
-			["y"] = 10,
-			["x"] = -1,
 			["enabled"] = false,
-			["scale"] = 1,
+			["x"] = -1,
+			["y"] = 10,
 			["anchor"] = "LEFT",
-			["relative"] = "BOTTOMRIGHT",
 			["height"] = 32,
+			["relative"] = "BOTTOMRIGHT",
+			["scale"] = 1,
 			["width"] = 32,
 		},
 		["name"] = "那总二号",
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 			["scale"] = 1,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["y"] = 0,
 			["x"] = 0,
 			["ShowBorder"] = true,
@@ -365,23 +365,23 @@ JamPlatesAccessoriesDB = {
 		},
 		["id"] = "Player-810-031E6BDE",
 		["cp"] = {
-			["y"] = -2,
-			["x"] = 0,
 			["enabled"] = true,
-			["scale"] = 1,
+			["x"] = 0,
+			["y"] = -2,
 			["anchor"] = "CENTER",
-			["relative"] = "BOTTOM",
 			["height"] = 16,
+			["relative"] = "BOTTOM",
+			["scale"] = 1,
 			["width"] = 12,
 		},
 		["combat"] = {
-			["y"] = -4,
-			["x"] = 0,
 			["enabled"] = true,
-			["scale"] = 1,
+			["x"] = 0,
+			["y"] = -4,
 			["anchor"] = "BOTTOM",
-			["relative"] = "BOTTOM",
 			["height"] = 25,
+			["relative"] = "BOTTOM",
+			["scale"] = 1,
 			["width"] = 25,
 		},
 	},
@@ -403,13 +403,13 @@ JamPlatesAccessoriesDB = {
 			["anchor"] = "RIGHT",
 		},
 		["threat"] = {
-			["enabled"] = false,
-			["x"] = -1,
 			["y"] = 10,
-			["anchor"] = "LEFT",
+			["x"] = -1,
+			["enabled"] = false,
 			["height"] = 32,
-			["relative"] = "BOTTOMRIGHT",
 			["scale"] = 1,
+			["relative"] = "BOTTOMRIGHT",
+			["anchor"] = "LEFT",
 			["width"] = 32,
 		},
 		["name"] = "Yyga",
@@ -420,7 +420,7 @@ JamPlatesAccessoriesDB = {
 			["scale"] = 1,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["y"] = 0,
 			["x"] = 0,
 			["anchor"] = "BOTTOMLEFT",
@@ -429,27 +429,27 @@ JamPlatesAccessoriesDB = {
 			["ShowBorder"] = true,
 			["height"] = 17,
 			["invert"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 		},
 		["id"] = "Player-850-042D1F61",
 		["cp"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -2,
-			["anchor"] = "CENTER",
+			["x"] = 0,
+			["enabled"] = true,
 			["height"] = 16,
-			["relative"] = "BOTTOM",
 			["scale"] = 1,
+			["relative"] = "BOTTOM",
+			["anchor"] = "CENTER",
 			["width"] = 12,
 		},
 		["combat"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -4,
-			["anchor"] = "BOTTOM",
+			["x"] = 0,
+			["enabled"] = true,
 			["height"] = 25,
-			["relative"] = "BOTTOM",
 			["scale"] = 1,
+			["relative"] = "BOTTOM",
+			["anchor"] = "BOTTOM",
 			["width"] = 25,
 		},
 	},
@@ -460,36 +460,36 @@ JamPlatesAccessoriesDB = {
 			["scale"] = 1,
 			["showPlayerBuff"] = true,
 			["showFriendlyDebuff"] = true,
-			["yOffset"] = 14,
+			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
 			["ShowBorder"] = true,
 			["showTime"] = true,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["anchor"] = "TOPRIGHT",
+			["yOffset"] = 14,
 			["showDefaultTime"] = false,
 			["xOffset"] = 0,
 			["relative"] = "LEFT",
 			["growth"] = false,
 			["width"] = 17,
-			["showHostileDebuff"] = true,
+			["y"] = 0,
 			["x"] = 0,
-			["showPetDebuff"] = true,
+			["anchor"] = "TOPRIGHT",
 			["filter"] = {
 			},
-			["showFriendlyBuff"] = true,
 			["height"] = 17,
-			["y"] = 0,
+			["showFriendlyBuff"] = true,
 			["showHostileBuff"] = true,
+			["showHostileDebuff"] = true,
 		},
 		["threat"] = {
-			["enabled"] = false,
-			["x"] = -1,
 			["y"] = 10,
-			["scale"] = 1,
+			["x"] = -1,
+			["enabled"] = false,
 			["anchor"] = "LEFT",
-			["relative"] = "BOTTOMRIGHT",
 			["height"] = 32,
+			["relative"] = "BOTTOMRIGHT",
+			["scale"] = 1,
 			["width"] = 32,
 		},
 		["name"] = "悠悠骑",
@@ -503,34 +503,34 @@ JamPlatesAccessoriesDB = {
 			["showPlayerDebuff"] = true,
 			["ShowBorder"] = true,
 			["showTime"] = true,
-			["yOffset"] = 0,
+			["xOffset"] = -5,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["showPlayerBuff"] = true,
+			["yOffset"] = 0,
 			["showDefaultTime"] = false,
-			["showHostileDebuff"] = false,
+			["showPlayerBuff"] = true,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
 			["width"] = 17,
 			["y"] = 0,
 			["x"] = 0,
-			["showFriendlyBuff"] = false,
+			["showHostileDebuff"] = false,
 			["filter"] = {
 			},
 			["height"] = 17,
+			["showFriendlyBuff"] = false,
 			["defaultEnabled"] = false,
-			["xOffset"] = -5,
 			["anchor"] = "BOTTOMLEFT",
 		},
 		["id"] = "Player-810-033D3968",
 		["combat"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = 0,
-			["scale"] = 1,
+			["x"] = 0,
+			["enabled"] = true,
 			["anchor"] = "LEFT",
-			["relative"] = "RIGHT",
 			["height"] = 25,
+			["relative"] = "RIGHT",
+			["scale"] = 1,
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -560,13 +560,13 @@ JamPlatesAccessoriesDB = {
 			["anchor"] = "RIGHT",
 		},
 		["threat"] = {
-			["enabled"] = false,
-			["x"] = -1,
 			["y"] = 10,
-			["anchor"] = "LEFT",
+			["x"] = -1,
+			["enabled"] = false,
 			["height"] = 32,
-			["relative"] = "BOTTOMRIGHT",
 			["scale"] = 1,
+			["relative"] = "BOTTOMRIGHT",
+			["anchor"] = "LEFT",
 			["width"] = 32,
 		},
 		["name"] = "Ddtq",
@@ -577,7 +577,7 @@ JamPlatesAccessoriesDB = {
 			["scale"] = 1,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 			["y"] = 0,
 			["x"] = 0,
 			["anchor"] = "BOTTOMLEFT",
@@ -586,27 +586,27 @@ JamPlatesAccessoriesDB = {
 			["ShowBorder"] = true,
 			["height"] = 17,
 			["invert"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 		},
 		["id"] = "Player-2129-074591A4",
 		["cp"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -2,
-			["anchor"] = "CENTER",
+			["x"] = 0,
+			["enabled"] = true,
 			["height"] = 16,
-			["relative"] = "BOTTOM",
 			["scale"] = 1,
+			["relative"] = "BOTTOM",
+			["anchor"] = "CENTER",
 			["width"] = 12,
 		},
 		["combat"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -4,
-			["anchor"] = "BOTTOM",
+			["x"] = 0,
+			["enabled"] = true,
 			["height"] = 25,
-			["relative"] = "BOTTOM",
 			["scale"] = 1,
+			["relative"] = "BOTTOM",
+			["anchor"] = "BOTTOM",
 			["width"] = 25,
 		},
 	},
@@ -619,78 +619,78 @@ JamPlatesAccessoriesDB = {
 			["showFriendlyDebuff"] = true,
 			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
-			["ShowBorder"] = true,
-			["showTime"] = true,
 			["anchor"] = "RIGHT",
+			["showTime"] = true,
+			["xOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["xOffset"] = 0,
+			["yOffset"] = 14,
 			["showDefaultTime"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 			["relative"] = "LEFT",
 			["growth"] = false,
-			["width"] = 17,
-			["y"] = 0,
+			["ShowPet"] = true,
+			["showHostileDebuff"] = true,
 			["x"] = 0,
 			["height"] = 17,
 			["filter"] = {
 			},
 			["showFriendlyBuff"] = true,
-			["showHostileDebuff"] = true,
+			["y"] = 0,
 			["showPlayerBuff"] = true,
-			["yOffset"] = 14,
+			["ShowBorder"] = true,
 		},
 		["threat"] = {
-			["y"] = 10,
-			["x"] = -1,
 			["enabled"] = false,
-			["height"] = 32,
+			["x"] = -1,
+			["y"] = 10,
 			["scale"] = 1,
-			["relative"] = "BOTTOMRIGHT",
 			["anchor"] = "LEFT",
+			["relative"] = "BOTTOMRIGHT",
+			["height"] = 32,
 			["width"] = 32,
 		},
 		["name"] = "厦门妇幼",
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["xOffset"] = -5,
+			["scale"] = 1,
 			["showHostileBuff"] = false,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
-			["yOffset"] = 0,
+			["xOffset"] = -5,
 			["showPlayerDebuff"] = true,
-			["anchor"] = "BOTTOMLEFT",
+			["ShowBorder"] = true,
 			["invert"] = false,
 			["showTime"] = true,
-			["showPlayerBuff"] = true,
+			["yOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["showFriendlyBuff"] = false,
+			["height"] = 17,
 			["showDefaultTime"] = false,
-			["y"] = 0,
+			["ShowPet"] = true,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
-			["showHostileDebuff"] = false,
-			["x"] = 0,
 			["defaultEnabled"] = false,
+			["y"] = 0,
+			["x"] = 0,
+			["showHostileDebuff"] = false,
 			["filter"] = {
 			},
-			["height"] = 17,
+			["showFriendlyBuff"] = false,
 			["width"] = 17,
-			["scale"] = 1,
-			["ShowBorder"] = true,
+			["showPlayerBuff"] = true,
+			["anchor"] = "BOTTOMLEFT",
 		},
 		["id"] = "Player-810-0337DC29",
 		["combat"] = {
-			["y"] = 0,
-			["x"] = 0,
 			["enabled"] = true,
-			["height"] = 25,
+			["x"] = 0,
+			["y"] = 0,
 			["scale"] = 1,
-			["relative"] = "RIGHT",
 			["anchor"] = "LEFT",
+			["relative"] = "RIGHT",
+			["height"] = 25,
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -707,29 +707,29 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 			["direction"] = true,
 			["scale"] = 1,
-			["showPlayerBuff"] = true,
+			["showHostileBuff"] = true,
 			["showFriendlyDebuff"] = true,
-			["yOffset"] = 14,
+			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
 			["ShowBorder"] = true,
 			["showTime"] = true,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["anchor"] = "TOPRIGHT",
-			["showDefaultTime"] = false,
 			["xOffset"] = 0,
+			["showDefaultTime"] = false,
+			["yOffset"] = 14,
 			["relative"] = "LEFT",
 			["growth"] = false,
 			["width"] = 17,
 			["showHostileDebuff"] = true,
 			["x"] = 0,
-			["showPetDebuff"] = true,
+			["anchor"] = "TOPRIGHT",
 			["filter"] = {
 			},
 			["showFriendlyBuff"] = true,
 			["height"] = 17,
 			["y"] = 0,
-			["showHostileBuff"] = true,
+			["showPlayerBuff"] = true,
 		},
 		["threat"] = {
 			["enabled"] = false,
@@ -750,26 +750,26 @@ JamPlatesAccessoriesDB = {
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = false,
-			["ShowBorder"] = true,
+			["anchor"] = "BOTTOMLEFT",
 			["showTime"] = true,
-			["yOffset"] = 0,
+			["xOffset"] = -5,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["showPlayerBuff"] = false,
+			["yOffset"] = 0,
 			["showDefaultTime"] = false,
-			["showHostileDebuff"] = false,
+			["showPlayerBuff"] = false,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["width"] = 17,
+			["defaultEnabled"] = false,
 			["y"] = 0,
 			["x"] = 0,
-			["showFriendlyBuff"] = false,
+			["height"] = 17,
 			["filter"] = {
 			},
-			["height"] = 17,
-			["defaultEnabled"] = false,
-			["xOffset"] = -5,
-			["anchor"] = "BOTTOMLEFT",
+			["showFriendlyBuff"] = false,
+			["showHostileDebuff"] = false,
+			["width"] = 17,
+			["ShowBorder"] = true,
 		},
 		["id"] = "Player-810-032D9A77",
 		["combat"] = {
@@ -809,13 +809,13 @@ JamPlatesAccessoriesDB = {
 			["anchor"] = "RIGHT",
 		},
 		["threat"] = {
-			["enabled"] = false,
-			["x"] = -1,
 			["y"] = 10,
-			["height"] = 32,
+			["x"] = -1,
+			["enabled"] = false,
 			["scale"] = 1,
-			["relative"] = "BOTTOMRIGHT",
 			["anchor"] = "LEFT",
+			["relative"] = "BOTTOMRIGHT",
+			["height"] = 32,
 			["width"] = 32,
 		},
 		["name"] = "弹弹堂",
@@ -826,7 +826,7 @@ JamPlatesAccessoriesDB = {
 			["scale"] = 1,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 			["y"] = 0,
 			["x"] = 0,
 			["anchor"] = "BOTTOMLEFT",
@@ -835,27 +835,27 @@ JamPlatesAccessoriesDB = {
 			["ShowBorder"] = true,
 			["height"] = 17,
 			["invert"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 		},
 		["id"] = "Player-877-03F5BA15",
 		["cp"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -2,
-			["height"] = 16,
+			["x"] = 0,
+			["enabled"] = true,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "CENTER",
+			["relative"] = "BOTTOM",
+			["height"] = 16,
 			["width"] = 12,
 		},
 		["combat"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -4,
-			["height"] = 25,
+			["x"] = 0,
+			["enabled"] = true,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "BOTTOM",
+			["relative"] = "BOTTOM",
+			["height"] = 25,
 			["width"] = 25,
 		},
 	},
@@ -866,37 +866,37 @@ JamPlatesAccessoriesDB = {
 			["scale"] = 1,
 			["showPlayerBuff"] = true,
 			["showFriendlyDebuff"] = true,
-			["yOffset"] = 14,
+			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
 			["ShowBorder"] = true,
 			["showTime"] = true,
-			["anchor"] = "RIGHT",
+			["yOffset"] = 14,
 			["enabled"] = true,
 			["showPetBuff"] = true,
 			["xOffset"] = 0,
 			["showDefaultTime"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["relative"] = "LEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
-			["showHostileDebuff"] = true,
+			["width"] = 17,
+			["y"] = 0,
 			["x"] = 0,
 			["height"] = 17,
 			["filter"] = {
 			},
 			["showFriendlyBuff"] = true,
-			["y"] = 0,
+			["showHostileDebuff"] = true,
 			["showHostileBuff"] = true,
-			["showPetDebuff"] = true,
+			["anchor"] = "RIGHT",
 		},
 		["threat"] = {
-			["enabled"] = false,
-			["x"] = -1,
 			["y"] = 10,
-			["anchor"] = "LEFT",
+			["x"] = -1,
+			["enabled"] = false,
 			["height"] = 32,
-			["relative"] = "BOTTOMRIGHT",
 			["scale"] = 1,
+			["relative"] = "BOTTOMRIGHT",
+			["anchor"] = "LEFT",
 			["width"] = 32,
 		},
 		["name"] = "小学生放假了",
@@ -904,52 +904,52 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 			["direction"] = false,
 			["scale"] = 1,
-			["showHostileBuff"] = false,
+			["showPlayerBuff"] = true,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
 			["yOffset"] = 0,
 			["showPlayerDebuff"] = true,
-			["anchor"] = "BOTTOMLEFT",
+			["ShowBorder"] = true,
 			["showTime"] = true,
 			["invert"] = false,
-			["showPlayerBuff"] = true,
+			["xOffset"] = -5,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["showFriendlyBuff"] = false,
+			["height"] = 17,
 			["showDefaultTime"] = false,
-			["y"] = 0,
+			["ShowPet"] = true,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
 			["width"] = 17,
-			["showHostileDebuff"] = false,
+			["y"] = 0,
 			["x"] = 0,
-			["defaultEnabled"] = false,
+			["showHostileDebuff"] = false,
 			["filter"] = {
 			},
-			["height"] = 17,
-			["ShowPet"] = true,
-			["xOffset"] = -5,
-			["ShowBorder"] = true,
+			["showFriendlyBuff"] = false,
+			["defaultEnabled"] = false,
+			["showHostileBuff"] = false,
+			["anchor"] = "BOTTOMLEFT",
 		},
 		["id"] = "Player-810-01C74264",
 		["cp"] = {
-			["y"] = -2,
-			["x"] = 0,
 			["enabled"] = true,
-			["anchor"] = "CENTER",
-			["height"] = 16,
-			["relative"] = "BOTTOM",
+			["x"] = 0,
+			["y"] = -2,
 			["scale"] = 1,
+			["anchor"] = "CENTER",
+			["relative"] = "BOTTOM",
+			["height"] = 16,
 			["width"] = 12,
 		},
 		["combat"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -4,
-			["anchor"] = "BOTTOM",
+			["x"] = 0,
+			["enabled"] = true,
 			["height"] = 25,
-			["relative"] = "BOTTOM",
 			["scale"] = 1,
+			["relative"] = "BOTTOM",
+			["anchor"] = "BOTTOM",
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -966,9 +966,9 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 			["direction"] = true,
 			["scale"] = 1,
-			["showPlayerBuff"] = true,
+			["showHostileBuff"] = true,
 			["showFriendlyDebuff"] = true,
-			["yOffset"] = 14,
+			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
 			["ShowBorder"] = true,
 			["showTime"] = true,
@@ -977,43 +977,43 @@ JamPlatesAccessoriesDB = {
 			["showPetBuff"] = true,
 			["xOffset"] = 0,
 			["showDefaultTime"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["relative"] = "LEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
-			["showHostileDebuff"] = true,
+			["width"] = 17,
+			["y"] = 0,
 			["x"] = 0,
 			["height"] = 17,
 			["filter"] = {
 			},
 			["showFriendlyBuff"] = true,
-			["y"] = 0,
-			["showHostileBuff"] = true,
-			["showPetDebuff"] = true,
+			["showHostileDebuff"] = true,
+			["showPlayerBuff"] = true,
+			["yOffset"] = 14,
 		},
 		["threat"] = {
-			["enabled"] = false,
-			["x"] = -1,
 			["y"] = 10,
-			["height"] = 32,
+			["x"] = -1,
+			["enabled"] = false,
 			["scale"] = 1,
-			["relative"] = "BOTTOMRIGHT",
 			["anchor"] = "LEFT",
+			["relative"] = "BOTTOMRIGHT",
+			["height"] = 32,
 			["width"] = 32,
 		},
 		["name"] = "猛牛悠悠乳",
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["scale"] = 1,
+			["xOffset"] = -5,
 			["showHostileBuff"] = false,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
 			["yOffset"] = 0,
 			["showPlayerDebuff"] = true,
 			["anchor"] = "BOTTOMLEFT",
-			["showTime"] = true,
 			["invert"] = false,
+			["showTime"] = true,
 			["showPlayerBuff"] = true,
 			["enabled"] = true,
 			["showPetBuff"] = true,
@@ -1022,36 +1022,36 @@ JamPlatesAccessoriesDB = {
 			["y"] = 0,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["showHostileDebuff"] = false,
 			["x"] = 0,
 			["defaultEnabled"] = false,
 			["filter"] = {
 			},
 			["height"] = 17,
-			["ShowPet"] = true,
-			["xOffset"] = -5,
+			["width"] = 17,
+			["scale"] = 1,
 			["ShowBorder"] = true,
 		},
 		["id"] = "Player-810-01C4CF32",
 		["cp"] = {
-			["y"] = -2,
-			["x"] = 0,
 			["enabled"] = true,
-			["anchor"] = "CENTER",
+			["x"] = 0,
+			["y"] = -2,
 			["height"] = 16,
-			["relative"] = "BOTTOM",
 			["scale"] = 1,
+			["relative"] = "BOTTOM",
+			["anchor"] = "CENTER",
 			["width"] = 12,
 		},
 		["combat"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -4,
-			["height"] = 25,
+			["x"] = 0,
+			["enabled"] = true,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "BOTTOM",
+			["relative"] = "BOTTOM",
+			["height"] = 25,
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -1070,37 +1070,37 @@ JamPlatesAccessoriesDB = {
 			["scale"] = 1,
 			["showPlayerBuff"] = true,
 			["showFriendlyDebuff"] = true,
-			["yOffset"] = 14,
+			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
 			["ShowBorder"] = true,
 			["showTime"] = true,
-			["anchor"] = "RIGHT",
+			["xOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["xOffset"] = 0,
+			["yOffset"] = 14,
 			["showDefaultTime"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["relative"] = "LEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
-			["showHostileDebuff"] = true,
+			["width"] = 17,
+			["y"] = 0,
 			["x"] = 0,
 			["height"] = 17,
 			["filter"] = {
 			},
 			["showFriendlyBuff"] = true,
-			["y"] = 0,
+			["showHostileDebuff"] = true,
 			["showHostileBuff"] = true,
-			["showPetDebuff"] = true,
+			["anchor"] = "RIGHT",
 		},
 		["threat"] = {
-			["enabled"] = false,
-			["x"] = -1,
 			["y"] = 10,
-			["anchor"] = "LEFT",
+			["x"] = -1,
+			["enabled"] = false,
 			["height"] = 32,
-			["relative"] = "BOTTOMRIGHT",
 			["scale"] = 1,
+			["relative"] = "BOTTOMRIGHT",
+			["anchor"] = "LEFT",
 			["width"] = 32,
 		},
 		["name"] = "杀猪刀猴赛雷",
@@ -1108,52 +1108,52 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 			["direction"] = false,
 			["scale"] = 1,
-			["showHostileBuff"] = false,
+			["showPlayerBuff"] = true,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
-			["yOffset"] = 0,
+			["xOffset"] = -5,
 			["showPlayerDebuff"] = true,
-			["anchor"] = "BOTTOMLEFT",
+			["ShowBorder"] = true,
 			["showTime"] = true,
 			["invert"] = false,
-			["showPlayerBuff"] = true,
+			["yOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["showFriendlyBuff"] = false,
+			["height"] = 17,
 			["showDefaultTime"] = false,
-			["y"] = 0,
+			["ShowPet"] = true,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
 			["width"] = 17,
-			["showHostileDebuff"] = false,
+			["y"] = 0,
 			["x"] = 0,
-			["defaultEnabled"] = false,
+			["showHostileDebuff"] = false,
 			["filter"] = {
 			},
-			["height"] = 17,
-			["ShowPet"] = true,
-			["xOffset"] = -5,
-			["ShowBorder"] = true,
+			["showFriendlyBuff"] = false,
+			["defaultEnabled"] = false,
+			["showHostileBuff"] = false,
+			["anchor"] = "BOTTOMLEFT",
 		},
 		["id"] = "Player-810-01C259FE",
 		["cp"] = {
 			["enabled"] = true,
 			["x"] = 0,
 			["y"] = -2,
-			["height"] = 16,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "CENTER",
+			["relative"] = "BOTTOM",
+			["height"] = 16,
 			["width"] = 12,
 		},
 		["combat"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -4,
-			["anchor"] = "BOTTOM",
+			["x"] = 0,
+			["enabled"] = true,
 			["height"] = 25,
-			["relative"] = "BOTTOM",
 			["scale"] = 1,
+			["relative"] = "BOTTOM",
+			["anchor"] = "BOTTOM",
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -1170,16 +1170,16 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 			["direction"] = true,
 			["scale"] = 1,
-			["showPlayerBuff"] = true,
+			["showHostileBuff"] = true,
 			["showFriendlyDebuff"] = true,
-			["yOffset"] = 14,
+			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
-			["ShowBorder"] = true,
-			["showTime"] = true,
 			["anchor"] = "RIGHT",
+			["showTime"] = true,
+			["xOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["xOffset"] = 0,
+			["yOffset"] = 14,
 			["showDefaultTime"] = false,
 			["width"] = 17,
 			["relative"] = "LEFT",
@@ -1192,17 +1192,17 @@ JamPlatesAccessoriesDB = {
 			},
 			["showFriendlyBuff"] = true,
 			["y"] = 0,
-			["showHostileBuff"] = true,
-			["showPetDebuff"] = true,
+			["showPlayerBuff"] = true,
+			["ShowBorder"] = true,
 		},
 		["threat"] = {
 			["enabled"] = false,
 			["x"] = -1,
 			["y"] = 10,
-			["anchor"] = "LEFT",
-			["height"] = 32,
-			["relative"] = "BOTTOMRIGHT",
 			["scale"] = 1,
+			["anchor"] = "LEFT",
+			["relative"] = "BOTTOMRIGHT",
+			["height"] = 32,
 			["width"] = 32,
 		},
 		["name"] = "亦可赛艇",
@@ -1213,49 +1213,49 @@ JamPlatesAccessoriesDB = {
 			["showHostileBuff"] = false,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
-			["yOffset"] = 0,
+			["xOffset"] = -5,
 			["showPlayerDebuff"] = true,
-			["anchor"] = "BOTTOMLEFT",
-			["showTime"] = true,
+			["ShowBorder"] = true,
 			["invert"] = false,
-			["showPlayerBuff"] = true,
+			["showTime"] = true,
+			["yOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["showFriendlyBuff"] = false,
+			["height"] = 17,
 			["showDefaultTime"] = false,
-			["y"] = 0,
+			["ShowPet"] = true,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["width"] = 17,
-			["showHostileDebuff"] = false,
-			["x"] = 0,
 			["defaultEnabled"] = false,
+			["y"] = 0,
+			["x"] = 0,
+			["showHostileDebuff"] = false,
 			["filter"] = {
 			},
-			["height"] = 17,
-			["ShowPet"] = true,
-			["xOffset"] = -5,
-			["ShowBorder"] = true,
+			["showFriendlyBuff"] = false,
+			["width"] = 17,
+			["showPlayerBuff"] = true,
+			["anchor"] = "BOTTOMLEFT",
 		},
 		["id"] = "Player-810-032C7FAF",
 		["cp"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -2,
-			["height"] = 16,
-			["scale"] = 1,
-			["relative"] = "BOTTOM",
+			["x"] = 0,
+			["enabled"] = true,
 			["anchor"] = "CENTER",
+			["height"] = 16,
+			["relative"] = "BOTTOM",
+			["scale"] = 1,
 			["width"] = 12,
 		},
 		["combat"] = {
 			["enabled"] = true,
 			["x"] = 0,
 			["y"] = -4,
-			["anchor"] = "BOTTOM",
-			["height"] = 25,
-			["relative"] = "BOTTOM",
 			["scale"] = 1,
+			["anchor"] = "BOTTOM",
+			["relative"] = "BOTTOM",
+			["height"] = 25,
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -1274,37 +1274,37 @@ JamPlatesAccessoriesDB = {
 			["scale"] = 1,
 			["showPlayerBuff"] = true,
 			["showFriendlyDebuff"] = true,
-			["yOffset"] = 14,
+			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
 			["ShowBorder"] = true,
 			["showTime"] = true,
-			["anchor"] = "RIGHT",
+			["xOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["xOffset"] = 0,
+			["yOffset"] = 14,
 			["showDefaultTime"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["relative"] = "LEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
-			["showHostileDebuff"] = true,
+			["width"] = 17,
+			["y"] = 0,
 			["x"] = 0,
 			["height"] = 17,
 			["filter"] = {
 			},
 			["showFriendlyBuff"] = true,
-			["y"] = 0,
+			["showHostileDebuff"] = true,
 			["showHostileBuff"] = true,
-			["showPetDebuff"] = true,
+			["anchor"] = "RIGHT",
 		},
 		["threat"] = {
-			["enabled"] = false,
-			["x"] = -1,
 			["y"] = 10,
-			["height"] = 32,
+			["x"] = -1,
+			["enabled"] = false,
 			["scale"] = 1,
-			["relative"] = "BOTTOMRIGHT",
 			["anchor"] = "LEFT",
+			["relative"] = "BOTTOMRIGHT",
+			["height"] = 32,
 			["width"] = 32,
 		},
 		["name"] = "最后的悠悠",
@@ -1312,52 +1312,52 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 			["direction"] = false,
 			["scale"] = 1,
-			["showHostileBuff"] = false,
+			["showPlayerBuff"] = false,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
-			["yOffset"] = 0,
+			["xOffset"] = -5,
 			["showPlayerDebuff"] = false,
-			["anchor"] = "BOTTOMLEFT",
+			["ShowBorder"] = true,
 			["showTime"] = true,
 			["invert"] = false,
-			["showPlayerBuff"] = false,
+			["yOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["showFriendlyBuff"] = false,
+			["height"] = 17,
 			["showDefaultTime"] = false,
-			["y"] = 0,
+			["ShowPet"] = true,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
 			["width"] = 17,
-			["showHostileDebuff"] = false,
+			["y"] = 0,
 			["x"] = 0,
-			["defaultEnabled"] = false,
+			["showHostileDebuff"] = false,
 			["filter"] = {
 			},
-			["height"] = 17,
-			["ShowPet"] = true,
-			["xOffset"] = -5,
-			["ShowBorder"] = true,
+			["showFriendlyBuff"] = false,
+			["defaultEnabled"] = false,
+			["showHostileBuff"] = false,
+			["anchor"] = "BOTTOMLEFT",
 		},
 		["id"] = "Player-810-032D4DC5",
 		["cp"] = {
-			["y"] = -2,
-			["x"] = 0,
 			["enabled"] = true,
-			["height"] = 16,
-			["scale"] = 1,
-			["relative"] = "BOTTOM",
+			["x"] = 0,
+			["y"] = -2,
 			["anchor"] = "CENTER",
+			["height"] = 16,
+			["relative"] = "BOTTOM",
+			["scale"] = 1,
 			["width"] = 12,
 		},
 		["combat"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -4,
-			["height"] = 25,
+			["x"] = 0,
+			["enabled"] = true,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "BOTTOM",
+			["relative"] = "BOTTOM",
+			["height"] = 25,
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -1387,13 +1387,13 @@ JamPlatesAccessoriesDB = {
 			["anchor"] = "RIGHT",
 		},
 		["threat"] = {
-			["y"] = 10,
-			["x"] = -1,
 			["enabled"] = false,
-			["scale"] = 1,
+			["x"] = -1,
+			["y"] = 10,
 			["anchor"] = "LEFT",
-			["relative"] = "BOTTOMRIGHT",
 			["height"] = 32,
+			["relative"] = "BOTTOMRIGHT",
+			["scale"] = 1,
 			["width"] = 32,
 		},
 		["name"] = "Ddtq",
@@ -1404,7 +1404,7 @@ JamPlatesAccessoriesDB = {
 			["scale"] = 1,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["y"] = 0,
 			["x"] = 0,
 			["anchor"] = "BOTTOMLEFT",
@@ -1413,27 +1413,27 @@ JamPlatesAccessoriesDB = {
 			["ShowBorder"] = true,
 			["height"] = 17,
 			["invert"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 		},
 		["id"] = "Player-3752-03EC97C1",
 		["cp"] = {
-			["y"] = -2,
-			["x"] = 0,
 			["enabled"] = true,
-			["scale"] = 1,
+			["x"] = 0,
+			["y"] = -2,
 			["anchor"] = "CENTER",
-			["relative"] = "BOTTOM",
 			["height"] = 16,
+			["relative"] = "BOTTOM",
+			["scale"] = 1,
 			["width"] = 12,
 		},
 		["combat"] = {
-			["y"] = -4,
-			["x"] = 0,
 			["enabled"] = true,
-			["scale"] = 1,
+			["x"] = 0,
+			["y"] = -4,
 			["anchor"] = "BOTTOM",
-			["relative"] = "BOTTOM",
 			["height"] = 25,
+			["relative"] = "BOTTOM",
+			["scale"] = 1,
 			["width"] = 25,
 		},
 	},
@@ -1455,13 +1455,13 @@ JamPlatesAccessoriesDB = {
 			["anchor"] = "RIGHT",
 		},
 		["threat"] = {
-			["y"] = 10,
-			["x"] = -1,
 			["enabled"] = false,
-			["height"] = 32,
+			["x"] = -1,
+			["y"] = 10,
 			["scale"] = 1,
-			["relative"] = "BOTTOMRIGHT",
 			["anchor"] = "LEFT",
+			["relative"] = "BOTTOMRIGHT",
+			["height"] = 32,
 			["width"] = 32,
 		},
 		["name"] = "涨姿势",
@@ -1472,7 +1472,7 @@ JamPlatesAccessoriesDB = {
 			["scale"] = 1,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["y"] = 0,
 			["x"] = 0,
 			["anchor"] = "BOTTOMLEFT",
@@ -1481,27 +1481,27 @@ JamPlatesAccessoriesDB = {
 			["ShowBorder"] = true,
 			["height"] = 17,
 			["invert"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 		},
 		["id"] = "Player-810-032AD128",
 		["cp"] = {
-			["y"] = -2,
-			["x"] = 0,
 			["enabled"] = true,
-			["height"] = 16,
+			["x"] = 0,
+			["y"] = -2,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "CENTER",
+			["relative"] = "BOTTOM",
+			["height"] = 16,
 			["width"] = 12,
 		},
 		["combat"] = {
-			["y"] = -4,
-			["x"] = 0,
 			["enabled"] = true,
-			["height"] = 25,
+			["x"] = 0,
+			["y"] = -4,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "BOTTOM",
+			["relative"] = "BOTTOM",
+			["height"] = 25,
 			["width"] = 25,
 		},
 	},
@@ -1514,31 +1514,31 @@ JamPlatesAccessoriesDB = {
 			["showFriendlyDebuff"] = true,
 			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
-			["ShowBorder"] = true,
-			["showTime"] = true,
 			["anchor"] = "RIGHT",
+			["showTime"] = true,
+			["yOffset"] = 14,
 			["enabled"] = true,
 			["showPetBuff"] = true,
 			["xOffset"] = 0,
 			["showDefaultTime"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 			["relative"] = "LEFT",
 			["growth"] = false,
-			["width"] = 17,
-			["y"] = 0,
+			["ShowPet"] = true,
+			["showHostileDebuff"] = true,
 			["x"] = 0,
 			["height"] = 17,
 			["filter"] = {
 			},
 			["showFriendlyBuff"] = true,
-			["showHostileDebuff"] = true,
+			["y"] = 0,
 			["showPlayerBuff"] = true,
-			["yOffset"] = 14,
+			["ShowBorder"] = true,
 		},
 		["threat"] = {
-			["y"] = 10,
-			["x"] = -1,
 			["enabled"] = false,
+			["x"] = -1,
+			["y"] = 10,
 			["scale"] = 1,
 			["anchor"] = "LEFT",
 			["relative"] = "BOTTOMRIGHT",
@@ -1549,33 +1549,33 @@ JamPlatesAccessoriesDB = {
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["xOffset"] = -5,
+			["scale"] = 1,
 			["showHostileBuff"] = false,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
 			["yOffset"] = 0,
 			["showPlayerDebuff"] = true,
-			["anchor"] = "BOTTOMLEFT",
-			["invert"] = false,
+			["ShowBorder"] = true,
 			["showTime"] = true,
-			["showPlayerBuff"] = true,
+			["invert"] = false,
+			["xOffset"] = -5,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["showFriendlyBuff"] = false,
+			["height"] = 17,
 			["showDefaultTime"] = false,
-			["y"] = 0,
+			["ShowPet"] = true,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
-			["showHostileDebuff"] = false,
-			["x"] = 0,
 			["defaultEnabled"] = false,
+			["y"] = 0,
+			["x"] = 0,
+			["showHostileDebuff"] = false,
 			["filter"] = {
 			},
-			["height"] = 17,
+			["showFriendlyBuff"] = false,
 			["width"] = 17,
-			["scale"] = 1,
-			["ShowBorder"] = true,
+			["showPlayerBuff"] = true,
+			["anchor"] = "BOTTOMLEFT",
 		},
 		["id"] = "Player-810-01861839",
 		["cp"] = {
@@ -1589,9 +1589,9 @@ JamPlatesAccessoriesDB = {
 			["width"] = 12,
 		},
 		["combat"] = {
-			["y"] = -4,
-			["x"] = 0,
 			["enabled"] = true,
+			["x"] = 0,
+			["y"] = -4,
 			["scale"] = 1,
 			["anchor"] = "BOTTOM",
 			["relative"] = "BOTTOM",
@@ -1625,24 +1625,24 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 		},
 		["threat"] = {
-			["enabled"] = false,
-			["x"] = -1,
 			["y"] = 10,
-			["anchor"] = "LEFT",
+			["x"] = -1,
+			["enabled"] = false,
 			["height"] = 32,
-			["relative"] = "BOTTOMRIGHT",
 			["scale"] = 1,
+			["relative"] = "BOTTOMRIGHT",
+			["anchor"] = "LEFT",
 			["width"] = 32,
 		},
 		["name"] = "那总三号",
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 			["scale"] = 1,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["y"] = 0,
 			["x"] = 0,
 			["ShowBorder"] = true,
@@ -1655,23 +1655,23 @@ JamPlatesAccessoriesDB = {
 		},
 		["id"] = "Player-810-031E6BDF",
 		["cp"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -2,
-			["anchor"] = "CENTER",
+			["x"] = 0,
+			["enabled"] = true,
 			["height"] = 16,
-			["relative"] = "BOTTOM",
 			["scale"] = 1,
+			["relative"] = "BOTTOM",
+			["anchor"] = "CENTER",
 			["width"] = 12,
 		},
 		["combat"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -4,
-			["anchor"] = "BOTTOM",
+			["x"] = 0,
+			["enabled"] = true,
 			["height"] = 25,
-			["relative"] = "BOTTOM",
 			["scale"] = 1,
+			["relative"] = "BOTTOM",
+			["anchor"] = "BOTTOM",
 			["width"] = 25,
 		},
 	},
@@ -1680,16 +1680,16 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 			["direction"] = true,
 			["scale"] = 1,
-			["showHostileBuff"] = true,
+			["showPlayerBuff"] = true,
 			["showFriendlyDebuff"] = true,
 			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
 			["ShowBorder"] = true,
 			["showTime"] = true,
-			["anchor"] = "RIGHT",
+			["xOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["xOffset"] = 0,
+			["yOffset"] = 14,
 			["showDefaultTime"] = false,
 			["ShowPet"] = true,
 			["relative"] = "LEFT",
@@ -1702,50 +1702,50 @@ JamPlatesAccessoriesDB = {
 			},
 			["showFriendlyBuff"] = true,
 			["showHostileDebuff"] = true,
-			["showPlayerBuff"] = true,
-			["yOffset"] = 14,
+			["showHostileBuff"] = true,
+			["anchor"] = "RIGHT",
 		},
 		["threat"] = {
 			["y"] = 10,
 			["x"] = -1,
 			["enabled"] = false,
-			["scale"] = 1,
-			["anchor"] = "LEFT",
-			["relative"] = "BOTTOMRIGHT",
 			["height"] = 32,
+			["scale"] = 1,
+			["relative"] = "BOTTOMRIGHT",
+			["anchor"] = "LEFT",
 			["width"] = 32,
 		},
 		["name"] = "打小怪的",
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["xOffset"] = -5,
-			["showHostileBuff"] = false,
+			["scale"] = 1,
+			["showPlayerBuff"] = true,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
-			["yOffset"] = 0,
+			["xOffset"] = -5,
 			["showPlayerDebuff"] = true,
-			["anchor"] = "BOTTOMLEFT",
-			["invert"] = false,
+			["ShowBorder"] = true,
 			["showTime"] = true,
-			["showPlayerBuff"] = true,
+			["invert"] = false,
+			["yOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["showFriendlyBuff"] = false,
+			["height"] = 17,
 			["showDefaultTime"] = false,
-			["y"] = 0,
+			["ShowPet"] = true,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
-			["showHostileDebuff"] = false,
+			["width"] = 17,
+			["y"] = 0,
 			["x"] = 0,
-			["defaultEnabled"] = false,
+			["showHostileDebuff"] = false,
 			["filter"] = {
 			},
-			["height"] = 17,
-			["width"] = 17,
-			["scale"] = 1,
-			["ShowBorder"] = true,
+			["showFriendlyBuff"] = false,
+			["defaultEnabled"] = false,
+			["showHostileBuff"] = false,
+			["anchor"] = "BOTTOMLEFT",
 		},
 		["id"] = "Player-810-032CAEAD",
 		["cp"] = {
@@ -1762,10 +1762,10 @@ JamPlatesAccessoriesDB = {
 			["y"] = -4,
 			["x"] = 0,
 			["enabled"] = true,
-			["scale"] = 1,
-			["anchor"] = "BOTTOM",
-			["relative"] = "BOTTOM",
 			["height"] = 25,
+			["scale"] = 1,
+			["relative"] = "BOTTOM",
+			["anchor"] = "BOTTOM",
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -1795,13 +1795,13 @@ JamPlatesAccessoriesDB = {
 			["anchor"] = "RIGHT",
 		},
 		["threat"] = {
-			["enabled"] = false,
-			["x"] = -1,
 			["y"] = 10,
-			["height"] = 32,
+			["x"] = -1,
+			["enabled"] = false,
 			["scale"] = 1,
-			["relative"] = "BOTTOMRIGHT",
 			["anchor"] = "LEFT",
+			["relative"] = "BOTTOMRIGHT",
+			["height"] = 32,
 			["width"] = 32,
 		},
 		["name"] = "悠悠乳",
@@ -1812,7 +1812,7 @@ JamPlatesAccessoriesDB = {
 			["scale"] = 1,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 			["y"] = 0,
 			["x"] = 0,
 			["anchor"] = "BOTTOMLEFT",
@@ -1821,27 +1821,27 @@ JamPlatesAccessoriesDB = {
 			["ShowBorder"] = true,
 			["height"] = 17,
 			["invert"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 		},
 		["id"] = "Player-962-03F59D4A",
 		["cp"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -2,
-			["height"] = 16,
+			["x"] = 0,
+			["enabled"] = true,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "CENTER",
+			["relative"] = "BOTTOM",
+			["height"] = 16,
 			["width"] = 12,
 		},
 		["combat"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -4,
-			["height"] = 25,
+			["x"] = 0,
+			["enabled"] = true,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "BOTTOM",
+			["relative"] = "BOTTOM",
+			["height"] = 25,
 			["width"] = 25,
 		},
 	},
@@ -1863,13 +1863,13 @@ JamPlatesAccessoriesDB = {
 			["anchor"] = "RIGHT",
 		},
 		["threat"] = {
-			["enabled"] = false,
-			["x"] = -1,
 			["y"] = 10,
-			["height"] = 32,
+			["x"] = -1,
+			["enabled"] = false,
 			["scale"] = 1,
-			["relative"] = "BOTTOMRIGHT",
 			["anchor"] = "LEFT",
+			["relative"] = "BOTTOMRIGHT",
+			["height"] = 32,
 			["width"] = 32,
 		},
 		["name"] = "Ddtq",
@@ -1880,7 +1880,7 @@ JamPlatesAccessoriesDB = {
 			["scale"] = 1,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 			["y"] = 0,
 			["x"] = 0,
 			["anchor"] = "BOTTOMLEFT",
@@ -1889,27 +1889,27 @@ JamPlatesAccessoriesDB = {
 			["ShowBorder"] = true,
 			["height"] = 17,
 			["invert"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 		},
 		["id"] = "Player-1515-03A97431",
 		["cp"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -2,
-			["height"] = 16,
+			["x"] = 0,
+			["enabled"] = true,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "CENTER",
+			["relative"] = "BOTTOM",
+			["height"] = 16,
 			["width"] = 12,
 		},
 		["combat"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -4,
-			["height"] = 25,
+			["x"] = 0,
+			["enabled"] = true,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "BOTTOM",
+			["relative"] = "BOTTOM",
+			["height"] = 25,
 			["width"] = 25,
 		},
 	},
@@ -1918,9 +1918,9 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 			["direction"] = true,
 			["scale"] = 1,
-			["showPlayerBuff"] = true,
+			["showHostileBuff"] = true,
 			["showFriendlyDebuff"] = true,
-			["yOffset"] = 14,
+			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
 			["ShowBorder"] = true,
 			["showTime"] = true,
@@ -1929,43 +1929,43 @@ JamPlatesAccessoriesDB = {
 			["showPetBuff"] = true,
 			["xOffset"] = 0,
 			["showDefaultTime"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["relative"] = "LEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
-			["showHostileDebuff"] = true,
+			["width"] = 17,
+			["y"] = 0,
 			["x"] = 0,
 			["height"] = 17,
 			["filter"] = {
 			},
 			["showFriendlyBuff"] = true,
-			["y"] = 0,
-			["showHostileBuff"] = true,
-			["showPetDebuff"] = true,
+			["showHostileDebuff"] = true,
+			["showPlayerBuff"] = true,
+			["yOffset"] = 14,
 		},
 		["threat"] = {
-			["enabled"] = false,
-			["x"] = -1,
 			["y"] = 10,
-			["anchor"] = "LEFT",
+			["x"] = -1,
+			["enabled"] = false,
 			["height"] = 32,
-			["relative"] = "BOTTOMRIGHT",
 			["scale"] = 1,
+			["relative"] = "BOTTOMRIGHT",
+			["anchor"] = "LEFT",
 			["width"] = 32,
 		},
 		["name"] = "悠悠战",
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["scale"] = 1,
+			["xOffset"] = -5,
 			["showHostileBuff"] = false,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
 			["yOffset"] = 0,
 			["showPlayerDebuff"] = false,
 			["anchor"] = "BOTTOMLEFT",
-			["showTime"] = true,
 			["invert"] = false,
+			["showTime"] = true,
 			["showPlayerBuff"] = false,
 			["enabled"] = true,
 			["showPetBuff"] = true,
@@ -1974,26 +1974,26 @@ JamPlatesAccessoriesDB = {
 			["y"] = 0,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["showHostileDebuff"] = false,
 			["x"] = 0,
 			["defaultEnabled"] = false,
 			["filter"] = {
 			},
 			["height"] = 17,
-			["ShowPet"] = true,
-			["xOffset"] = -5,
+			["width"] = 17,
+			["scale"] = 1,
 			["ShowBorder"] = true,
 		},
 		["id"] = "Player-810-0334F439",
 		["combat"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = 0,
-			["anchor"] = "LEFT",
+			["x"] = 0,
+			["enabled"] = true,
 			["height"] = 25,
-			["relative"] = "RIGHT",
 			["scale"] = 1,
+			["relative"] = "RIGHT",
+			["anchor"] = "LEFT",
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -2023,24 +2023,24 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 		},
 		["threat"] = {
-			["y"] = 10,
-			["x"] = -1,
 			["enabled"] = false,
-			["scale"] = 1,
+			["x"] = -1,
+			["y"] = 10,
 			["anchor"] = "LEFT",
-			["relative"] = "BOTTOMRIGHT",
 			["height"] = 32,
+			["relative"] = "BOTTOMRIGHT",
+			["scale"] = 1,
 			["width"] = 32,
 		},
 		["name"] = "悠悠龟",
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 			["scale"] = 1,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["y"] = 0,
 			["x"] = 0,
 			["ShowBorder"] = true,
@@ -2053,23 +2053,23 @@ JamPlatesAccessoriesDB = {
 		},
 		["id"] = "Player-866-031F1C27",
 		["cp"] = {
-			["y"] = -2,
-			["x"] = 0,
 			["enabled"] = true,
-			["scale"] = 1,
+			["x"] = 0,
+			["y"] = -2,
 			["anchor"] = "CENTER",
-			["relative"] = "BOTTOM",
 			["height"] = 16,
+			["relative"] = "BOTTOM",
+			["scale"] = 1,
 			["width"] = 12,
 		},
 		["combat"] = {
-			["y"] = -4,
-			["x"] = 0,
 			["enabled"] = true,
-			["scale"] = 1,
+			["x"] = 0,
+			["y"] = -4,
 			["anchor"] = "BOTTOM",
-			["relative"] = "BOTTOM",
 			["height"] = 25,
+			["relative"] = "BOTTOM",
+			["scale"] = 1,
 			["width"] = 25,
 		},
 	},
@@ -2091,24 +2091,24 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 		},
 		["threat"] = {
-			["y"] = 10,
-			["x"] = -1,
 			["enabled"] = false,
-			["height"] = 32,
+			["x"] = -1,
+			["y"] = 10,
 			["scale"] = 1,
-			["relative"] = "BOTTOMRIGHT",
 			["anchor"] = "LEFT",
+			["relative"] = "BOTTOMRIGHT",
+			["height"] = 32,
 			["width"] = 32,
 		},
 		["name"] = "悠悠龟",
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["scale"] = 1,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 			["y"] = 0,
 			["x"] = 0,
 			["ShowBorder"] = true,
@@ -2121,23 +2121,23 @@ JamPlatesAccessoriesDB = {
 		},
 		["id"] = "Player-707-02D10A39",
 		["cp"] = {
-			["y"] = -2,
-			["x"] = 0,
 			["enabled"] = true,
-			["height"] = 16,
+			["x"] = 0,
+			["y"] = -2,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "CENTER",
+			["relative"] = "BOTTOM",
+			["height"] = 16,
 			["width"] = 12,
 		},
 		["combat"] = {
-			["y"] = -4,
-			["x"] = 0,
 			["enabled"] = true,
-			["height"] = 25,
+			["x"] = 0,
+			["y"] = -4,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "BOTTOM",
+			["relative"] = "BOTTOM",
+			["height"] = 25,
 			["width"] = 25,
 		},
 	},
@@ -2146,7 +2146,7 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 			["direction"] = true,
 			["scale"] = 1,
-			["showHostileBuff"] = true,
+			["showPlayerBuff"] = true,
 			["showFriendlyDebuff"] = true,
 			["yOffset"] = 14,
 			["showPlayerDebuff"] = true,
@@ -2160,65 +2160,65 @@ JamPlatesAccessoriesDB = {
 			["relative"] = "LEFT",
 			["growth"] = false,
 			["width"] = 17,
-			["y"] = 0,
+			["showHostileDebuff"] = true,
 			["x"] = 0,
 			["showPetDebuff"] = true,
 			["filter"] = {
 			},
-			["height"] = 17,
 			["showFriendlyBuff"] = true,
-			["showHostileDebuff"] = true,
-			["showPlayerBuff"] = true,
+			["height"] = 17,
+			["y"] = 0,
+			["showHostileBuff"] = true,
 		},
 		["threat"] = {
-			["y"] = 10,
-			["x"] = -1,
 			["enabled"] = false,
-			["anchor"] = "LEFT",
+			["x"] = -1,
+			["y"] = 10,
 			["height"] = 32,
-			["relative"] = "BOTTOMRIGHT",
 			["scale"] = 1,
+			["relative"] = "BOTTOMRIGHT",
+			["anchor"] = "LEFT",
 			["width"] = 32,
 		},
 		["name"] = "Dxnbz",
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["xOffset"] = -5,
+			["scale"] = 1,
 			["showHostileBuff"] = false,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = false,
-			["anchor"] = "BOTTOMLEFT",
+			["ShowBorder"] = true,
 			["showTime"] = true,
 			["yOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
 			["showPlayerBuff"] = false,
 			["showDefaultTime"] = false,
-			["y"] = 0,
+			["showHostileDebuff"] = false,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["defaultEnabled"] = false,
-			["showHostileDebuff"] = false,
+			["width"] = 17,
+			["y"] = 0,
 			["x"] = 0,
 			["showFriendlyBuff"] = false,
 			["filter"] = {
 			},
 			["height"] = 17,
-			["width"] = 17,
-			["scale"] = 1,
-			["ShowBorder"] = true,
+			["defaultEnabled"] = false,
+			["xOffset"] = -5,
+			["anchor"] = "BOTTOMLEFT",
 		},
 		["id"] = "Player-848-04B61465",
 		["combat"] = {
-			["y"] = 0,
-			["x"] = 0,
 			["enabled"] = true,
-			["anchor"] = "LEFT",
+			["x"] = 0,
+			["y"] = 0,
 			["height"] = 25,
-			["relative"] = "RIGHT",
 			["scale"] = 1,
+			["relative"] = "RIGHT",
+			["anchor"] = "LEFT",
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -2235,7 +2235,7 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 			["direction"] = true,
 			["scale"] = 1,
-			["showHostileBuff"] = true,
+			["showPlayerBuff"] = true,
 			["showFriendlyDebuff"] = true,
 			["yOffset"] = 14,
 			["showPlayerDebuff"] = true,
@@ -2249,65 +2249,65 @@ JamPlatesAccessoriesDB = {
 			["relative"] = "LEFT",
 			["growth"] = false,
 			["width"] = 17,
-			["y"] = 0,
+			["showHostileDebuff"] = true,
 			["x"] = 0,
 			["showPetDebuff"] = true,
 			["filter"] = {
 			},
-			["height"] = 17,
 			["showFriendlyBuff"] = true,
-			["showHostileDebuff"] = true,
-			["showPlayerBuff"] = true,
+			["height"] = 17,
+			["y"] = 0,
+			["showHostileBuff"] = true,
 		},
 		["threat"] = {
-			["y"] = 10,
-			["x"] = -1,
 			["enabled"] = false,
-			["height"] = 32,
+			["x"] = -1,
+			["y"] = 10,
 			["scale"] = 1,
-			["relative"] = "BOTTOMRIGHT",
 			["anchor"] = "LEFT",
+			["relative"] = "BOTTOMRIGHT",
+			["height"] = 32,
 			["width"] = 32,
 		},
 		["name"] = "Bbxl",
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["xOffset"] = -5,
+			["scale"] = 1,
 			["showHostileBuff"] = false,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = false,
-			["anchor"] = "BOTTOMLEFT",
+			["ShowBorder"] = true,
 			["showTime"] = true,
 			["yOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
 			["showPlayerBuff"] = false,
 			["showDefaultTime"] = false,
-			["y"] = 0,
+			["showHostileDebuff"] = false,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["defaultEnabled"] = false,
-			["showHostileDebuff"] = false,
+			["width"] = 17,
+			["y"] = 0,
 			["x"] = 0,
 			["showFriendlyBuff"] = false,
 			["filter"] = {
 			},
 			["height"] = 17,
-			["width"] = 17,
-			["scale"] = 1,
-			["ShowBorder"] = true,
+			["defaultEnabled"] = false,
+			["xOffset"] = -5,
+			["anchor"] = "BOTTOMLEFT",
 		},
 		["id"] = "Player-810-032DC4AC",
 		["combat"] = {
-			["y"] = 0,
-			["x"] = 0,
 			["enabled"] = true,
-			["height"] = 25,
+			["x"] = 0,
+			["y"] = 0,
 			["scale"] = 1,
-			["relative"] = "RIGHT",
 			["anchor"] = "LEFT",
+			["relative"] = "RIGHT",
+			["height"] = 25,
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -2324,9 +2324,9 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 			["direction"] = true,
 			["scale"] = 1,
-			["showPlayerBuff"] = true,
+			["showHostileBuff"] = true,
 			["showFriendlyDebuff"] = true,
-			["yOffset"] = 14,
+			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
 			["ShowBorder"] = true,
 			["showTime"] = true,
@@ -2335,43 +2335,43 @@ JamPlatesAccessoriesDB = {
 			["showPetBuff"] = true,
 			["xOffset"] = 0,
 			["showDefaultTime"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["relative"] = "LEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
-			["showHostileDebuff"] = true,
+			["width"] = 17,
+			["y"] = 0,
 			["x"] = 0,
 			["height"] = 17,
 			["filter"] = {
 			},
 			["showFriendlyBuff"] = true,
-			["y"] = 0,
-			["showHostileBuff"] = true,
-			["showPetDebuff"] = true,
+			["showHostileDebuff"] = true,
+			["showPlayerBuff"] = true,
+			["yOffset"] = 14,
 		},
 		["threat"] = {
-			["enabled"] = false,
-			["x"] = -1,
 			["y"] = 10,
-			["scale"] = 1,
+			["x"] = -1,
+			["enabled"] = false,
 			["anchor"] = "LEFT",
-			["relative"] = "BOTTOMRIGHT",
 			["height"] = 32,
+			["relative"] = "BOTTOMRIGHT",
+			["scale"] = 1,
 			["width"] = 32,
 		},
 		["name"] = "悠悠龟",
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["scale"] = 1,
+			["xOffset"] = -5,
 			["showHostileBuff"] = false,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
 			["yOffset"] = 0,
 			["showPlayerDebuff"] = false,
 			["anchor"] = "BOTTOMLEFT",
-			["showTime"] = true,
 			["invert"] = false,
+			["showTime"] = true,
 			["showPlayerBuff"] = false,
 			["enabled"] = true,
 			["showPetBuff"] = true,
@@ -2380,36 +2380,36 @@ JamPlatesAccessoriesDB = {
 			["y"] = 0,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["showHostileDebuff"] = false,
 			["x"] = 0,
 			["defaultEnabled"] = false,
 			["filter"] = {
 			},
 			["height"] = 17,
-			["ShowPet"] = true,
-			["xOffset"] = -5,
+			["width"] = 17,
+			["scale"] = 1,
 			["ShowBorder"] = true,
 		},
 		["id"] = "Player-2137-018B6F0C",
 		["cp"] = {
-			["y"] = -2,
-			["x"] = 0,
 			["enabled"] = true,
-			["height"] = 16,
+			["x"] = 0,
+			["y"] = -2,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "CENTER",
+			["relative"] = "BOTTOM",
+			["height"] = 16,
 			["width"] = 12,
 		},
 		["combat"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -4,
-			["scale"] = 1,
+			["x"] = 0,
+			["enabled"] = true,
 			["anchor"] = "BOTTOM",
-			["relative"] = "BOTTOM",
 			["height"] = 25,
+			["relative"] = "BOTTOM",
+			["scale"] = 1,
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -2439,24 +2439,24 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 		},
 		["threat"] = {
-			["enabled"] = false,
-			["x"] = -1,
 			["y"] = 10,
-			["anchor"] = "LEFT",
+			["x"] = -1,
+			["enabled"] = false,
 			["height"] = 32,
-			["relative"] = "BOTTOMRIGHT",
 			["scale"] = 1,
+			["relative"] = "BOTTOMRIGHT",
+			["anchor"] = "LEFT",
 			["width"] = 32,
 		},
 		["name"] = "悠悠龟",
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 			["scale"] = 1,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["y"] = 0,
 			["x"] = 0,
 			["ShowBorder"] = true,
@@ -2469,23 +2469,23 @@ JamPlatesAccessoriesDB = {
 		},
 		["id"] = "Player-1972-00FE7AB8",
 		["cp"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -2,
-			["anchor"] = "CENTER",
+			["x"] = 0,
+			["enabled"] = true,
 			["height"] = 16,
-			["relative"] = "BOTTOM",
 			["scale"] = 1,
+			["relative"] = "BOTTOM",
+			["anchor"] = "CENTER",
 			["width"] = 12,
 		},
 		["combat"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -4,
-			["anchor"] = "BOTTOM",
+			["x"] = 0,
+			["enabled"] = true,
 			["height"] = 25,
-			["relative"] = "BOTTOM",
 			["scale"] = 1,
+			["relative"] = "BOTTOM",
+			["anchor"] = "BOTTOM",
 			["width"] = 25,
 		},
 	},
@@ -2494,7 +2494,7 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 			["direction"] = true,
 			["scale"] = 1,
-			["showPlayerBuff"] = true,
+			["showHostileBuff"] = true,
 			["showFriendlyDebuff"] = true,
 			["yOffset"] = 14,
 			["showPlayerDebuff"] = true,
@@ -2508,65 +2508,65 @@ JamPlatesAccessoriesDB = {
 			["relative"] = "LEFT",
 			["growth"] = false,
 			["width"] = 17,
-			["showHostileDebuff"] = true,
+			["y"] = 0,
 			["x"] = 0,
 			["showPetDebuff"] = true,
 			["filter"] = {
 			},
-			["showFriendlyBuff"] = true,
 			["height"] = 17,
-			["y"] = 0,
-			["showHostileBuff"] = true,
+			["showFriendlyBuff"] = true,
+			["showHostileDebuff"] = true,
+			["showPlayerBuff"] = true,
 		},
 		["threat"] = {
-			["enabled"] = false,
-			["x"] = -1,
 			["y"] = 10,
-			["anchor"] = "LEFT",
+			["x"] = -1,
+			["enabled"] = false,
 			["height"] = 32,
-			["relative"] = "BOTTOMRIGHT",
 			["scale"] = 1,
+			["relative"] = "BOTTOMRIGHT",
+			["anchor"] = "LEFT",
 			["width"] = 32,
 		},
 		["name"] = "最初的悠悠",
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["scale"] = 1,
+			["xOffset"] = -5,
 			["showHostileBuff"] = false,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = false,
-			["ShowBorder"] = true,
+			["anchor"] = "BOTTOMLEFT",
 			["showTime"] = true,
 			["yOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
 			["showPlayerBuff"] = false,
 			["showDefaultTime"] = false,
-			["showHostileDebuff"] = false,
+			["y"] = 0,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["width"] = 17,
-			["y"] = 0,
+			["defaultEnabled"] = false,
+			["showHostileDebuff"] = false,
 			["x"] = 0,
 			["showFriendlyBuff"] = false,
 			["filter"] = {
 			},
 			["height"] = 17,
-			["defaultEnabled"] = false,
-			["xOffset"] = -5,
-			["anchor"] = "BOTTOMLEFT",
+			["width"] = 17,
+			["scale"] = 1,
+			["ShowBorder"] = true,
 		},
 		["id"] = "Player-810-032DFC9D",
 		["combat"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = 0,
-			["anchor"] = "LEFT",
+			["x"] = 0,
+			["enabled"] = true,
 			["height"] = 25,
-			["relative"] = "RIGHT",
 			["scale"] = 1,
+			["relative"] = "RIGHT",
+			["anchor"] = "LEFT",
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -2583,9 +2583,9 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 			["direction"] = true,
 			["scale"] = 1,
-			["showHostileBuff"] = true,
+			["showPlayerBuff"] = true,
 			["showFriendlyDebuff"] = true,
-			["showPetDebuff"] = true,
+			["yOffset"] = 14,
 			["showPlayerDebuff"] = true,
 			["ShowBorder"] = true,
 			["showTime"] = true,
@@ -2594,43 +2594,43 @@ JamPlatesAccessoriesDB = {
 			["showPetBuff"] = true,
 			["xOffset"] = 0,
 			["showDefaultTime"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 			["relative"] = "LEFT",
 			["growth"] = false,
-			["width"] = 17,
-			["y"] = 0,
+			["ShowPet"] = true,
+			["showHostileDebuff"] = true,
 			["x"] = 0,
 			["height"] = 17,
 			["filter"] = {
 			},
 			["showFriendlyBuff"] = true,
-			["showHostileDebuff"] = true,
-			["showPlayerBuff"] = true,
-			["yOffset"] = 14,
+			["y"] = 0,
+			["showHostileBuff"] = true,
+			["showPetDebuff"] = true,
 		},
 		["threat"] = {
-			["y"] = 10,
-			["x"] = -1,
 			["enabled"] = false,
-			["height"] = 32,
+			["x"] = -1,
+			["y"] = 10,
 			["scale"] = 1,
-			["relative"] = "BOTTOMRIGHT",
 			["anchor"] = "LEFT",
+			["relative"] = "BOTTOMRIGHT",
+			["height"] = 32,
 			["width"] = 32,
 		},
 		["name"] = "猴赛雷杀猪刀",
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["xOffset"] = -5,
+			["scale"] = 1,
 			["showHostileBuff"] = false,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
 			["yOffset"] = 0,
 			["showPlayerDebuff"] = true,
 			["anchor"] = "BOTTOMLEFT",
-			["invert"] = false,
 			["showTime"] = true,
+			["invert"] = false,
 			["showPlayerBuff"] = true,
 			["enabled"] = true,
 			["showPetBuff"] = true,
@@ -2639,36 +2639,36 @@ JamPlatesAccessoriesDB = {
 			["y"] = 0,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 			["showHostileDebuff"] = false,
 			["x"] = 0,
 			["defaultEnabled"] = false,
 			["filter"] = {
 			},
 			["height"] = 17,
-			["width"] = 17,
-			["scale"] = 1,
+			["ShowPet"] = true,
+			["xOffset"] = -5,
 			["ShowBorder"] = true,
 		},
 		["id"] = "Player-810-01C08B4C",
 		["cp"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -2,
-			["height"] = 16,
+			["x"] = 0,
+			["enabled"] = true,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "CENTER",
+			["relative"] = "BOTTOM",
+			["height"] = 16,
 			["width"] = 12,
 		},
 		["combat"] = {
-			["y"] = -4,
-			["x"] = 0,
 			["enabled"] = true,
-			["height"] = 25,
+			["x"] = 0,
+			["y"] = -4,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "BOTTOM",
+			["relative"] = "BOTTOM",
+			["height"] = 25,
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -2685,38 +2685,38 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 			["direction"] = true,
 			["scale"] = 1,
-			["showPlayerBuff"] = true,
+			["showHostileBuff"] = true,
 			["showFriendlyDebuff"] = true,
-			["yOffset"] = 14,
+			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
 			["ShowBorder"] = true,
 			["showTime"] = true,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["anchor"] = "TOPRIGHT",
-			["showDefaultTime"] = false,
 			["xOffset"] = 0,
+			["showDefaultTime"] = false,
+			["yOffset"] = 14,
 			["relative"] = "LEFT",
 			["growth"] = false,
 			["width"] = 17,
 			["showHostileDebuff"] = true,
 			["x"] = 0,
-			["showPetDebuff"] = true,
+			["anchor"] = "TOPRIGHT",
 			["filter"] = {
 			},
 			["showFriendlyBuff"] = true,
 			["height"] = 17,
 			["y"] = 0,
-			["showHostileBuff"] = true,
+			["showPlayerBuff"] = true,
 		},
 		["threat"] = {
 			["enabled"] = false,
 			["x"] = -1,
 			["y"] = 10,
-			["height"] = 32,
-			["scale"] = 1,
-			["relative"] = "BOTTOMRIGHT",
 			["anchor"] = "LEFT",
+			["height"] = 32,
+			["relative"] = "BOTTOMRIGHT",
+			["scale"] = 1,
 			["width"] = 32,
 		},
 		["name"] = "妈蛋",
@@ -2728,36 +2728,36 @@ JamPlatesAccessoriesDB = {
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
-			["ShowBorder"] = true,
+			["anchor"] = "BOTTOMLEFT",
 			["showTime"] = true,
-			["yOffset"] = 0,
+			["xOffset"] = -5,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["showPlayerBuff"] = true,
+			["yOffset"] = 0,
 			["showDefaultTime"] = false,
-			["showHostileDebuff"] = false,
+			["showPlayerBuff"] = true,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["width"] = 17,
+			["defaultEnabled"] = false,
 			["y"] = 0,
 			["x"] = 0,
-			["showFriendlyBuff"] = false,
+			["height"] = 17,
 			["filter"] = {
 			},
-			["height"] = 17,
-			["defaultEnabled"] = false,
-			["xOffset"] = -5,
-			["anchor"] = "BOTTOMLEFT",
+			["showFriendlyBuff"] = false,
+			["showHostileDebuff"] = false,
+			["width"] = 17,
+			["ShowBorder"] = true,
 		},
 		["id"] = "Player-810-033D65B4",
 		["combat"] = {
 			["enabled"] = true,
 			["x"] = 0,
 			["y"] = 0,
-			["height"] = 25,
-			["scale"] = 1,
-			["relative"] = "RIGHT",
 			["anchor"] = "LEFT",
+			["height"] = 25,
+			["relative"] = "RIGHT",
+			["scale"] = 1,
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -2787,13 +2787,13 @@ JamPlatesAccessoriesDB = {
 			["anchor"] = "RIGHT",
 		},
 		["threat"] = {
-			["y"] = 10,
-			["x"] = -1,
 			["enabled"] = false,
-			["scale"] = 1,
+			["x"] = -1,
+			["y"] = 10,
 			["anchor"] = "LEFT",
-			["relative"] = "BOTTOMRIGHT",
 			["height"] = 32,
+			["relative"] = "BOTTOMRIGHT",
+			["scale"] = 1,
 			["width"] = 32,
 		},
 		["name"] = "弹弹堂一号",
@@ -2804,7 +2804,7 @@ JamPlatesAccessoriesDB = {
 			["scale"] = 1,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["y"] = 0,
 			["x"] = 0,
 			["anchor"] = "BOTTOMLEFT",
@@ -2813,40 +2813,40 @@ JamPlatesAccessoriesDB = {
 			["ShowBorder"] = true,
 			["height"] = 17,
 			["invert"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 		},
 		["id"] = "Player-877-03F5B9FB",
 		["cp"] = {
-			["y"] = -2,
-			["x"] = 0,
 			["enabled"] = true,
-			["scale"] = 1,
+			["x"] = 0,
+			["y"] = -2,
 			["anchor"] = "CENTER",
-			["relative"] = "BOTTOM",
 			["height"] = 16,
+			["relative"] = "BOTTOM",
+			["scale"] = 1,
 			["width"] = 12,
 		},
 		["combat"] = {
-			["y"] = -4,
-			["x"] = 0,
 			["enabled"] = true,
-			["scale"] = 1,
+			["x"] = 0,
+			["y"] = -4,
 			["anchor"] = "BOTTOM",
-			["relative"] = "BOTTOM",
 			["height"] = 25,
+			["relative"] = "BOTTOM",
+			["scale"] = 1,
 			["width"] = 25,
 		},
 	},
 	["spells"] = {
 		[204262] = {
 			["duration"] = 0,
-			["name"] = "鬼灵恢复",
 			["icon"] = "Interface\\Icons\\ability_shaman_freedomwolf",
+			["name"] = "鬼灵恢复",
 		},
-		[61447] = {
-			["duration"] = 0,
-			["name"] = "旅行者的苔原猛犸象",
-			["icon"] = "Interface\\Icons\\Ability_Mount_Mammoth_Brown_3seater",
+		[225249] = {
+			["duration"] = 2,
+			["name"] = "毁灭践踏",
+			["icon"] = "Interface\\Icons\\Ability_WarStomp",
 		},
 		[213988] = {
 			["duration"] = 5,
@@ -2859,8 +2859,8 @@ JamPlatesAccessoriesDB = {
 		},
 		[223202] = {
 			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Achievement_Arena_2v2_5",
 			["name"] = "解散守卫",
+			["icon"] = "Interface\\Icons\\Achievement_Arena_2v2_5",
 		},
 		[195049] = {
 			["icon"] = "INTERFACE\\ICONS\\achievement_halloween_worms_01",
@@ -2872,8 +2872,8 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\spell_shaman_unleashweapon_earth",
 		},
 		[204263] = {
-			["icon"] = "Interface\\Icons\\ability_paladin_blindinglight2",
 			["name"] = "闪光力场",
+			["icon"] = "Interface\\Icons\\ability_paladin_blindinglight2",
 			["debuffType"] = "Magic",
 		},
 		[92166] = {
@@ -2890,8 +2890,8 @@ JamPlatesAccessoriesDB = {
 			["duration"] = 4,
 		},
 		[219108] = {
-			["name"] = "被遗忘者的哭号",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_DevouringPlague",
+			["name"] = "被遗忘者的哭号",
 			["debuffType"] = "Magic",
 		},
 		[199145] = {
@@ -2974,31 +2974,35 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_Cripple",
 			["debuffType"] = "Magic",
 		},
-		[229349] = {
-			["name"] = "邪恶之书的诅咒",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Fumble",
+		[225254] = {
+			["icon"] = "Interface\\Icons\\Spell_Nature_Slow",
+			["name"] = "强力减速",
 			["debuffType"] = "Magic",
 		},
 		[221671] = {
 			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Bear",
 			["duration"] = 0,
 		},
-		[214505] = {
-			["icon"] = "Interface\\Icons\\sha_spell_warlock_demonsoul_nightmare",
-			["duration"] = 0,
+		[23242] = {
+			["name"] = "迅捷绿色迅猛龙",
+			["icon"] = "Interface\\Icons\\Ability_Mount_Raptor",
 		},
 		[153592] = {
 			["name"] = "闪光步伐",
 			["icon"] = "Interface\\Icons\\Spell_DeathKnight_PathOfFrost",
 		},
-		[224743] = {
-			["name"] = "分析",
-			["icon"] = "Interface\\Icons\\spell_mage_presenceofmind",
-			["debuffType"] = "Magic",
+		[167413] = {
+			["name"] = "锁定时间",
+			["icon"] = "Interface\\Icons\\Spell_Holy_BorrowedTime",
 		},
-		[209387] = {
-			["icon"] = "Interface\\Icons\\inv_misc_volatileshadow",
+		[188400] = {
+			["name"] = "迸裂创伤",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_BloodFrenzy",
+		},
+		[221672] = {
 			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\inv_moosemount2",
+			["name"] = "风暴之触雄鹿",
 		},
 		[206316] = {
 			["duration"] = 10,
@@ -3014,9 +3018,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "生命祝福",
 			["icon"] = "INTERFACE\\ICONS\\spell_shaman_unleashweapon_frost",
 		},
-		[196591] = {
-			["name"] = "死亡凝视",
-			["icon"] = "INTERFACE\\ICONS\\achievement_dungeon_the stonecore_slabhide",
+		[217066] = {
+			["name"] = "哀伤噬咬",
+			["icon"] = "Interface\\Icons\\spell_beastmaster_wolf",
 		},
 		[16166] = {
 			["name"] = "元素掌握",
@@ -3025,8 +3029,8 @@ JamPlatesAccessoriesDB = {
 			["debuffType"] = "Magic",
 		},
 		[218090] = {
-			["name"] = "深水咆哮",
 			["icon"] = "Interface\\Icons\\INV_Elemental_Primal_Water",
+			["name"] = "深水咆哮",
 			["debuffType"] = "Magic",
 		},
 		[210924] = {
@@ -3063,18 +3067,19 @@ JamPlatesAccessoriesDB = {
 			["name"] = "受折磨者的哭号",
 			["icon"] = "Interface\\Icons\\sha_ability_rogue_envelopingshadows_nightmare",
 		},
-		[197105] = {
-			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\INV_Misc_Fish_04",
-			["debuffType"] = "Magic",
+		[21067] = {
+			["icon"] = "Interface\\Icons\\Spell_Nature_CorrosiveBreath",
+			["name"] = "毒液箭",
+			["debuffType"] = "Poison",
 		},
-		[156667] = {
-			["name"] = "黑铁铠甲",
-			["icon"] = "Interface\\Icons\\INV_Misc_ArmorKit_09",
+		[164857] = {
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\Achievement_Zone_LochModan",
+			["name"] = "生存专家",
 		},
 		[8680] = {
-			["name"] = "致伤药膏",
 			["icon"] = "Interface\\Icons\\INV_Misc_Herb_16",
+			["name"] = "致伤药膏",
 			["debuffType"] = "Poison",
 		},
 		[213486] = {
@@ -3101,13 +3106,13 @@ JamPlatesAccessoriesDB = {
 			["debuffType"] = "Magic",
 		},
 		[212975] = {
-			["name"] = "兰娜瑟尔的挽歌",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_DeathAndDecay",
+			["name"] = "兰娜瑟尔的挽歌",
 			["debuffType"] = "Magic",
 		},
 		[211440] = {
-			["icon"] = "Interface\\Icons\\Spell_Holy_PersuitofJustice",
 			["name"] = "奥尔麦什，希望之索",
+			["icon"] = "Interface\\Icons\\Spell_Holy_PersuitofJustice",
 			["debuffType"] = "Magic",
 		},
 		[176121] = {
@@ -3124,10 +3129,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "梦魇",
 			["icon"] = "Interface\\Icons\\ability_fixated_state_red",
 		},
-		[219119] = {
-			["name"] = "痛苦诅咒",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_CurseOfSargeras",
-			["debuffType"] = "Curse",
+		[202739] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\spell_priest_divinestar_holy",
+			["name"] = "安瑟的祝福",
 		},
 		[199668] = {
 			["name"] = "玉珑的祝福",
@@ -3156,14 +3161,14 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_Metamorphosis",
 			["duration"] = 0,
 		},
-		[215537] = {
-			["duration"] = 6.461,
-			["icon"] = "Interface\\Icons\\Ability_Warrior_Trauma",
-			["name"] = "创伤",
+		[211442] = {
+			["name"] = "奥尔麦什，希望之索",
+			["icon"] = "Interface\\Icons\\Spell_Holy_DivineProvidence",
+			["debuffType"] = "Magic",
 		},
 		[605] = {
-			["name"] = "精神控制",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowWordDominate",
+			["name"] = "精神控制",
 			["debuffType"] = "Magic",
 		},
 		[187896] = {
@@ -3186,12 +3191,12 @@ JamPlatesAccessoriesDB = {
 		},
 		[190456] = {
 			["duration"] = 15,
-			["name"] = "无视苦痛",
 			["icon"] = "Interface\\Icons\\ability_warrior_renewedvigor",
+			["name"] = "无视苦痛",
 		},
 		[211443] = {
-			["name"] = "奥尔麦什，希望之索",
 			["icon"] = "Interface\\Icons\\Spell_Holy_Chastise",
+			["name"] = "奥尔麦什，希望之索",
 			["debuffType"] = "Magic",
 		},
 		[200182] = {
@@ -3203,18 +3208,18 @@ JamPlatesAccessoriesDB = {
 			["name"] = "恶魔代价",
 			["icon"] = "Interface\\Icons\\Ability_Warlock_ImprovedDemonicTactics",
 		},
-		[230383] = {
-			["name"] = "猎物",
-			["icon"] = "Interface\\Icons\\spell_hunter_focusingshot",
+		[132103] = {
+			["name"] = "铜墙铁壁",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldMastery",
 		},
 		[84751] = {
 			["duration"] = 0,
 			["icon"] = "INTERFACE\\ICONS\\ability_mount_fossilizedraptor",
 			["name"] = "化石迅猛龙",
 		},
-		[186362] = {
-			["name"] = "古尔丹之怒",
-			["icon"] = "Interface\\Icons\\warlock_curse_shadow_aura",
+		[24331] = {
+			["icon"] = "Interface\\Icons\\Ability_Druid_Disembowel",
+			["duration"] = 9,
 		},
 		[101643] = {
 			["name"] = "魂体双分",
@@ -3233,10 +3238,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "飞毯",
 			["icon"] = "Interface\\Icons\\ability_mount_flyingcarpet",
 		},
-		[222706] = {
-			["duration"] = 20,
-			["icon"] = "Interface\\Icons\\sha_ability_rogue_envelopingshadows_nightmare",
-			["name"] = "毒化梦境",
+		[202231] = {
+			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\rogue_leeching_poison",
+			["name"] = "吸血",
 		},
 		[159234] = {
 			["duration"] = 6,
@@ -3261,10 +3266,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "诅咒之韧",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyStrength",
 		},
-		[166401] = {
-			["icon"] = "Interface\\Icons\\Ability_Mage_LivingBomb",
-			["name"] = "燃烧躯体",
-			["debuffType"] = "Magic",
+		[17229] = {
+			["duration"] = 0,
+			["name"] = "冬泉霜刃豹",
+			["icon"] = "Interface\\Icons\\Ability_Mount_PinkTiger",
 		},
 		[218613] = {
 			["icon"] = "Interface\\Icons\\spell_warrior_wildstrike",
@@ -3279,8 +3284,8 @@ JamPlatesAccessoriesDB = {
 			["duration"] = 3,
 		},
 		[208888] = {
-			["icon"] = "Interface\\Icons\\Spell_Nature_Regenerate",
 			["name"] = "暗影猎手的回复",
+			["icon"] = "Interface\\Icons\\Spell_Nature_Regenerate",
 			["debuffType"] = "Magic",
 		},
 		[197115] = {
@@ -3288,8 +3293,8 @@ JamPlatesAccessoriesDB = {
 			["duration"] = 0,
 		},
 		[219126] = {
-			["icon"] = "Interface\\Icons\\spell_fire_fireballgreen",
 			["name"] = "腥臭喷吐",
+			["icon"] = "Interface\\Icons\\spell_fire_fireballgreen",
 			["debuffType"] = "Disease",
 		},
 		[166403] = {
@@ -3322,8 +3327,8 @@ JamPlatesAccessoriesDB = {
 		},
 		[185855] = {
 			["duration"] = 12,
-			["name"] = "裂痕",
 			["icon"] = "Interface\\Icons\\ability_hunter_laceration",
+			["name"] = "裂痕",
 		},
 		[171011] = {
 			["duration"] = 0,
@@ -3332,12 +3337,12 @@ JamPlatesAccessoriesDB = {
 		},
 		[159238] = {
 			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\ability_skeer_bloodletting",
 			["name"] = "破碎之血",
+			["icon"] = "Interface\\Icons\\ability_skeer_bloodletting",
 		},
 		[204795] = {
-			["icon"] = "Interface\\Icons\\ability_skyreach_wind_wall",
 			["name"] = "迷雾诅咒",
+			["icon"] = "Interface\\Icons\\ability_skyreach_wind_wall",
 			["debuffType"] = "Curse",
 		},
 		[193534] = {
@@ -3369,8 +3374,8 @@ JamPlatesAccessoriesDB = {
 			["name"] = "油滑之靴",
 		},
 		[196606] = {
-			["name"] = "暗影启迪",
 			["icon"] = "Interface\\Icons\\warlock_curse_shadow",
+			["name"] = "暗影启迪",
 			["debuffType"] = "Magic",
 		},
 		[209915] = {
@@ -3381,10 +3386,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "凶猛伤痕",
 			["icon"] = "Interface\\Icons\\Ability_Druid_FerociousBite",
 		},
-		[155145] = {
-			["name"] = "奥术洪流",
-			["duration"] = 2,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Teleport",
+		[175620] = {
+			["icon"] = "Interface\\Icons\\spell_fire_rune",
+			["name"] = "灼疗",
 			["debuffType"] = "Magic",
 		},
 		[176644] = {
@@ -3406,10 +3410,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "变形印记",
 			["icon"] = "Interface\\Icons\\spell_druid_tirelesspursuit",
 		},
-		[171014] = {
-			["duration"] = 5,
-			["icon"] = "Interface\\Icons\\Spell_Fire_SoulBurn",
-			["name"] = "沸腾",
+		[203774] = {
+			["name"] = "石化",
+			["icon"] = "Interface\\Icons\\INV_Misc_Statue_05",
 		},
 		[142861] = {
 			["name"] = "上古毒瘴",
@@ -3457,18 +3460,18 @@ JamPlatesAccessoriesDB = {
 			["debuffType"] = "",
 		},
 		[196098] = {
-			["icon"] = "INTERFACE\\ICONS\\spell_warlock_demonsoul",
 			["name"] = "灵魂收割",
+			["icon"] = "INTERFACE\\ICONS\\spell_warlock_demonsoul",
 			["debuffType"] = "Magic",
 		},
 		[196610] = {
 			["icon"] = "Interface\\Icons\\ability_skyreach_wind",
 			["duration"] = 6,
 		},
-		[209407] = {
-			["name"] = "欧奈斯的自负",
-			["icon"] = "Interface\\Icons\\ability_druid_stellarflare",
-			["debuffType"] = "Magic",
+		[225787] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\inv_legionadventure",
+			["name"] = "战士的印记",
 		},
 		[222204] = {
 			["duration"] = 0,
@@ -3515,20 +3518,17 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\sha_inv_elemental_primal_shadow_nightmare",
 		},
 		[204802] = {
-			["icon"] = "Interface\\Icons\\ability_skyreach_wind",
 			["name"] = "迷雾诅咒",
+			["icon"] = "Interface\\Icons\\ability_skyreach_wind",
 			["debuffType"] = "Curse",
 		},
-		[177161] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\Spell_Holy_MindSooth",
-			["name"] = "大法师的灼热",
+		[205826] = {
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelFireward",
+			["duration"] = 0,
 		},
-		[3355] = {
-			["name"] = "冰冻陷阱",
-			["duration"] = 60,
-			["icon"] = "Interface\\Icons\\Spell_Frost_ChainsOfIce",
-			["debuffType"] = "Magic",
+		[161293] = {
+			["name"] = "碎铁之暴怒",
+			["icon"] = "Interface\\Icons\\spell_beastmaster_elekk",
 		},
 		[182280] = {
 			["name"] = "炮击",
@@ -3554,10 +3554,11 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\spell_druid_primaltenacity",
 			["name"] = "蛮荒诸神之怒",
 		},
-		[197637] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Ability_Druid_Starfall",
-			["name"] = "星界增效",
+		[853] = {
+			["name"] = "制裁之锤",
+			["duration"] = 3,
+			["icon"] = "Interface\\Icons\\Spell_Holy_SealOfMight",
+			["debuffType"] = "Magic",
 		},
 		[161294] = {
 			["name"] = "虐牙之迅捷",
@@ -3589,18 +3590,19 @@ JamPlatesAccessoriesDB = {
 			["name"] = "翠绿熊猫人凤凰",
 			["icon"] = "Interface\\Icons\\ability_mount_pandarenphoenix_yellow",
 		},
-		[218625] = {
-			["icon"] = "Interface\\Icons\\spell_fel_incinerate",
+		[871] = {
 			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldWall",
+			["name"] = "盾墙",
 		},
 		[182794] = {
 			["duration"] = 8,
 			["icon"] = "Interface\\Icons\\spell_rogue_shadow_reflection",
 			["debuffType"] = "Magic",
 		},
-		[48018] = {
-			["name"] = "恶魔法阵",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_DemonicCircleSummon",
+		[79640] = {
+			["name"] = "增强智力",
+			["icon"] = "INTERFACE\\ICONS\\inv_potione_5",
 		},
 		[155665] = {
 			["name"] = "激动",
@@ -3630,13 +3632,13 @@ JamPlatesAccessoriesDB = {
 			["name"] = "法力分流",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_ManaFeed",
 		},
-		[217091] = {
-			["name"] = "穿刺戳击",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_BloodBath",
+		[176141] = {
+			["name"] = "冷固的熔渣",
+			["icon"] = "Interface\\Icons\\achievement_battleground_silvershardmines",
 		},
 		[209413] = {
-			["name"] = "镇压",
 			["icon"] = "Interface\\Icons\\Spell_Arcane_ArcanePotency",
+			["name"] = "镇压",
 			["debuffType"] = "Magic",
 		},
 		[16591] = {
@@ -3675,11 +3677,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "元素杀戮",
 			["icon"] = "Interface\\Icons\\inv_axe_65",
 		},
-		[205320] = {
-			["name"] = "风领主之击",
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\inv_hand_1h_artifactskywall_d_01",
-			["debuffType"] = "Magic",
+		[10793] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Ability_Mount_BlackPanther",
+			["name"] = "条纹夜刃豹",
 		},
 		[161299] = {
 			["icon"] = "Interface\\Icons\\Ability_Creature_Disease_03",
@@ -3760,10 +3761,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "紫色骷髅战马",
 			["icon"] = "Interface\\Icons\\Ability_Mount_Undeadhorse",
 		},
-		[165909] = {
-			["icon"] = "Interface\\Icons\\ability_paladin_blindinglight",
-			["name"] = "秩序之源",
-			["debuffType"] = "Magic",
+		[186384] = {
+			["name"] = "毒害之云",
+			["icon"] = "INTERFACE\\ICONS\\spell_festergutgas",
 		},
 		[46740] = {
 			["name"] = "个人天气制造机",
@@ -3785,10 +3785,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "复仇之怒",
 			["icon"] = "Interface\\Icons\\Spell_Holy_AvengineWrath",
 		},
-		[203277] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\inv_ember",
-			["name"] = "易燃",
+		[66847] = {
+			["name"] = "条纹晨刃豹",
+			["icon"] = "Interface\\Icons\\Ability_Mount_WhiteTiger",
 		},
 		[179219] = {
 			["name"] = "幻影邪能炸弹",
@@ -3796,8 +3795,8 @@ JamPlatesAccessoriesDB = {
 		},
 		[204301] = {
 			["duration"] = 10,
-			["name"] = "祝福之锤",
 			["icon"] = "Interface\\Icons\\paladin_retribution",
+			["name"] = "祝福之锤",
 		},
 		[221705] = {
 			["name"] = "铸造法阵",
@@ -3808,10 +3807,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "大法师的炽燃",
 			["icon"] = "Interface\\Icons\\spell_mage_overpowered",
 		},
-		[97560] = {
-			["duration"] = 0,
-			["name"] = "堕落火鹰",
-			["icon"] = "Interface\\Icons\\INV_Misc_Orb_04",
+		[227848] = {
+			["name"] = "神圣之地",
+			["icon"] = "Interface\\Icons\\Spell_Holy_InnerFire",
 		},
 		[225289] = {
 			["icon"] = "Interface\\Icons\\Ability_TheBlackArrow",
@@ -3834,81 +3832,100 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Mount_WhiteTiger",
 			["name"] = "条纹霜刃豹",
 		},
-		[171543] = {
-			["name"] = "团结就是力量",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_BloodFrenzy",
-		},
-		[221707] = {
-			["name"] = "守备官之力",
-			["icon"] = "Interface\\Icons\\spell_paladin_holyprism",
-		},
-		[211470] = {
-			["name"] = "蛊惑",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_SoothingKiss",
-			["debuffType"] = "Magic",
+		[183828] = {
+			["name"] = "死亡烙印",
+			["icon"] = "Interface\\Icons\\warlock_summon_doomguard",
 		},
 		[180746] = {
 			["name"] = "进食充分",
 			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
 		},
+		[221707] = {
+			["name"] = "守备官之力",
+			["icon"] = "Interface\\Icons\\spell_paladin_holyprism",
+		},
 		[221686] = {
 			["name"] = "美酒汽泡",
 			["icon"] = "INTERFACE\\ICONS\\creatureportrait_bubble",
 		},
-		[176151] = {
-			["duration"] = 3600,
-			["icon"] = "INTERFACE\\ICONS\\spell_shadow_mindflay",
-			["name"] = "疯狂耳语",
+		[194235] = {
+			["duration"] = 0,
+			["name"] = "虚空撕裂",
+			["icon"] = "Interface\\Icons\\ability_priest_voidentropy",
+		},
+		[225963] = {
+			["icon"] = "Interface\\Icons\\creatureportrait_saberworg",
+			["duration"] = 12,
+		},
+		[211470] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_SoothingKiss",
+			["name"] = "蛊惑",
+			["debuffType"] = "Magic",
+		},
+		[209388] = {
+			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\Spell_Holy_PureOfHeart",
+			["name"] = "秩序壁垒",
 		},
 		[209423] = {
-			["icon"] = "Interface\\Icons\\inv_firearm_2h_rifle_pvppandarias1_c_01",
 			["name"] = "绿皮的浸水腕轮",
+			["icon"] = "Interface\\Icons\\inv_firearm_2h_rifle_pvppandarias1_c_01",
 			["debuffType"] = "Magic",
 		},
-		[177175] = {
-			["name"] = "大法师的炽燃",
-			["icon"] = "Interface\\Icons\\spell_mage_overpowered",
+		[176151] = {
+			["duration"] = 3600,
+			["name"] = "疯狂耳语",
+			["icon"] = "INTERFACE\\ICONS\\spell_shadow_mindflay",
 		},
-		[157644] = {
-			["name"] = "强化烟火之术",
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Spell_Fire_FireBolt02",
-			["debuffType"] = "Magic",
+		[221708] = {
+			["name"] = "守备官之骇",
+			["icon"] = "Interface\\Icons\\spell_paladin_holyprism",
 		},
-		[165830] = {
-			["name"] = "爆击",
-			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_06",
+		[1098] = {
+			["name"] = "奴役恶魔",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_EnslaveDemon",
+		},
+		[197625] = {
+			["name"] = "枭兽形态",
+			["icon"] = "Interface\\Icons\\Spell_Nature_ForceOfNature",
+		},
+		[223912] = {
+			["name"] = "碾碎护甲",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldBreak",
 		},
 		[211471] = {
 			["duration"] = 12,
 			["icon"] = "Interface\\Icons\\sha_spell_fire_blueimmolation_nightmare",
 			["name"] = "轻蔑之触",
 		},
-		[182811] = {
-			["duration"] = 9,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_ConeOfSilence",
+		[164547] = {
+			["name"] = "月光增效",
+			["duration"] = 40,
+			["icon"] = "Interface\\Icons\\Spell_Arcane_StarFire",
 			["debuffType"] = "Magic",
 		},
-		[223912] = {
-			["name"] = "碾碎护甲",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldBreak",
+		[211939] = {
+			["duration"] = 30,
+			["name"] = "上古之梦",
+			["icon"] = "Interface\\Icons\\INV_Misc_Head_Dragon_Green",
 		},
-		[128800] = {
-			["icon"] = "Interface\\Icons\\INV_Drink_05",
-			["duration"] = 0,
+		[63619] = {
+			["duration"] = 5,
+			["name"] = "暗影爬行",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_ChillTouch",
 		},
-		[191920] = {
-			["name"] = "糖棒",
-			["icon"] = "Interface\\Icons\\INV_Misc_Food_61",
+		[156096] = {
+			["name"] = "死亡标记",
+			["icon"] = "Interface\\Icons\\ability_blackhand_marked4death",
 		},
 		[177176] = {
 			["duration"] = 10,
 			["name"] = "大法师的炽燃",
 			["icon"] = "Interface\\Icons\\spell_mage_overpowered",
 		},
-		[169402] = {
-			["name"] = "小戈隆碾压",
-			["icon"] = "Interface\\Icons\\Ability_Smash",
+		[199337] = {
+			["icon"] = "INTERFACE\\ICONS\\ability_hunter_traplauncher",
+			["duration"] = 12,
 		},
 		[68641] = {
 			["name"] = "诱惑香水",
@@ -3919,15 +3936,13 @@ JamPlatesAccessoriesDB = {
 			["name"] = "恶魔传送门",
 			["icon"] = "Interface\\Icons\\spell_warlock_demonicportal_green",
 		},
-		[191464] = {
-			["duration"] = 214823.008,
-			["name"] = "凡图斯符文：乌索克",
-			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_nightmare",
+		[162490] = {
+			["name"] = "燃烧",
+			["icon"] = "Interface\\Icons\\Ability_Mage_FireStarter",
 		},
-		[212988] = {
-			["duration"] = 4,
-			["icon"] = "Interface\\Icons\\artifactability_vengeancedemonhunter_painbringer",
-			["name"] = "痛苦使者",
+		[196111] = {
+			["icon"] = "Interface\\Icons\\spell_druid_bloodythrash",
+			["duration"] = 14.999,
 		},
 		[208913] = {
 			["name"] = "哨兵的视野",
@@ -3944,23 +3959,24 @@ JamPlatesAccessoriesDB = {
 			["name"] = "无法移动",
 			["icon"] = "Interface\\Icons\\Spell_Nature_Slow",
 		},
-		[193702] = {
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelFire",
-			["duration"] = 12,
+		[214044] = {
+			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\inv_enchant_essencearcanelarge",
+			["debuffType"] = "Magic",
 		},
 		[215056] = {
 			["duration"] = 7.5,
 			["icon"] = "INTERFACE\\ICONS\\spell_druid_thrash",
 			["name"] = "裂体撕扯",
 		},
-		[198819] = {
-			["name"] = "致死打击",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_SavageBlow",
+		[193702] = {
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelFire",
+			["duration"] = 12,
 		},
-		[163505] = {
-			["duration"] = 4,
-			["name"] = "斜掠",
-			["icon"] = "Interface\\Icons\\Ability_Druid_Disembowel",
+		[202912] = {
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\Spell_Holy_SearingLight",
+			["name"] = "艾露恩之怒",
 		},
 		[224782] = {
 			["icon"] = "Interface\\Icons\\Ability_TheBlackArrow",
@@ -3970,10 +3986,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_BloodFrenzy",
 			["duration"] = 60,
 		},
-		[201236] = {
+		[209426] = {
 			["duration"] = 0,
-			["name"] = "自然之赐",
-			["icon"] = "Interface\\Icons\\Spell_Nature_HealingTouch",
+			["icon"] = "Interface\\Icons\\ability_demonhunter_darkness",
+			["name"] = "黑暗",
 		},
 		[226318] = {
 			["name"] = "破坏魔的对称手套",
@@ -3983,33 +3999,33 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Mount_Kodo_01",
 			["duration"] = 0,
 		},
-		[194085] = {
-			["name"] = "折磨梦境",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_LifeDrain02",
-			["debuffType"] = "Magic",
+		[227806] = {
+			["name"] = "无尽寒冬",
+			["icon"] = "Interface\\Icons\\ability_deathknight_remorselesswinters2",
 		},
 		[195094] = {
 			["duration"] = 9,
 			["name"] = "珊瑚猛击",
 			["icon"] = "Interface\\Icons\\ability_skeer_bloodletting",
 		},
-		[215562] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\Ability_Hunter_RapidKilling",
-			["name"] = "战争机器",
+		[198817] = {
+			["name"] = "打磨利刃",
+			["icon"] = "Interface\\Icons\\spell_warrior_sharpenblade",
 		},
-		[175643] = {
-			["name"] = "回旋利刃",
-			["icon"] = "Interface\\Icons\\Ability_Whirlwind",
+		[208403] = {
+			["name"] = "瓦莉拉的意志",
+			["icon"] = "INTERFACE\\ICONS\\ability_rogue_sturdyrecuperate",
+			["debuffType"] = "Magic",
 		},
-		[202905] = {
-			["name"] = "纳瓦罗格的指引",
-			["icon"] = "INTERFACE\\ICONS\\inv_spiritshard_01",
+		[163505] = {
+			["duration"] = 4,
+			["name"] = "斜掠",
+			["icon"] = "Interface\\Icons\\Ability_Druid_Disembowel",
 		},
-		[209427] = {
-			["duration"] = 0,
-			["name"] = "暗影之抚",
-			["icon"] = "Interface\\Icons\\ability_rogue_energeticrecovery",
+		[34969] = {
+			["icon"] = "Interface\\Icons\\Spell_Nature_CorrosiveBreath",
+			["name"] = "中毒",
+			["debuffType"] = "Poison",
 		},
 		[189464] = {
 			["name"] = "腐臭蜂群",
@@ -4020,9 +4036,11 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Warlock_EmpoweredImp",
 			["name"] = "母亲的爱",
 		},
-		[81782] = {
-			["name"] = "真言术：障",
-			["icon"] = "Interface\\Icons\\spell_holy_powerwordbarrier",
+		[233499] = {
+			["name"] = "痛苦无常",
+			["duration"] = 6.564,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_UnstableAffliction_3",
+			["debuffType"] = "Magic",
 		},
 		[215570] = {
 			["duration"] = 10,
@@ -4039,80 +4057,83 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Mount_WarHippogryph",
 			["name"] = "塞纳里奥作战角鹰兽",
 		},
-		[227806] = {
-			["name"] = "无尽寒冬",
-			["icon"] = "Interface\\Icons\\ability_deathknight_remorselesswinters2",
+		[155315] = {
+			["name"] = "萨满之石：烈焰之触",
+			["icon"] = "Interface\\Icons\\Spell_Shaman_LavaBurst",
 		},
-		[118116] = {
-			["name"] = "震耳尖啸",
-			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Bat",
+		[202270] = {
+			["icon"] = "Interface\\Icons\\ability_paladin_bladeofjusticeblue",
+			["duration"] = 5.496,
 		},
 		[222225] = {
 			["duration"] = 6,
 			["name"] = "孵化",
 			["icon"] = "Interface\\Icons\\INV_Misc_MonsterSpiderCarapace_01",
 		},
-		[192925] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\inv_artifact_bloodoftheassassinated",
-			["name"] = "遇刺者之血",
+		[198813] = {
+			["duration"] = 3,
+			["name"] = "复仇回避",
+			["icon"] = "Interface\\Icons\\ability_demonhunter_vengefulretreat2",
 		},
 		[194584] = {
 			["duration"] = 6,
 			["name"] = "致残挥砍",
 			["icon"] = "INTERFACE\\ICONS\\warrior_talent_icon_mastercleaver",
 		},
-		[158241] = {
-			["name"] = "烈焰",
-			["icon"] = "Interface\\Icons\\Spell_Fire_Fire",
-		},
-		[189990] = {
-			["name"] = "献祭",
-			["icon"] = "Interface\\Icons\\Spell_Fire_Immolation",
+		[182811] = {
+			["duration"] = 9,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_ConeOfSilence",
 			["debuffType"] = "Magic",
+		},
+		[138425] = {
+			["duration"] = 0,
+			["name"] = "岩灰原始恐角龙",
+			["icon"] = "Interface\\Icons\\ability_mount_triceratopsmount_grey",
 		},
 		[155170] = {
 			["name"] = "激怒",
 			["icon"] = "Interface\\Icons\\Spell_Misc_EmotionAngry",
 		},
-		[24331] = {
-			["icon"] = "Interface\\Icons\\Ability_Druid_Disembowel",
-			["duration"] = 9,
+		[200284] = {
+			["name"] = "缠绕之网",
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_web_02",
 		},
-		[171131] = {
-			["name"] = "苦修",
-			["icon"] = "Interface\\Icons\\Spell_Holy_Penance",
+		[166057] = {
+			["name"] = "刺骨之寒",
+			["icon"] = "Interface\\Icons\\Spell_Deathknight_FrostPresence",
+			["debuffType"] = "Magic",
 		},
 		[144421] = {
 			["name"] = "腐化",
 			["icon"] = "Interface\\Icons\\ability_titankeeper_corrupt",
 		},
 		[16593] = {
-			["name"] = "诺格弗格药剂",
 			["icon"] = "Interface\\Icons\\Spell_Magic_FeatherFall",
+			["name"] = "诺格弗格药剂",
 			["debuffType"] = "Magic",
 		},
-		[202895] = {
-			["name"] = "前膛火枪",
-			["icon"] = "INTERFACE\\ICONS\\inv_weapon_rifle_07",
+		[158241] = {
+			["name"] = "烈焰",
+			["icon"] = "Interface\\Icons\\Spell_Fire_Fire",
 		},
 		[182812] = {
 			["duration"] = 9,
 			["icon"] = "Interface\\Icons\\Spell_Shadow_GrimWard",
 			["debuffType"] = "Magic",
 		},
-		[130137] = {
-			["icon"] = "Interface\\Icons\\ability_mount_goatmountwhite",
-			["duration"] = 0,
+		[195222] = {
+			["duration"] = 8,
+			["name"] = "风暴之鞭",
+			["icon"] = "Interface\\Icons\\Spell_Lightning_LightningBolt01",
 		},
-		[200238] = {
-			["icon"] = "Interface\\Icons\\sha_ability_rogue_envelopingshadows_nightmare",
-			["duration"] = 5,
+		[214577] = {
+			["duration"] = 15,
+			["name"] = "暗夜井能量",
+			["icon"] = "Interface\\Icons\\Spell_Arcane_ArcaneResilience",
 		},
-		[17229] = {
-			["duration"] = 0,
-			["name"] = "冬泉霜刃豹",
-			["icon"] = "Interface\\Icons\\Ability_Mount_PinkTiger",
+		[228485] = {
+			["name"] = "威吓魔心",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FlameBolt",
 		},
 		[221715] = {
 			["name"] = "精华汲取",
@@ -4124,9 +4145,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "石化",
 			["icon"] = "INTERFACE\\ICONS\\inv_stone_07",
 		},
-		[192563] = {
-			["icon"] = "Interface\\Icons\\ability_skyreach_solar_burst",
-			["duration"] = 4,
+		[175593] = {
+			["name"] = "燃烧之拳",
+			["icon"] = "Interface\\Icons\\Spell_Fire_Immolation",
 		},
 		[202776] = {
 			["name"] = "迷离时刻",
@@ -4136,18 +4157,19 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\spell_shadow_zdemonformgreen",
 			["duration"] = 0,
 		},
-		[97821] = {
-			["duration"] = 300,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_DeadofNight",
-			["name"] = "虚空之触",
+		[211990] = {
+			["duration"] = 8,
+			["name"] = "狂暴精华",
+			["icon"] = "INTERFACE\\ICONS\\spell_lifegivingspeed",
 		},
-		[23242] = {
-			["name"] = "迅捷绿色迅猛龙",
-			["icon"] = "Interface\\Icons\\Ability_Mount_Raptor",
+		[182330] = {
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\INV_DataCrystal09",
+			["name"] = "珊瑚切割",
 		},
-		[176141] = {
-			["name"] = "冷固的熔渣",
-			["icon"] = "Interface\\Icons\\achievement_battleground_silvershardmines",
+		[130137] = {
+			["icon"] = "Interface\\Icons\\ability_mount_goatmountwhite",
+			["duration"] = 0,
 		},
 		[217621] = {
 			["icon"] = "Interface\\Icons\\Ability_ThunderClap",
@@ -4157,10 +4179,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "沉重的鱼",
 			["icon"] = "Interface\\Icons\\INV_Misc_Fish_04",
 		},
-		[21067] = {
-			["name"] = "毒液箭",
-			["icon"] = "Interface\\Icons\\Spell_Nature_CorrosiveBreath",
-			["debuffType"] = "Poison",
+		[212019] = {
+			["name"] = "拥抱混乱",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_EnvelopingShadows",
 		},
 		[178207] = {
 			["name"] = "狂怒战鼓",
@@ -4168,17 +4189,18 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Misc_Drum_01",
 			["debuffType"] = "Magic",
 		},
-		[175593] = {
-			["name"] = "燃烧之拳",
-			["icon"] = "Interface\\Icons\\Spell_Fire_Immolation",
+		[144945] = {
+			["name"] = "亚煞极之佑",
+			["icon"] = "Interface\\Icons\\Spell_Holy_PrayerofShadowProtection",
 		},
 		[228371] = {
 			["name"] = "亡者吐息",
 			["icon"] = "Interface\\Icons\\ability_monk_jadeserpentbreath",
 		},
-		[232978] = {
-			["icon"] = "Interface\\Icons\\ability_mage_arcanebarrage_nightborne",
-			["duration"] = 3,
+		[155173] = {
+			["icon"] = "INTERFACE\\ICONS\\item_earthenmight",
+			["name"] = "大地反馈护盾",
+			["debuffType"] = "Magic",
 		},
 		[233490] = {
 			["name"] = "痛苦无常",
@@ -4190,9 +4212,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "毒皮暴掠龙",
 			["icon"] = "Interface\\Icons\\Ability_Mount_Raptor",
 		},
-		[66847] = {
-			["name"] = "条纹晨刃豹",
-			["icon"] = "Interface\\Icons\\Ability_Mount_WhiteTiger",
+		[156653] = {
+			["name"] = "锁定",
+			["icon"] = "Interface\\Icons\\ability_fixated_state_red",
 		},
 		[202266] = {
 			["icon"] = "Interface\\Icons\\Ability_Rogue_DeviousPoisons",
@@ -4209,31 +4231,30 @@ JamPlatesAccessoriesDB = {
 			["debuffType"] = "Poison",
 		},
 		[118297] = {
-			["name"] = "献祭",
 			["icon"] = "Interface\\Icons\\Spell_Fire_Immolation",
+			["name"] = "献祭",
 			["debuffType"] = "Magic",
 		},
-		[217726] = {
-			["duration"] = 21,
-			["name"] = "焚毁",
-			["icon"] = "Interface\\Icons\\inv_ember_fel",
+		[203914] = {
+			["name"] = "时间放逐",
+			["icon"] = "Interface\\Icons\\Spell_Holy_BorrowedTime",
 		},
 		[167971] = {
 			["name"] = "黄金之星",
 			["icon"] = "Interface\\Icons\\spell_priest_divinestar_holy",
 		},
-		[206387] = {
-			["icon"] = "Interface\\Icons\\Ability_Druid_TwilightsWrath",
-			["duration"] = 2,
+		[203913] = {
+			["icon"] = "Interface\\Icons\\INV_Weapon_Rifle_01",
+			["duration"] = 0,
 		},
 		[201755] = {
-			["name"] = "催眠蘑菇",
 			["icon"] = "INTERFACE\\ICONS\\druid_ability_wildmushroom_a",
+			["name"] = "催眠蘑菇",
 			["debuffType"] = "Poison",
 		},
-		[235027] = {
-			["name"] = "大师刺客的决意",
-			["icon"] = "Interface\\Icons\\INV_Weapon_ShortBlade_25",
+		[149032] = {
+			["name"] = "被吞噬的希望",
+			["icon"] = "Interface\\Icons\\Spell_Holy_PowerInfusion",
 		},
 		[219159] = {
 			["name"] = "魔兽世界12周年庆典",
@@ -4243,9 +4264,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "沸腾血液",
 			["icon"] = "Interface\\Icons\\Ability_Racial_BloodRage",
 		},
-		[194038] = {
-			["name"] = "淤血",
-			["icon"] = "Interface\\Icons\\Ability_Gouge",
+		[203820] = {
+			["duration"] = 0,
+			["name"] = "恒久黑钻指环",
+			["icon"] = "Interface\\Icons\\inv_misc_cutgemnormal2",
 		},
 		[224790] = {
 			["name"] = "奥术屏障",
@@ -4254,13 +4276,14 @@ JamPlatesAccessoriesDB = {
 			["debuffType"] = "Magic",
 		},
 		[159782] = {
-			["icon"] = "Interface\\Icons\\Ability_Warrior_OffensiveStance",
 			["name"] = "钢铁之怒",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_OffensiveStance",
 			["debuffType"] = "Magic",
 		},
-		[156653] = {
-			["name"] = "锁定",
-			["icon"] = "Interface\\Icons\\ability_fixated_state_red",
+		[225312] = {
+			["duration"] = 15,
+			["name"] = "深度切割",
+			["icon"] = "Interface\\Icons\\Ability_Druid_FerociousBite",
 		},
 		[218136] = {
 			["duration"] = 0,
@@ -4271,23 +4294,23 @@ JamPlatesAccessoriesDB = {
 			["name"] = "大型灰色科多兽",
 			["icon"] = "Interface\\Icons\\Ability_Mount_Kodo_01",
 		},
-		[10793] = {
+		[81261] = {
 			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Ability_Mount_BlackPanther",
-			["name"] = "条纹夜刃豹",
+			["icon"] = "Interface\\Icons\\ability_vehicle_sonicshockwave",
+			["name"] = "日光术",
 		},
 		[158247] = {
 			["name"] = "沸腾血液",
 			["icon"] = "Interface\\Icons\\Ability_Racial_BloodRage",
 		},
 		[228374] = {
-			["name"] = "溺水者的恐惧",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_DemonBreath",
+			["name"] = "溺水者的恐惧",
 			["debuffType"] = "Magic",
 		},
-		[155176] = {
-			["name"] = "减伤护盾",
-			["icon"] = "Interface\\Icons\\INV_Misc_EngGizmos_15",
+		[146986] = {
+			["name"] = "传送",
+			["icon"] = "Interface\\Icons\\spell_shadow_mindflay",
 		},
 		[172068] = {
 			["name"] = "无形寄生蟹",
@@ -4301,34 +4324,34 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Mount_WarHippogryph",
 			["duration"] = 0,
 		},
-		[225249] = {
-			["duration"] = 2,
-			["name"] = "毁灭践踏",
-			["icon"] = "Interface\\Icons\\Ability_WarStomp",
+		[145568] = {
+			["name"] = "碎骨重锤",
+			["icon"] = "INTERFACE\\ICONS\\ability_deathknight_brittlebones",
 		},
-		[186401] = {
-			["duration"] = 0,
-			["name"] = "练习印记",
-			["icon"] = "Interface\\Icons\\Achievement_Arena_2v2_2",
+		[157736] = {
+			["name"] = "献祭",
+			["duration"] = 20.629,
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
+			["debuffType"] = "Magic",
 		},
 		[79140] = {
 			["duration"] = 20,
 			["name"] = "宿敌",
 			["icon"] = "INTERFACE\\ICONS\\ability_rogue_deadliness",
 		},
-		[10060] = {
-			["name"] = "能量灌注",
-			["duration"] = 20,
-			["icon"] = "Interface\\Icons\\Spell_Holy_PowerInfusion",
-			["debuffType"] = "Magic",
+		[200208] = {
+			["duration"] = 4,
+			["icon"] = "Interface\\Icons\\ability_shawaterelemental_split",
+			["name"] = "死水冲击",
 		},
-		[204333] = {
-			["icon"] = "Interface\\Icons\\inv_pet_otter",
-			["duration"] = 7,
+		[212993] = {
+			["duration"] = 25,
+			["name"] = "微光之羽",
+			["icon"] = "Interface\\Icons\\INV_Feather_05",
 		},
 		[12042] = {
-			["icon"] = "Interface\\Icons\\Spell_Nature_Lightning",
 			["name"] = "奥术强化",
+			["icon"] = "Interface\\Icons\\Spell_Nature_Lightning",
 			["debuffType"] = "Magic",
 		},
 		[205341] = {
@@ -4342,23 +4365,22 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\inv_misc_scopea",
 		},
 		[230935] = {
-			["name"] = "高山战鼓",
 			["icon"] = "Interface\\Icons\\inv_archaeology_70_tauren_drum",
+			["name"] = "高山战鼓",
 			["debuffType"] = "Magic",
 		},
-		[191618] = {
-			["name"] = "应许之四",
-			["icon"] = "Interface\\Icons\\70_inscription_deck_promises_4",
+		[191552] = {
+			["name"] = "统御之六",
+			["icon"] = "Interface\\Icons\\70_inscription_deck_dominion_6",
 		},
 		[48792] = {
 			["duration"] = 8,
 			["name"] = "冰封之韧",
 			["icon"] = "Interface\\Icons\\Spell_DeathKnight_IceBoundFortitude",
 		},
-		[211007] = {
-			["icon"] = "Interface\\Icons\\spell_mage_supernova",
-			["name"] = "漩涡之眼",
-			["debuffType"] = "Magic",
+		[158345] = {
+			["name"] = "护盾消失",
+			["icon"] = "Interface\\Icons\\INV_Misc_EngGizmos_01",
 		},
 		[220698] = {
 			["duration"] = 1800,
@@ -4373,38 +4395,37 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_monk_legsweep",
 			["duration"] = 4,
 		},
-		[214044] = {
-			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\inv_enchant_essencearcanelarge",
-			["debuffType"] = "Magic",
+		[226329] = {
+			["duration"] = 3600,
+			["name"] = "惩戒的灵魂烈焰",
+			["icon"] = "Interface\\Icons\\ability_felarakkoa_feldetonation_green",
 		},
-		[155794] = {
-			["name"] = "利刃冲刺",
-			["icon"] = "Interface\\Icons\\Ability_Rogue_QuickRecovery",
+		[225909] = {
+			["duration"] = 16.56,
+			["icon"] = "INTERFACE\\ICONS\\spell_warlock_soulburn",
+			["debuffType"] = "Magic",
 		},
 		[198688] = {
 			["duration"] = 5,
-			["icon"] = "Interface\\Icons\\ability_rogue_surpriseattack2",
 			["name"] = "暗里藏刀",
+			["icon"] = "Interface\\Icons\\ability_rogue_surpriseattack2",
 		},
-		[228399] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\inv_misc_leatherstonehide",
-			["name"] = "厚皮之印",
+		[191618] = {
+			["name"] = "应许之四",
+			["icon"] = "Interface\\Icons\\70_inscription_deck_promises_4",
 		},
-		[189504] = {
-			["name"] = "战争践踏",
-			["icon"] = "Interface\\Icons\\Ability_WarStomp",
+		[175752] = {
+			["name"] = "矿渣之息",
+			["icon"] = "INTERFACE\\ICONS\\spell_shaman_lavasurge",
 		},
-		[213620] = {
-			["duration"] = 8,
-			["name"] = "残酷切割",
-			["icon"] = "Interface\\Icons\\ability_skeer_bloodletting",
+		[145987] = {
+			["name"] = "设置炸弹",
+			["icon"] = "Interface\\Icons\\INV_Misc_Bomb_07",
 		},
-		[159786] = {
-			["name"] = "熔火之皮",
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\spell_shaman_improvedfirenova",
+		[233496] = {
+			["name"] = "痛苦无常",
+			["duration"] = 6.764,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_UnstableAffliction_3",
 			["debuffType"] = "Magic",
 		},
 		[156203] = {
@@ -4416,10 +4437,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "潮汐之母的抚慰",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_FingerOfDeath",
 		},
-		[15407] = {
-			["duration"] = 2.164,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_SiphonMana",
-			["name"] = "精神鞭笞",
+		[209527] = {
+			["duration"] = 0,
+			["name"] = "混乱",
+			["icon"] = "Interface\\Icons\\Achievement_BG_kill_flag_carrierWSG",
 		},
 		[194594] = {
 			["duration"] = 15,
@@ -4450,9 +4471,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "受难",
 			["icon"] = "Interface\\Icons\\ability_warlock_soulswap",
 		},
-		[214046] = {
-			["icon"] = "Interface\\Icons\\inv_enchant_essencearcanelarge",
-			["duration"] = 25,
+		[209951] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_AntiShadow",
+			["duration"] = 0,
 		},
 		[157228] = {
 			["name"] = "枭兽狂怒",
@@ -4460,23 +4481,21 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Druid_OwlkinFrenzy",
 			["debuffType"] = "Magic",
 		},
-		[155173] = {
-			["name"] = "大地反馈护盾",
-			["icon"] = "INTERFACE\\ICONS\\item_earthenmight",
-			["debuffType"] = "Magic",
+		[176136] = {
+			["name"] = "恶魔变形",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_DemonForm",
 		},
-		[191615] = {
-			["duration"] = 0,
-			["name"] = "应许之一",
-			["icon"] = "Interface\\Icons\\70_inscription_deck_promises_a",
+		[227390] = {
+			["name"] = "花式斩杀",
+			["icon"] = "Interface\\Icons\\inv_misc_bone_skull_02",
 		},
 		[146479] = {
 			["name"] = "铁钻风暴",
 			["icon"] = "Interface\\Icons\\ability_fixated_state_red",
 		},
-		[208416] = {
-			["name"] = "十万火急",
-			["icon"] = "Interface\\Icons\\INV_Misc_PocketWatch_02",
+		[228891] = {
+			["name"] = "严寒喷射",
+			["icon"] = "Interface\\Icons\\Spell_Frost_SummonWaterElemental_2",
 		},
 		[233498] = {
 			["name"] = "痛苦无常",
@@ -4489,13 +4508,14 @@ JamPlatesAccessoriesDB = {
 			["name"] = "旋风斩",
 			["icon"] = "Interface\\Icons\\Ability_Rogue_Sprint",
 		},
-		[181831] = {
-			["name"] = "邪能强化",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelFireNova",
+		[187464] = {
+			["duration"] = 10.733,
+			["name"] = "暗影愈合",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowMend",
 		},
 		[202274] = {
-			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
 			["name"] = "烈焰酒",
+			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
 			["debuffType"] = "Magic",
 		},
 		[186406] = {
@@ -4507,32 +4527,32 @@ JamPlatesAccessoriesDB = {
 			["name"] = "渴望战斗",
 			["icon"] = "Interface\\Icons\\Spell_Nature_BloodLust",
 		},
-		[188541] = {
-			["name"] = "狂乱",
-			["icon"] = "INTERFACE\\ICONS\\spell_shadow_mindflay",
+		[225770] = {
+			["name"] = "时光转换",
+			["icon"] = "INTERFACE\\ICONS\\spell_arcane_invocation",
 		},
-		[187464] = {
-			["duration"] = 10.733,
-			["name"] = "暗影愈合",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowMend",
+		[155722] = {
+			["duration"] = 10.05,
+			["name"] = "斜掠",
+			["icon"] = "Interface\\Icons\\Ability_Druid_Disembowel",
 		},
-		[233499] = {
-			["name"] = "痛苦无常",
-			["duration"] = 6.564,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_UnstableAffliction_3",
+		[184359] = {
+			["icon"] = "Interface\\Icons\\Spell_Holy_BlessingOfStrength",
+			["name"] = "狂怒",
+			["debuffType"] = "",
+		},
+		[228958] = {
+			["name"] = "炼狱箭",
+			["icon"] = "Interface\\Icons\\spell_mage_infernoblast",
+		},
+		[66090] = {
+			["name"] = "奎尔多雷战马",
+			["icon"] = "Interface\\Icons\\Ability_Mount_RidingHorse",
+		},
+		[189990] = {
+			["icon"] = "Interface\\Icons\\Spell_Fire_Immolation",
+			["name"] = "献祭",
 			["debuffType"] = "Magic",
-		},
-		[201733] = {
-			["icon"] = "Interface\\Icons\\spell_nature_insect_swarm2",
-			["duration"] = 0,
-		},
-		[222238] = {
-			["name"] = "声威牙白骏马",
-			["icon"] = "Interface\\Icons\\inv_horse2mountlight",
-		},
-		[144945] = {
-			["name"] = "亚煞极之佑",
-			["icon"] = "Interface\\Icons\\Spell_Holy_PrayerofShadowProtection",
 		},
 		[219167] = {
 			["icon"] = "Interface\\Icons\\Ability_Druid_FerociousBite",
@@ -4542,19 +4562,17 @@ JamPlatesAccessoriesDB = {
 			["name"] = "六禽羽扇",
 			["icon"] = "Interface\\Icons\\inv_offhand_1h_pandariatradeskill_c_03",
 		},
-		[41516] = {
-			["name"] = "紫色灵翼幼龙",
-			["icon"] = "Interface\\Icons\\Ability_Mount_NetherdrakePurple",
-		},
-		[226329] = {
-			["duration"] = 3600,
-			["name"] = "惩戒的灵魂烈焰",
-			["icon"] = "Interface\\Icons\\ability_felarakkoa_feldetonation_green",
-		},
-		[226888] = {
+		[190434] = {
+			["icon"] = "Interface\\Icons\\inv_drink_29_sunkissedwine",
 			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\ability_shaman_freedomwolf",
-			["name"] = "幽魂狼群",
+		},
+		[202358] = {
+			["icon"] = "Interface\\Icons\\INV_DataCrystal12",
+			["duration"] = 0,
+		},
+		[154253] = {
+			["name"] = "萨满之石：霜狼护佑",
+			["icon"] = "Interface\\Icons\\Ability_Mount_WhiteDireWolf",
 		},
 		[225822] = {
 			["name"] = "闪闪发亮",
@@ -4599,10 +4617,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Hunter_MarkedForDeath",
 			["duration"] = 1,
 		},
-		[185365] = {
-			["duration"] = 12,
-			["name"] = "猎人印记",
-			["icon"] = "Interface\\Icons\\Ability_Hunter_MarkedForDeath",
+		[217563] = {
+			["name"] = "上古之怒：烈焰",
+			["icon"] = "Interface\\Icons\\Ability_Warlock_FireandBrimstone",
 		},
 		[194599] = {
 			["name"] = "黑箭",
@@ -4610,13 +4627,13 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_PainSpike",
 			["debuffType"] = "Magic",
 		},
-		[190434] = {
-			["icon"] = "Interface\\Icons\\inv_drink_29_sunkissedwine",
-			["duration"] = 0,
+		[194632] = {
+			["name"] = "战斗欲望",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_DeathPact",
 		},
-		[209417] = {
-			["name"] = "投机取巧",
-			["icon"] = "INTERFACE\\ICONS\\ability_rogue_sealfate",
+		[224729] = {
+			["name"] = "爆裂射击",
+			["icon"] = "Interface\\Icons\\ability_hunter_burstingshot",
 		},
 		[155185] = {
 			["name"] = "禁锢",
@@ -4628,10 +4645,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyFrenzy",
 			["debuffType"] = "",
 		},
-		[207472] = {
-			["duration"] = 30,
-			["icon"] = "Interface\\Icons\\ability_vehicle_shellshieldgenerator",
-			["name"] = "萨瓦里克的杰作",
+		[72807] = {
+			["name"] = "缚寒冰霜征服者",
+			["icon"] = "Interface\\Icons\\ability_mount_redfrostwyrm_01",
 		},
 		[230431] = {
 			["name"] = "渗漏邪能",
@@ -4643,25 +4659,27 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Fire_FelFire",
 		},
 		[210980] = {
-			["name"] = "圣光专注",
 			["icon"] = "Interface\\Icons\\Spell_Holy_UnyieldingFaith",
+			["name"] = "圣光专注",
 			["debuffType"] = "Magic",
 		},
-		[217563] = {
-			["name"] = "上古之怒：烈焰",
-			["icon"] = "Interface\\Icons\\Ability_Warlock_FireandBrimstone",
+		[20297] = {
+			["name"] = "寒冰箭",
+			["icon"] = "Interface\\Icons\\Spell_Frost_FrostBolt02",
+			["debuffType"] = "Magic",
 		},
-		[179244] = {
-			["name"] = "召唤司机",
-			["icon"] = "Interface\\Icons\\INV_Misc_Key_06",
+		[203814] = {
+			["name"] = "荣誉旗帜",
+			["icon"] = "Interface\\Icons\\Achievement_BG_3flagcap_nodeaths",
 		},
-		[23509] = {
-			["name"] = "霜狼嗥叫者",
-			["icon"] = "Interface\\Icons\\Ability_Mount_WhiteDireWolf",
+		[197164] = {
+			["icon"] = "INTERFACE\\ICONS\\spell_shaman_earthquake",
+			["duration"] = 0,
 		},
-		[224729] = {
-			["name"] = "爆裂射击",
-			["icon"] = "Interface\\Icons\\ability_hunter_burstingshot",
+		[198111] = {
+			["name"] = "时光护盾",
+			["icon"] = "Interface\\Icons\\spell_mage_temporalshield",
+			["debuffType"] = "Magic",
 		},
 		[127261] = {
 			["name"] = "石之联结",
@@ -4672,92 +4690,92 @@ JamPlatesAccessoriesDB = {
 			["duration"] = 15,
 		},
 		[16595] = {
-			["name"] = "诺格弗格药剂",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_GrimWard",
+			["name"] = "诺格弗格药剂",
 			["debuffType"] = "Magic",
 		},
-		[131526] = {
+		[193609] = {
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
 			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Spell_Nature_Cyclone",
-			["name"] = "飓风启迪",
 		},
-		[20297] = {
-			["icon"] = "Interface\\Icons\\Spell_Frost_FrostBolt02",
-			["name"] = "寒冰箭",
-			["debuffType"] = "Magic",
+		[207982] = {
+			["duration"] = 30,
+			["icon"] = "Interface\\Icons\\Ability_Warrior_FocusedRage",
+			["name"] = "怒火聚焦",
 		},
 		[179245] = {
 			["name"] = "召唤司机",
 			["icon"] = "Interface\\Icons\\INV_Misc_Key_06",
 		},
-		[185422] = {
-			["name"] = "暗影之舞",
-			["icon"] = "Interface\\Icons\\Ability_Rogue_ShadowDance",
-		},
-		[184364] = {
+		[123725] = {
+			["name"] = "火焰之息",
 			["duration"] = 8,
-			["name"] = "狂怒回复",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_FocusedRage",
+			["icon"] = "Interface\\Icons\\ability_monk_breathoffire",
+			["debuffType"] = "Magic",
+		},
+		[208934] = {
+			["icon"] = "Interface\\Icons\\INV_Banner_03",
+			["duration"] = 0,
 		},
 		[197161] = {
 			["duration"] = 8,
 			["name"] = "米米尔隆的外壳",
 			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Turtle",
 		},
-		[198111] = {
-			["icon"] = "Interface\\Icons\\spell_mage_temporalshield",
-			["name"] = "时光护盾",
+		[231947] = {
+			["name"] = "强效魔力",
+			["icon"] = "Interface\\Icons\\inv_misc_volatilefire",
+		},
+		[201839] = {
+			["duration"] = 12,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_CurseOfTounges",
+			["debuffType"] = "Curse",
+		},
+		[46628] = {
+			["duration"] = 0,
+			["name"] = "迅捷白色陆行鸟",
+			["icon"] = "Interface\\Icons\\Ability_Mount_CockatriceMountElite_White",
+		},
+		[104272] = {
+			["name"] = "进食充分",
+			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+		},
+		[199721] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\ICONS\\Ability_DeathKnight_NecroticAura",
+			["name"] = "腐烂光环",
+		},
+		[82691] = {
+			["icon"] = "INTERFACE\\ICONS\\spell_frost_ring of frost",
+			["name"] = "冰霜之环",
 			["debuffType"] = "Magic",
 		},
-		[192094] = {
-			["icon"] = "Interface\\Icons\\INV_Spear_07",
-			["duration"] = 5,
+		[175700] = {
+			["name"] = "翡翠幼龙",
+			["icon"] = "Interface\\Icons\\Ability_Mount_Drake_Blue",
 		},
-		[213427] = {
-			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
-			["duration"] = 1.5,
-		},
-		[188534] = {
-			["duration"] = 3600,
-			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
-			["name"] = "进食充分",
-		},
-		[1850] = {
-			["duration"] = 15,
-			["name"] = "急奔",
-			["icon"] = "Interface\\Icons\\Ability_Druid_Dash",
-		},
-		[224760] = {
-			["icon"] = "Interface\\Icons\\spell_arcane_arcanetorrent_nightborne",
+		[183415] = {
 			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Spell_Holy_BlessedLife",
+			["name"] = "仁慈光环",
 		},
-		[51259] = {
-			["icon"] = "Interface\\Icons\\Spell_Misc_HellifrePVPCombatMorale",
-			["duration"] = 16,
-		},
-		[202300] = {
-			["duration"] = 7.152,
-			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_02",
-			["debuffType"] = "Poison",
-		},
-		[76622] = {
-			["icon"] = "Interface\\Icons\\Ability_Warrior_Sunder",
-			["duration"] = 20,
+		[214637] = {
+			["name"] = "德娅娜的鼓舞",
+			["icon"] = "Interface\\Icons\\Spell_Holy_Heal",
 		},
 		[17619] = {
 			["duration"] = 0,
 			["name"] = "炼金石",
 			["icon"] = "Interface\\Icons\\INV_Misc_Orb_02",
 		},
-		[82691] = {
-			["name"] = "冰霜之环",
-			["icon"] = "INTERFACE\\ICONS\\spell_frost_ring of frost",
-			["debuffType"] = "Magic",
+		[171131] = {
+			["name"] = "苦修",
+			["icon"] = "Interface\\Icons\\Spell_Holy_Penance",
 		},
 		[207400] = {
 			["duration"] = 10,
-			["icon"] = "INTERFACE\\ICONS\\spell_shaman_blessingoftheeternals",
 			["name"] = "先祖活力",
+			["icon"] = "INTERFACE\\ICONS\\spell_shaman_blessingoftheeternals",
 		},
 		[195627] = {
 			["duration"] = 10,
@@ -4768,9 +4786,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "黑色作战雷象",
 			["icon"] = "Interface\\Icons\\Ability_Mount_RidingElekkElite_Blue",
 		},
-		[206413] = {
-			["name"] = "潮汐主母的尖叫",
-			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
+		[207835] = {
+			["name"] = "风暴之鞭",
+			["icon"] = "Interface\\Icons\\Spell_Lightning_LightningBolt01",
 		},
 		[152118] = {
 			["name"] = "意志洞悉",
@@ -4786,50 +4804,54 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Achievement_Character_Nightelf_Female",
 			["duration"] = 0,
 		},
-		[210984] = {
-			["duration"] = 29,
-			["name"] = "命运之眼",
-			["icon"] = "Interface\\Icons\\sha_inv_elemental_primal_shadow_nightmare",
+		[194604] = {
+			["name"] = "苦痛之矛",
+			["duration"] = 4,
+			["icon"] = "Interface\\Icons\\Spell_Nature_SlowPoison",
+			["debuffType"] = "Poison",
 		},
-		[209512] = {
-			["name"] = "分裂的能量 ",
-			["icon"] = "Interface\\Icons\\sha_spell_fire_blueflamestrike",
+		[181831] = {
+			["name"] = "邪能强化",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelFireNova",
 		},
-		[201787] = {
-			["icon"] = "Interface\\Icons\\ability_monk_tigerpalm",
-			["duration"] = 2,
+		[17] = {
+			["name"] = "真言术：盾",
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\Spell_Holy_PowerWordShield",
+			["debuffType"] = "Magic",
 		},
 		[61336] = {
 			["duration"] = 6,
 			["name"] = "生存本能",
 			["icon"] = "Interface\\Icons\\Ability_Druid_TigersRoar",
 		},
-		[155777] = {
-			["name"] = "回春术（萌芽）",
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\spell_druid_germination",
+		[183433] = {
+			["icon"] = "INTERFACE\\ICONS\\ability_hunter_pet_worm",
+			["duration"] = 8,
+		},
+		[193069] = {
+			["name"] = "梦魇",
+			["duration"] = 5,
+			["icon"] = "INTERFACE\\ICONS\\spell_shadow_mindflay",
 			["debuffType"] = "Magic",
 		},
-		[197164] = {
-			["icon"] = "INTERFACE\\ICONS\\spell_shaman_earthquake",
+		[63796] = {
 			["duration"] = 0,
-		},
-		[207835] = {
-			["name"] = "风暴之鞭",
-			["icon"] = "Interface\\Icons\\Spell_Lightning_LightningBolt01",
+			["icon"] = "Interface\\Icons\\INV_Misc_EngGizmos_03",
+			["name"] = "米米尔隆的头部",
 		},
 		[189998] = {
 			["icon"] = "Interface\\Icons\\inv_felstalkermount",
 			["duration"] = 0,
 		},
-		[183415] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Spell_Holy_BlessedLife",
-			["name"] = "仁慈光环",
+		[164325] = {
+			["duration"] = 15,
+			["name"] = "挫志怒吼",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_WarCry",
 		},
 		[182832] = {
-			["name"] = "石化",
 			["icon"] = "Interface\\Icons\\INV_Elemental_Primal_Earth",
+			["name"] = "石化",
 			["debuffType"] = "Poison",
 		},
 		[203819] = {
@@ -4845,10 +4867,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_demonhunter_sigilofchains",
 			["duration"] = 6,
 		},
-		[193607] = {
-			["duration"] = 6,
-			["name"] = "二连击",
-			["icon"] = "Interface\\Icons\\spell_deathknight_festering_strike",
+		[160382] = {
+			["name"] = "防御",
+			["icon"] = "Interface\\Icons\\INV_Shield_32",
 		},
 		[181297] = {
 			["name"] = "强化爆炸符文",
@@ -4867,10 +4888,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "怯懦",
 			["icon"] = "Interface\\Icons\\Ability_Druid_Cower",
 		},
-		[203820] = {
-			["duration"] = 0,
-			["name"] = "恒久黑钻指环",
-			["icon"] = "Interface\\Icons\\inv_misc_cutgemnormal2",
+		[195630] = {
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\ability_monk_shuffle",
+			["name"] = "醉拳大师",
 		},
 		[155192] = {
 			["name"] = "炸弹",
@@ -4889,9 +4910,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "冲击",
 			["icon"] = "INTERFACE\\ICONS\\spell_shaman_earthquake",
 		},
-		[63896] = {
-			["icon"] = "Interface\\Icons\\Ability_Warrior_BullRush",
-			["duration"] = 12,
+		[202285] = {
+			["icon"] = "Interface\\Icons\\INV_Drink_05",
+			["duration"] = 60,
 		},
 		[202797] = {
 			["name"] = "蝰蛇钉刺",
@@ -4907,9 +4928,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "动力贩子",
 			["icon"] = "Interface\\Icons\\ability_mount_shreddermount",
 		},
-		[192048] = {
-			["icon"] = "Interface\\Icons\\Spell_Holy_DivineProvidence",
-			["duration"] = 3.001,
+		[128800] = {
+			["icon"] = "Interface\\Icons\\INV_Drink_05",
+			["duration"] = 0,
 		},
 		[188465] = {
 			["icon"] = "Interface\\Icons\\spell_monk_envelopingmist",
@@ -4920,13 +4941,14 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_monk_souldance",
 			["debuffType"] = "Magic",
 		},
-		[148539] = {
-			["name"] = "暴风雨",
-			["icon"] = "Interface\\Icons\\INV_Elemental_Mote_Water01",
+		[189489] = {
+			["name"] = "暴君之槌",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FlameTounge",
 		},
-		[123981] = {
-			["icon"] = "Interface\\Icons\\INV_Misc_ShadowEgg",
-			["duration"] = 180,
+		[17481] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Ability_Mount_Undeadhorse",
+			["name"] = "瑞文戴尔的死亡战马",
 		},
 		[194608] = {
 			["name"] = "折磨反射",
@@ -4937,10 +4959,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_demonhunter_immolation",
 			["name"] = "献祭光环",
 		},
-		[73313] = {
+		[179828] = {
+			["icon"] = "Interface\\Icons\\Achievement_Character_Orc_Female",
 			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Spell_DeathKnight_SummonDeathCharger",
-			["name"] = "血色死亡战马",
 		},
 		[196144] = {
 			["duration"] = 12,
@@ -4970,10 +4991,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "止血术",
 			["icon"] = "Interface\\Icons\\ability_deathwing_bloodcorruption_earth",
 		},
-		[164325] = {
-			["duration"] = 15,
-			["name"] = "挫志怒吼",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_WarCry",
+		[193597] = {
+			["duration"] = 5,
+			["icon"] = "Interface\\Icons\\Spell_Shaman_StaticShock",
+			["debuffType"] = "Magic",
 		},
 		[146493] = {
 			["name"] = "永恒精魄",
@@ -4984,9 +5005,11 @@ JamPlatesAccessoriesDB = {
 			["name"] = "铁箍鬼灵战马",
 			["icon"] = "Interface\\Icons\\ability_mount_steelwarhorse",
 		},
-		[174708] = {
-			["name"] = "泰罗克的化身",
-			["icon"] = "Interface\\Icons\\inv_tabard_a_76arakkoaoutcast",
+		[159786] = {
+			["name"] = "熔火之皮",
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\spell_shaman_improvedfirenova",
+			["debuffType"] = "Magic",
 		},
 		[205359] = {
 			["icon"] = "INTERFACE\\ICONS\\inv_boots_cloth_31",
@@ -5020,18 +5043,18 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_BannerPVP_01",
 			["duration"] = 3600,
 		},
-		[143423] = {
-			["name"] = "煞能灼烧",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_MindShear",
+		[192563] = {
+			["icon"] = "Interface\\Icons\\ability_skyreach_solar_burst",
+			["duration"] = 4,
 		},
 		[209455] = {
-			["icon"] = "Interface\\Icons\\inv_bracer_robe_raidwarlock_j_01",
 			["name"] = "凯尔萨斯的绝招",
+			["icon"] = "Interface\\Icons\\inv_bracer_robe_raidwarlock_j_01",
 			["debuffType"] = "Magic",
 		},
-		[148542] = {
-			["name"] = "灰尘暴",
-			["icon"] = "Interface\\Icons\\inv_misc_ashenpigment",
+		[209967] = {
+			["name"] = "凶暴野兽：蜥蜴",
+			["icon"] = "Interface\\Icons\\inv_pet_ basilisk",
 		},
 		[202289] = {
 			["name"] = "狂暴复兴",
@@ -5046,29 +5069,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Holy_WeaponMastery",
 			["name"] = "神圣附魔",
 		},
-		[45348] = {
-			["name"] = "烈焰触摸",
-			["icon"] = "Interface\\Icons\\Spell_Fire_SealOfFire",
-		},
-		[221670] = {
-			["icon"] = "Interface\\Icons\\Spell_Holy_DivineSpirit",
+		[204859] = {
 			["duration"] = 12,
-		},
-		[155743] = {
-			["name"] = "熔渣池",
-			["icon"] = "Interface\\Icons\\inv_misc_ring_firelands_3",
-		},
-		[221741] = {
-			["icon"] = "Interface\\Icons\\Spell_Holy_ImprovedResistanceAuras",
-			["duration"] = 0,
-		},
-		[158712] = {
-			["name"] = "血之气息",
-			["icon"] = "Interface\\Icons\\ability_warrior_bloodfrenzy",
-		},
-		[156281] = {
-			["name"] = "呵斥",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_BattleShout",
+			["icon"] = "Interface\\Icons\\spell_druid_bloodythrash",
+			["name"] = "撕裂肉体",
 		},
 		[185311] = {
 			["duration"] = 6,
@@ -5080,46 +5084,69 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyFrenzy",
 			["debuffType"] = "",
 		},
-		[189544] = {
-			["name"] = "残废术",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Cripple",
+		[108839] = {
+			["name"] = "浮冰",
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\spell_mage_iceflows",
+			["debuffType"] = "Magic",
 		},
-		[192053] = {
-			["duration"] = 0,
-			["name"] = "流沙",
-			["icon"] = "Interface\\Icons\\spell_quicksand",
+		[201223] = {
+			["duration"] = 3600.003,
+			["name"] = "进食充分",
+			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+		},
+		[194665] = {
+			["icon"] = "Interface\\Icons\\ability_warlock_soullink",
+			["duration"] = 10,
+		},
+		[196591] = {
+			["name"] = "死亡凝视",
+			["icon"] = "INTERFACE\\ICONS\\achievement_dungeon_the stonecore_slabhide",
+		},
+		[206931] = {
+			["duration"] = 3,
+			["icon"] = "Interface\\Icons\\ability_animusdraw",
+			["name"] = "饮血者",
+		},
+		[7353] = {
+			["name"] = "温暖的小火",
+			["icon"] = "Interface\\Icons\\Spell_Fire_Fire",
+		},
+		[200243] = {
+			["duration"] = 20,
+			["name"] = "梦魇乍醒",
+			["icon"] = "Interface\\Icons\\sha_ability_rogue_bloodyeye_nightmare",
 		},
 		[176185] = {
 			["duration"] = 6,
 			["name"] = "剧痛鞭笞",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_Curse",
 		},
-		[188453] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\Spell_Nature_FaerieFire",
-			["debuffType"] = "Magic",
+		[147554] = {
+			["name"] = "亚煞极之血",
+			["icon"] = "Interface\\Icons\\Ability_Warlock_EverlastingAffliction",
 		},
-		[198745] = {
-			["duration"] = 12,
-			["icon"] = "Interface\\Icons\\Spell_Holy_AuraMastery",
-			["debuffType"] = "Magic",
+		[217091] = {
+			["name"] = "穿刺戳击",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_BloodBath",
 		},
-		[223316] = {
-			["name"] = "狂热殉道者",
-			["icon"] = "Interface\\Icons\\ability_paladin_selflesshealer",
+		[213463] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowWordDominate",
+			["duration"] = 180,
 		},
 		[198708] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\spell_hunter_focusingshot",
 			["name"] = "鲜血狩猎",
 		},
-		[164466] = {
-			["icon"] = "Interface\\Icons\\Ability_Warrior_SavageBlow",
-			["duration"] = 10,
+		[158792] = {
+			["name"] = "粉碎",
+			["icon"] = "Interface\\Icons\\spell_druid_malfurionstenacity",
 		},
-		[201818] = {
-			["name"] = "古代维库指环",
-			["icon"] = "Interface\\Icons\\inv_fishing_lure_kelp",
+		[196059] = {
+			["duration"] = 9.999,
+			["icon"] = "Interface\\Icons\\spell_hunter_exoticmunitions_poisoned",
+			["debuffType"] = "Poison",
 		},
 		[183864] = {
 			["name"] = "暗影冲击",
@@ -5129,43 +5156,41 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Elemental_Primal_Fire",
 			["duration"] = 0,
 		},
-		[36899] = {
-			["name"] = "传送器故障",
-			["icon"] = "Interface\\Icons\\Spell_Nature_WispHeal",
+		[143974] = {
+			["name"] = "盾击",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldBash",
 		},
-		[213463] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowWordDominate",
-			["duration"] = 180,
+		[214613] = {
+			["duration"] = 20,
+			["icon"] = "Interface\\Icons\\ability_monk_leeroftheox",
+			["debuffType"] = "",
 		},
-		[214577] = {
-			["duration"] = 15,
-			["name"] = "暗夜井能量",
-			["icon"] = "Interface\\Icons\\Spell_Arcane_ArcaneResilience",
+		[206387] = {
+			["icon"] = "Interface\\Icons\\Ability_Druid_TwilightsWrath",
+			["duration"] = 2,
 		},
-		[112948] = {
-			["name"] = "寒冰炸弹",
-			["duration"] = 12,
-			["icon"] = "Interface\\Icons\\spell_mage_frostbomb",
-			["debuffType"] = "Magic",
+		[104269] = {
+			["name"] = "喝水",
+			["icon"] = "Interface\\Icons\\INV_Drink_18",
 		},
-		[196059] = {
-			["duration"] = 9.999,
-			["icon"] = "Interface\\Icons\\spell_hunter_exoticmunitions_poisoned",
-			["debuffType"] = "Poison",
+		[210391] = {
+			["duration"] = 0,
+			["name"] = "拂晓的黑暗",
+			["icon"] = "INTERFACE\\ICONS\\spell_paladin_lightofdawn",
 		},
 		[195638] = {
 			["duration"] = 0,
 			["name"] = "集火",
 			["icon"] = "Interface\\Icons\\ability_hisek_aim",
 		},
-		[196681] = {
-			["name"] = "艾特洛之魂",
-			["icon"] = "Interface\\Icons\\inv_ghostlymoosemount",
+		[59569] = {
+			["name"] = "青铜幼龙",
+			["icon"] = "Interface\\Icons\\Ability_Mount_Drake_Bronze",
 		},
-		[143434] = {
-			["name"] = "暗言术：蛊",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_SoulLeech",
-			["debuffType"] = "Magic",
+		[156132] = {
+			["duration"] = 300,
+			["name"] = "世界缩小器",
+			["icon"] = "Interface\\Icons\\inv_misc_enggizmos_09",
 		},
 		[59547] = {
 			["name"] = "纳鲁的赐福",
@@ -5179,46 +5204,45 @@ JamPlatesAccessoriesDB = {
 			["name"] = "爆燃冲刺",
 			["icon"] = "Interface\\Icons\\ability_deathwing_sealarmorbreachgreen",
 		},
-		[182330] = {
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\INV_DataCrystal09",
-			["name"] = "珊瑚切割",
-		},
-		[236077] = {
-			["name"] = "缴械",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_Disarm",
-		},
-		[212019] = {
-			["name"] = "拥抱混乱",
-			["icon"] = "Interface\\Icons\\Ability_Rogue_EnvelopingShadows",
+		[194615] = {
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\Spell_Magic_LesserInvisibilty",
+			["debuffType"] = "Magic",
 		},
 		[211507] = {
 			["duration"] = 6,
 			["icon"] = "Interface\\Icons\\inv_polearm_2h_pvpdraenors2_d_01",
 			["name"] = "梦魇长枪",
 		},
-		[210391] = {
-			["duration"] = 0,
-			["name"] = "拂晓的黑暗",
-			["icon"] = "INTERFACE\\ICONS\\spell_paladin_lightofdawn",
+		[228399] = {
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\inv_misc_leatherstonehide",
+			["name"] = "厚皮之印",
 		},
-		[200284] = {
-			["name"] = "缠绕之网",
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_web_02",
+		[189532] = {
+			["name"] = "灵魂灼烧",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowPower",
 		},
-		[160832] = {
-			["duration"] = 3600,
-			["name"] = "进食充分",
-			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+		[175583] = {
+			["name"] = "有生烈焰",
+			["icon"] = "Interface\\Icons\\Spell_Fire_Incinerate",
+		},
+		[215126] = {
+			["duration"] = 60,
+			["name"] = "凝结的黏性物质",
+			["icon"] = "Interface\\Icons\\spell_yorsahj_bloodboil_green",
+		},
+		[144452] = {
+			["name"] = "净化",
+			["icon"] = "Interface\\Icons\\Spell_Holy_DevineAegis",
 		},
 		[235054] = {
 			["name"] = "皇帝的容电皮甲",
 			["icon"] = "Interface\\Icons\\ability_monk_cracklingjadelightning",
 		},
-		[63619] = {
-			["duration"] = 5,
-			["name"] = "暗影爬行",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_ChillTouch",
+		[207319] = {
+			["name"] = "血肉之盾",
+			["icon"] = "Interface\\Icons\\inv_pet_ghoul",
 		},
 		[203318] = {
 			["duration"] = 20,
@@ -5229,17 +5253,17 @@ JamPlatesAccessoriesDB = {
 			["name"] = "统御之一",
 			["icon"] = "Interface\\Icons\\70_inscription_deck_dominion_a",
 		},
-		[212570] = {
-			["name"] = "败战之魂",
-			["icon"] = "Interface\\Icons\\Achievement_Boss_GeneralVezax_01",
+		[169952] = {
+			["icon"] = "Interface\\Icons\\inv_tailoring_blackcarpet",
+			["duration"] = 0,
 		},
 		[188474] = {
 			["name"] = "活动炸弹",
 			["icon"] = "Interface\\Icons\\Ability_Mage_LivingBomb",
 		},
-		[175583] = {
-			["name"] = "有生烈焰",
-			["icon"] = "Interface\\Icons\\Spell_Fire_Incinerate",
+		[187485] = {
+			["icon"] = "Interface\\Icons\\Ability_Warrior_Charge",
+			["duration"] = 2,
 		},
 		[132168] = {
 			["duration"] = 2.001,
@@ -5252,31 +5276,33 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameBolt",
 			["debuffType"] = "Magic",
 		},
-		[189489] = {
-			["name"] = "暴君之槌",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FlameTounge",
+		[224852] = {
+			["name"] = "完整的始祖龙鳞腰带",
+			["icon"] = "Interface\\Icons\\Spell_Shaman_LavaBurst",
 		},
-		[195129] = {
-			["duration"] = 1,
-			["name"] = "雷霆践踏",
-			["icon"] = "INTERFACE\\ICONS\\spell_shaman_earthquake",
+		[191034] = {
+			["duration"] = 6.896,
+			["name"] = "星辰坠落",
+			["icon"] = "Interface\\Icons\\Ability_Druid_Starfall",
 		},
-		[207319] = {
-			["name"] = "血肉之盾",
-			["icon"] = "Interface\\Icons\\inv_pet_ghoul",
+		[225746] = {
+			["name"] = "阳光坍缩",
+			["icon"] = "Interface\\Icons\\ability_skyreach_empower",
 		},
 		[200248] = {
 			["duration"] = 10,
 			["icon"] = "Interface\\Icons\\Spell_Arcane_Blast",
 			["debuffType"] = "Magic",
 		},
-		[196665] = {
-			["icon"] = "Interface\\Icons\\Spell_Arcane_ArcaneTorrent",
-			["duration"] = 0,
+		[184380] = {
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\Spell_Nature_ElementalShields",
+			["debuffType"] = "Poison",
 		},
-		[169952] = {
-			["icon"] = "Interface\\Icons\\inv_tailoring_blackcarpet",
-			["duration"] = 0,
+		[194099] = {
+			["icon"] = "Interface\\Icons\\inv_pet_diseasedsquirrel",
+			["name"] = "怨毒吐息",
+			["debuffType"] = "Disease",
 		},
 		[132169] = {
 			["duration"] = 4,
@@ -5292,22 +5318,23 @@ JamPlatesAccessoriesDB = {
 			["name"] = "狂怒",
 			["icon"] = "Interface\\Icons\\Ability_Warrior_Rampage",
 		},
-		[211510] = {
-			["duration"] = 0,
-			["name"] = "命源",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_EnslaveDemon",
+		[105771] = {
+			["duration"] = 1.5,
+			["icon"] = "Interface\\Icons\\ability_warrior_charge",
+			["name"] = "冲锋",
 		},
-		[175671] = {
-			["name"] = "空袋子",
-			["icon"] = "Interface\\Icons\\inv_misc_bag_09",
+		[44153] = {
+			["duration"] = 0,
+			["name"] = "飞行器",
+			["icon"] = "Interface\\Icons\\Ability_Mount_Gyrocoptor",
 		},
 		[10732] = {
 			["icon"] = "Interface\\Icons\\Spell_Lightning_LightningBolt01",
 			["duration"] = 10,
 		},
 		[204856] = {
-			["icon"] = "Interface\\Icons\\Spell_Magic_ManaGain",
 			["name"] = "强化软泥",
+			["icon"] = "Interface\\Icons\\Spell_Magic_ManaGain",
 			["debuffType"] = "Magic",
 		},
 		[59548] = {
@@ -5319,13 +5346,16 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_DefensiveStance",
 			["name"] = "防御姿态",
 		},
-		[175670] = {
-			["name"] = "打包爆裂矿石",
-			["icon"] = "Interface\\Icons\\inv_ore_blackrock_nugget",
+		[225356] = {
+			["name"] = "渗漏之雾",
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\Spell_Nature_Sleep",
+			["debuffType"] = "Magic",
 		},
-		[225746] = {
-			["name"] = "阳光坍缩",
-			["icon"] = "Interface\\Icons\\ability_skyreach_empower",
+		[215537] = {
+			["duration"] = 6.461,
+			["icon"] = "Interface\\Icons\\Ability_Warrior_Trauma",
+			["name"] = "创伤",
 		},
 		[203321] = {
 			["icon"] = "Interface\\Icons\\spell_druid_massentanglement",
@@ -5350,15 +5380,13 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_MindBomb",
 			["debuffType"] = "Magic",
 		},
-		[107574] = {
-			["duration"] = 20,
-			["icon"] = "Interface\\Icons\\warrior_talent_icon_avatar",
-			["name"] = "天神下凡",
+		[201820] = {
+			["icon"] = "Interface\\Icons\\inv_fishing_lure_kelp",
+			["duration"] = 120,
 		},
-		[186480] = {
-			["duration"] = 8,
-			["name"] = "战意之怒",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_Rampage",
+		[179244] = {
+			["name"] = "召唤司机",
+			["icon"] = "Interface\\Icons\\INV_Misc_Key_06",
 		},
 		[130086] = {
 			["name"] = "棕色骑乘山羊",
@@ -5374,55 +5402,51 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\70_inscription_deck_dominion_3",
 			["name"] = "统御之三",
 		},
-		[221261] = {
-			["name"] = "时光洪流",
-			["icon"] = "Interface\\Icons\\spell_mage_altertime_active",
+		[201687] = {
+			["name"] = "食肉蜗牛",
+			["icon"] = "INTERFACE\\ICONS\\trade_archaeology_fossil_snailshell",
 		},
-		[59569] = {
-			["name"] = "青铜幼龙",
-			["icon"] = "Interface\\Icons\\Ability_Mount_Drake_Bronze",
+		[155240] = {
+			["name"] = "淬火",
+			["icon"] = "Interface\\Icons\\inv_ingot_titansteel_red",
 		},
 		[127271] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\ability_mount_waterstridermount",
 			["name"] = "猩红水黾",
 		},
-		[193597] = {
-			["duration"] = 5,
-			["icon"] = "Interface\\Icons\\Spell_Shaman_StaticShock",
-			["debuffType"] = "Magic",
+		[201787] = {
+			["icon"] = "Interface\\Icons\\ability_monk_tigerpalm",
+			["duration"] = 2,
 		},
 		[214584] = {
 			["name"] = "寒冰炸弹",
 			["icon"] = "Interface\\Icons\\spell_mage_frostbomb",
 		},
-		[156779] = {
-			["duration"] = 43200.036,
-			["name"] = "神经抑制器",
-			["icon"] = "Interface\\Icons\\Spell_Nature_MentalQuickness",
+		[168089] = {
+			["name"] = "奥术壁垒",
+			["icon"] = "Interface\\Icons\\ability_paladin_blindinglight2",
 		},
-		[191587] = {
-			["name"] = "恶性瘟疫",
-			["duration"] = 27.299,
-			["icon"] = "Interface\\Icons\\Ability_Creature_Disease_02",
-			["debuffType"] = "Disease",
+		[102744] = {
+			["name"] = "猫鼬之速",
+			["icon"] = "Interface\\Icons\\Spell_Holy_DivinePurpose",
 		},
-		[199740] = {
-			["name"] = "贿赂",
-			["icon"] = "Interface\\Icons\\INV_Misc_Coin_17",
+		[191550] = {
+			["name"] = "统御之四",
+			["icon"] = "Interface\\Icons\\70_inscription_deck_dominion_4",
 		},
 		[155207] = {
 			["name"] = "锁定",
 			["icon"] = "Interface\\Icons\\ability_fixated_state_red",
 		},
-		[204859] = {
-			["duration"] = 12,
-			["icon"] = "Interface\\Icons\\spell_druid_bloodythrash",
-			["name"] = "撕裂肉体",
+		[143434] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_SoulLeech",
+			["name"] = "暗言术：蛊",
+			["debuffType"] = "Magic",
 		},
-		[201687] = {
-			["name"] = "食肉蜗牛",
-			["icon"] = "INTERFACE\\ICONS\\trade_archaeology_fossil_snailshell",
+		[199787] = {
+			["icon"] = "Interface\\Icons\\ability_thunderking_thunderstruck",
+			["duration"] = 0,
 		},
 		[156743] = {
 			["name"] = "穿刺",
@@ -5430,38 +5454,8 @@ JamPlatesAccessoriesDB = {
 		},
 		[222775] = {
 			["duration"] = 5,
-			["name"] = "暗中出击",
 			["icon"] = "Interface\\Icons\\Ability_Rogue_UnfairAdvantage",
-		},
-		[23510] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Ability_Mount_MountainRam",
-			["name"] = "雷矛军用坐骑",
-		},
-		[217163] = {
-			["name"] = "撕裂",
-			["icon"] = "Interface\\Icons\\Ability_Gouge",
-		},
-		[191551] = {
-			["name"] = "统御之五",
-			["icon"] = "Interface\\Icons\\70_inscription_deck_dominion_5",
-		},
-		[147476] = {
-			["name"] = "永曦露水",
-			["icon"] = "Interface\\Icons\\INV_DRINK_14",
-		},
-		[225934] = {
-			["icon"] = "Interface\\Icons\\sha_spell_warlock_demonsoul_nightborne",
-			["duration"] = 120,
-		},
-		[221752] = {
-			["duration"] = 12,
-			["name"] = "强化感知",
-			["icon"] = "INTERFACE\\ICONS\\ability_hunter_onewithnature",
-		},
-		[160839] = {
-			["name"] = "进食充分",
-			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+			["name"] = "暗中出击",
 		},
 		[219602] = {
 			["duration"] = 10,
@@ -5473,27 +5467,58 @@ JamPlatesAccessoriesDB = {
 			["name"] = "血腥之爪",
 			["icon"] = "INTERFACE\\ICONS\\spell_druid_thrash",
 		},
+		[191551] = {
+			["name"] = "统御之五",
+			["icon"] = "Interface\\Icons\\70_inscription_deck_dominion_5",
+		},
+		[225420] = {
+			["name"] = "汲取生机",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_LifeDrain02",
+		},
+		[214002] = {
+			["icon"] = "Interface\\Icons\\ability_hunter_murderofcrows",
+			["duration"] = 5,
+		},
+		[221752] = {
+			["duration"] = 12,
+			["name"] = "强化感知",
+			["icon"] = "INTERFACE\\ICONS\\ability_hunter_onewithnature",
+		},
+		[189504] = {
+			["name"] = "战争践踏",
+			["icon"] = "Interface\\Icons\\Ability_WarStomp",
+		},
+		[115232] = {
+			["icon"] = "Interface\\Icons\\INV_Elemental_Primal_Shadow",
+			["duration"] = 30,
+		},
+		[196567] = {
+			["icon"] = "Interface\\Icons\\Ability_Stealth",
+			["duration"] = 0,
+		},
 		[43681] = {
 			["name"] = "消极",
 			["icon"] = "Interface\\Icons\\Spell_Nature_Polymorph_Cow",
 		},
-		[158792] = {
-			["name"] = "粉碎",
-			["icon"] = "Interface\\Icons\\spell_druid_malfurionstenacity",
+		[116267] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Ability_Mage_IncantersAbsorbtion",
+			["name"] = "咒术洪流",
 		},
 		[56222] = {
 			["duration"] = 3,
-			["name"] = "黑暗命令",
 			["icon"] = "Interface\\Icons\\Spell_Nature_ShamanRage",
+			["name"] = "黑暗命令",
 		},
-		[107845] = {
-			["name"] = "生命缚誓者的仆从",
-			["icon"] = "Interface\\Icons\\Ability_Mount_Drake_Red",
+		[191960] = {
+			["name"] = "带钩长矛",
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\INV_Spear_11",
+			["debuffType"] = "Magic",
 		},
-		[215648] = {
-			["duration"] = 20,
-			["icon"] = "Interface\\Icons\\Spell_Holy_ElunesGrace",
-			["name"] = "艾露恩之光",
+		[166878] = {
+			["name"] = "欺诈大师",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_Disguise",
 		},
 		[222265] = {
 			["name"] = "魔能震击",
@@ -5503,29 +5528,28 @@ JamPlatesAccessoriesDB = {
 			["name"] = "邪能导管",
 			["icon"] = "Interface\\Icons\\Spell_Fire_FelFireNova",
 		},
-		[203285] = {
-			["name"] = "烈焰轰击",
-			["icon"] = "Interface\\Icons\\Ability_Vehicle_DemolisherFlameCatapult",
-		},
-		[196567] = {
-			["icon"] = "Interface\\Icons\\Ability_Stealth",
+		[215132] = {
 			["duration"] = 0,
+			["name"] = "迅捷领域",
+			["icon"] = "Interface\\Icons\\ability_socererking_arcanemines",
+		},
+		[51124] = {
+			["duration"] = 10,
+			["name"] = "杀戮机器",
+			["icon"] = "Interface\\Icons\\INV_Sword_122",
 		},
 		[191553] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\70_inscription_deck_dominion_7",
 			["name"] = "统御之七",
 		},
-		[191960] = {
-			["name"] = "带钩长矛",
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\INV_Spear_11",
-			["debuffType"] = "Magic",
+		[175670] = {
+			["name"] = "打包爆裂矿石",
+			["icon"] = "Interface\\Icons\\inv_ore_blackrock_nugget",
 		},
-		[155722] = {
-			["duration"] = 10.05,
-			["name"] = "斜掠",
-			["icon"] = "Interface\\Icons\\Ability_Druid_Disembowel",
+		[61469] = {
+			["name"] = "重型冰雪猛犸象",
+			["icon"] = "Interface\\Icons\\Ability_Mount_Mammoth_White_3seater",
 		},
 		[209469] = {
 			["name"] = "腐蚀之触",
@@ -5537,17 +5561,18 @@ JamPlatesAccessoriesDB = {
 			["name"] = "狂乱",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyFrenzy",
 		},
-		[166878] = {
-			["name"] = "欺诈大师",
-			["icon"] = "Interface\\Icons\\Ability_Rogue_Disguise",
+		[90621] = {
+			["duration"] = 0,
+			["icon"] = "INTERFACE\\ICONS\\inv_mount_allianceliong",
+			["name"] = "黄金狮王",
 		},
 		[194625] = {
 			["name"] = "第一次大战勇气勋章",
 			["icon"] = "Interface\\Icons\\INV_QirajIdol_Sun",
 		},
 		[170567] = {
-			["name"] = "暗影之刺",
 			["icon"] = "INTERFACE\\ICONS\\spell_priest_mindspike",
+			["name"] = "暗影之刺",
 			["debuffType"] = "Magic",
 		},
 		[191554] = {
@@ -5562,13 +5587,15 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_misc_elitehippogryph",
 			["duration"] = 2,
 		},
-		[221791] = {
-			["icon"] = "Interface\\Icons\\ability_fixated_state_red",
-			["duration"] = 120,
+		[127220] = {
+			["duration"] = 0,
+			["name"] = "金色骑乘牦牛",
+			["icon"] = "Interface\\Icons\\ability_mount_yakmountbrown",
 		},
-		[225770] = {
-			["name"] = "时光转换",
-			["icon"] = "INTERFACE\\ICONS\\spell_arcane_invocation",
+		[156779] = {
+			["duration"] = 43200.036,
+			["name"] = "神经抑制器",
+			["icon"] = "Interface\\Icons\\Spell_Nature_MentalQuickness",
 		},
 		[214589] = {
 			["name"] = "霜寒护甲",
@@ -5576,18 +5603,17 @@ JamPlatesAccessoriesDB = {
 		},
 		[6343] = {
 			["duration"] = 8,
-			["name"] = "雷霆一击",
 			["icon"] = "Interface\\Icons\\Spell_Nature_ThunderClap",
+			["name"] = "雷霆一击",
 		},
-		[194084] = {
-			["duration"] = 16,
-			["icon"] = "Interface\\Icons\\Spell_Fire_FlameTounge",
-			["name"] = "火舌",
+		[209417] = {
+			["name"] = "投机取巧",
+			["icon"] = "INTERFACE\\ICONS\\ability_rogue_sealfate",
 		},
-		[90621] = {
-			["duration"] = 0,
-			["icon"] = "INTERFACE\\ICONS\\inv_mount_allianceliong",
-			["name"] = "黄金狮王",
+		[235543] = {
+			["name"] = "黑炎之魂",
+			["icon"] = "Interface\\Icons\\inv_misc_head_dragon_blue_nightmare",
+			["debuffType"] = "Magic",
 		},
 		[233017] = {
 			["icon"] = "Interface\\Icons\\spell_frost_stun",
@@ -5611,27 +5637,27 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Misc_PheonixPet_01",
 			["name"] = "虚弱之心",
 		},
-		[194627] = {
-			["name"] = "就是现在！",
-			["icon"] = "Interface\\Icons\\Ability_Hunter_Readiness",
+		[211007] = {
+			["name"] = "漩涡之眼",
+			["icon"] = "Interface\\Icons\\spell_mage_supernova",
+			["debuffType"] = "Magic",
 		},
-		[127220] = {
-			["duration"] = 0,
-			["name"] = "金色骑乘牦牛",
-			["icon"] = "Interface\\Icons\\ability_mount_yakmountbrown",
+		[104282] = {
+			["name"] = "进食充分",
+			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
 		},
-		[228958] = {
-			["name"] = "炼狱箭",
-			["icon"] = "Interface\\Icons\\spell_mage_infernoblast",
+		[188501] = {
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\ability_demonhunter_spectralsight",
+			["name"] = "幽灵视觉",
 		},
 		[64413] = {
 			["name"] = "远古王者庇护",
 			["icon"] = "Interface\\Icons\\Spell_Holy_ImpHolyConcentration",
 		},
-		[222719] = {
-			["duration"] = 15,
-			["name"] = "污秽",
-			["icon"] = "INTERFACE\\ICONS\\trade_archaeology_bloodysatyrscepter",
+		[214481] = {
+			["name"] = "带电鳞片",
+			["icon"] = "Interface\\Icons\\Spell_Lightning_LightningBolt01",
 		},
 		[193092] = {
 			["icon"] = "Interface\\Icons\\spell_warrior_wildstrike",
@@ -5646,14 +5672,15 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Misc_Web_01",
 			["duration"] = 16.102,
 		},
-		[197625] = {
-			["name"] = "枭兽形态",
-			["icon"] = "Interface\\Icons\\Spell_Nature_ForceOfNature",
+		[189061] = {
+			["icon"] = "Interface\\Icons\\Racial_Orc_BerserkerStrength",
+			["name"] = "邪能欲望",
+			["debuffType"] = "",
 		},
-		[171622] = {
-			["duration"] = 0,
-			["name"] = "斑点草地践踏者",
-			["icon"] = "Interface\\Icons\\ability_mount_elekkdraenormount",
+		[104773] = {
+			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_DemonicTactics",
+			["name"] = "不灭决心",
 		},
 		[126507] = {
 			["duration"] = 0,
@@ -5664,22 +5691,24 @@ JamPlatesAccessoriesDB = {
 			["name"] = "脆弱打击",
 			["icon"] = "INTERFACE\\ICONS\\inv_misc_food_meat_raw_03",
 		},
-		[200771] = {
-			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
-			["duration"] = 2,
+		[221246] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_AuraOfDarkness",
+			["name"] = "末日守卫的诅咒",
+			["debuffType"] = "Curse",
 		},
 		[119085] = {
 			["duration"] = 10,
-			["name"] = "真气突",
 			["icon"] = "Interface\\Icons\\ability_monk_standingkick",
+			["name"] = "真气突",
 		},
-		[217158] = {
-			["icon"] = "Interface\\Icons\\ability_skeer_bloodletting",
-			["duration"] = 180,
+		[225818] = {
+			["icon"] = "Interface\\Icons\\Spell_Magic_ManaGain",
+			["duration"] = 1800,
 		},
-		[214481] = {
-			["name"] = "带电鳞片",
-			["icon"] = "Interface\\Icons\\Spell_Lightning_LightningBolt01",
+		[204243] = {
+			["duration"] = 4.5,
+			["name"] = "折磨之眼",
+			["icon"] = "Interface\\Icons\\inv_misc_eye_03",
 		},
 		[227389] = {
 			["name"] = "花式斩杀",
@@ -5690,32 +5719,30 @@ JamPlatesAccessoriesDB = {
 			["name"] = "能量符文",
 			["icon"] = "Interface\\Icons\\spell_mage_runeofpower",
 		},
-		[156274] = {
-			["name"] = "怒斥",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_BattleShout",
+		[222256] = {
+			["duration"] = 3600,
+			["icon"] = "Interface\\Icons\\INV_Helmet_51",
+			["name"] = "玉树临风",
 		},
-		[48025] = {
-			["duration"] = 0,
-			["name"] = "无头骑士的坐骑",
-			["icon"] = "Interface\\Icons\\Ability_Mount_NightmareHorse",
+		[214625] = {
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameBreath",
+			["duration"] = 3.496,
 		},
-		[107842] = {
-			["duration"] = 0,
-			["name"] = "炽炎幼龙",
-			["icon"] = "Interface\\Icons\\Ability_Mount_Drake_Red",
+		[219087] = {
+			["icon"] = "Interface\\Icons\\ability_socererking_arcaneacceleration",
+			["duration"] = 6,
 		},
-		[204243] = {
-			["duration"] = 4.5,
-			["name"] = "折磨之眼",
-			["icon"] = "Interface\\Icons\\inv_misc_eye_03",
+		[212578] = {
+			["icon"] = "Interface\\Icons\\INV_Cask_04",
+			["duration"] = 300,
 		},
 		[181321] = {
 			["name"] = "邪能之触",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_ChillTouch",
 		},
-		[208410] = {
-			["name"] = "莉亚德琳的不羁之怒",
-			["icon"] = "Interface\\Icons\\Spell_Holy_AvengineWrath",
+		[212549] = {
+			["name"] = "恐惧咆哮",
+			["icon"] = "Interface\\Icons\\Ability_Devour",
 		},
 		[149585] = {
 			["name"] = "终点计时器",
@@ -5739,43 +5766,44 @@ JamPlatesAccessoriesDB = {
 			["name"] = "天怒图腾",
 			["icon"] = "Interface\\Icons\\Spell_Fire_TotemOfWrath",
 		},
-		[41514] = {
-			["icon"] = "Interface\\Icons\\Ability_Mount_NetherdrakePurple",
-			["duration"] = 0,
+		[175643] = {
+			["name"] = "回旋利刃",
+			["icon"] = "Interface\\Icons\\Ability_Whirlwind",
 		},
 		[189512] = {
 			["name"] = "卡兹洛加印记",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_SoulLeech_3",
 		},
-		[219087] = {
-			["icon"] = "Interface\\Icons\\ability_socererking_arcaneacceleration",
-			["duration"] = 6,
+		[214505] = {
+			["icon"] = "Interface\\Icons\\sha_spell_warlock_demonsoul_nightmare",
+			["duration"] = 0,
 		},
 		[32019] = {
 			["duration"] = 15,
 			["name"] = "角刺",
 			["icon"] = "Interface\\Icons\\Ability_Gouge",
 		},
-		[214118] = {
-			["icon"] = "Interface\\Icons\\INV_Cask_02",
-			["duration"] = 15,
-		},
-		[194657] = {
-			["icon"] = "Interface\\Icons\\ability_deathknight_asphixiate",
-			["duration"] = 4,
-		},
-		[199754] = {
-			["duration"] = 10,
-			["name"] = "还击",
-			["icon"] = "Interface\\Icons\\Ability_Parry",
-		},
-		[220803] = {
-			["icon"] = "Interface\\Icons\\Spell_Holy_BlessedLife",
-			["duration"] = 0,
-		},
 		[126707] = {
 			["name"] = "征服之涌",
 			["icon"] = "Interface\\Icons\\Spell_Holy_DivinePurpose",
+		},
+		[41516] = {
+			["name"] = "紫色灵翼幼龙",
+			["icon"] = "Interface\\Icons\\Ability_Mount_NetherdrakePurple",
+		},
+		[107842] = {
+			["duration"] = 0,
+			["name"] = "炽炎幼龙",
+			["icon"] = "Interface\\Icons\\Ability_Mount_Drake_Red",
+		},
+		[215648] = {
+			["duration"] = 20,
+			["icon"] = "Interface\\Icons\\Spell_Holy_ElunesGrace",
+			["name"] = "艾露恩之光",
+		},
+		[164466] = {
+			["icon"] = "Interface\\Icons\\Ability_Warrior_SavageBlow",
+			["duration"] = 10,
 		},
 		[148563] = {
 			["name"] = "幽灵烈酒",
@@ -5791,9 +5819,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_mount_cloudmount",
 			["name"] = "红色筋斗云",
 		},
-		[199787] = {
-			["icon"] = "Interface\\Icons\\ability_thunderking_thunderstruck",
-			["duration"] = 0,
+		[20707] = {
+			["duration"] = 900,
+			["name"] = "灵魂石",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_SoulGem",
 		},
 		[203846] = {
 			["name"] = "荣誉旗帜",
@@ -5805,13 +5834,13 @@ JamPlatesAccessoriesDB = {
 			["debuffType"] = "",
 		},
 		[217155] = {
-			["icon"] = "Interface\\Icons\\ability_monk_risingsunkick",
 			["name"] = "月光滑翔",
+			["icon"] = "Interface\\Icons\\ability_monk_risingsunkick",
 			["debuffType"] = "Magic",
 		},
-		[228891] = {
-			["name"] = "严寒喷射",
-			["icon"] = "Interface\\Icons\\Spell_Frost_SummonWaterElemental_2",
+		[143840] = {
+			["name"] = "苦痛印记",
+			["icon"] = "Interface\\Icons\\ability_fixated_state_red",
 		},
 		[41252] = {
 			["duration"] = 0,
@@ -5823,40 +5852,6 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Holy_DivinePurpose",
 			["name"] = "征服之涌",
 		},
-		[175700] = {
-			["name"] = "翡翠幼龙",
-			["icon"] = "Interface\\Icons\\Ability_Mount_Drake_Blue",
-		},
-		[195181] = {
-			["duration"] = 30,
-			["icon"] = "INTERFACE\\ICONS\\ability_deathknight_boneshield",
-			["name"] = "白骨之盾",
-		},
-		[224740] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Teleport",
-			["duration"] = 4,
-		},
-		[33702] = {
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Racial_Orc_BerserkerStrength",
-			["name"] = "血性狂怒",
-		},
-		[184396] = {
-			["name"] = "邪能腐蚀",
-			["icon"] = "Interface\\Icons\\inv_belt_pvpwarlock_e_01",
-		},
-		[217668] = {
-			["name"] = "请求主人的帮助",
-			["icon"] = "INTERFACE\\ICONS\\ability_warlock_impoweredimp",
-		},
-		[143840] = {
-			["name"] = "苦痛印记",
-			["icon"] = "Interface\\Icons\\ability_fixated_state_red",
-		},
-		[190027] = {
-			["name"] = "统御之涌",
-			["icon"] = "Interface\\Icons\\Spell_Holy_DivinePurpose",
-		},
 		[92155] = {
 			["name"] = "深蓝其拉作战坦克",
 			["icon"] = "INTERFACE\\ICONS\\trade_archaeology_sceptor of azaqir",
@@ -5865,25 +5860,35 @@ JamPlatesAccessoriesDB = {
 			["name"] = "皇家魁麟",
 			["icon"] = "Interface\\Icons\\ability_mount_quilenflyingmount",
 		},
-		[194632] = {
-			["name"] = "战斗欲望",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_DeathPact",
-		},
-		[203913] = {
-			["icon"] = "Interface\\Icons\\INV_Weapon_Rifle_01",
+		[92231] = {
 			["duration"] = 0,
+			["icon"] = "INTERFACE\\ICONS\\inv_mount_spectralhorse",
+			["name"] = "鬼灵战马",
 		},
-		[217157] = {
-			["icon"] = "Interface\\Icons\\ability_skeer_bloodletting",
-			["duration"] = 6,
+		[33702] = {
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\Racial_Orc_BerserkerStrength",
+			["name"] = "血性狂怒",
 		},
-		[26272] = {
-			["name"] = "PX-238冬幕欢乐制造器",
-			["icon"] = "Interface\\Icons\\Spell_Frost_FrostShock",
+		[196681] = {
+			["name"] = "艾特洛之魂",
+			["icon"] = "Interface\\Icons\\inv_ghostlymoosemount",
 		},
-		[51490] = {
-			["name"] = "雷霆风暴",
-			["icon"] = "Interface\\Icons\\Spell_Shaman_ThunderStorm",
+		[217668] = {
+			["name"] = "请求主人的帮助",
+			["icon"] = "INTERFACE\\ICONS\\ability_warlock_impoweredimp",
+		},
+		[216708] = {
+			["name"] = "逆风收割者",
+			["icon"] = "Interface\\Icons\\inv_misc_2h_farmscythe_a_01",
+		},
+		[190027] = {
+			["name"] = "统御之涌",
+			["icon"] = "Interface\\Icons\\Spell_Holy_DivinePurpose",
+		},
+		[191629] = {
+			["name"] = "不朽之六",
+			["icon"] = "Interface\\Icons\\70_inscription_deck_promises_6",
 		},
 		[181718] = {
 			["name"] = "抑制光环",
@@ -5894,28 +5899,52 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\spell_shadow_rune",
 			["name"] = "符文腐蚀",
 		},
-		[34969] = {
-			["name"] = "中毒",
-			["icon"] = "Interface\\Icons\\Spell_Nature_CorrosiveBreath",
-			["debuffType"] = "Poison",
+		[186480] = {
+			["duration"] = 8,
+			["name"] = "战意之怒",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_Rampage",
 		},
-		[203849] = {
-			["name"] = "荣誉旗帜",
-			["icon"] = "Interface\\Icons\\Achievement_BG_3flagcap_nodeaths",
+		[217157] = {
+			["icon"] = "Interface\\Icons\\ability_skeer_bloodletting",
+			["duration"] = 6,
 		},
 		[196562] = {
 			["name"] = "动荡魔法",
 			["icon"] = "Interface\\Icons\\ability_socererking_arcanereplication",
 		},
-		[213063] = {
+		[51490] = {
+			["name"] = "雷霆风暴",
+			["icon"] = "Interface\\Icons\\Spell_Shaman_ThunderStorm",
+		},
+		[215572] = {
 			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\ability_monk_blackoutkick",
-			["name"] = "月之暗面",
+			["name"] = "暴乱狂战士",
+			["icon"] = "INTERFACE\\ICONS\\warrior_talent_icon_furyintheblood",
+		},
+		[200771] = {
+			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
+			["duration"] = 2,
+		},
+		[32736] = {
+			["icon"] = "Interface\\Icons\\Ability_Warrior_SavageBlow",
+			["duration"] = 5,
+		},
+		[203849] = {
+			["name"] = "荣誉旗帜",
+			["icon"] = "Interface\\Icons\\Achievement_BG_3flagcap_nodeaths",
+		},
+		[102746] = {
+			["name"] = "睿智之灵",
+			["icon"] = "Interface\\Icons\\Spell_Holy_ChampionsBond",
+		},
+		[217158] = {
+			["icon"] = "Interface\\Icons\\ability_skeer_bloodletting",
+			["duration"] = 180,
 		},
 		[152150] = {
 			["duration"] = 1,
-			["name"] = "天降杀机",
 			["icon"] = "Interface\\Icons\\spell_rogue_deathfromabove",
+			["name"] = "天降杀机",
 		},
 		[189517] = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_Sunder",
@@ -5929,14 +5958,14 @@ JamPlatesAccessoriesDB = {
 			["name"] = "惊慌逃窜",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_PsychicHorrors",
 		},
-		[104272] = {
-			["name"] = "进食充分",
-			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+		[202192] = {
+			["name"] = "共鸣图腾",
+			["icon"] = "Interface\\Icons\\Spell_Nature_StoneSkinTotem",
 		},
-		[114255] = {
-			["duration"] = 20,
-			["icon"] = "Interface\\Icons\\Spell_Holy_SurgeOfLight",
-			["name"] = "圣光涌动",
+		[41518] = {
+			["duration"] = 0,
+			["name"] = "红色灵翼幼龙",
+			["icon"] = "Interface\\Icons\\Ability_Mount_NetherdrakePurple",
 		},
 		[212552] = {
 			["name"] = "幻影步",
@@ -5949,43 +5978,13 @@ JamPlatesAccessoriesDB = {
 			["name"] = "腐坏之喉",
 			["icon"] = "Interface\\Icons\\Spell_Nature_Acid_01",
 		},
-		[147642] = {
-			["name"] = "收割旋风",
-			["icon"] = "Interface\\Icons\\Spell_DeathKnight_BloodPlague",
-		},
-		[222278] = {
-			["icon"] = "Interface\\Icons\\inv_jewelcrafting_70_maxlvlneck_red",
-			["duration"] = 0,
-		},
-		[155225] = {
-			["name"] = "熔化",
-			["icon"] = "Interface\\Icons\\ability_foundryraid_melt",
-		},
-		[202192] = {
-			["name"] = "共鸣图腾",
-			["icon"] = "Interface\\Icons\\Spell_Nature_StoneSkinTotem",
-		},
-		[223814] = {
-			["name"] = "机械化木材采集器",
-			["icon"] = "Interface\\Icons\\ability_mount_shreddermount",
-		},
-		[189554] = {
-			["name"] = "吞噬之痛",
-			["icon"] = "Interface\\Icons\\ability_deathknight_roilingblood",
-			["debuffType"] = "Magic",
-		},
 		[213453] = {
 			["icon"] = "Interface\\Icons\\inv_polearm_1h_felfireraid_d_02",
 			["duration"] = 60,
 		},
-		[189030] = {
-			["name"] = "玷污",
-			["icon"] = "Interface\\Icons\\ability_malkorok_blightofyshaarj_red",
-		},
-		[41518] = {
+		[222278] = {
+			["icon"] = "Interface\\Icons\\inv_jewelcrafting_70_maxlvlneck_red",
 			["duration"] = 0,
-			["name"] = "红色灵翼幼龙",
-			["icon"] = "Interface\\Icons\\Ability_Mount_NetherdrakePurple",
 		},
 		[183881] = {
 			["duration"] = 8,
@@ -5997,13 +5996,44 @@ JamPlatesAccessoriesDB = {
 			["name"] = "荆棘",
 			["icon"] = "Interface\\Icons\\inv_misc_herb_goldthorn_bramble",
 		},
-		[194638] = {
-			["name"] = "战斗欲望",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_DeathPact",
+		[223814] = {
+			["name"] = "机械化木材采集器",
+			["icon"] = "Interface\\Icons\\ability_mount_shreddermount",
+		},
+		[191587] = {
+			["name"] = "恶性瘟疫",
+			["duration"] = 27.299,
+			["icon"] = "Interface\\Icons\\Ability_Creature_Disease_02",
+			["debuffType"] = "Disease",
+		},
+		[225358] = {
+			["icon"] = "Interface\\Icons\\Ability_Warrior_BattleShout",
+			["duration"] = 3,
 		},
 		[223178] = {
 			["icon"] = "Interface\\Icons\\inv_misc_head_dragon_blue_nightmare",
 			["duration"] = 0,
+		},
+		[49322] = {
+			["name"] = "迅捷斑马",
+			["icon"] = "Interface\\Icons\\Ability_Mount_Charger",
+		},
+		[171537] = {
+			["name"] = "收割旋风",
+			["icon"] = "Interface\\Icons\\INV_MISC_HOOK_01",
+		},
+		[147642] = {
+			["name"] = "收割旋风",
+			["icon"] = "Interface\\Icons\\Spell_DeathKnight_BloodPlague",
+		},
+		[194638] = {
+			["name"] = "战斗欲望",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_DeathPact",
+		},
+		[202300] = {
+			["duration"] = 7.152,
+			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_02",
+			["debuffType"] = "Poison",
 		},
 		[162902] = {
 			["name"] = "作战士气",
@@ -6030,39 +6060,42 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_Metamorphosis",
 			["duration"] = 0,
 		},
-		[199281] = {
-			["name"] = "延绵恐惧",
-			["icon"] = "Interface\\Icons\\achievement_dungeon_shadowmoonhideout",
+		[188482] = {
+			["name"] = "邪能感染",
+			["icon"] = "Interface\\Icons\\spell_nature_heavypolymorph2",
 		},
 		[199246] = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_SummonFelHunter",
 			["duration"] = 0,
 		},
-		[198817] = {
-			["name"] = "打磨利刃",
-			["icon"] = "Interface\\Icons\\spell_warrior_sharpenblade",
+		[117828] = {
+			["name"] = "爆燃",
+			["duration"] = 4.11,
+			["icon"] = "Interface\\Icons\\ability_warlock_backdraftgreen",
+			["debuffType"] = "Magic",
 		},
-		[196175] = {
-			["icon"] = "Interface\\Icons\\inv_gizmo_adamantiteshells",
-			["duration"] = 8,
+		[155225] = {
+			["name"] = "熔化",
+			["icon"] = "Interface\\Icons\\ability_foundryraid_melt",
 		},
 		[96312] = {
 			["duration"] = 1800,
-			["icon"] = "Interface\\Icons\\Ability_Rogue_Disguise",
 			["name"] = "卡莱莎的魂萦坠饰",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_Disguise",
 		},
 		[209484] = {
 			["duration"] = 4,
 			["icon"] = "Interface\\Icons\\Ability_HeroicLeap",
 			["name"] = "战术优势",
 		},
-		[202836] = {
-			["name"] = "柔顺尸网",
-			["icon"] = "INTERFACE\\ICONS\\trade_archaeology_gemmeddrinkingcup",
+		[199119] = {
+			["name"] = "故障检测光环",
+			["icon"] = "Interface\\Icons\\inv_engineering_failure detection pylon",
 		},
-		[222793] = {
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_eye_04",
-			["duration"] = 10,
+		[226888] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\ability_shaman_freedomwolf",
+			["name"] = "幽魂狼群",
 		},
 		[194640] = {
 			["name"] = "希望诅咒",
@@ -6070,9 +6103,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\warlock_curse_weakness_aura",
 			["debuffType"] = "Curse",
 		},
-		[141917] = {
-			["icon"] = "Interface\\Icons\\inv_pet_mouse",
-			["duration"] = 180,
+		[68927] = {
+			["name"] = "泼洒浓缩的诱惑香水",
+			["icon"] = "Interface\\Icons\\spell_yorsahj_bloodboil_purple",
 		},
 		[216139] = {
 			["duration"] = 10,
@@ -6084,9 +6117,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "铁鬃",
 			["icon"] = "Interface\\Icons\\ability_druid_ironfur",
 		},
-		[110645] = {
-			["name"] = "进食充分",
-			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+		[217163] = {
+			["name"] = "撕裂",
+			["icon"] = "Interface\\Icons\\Ability_Gouge",
 		},
 		[221770] = {
 			["duration"] = 8.242,
@@ -6097,10 +6130,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Frost_ArcticWinds",
 			["duration"] = 5,
 		},
-		[201223] = {
-			["duration"] = 3600.003,
-			["name"] = "进食充分",
-			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+		[227272] = {
+			["name"] = "灵巧打击",
+			["icon"] = "Interface\\Icons\\Ability_Hunter_RunningShot",
 		},
 		[223306] = {
 			["duration"] = 5,
@@ -6111,10 +6143,11 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\ability_hunter_camouflage",
 			["duration"] = 6,
 		},
-		[95809] = {
-			["duration"] = 600,
-			["icon"] = "Interface\\Icons\\Spell_Nature_FocusedMind",
-			["name"] = "疯狂",
+		[157644] = {
+			["name"] = "强化烟火之术",
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\Spell_Fire_FireBolt02",
+			["debuffType"] = "Magic",
 		},
 		[192082] = {
 			["icon"] = "Interface\\Icons\\ability_shaman_windwalktotem",
@@ -6125,22 +6158,26 @@ JamPlatesAccessoriesDB = {
 			["name"] = "刃舞",
 			["icon"] = "Interface\\Icons\\ability_demonhunter_bladedance",
 		},
-		[191605] = {
-			["name"] = "地狱火之三",
-			["icon"] = "Interface\\Icons\\70_inscription_deck_hellfire_3",
-		},
-		[199119] = {
-			["name"] = "故障检测光环",
-			["icon"] = "Interface\\Icons\\inv_engineering_failure detection pylon",
-		},
-		[227272] = {
-			["name"] = "灵巧打击",
-			["icon"] = "Interface\\Icons\\Ability_Hunter_RunningShot",
-		},
-		[175620] = {
-			["name"] = "灼疗",
-			["icon"] = "Interface\\Icons\\spell_fire_rune",
+		[205320] = {
+			["name"] = "风领主之击",
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\inv_hand_1h_artifactskywall_d_01",
 			["debuffType"] = "Magic",
+		},
+		[148564] = {
+			["duration"] = 3600.005,
+			["name"] = "幽灵烈酒",
+			["icon"] = "Interface\\Icons\\inv_helmet_66",
+		},
+		[217200] = {
+			["duration"] = 8,
+			["name"] = "凶猛狂暴",
+			["icon"] = "Interface\\Icons\\Ability_Druid_Mangle",
+		},
+		[148529] = {
+			["duration"] = 900,
+			["name"] = "迷时水手结晶",
+			["icon"] = "Interface\\Icons\\spell_warlock_soulburn",
 		},
 		[223819] = {
 			["duration"] = 12,
@@ -6151,27 +6188,26 @@ JamPlatesAccessoriesDB = {
 			["name"] = "魔法之尘",
 			["icon"] = "INTERFACE\\ICONS\\inv_misc_mastersinscription",
 		},
-		[17] = {
-			["name"] = "真言术：盾",
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Spell_Holy_PowerWordShield",
-			["debuffType"] = "Magic",
+		[200273] = {
+			["duration"] = 0,
+			["name"] = "懦弱",
+			["icon"] = "Interface\\Icons\\sha_spell_warlock_demonsoul_nightmare",
 		},
-		[191552] = {
-			["name"] = "统御之六",
-			["icon"] = "Interface\\Icons\\70_inscription_deck_dominion_6",
+		[189470] = {
+			["name"] = "催眠术",
+			["icon"] = "Interface\\Icons\\Spell_Nature_Sleep",
 		},
 		[221772] = {
 			["name"] = "溢出",
 			["icon"] = "Interface\\Icons\\petbattle_health-down",
 		},
-		[191608] = {
-			["name"] = "地狱火之六",
-			["icon"] = "Interface\\Icons\\70_inscription_deck_hellfire_6",
+		[219589] = {
+			["name"] = "闷烧",
+			["icon"] = "Interface\\Icons\\Ability_Mage_MoltenArmor",
 		},
-		[188482] = {
-			["name"] = "邪能感染",
-			["icon"] = "Interface\\Icons\\spell_nature_heavypolymorph2",
+		[182226] = {
+			["name"] = "骨刃鱼钩",
+			["icon"] = "Interface\\Icons\\inv_mace_123",
 		},
 		[202833] = {
 			["name"] = "腐蚀",
@@ -6179,28 +6215,28 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_AbominationExplosion",
 			["debuffType"] = "Magic",
 		},
-		[209426] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\ability_demonhunter_darkness",
-			["name"] = "黑暗",
+		[187878] = {
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\spell_shaman_crashlightning",
+			["name"] = "毁灭闪电",
 		},
-		[196725] = {
-			["name"] = "碧玉疾风",
-			["icon"] = "Interface\\Icons\\ability_monk_rushingjadewind",
+		[213962] = {
+			["name"] = "殊死抗击",
+			["icon"] = "Interface\\Icons\\ability_monk_deadlyreach",
 		},
-		[189047] = {
-			["name"] = "邪影相位转移",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Requiem",
-		},
-		[225356] = {
-			["name"] = "渗漏之雾",
+		[218256] = {
 			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\Spell_Nature_Sleep",
-			["debuffType"] = "Magic",
+			["icon"] = "Interface\\Icons\\ability_demonhunter_empowerwards",
+			["name"] = "强化结界",
 		},
-		[182226] = {
-			["name"] = "骨刃鱼钩",
-			["icon"] = "Interface\\Icons\\inv_mace_123",
+		[155741] = {
+			["name"] = "恐惧渡鸦",
+			["icon"] = "Interface\\Icons\\inv_ravenlordmount",
+		},
+		[173181] = {
+			["duration"] = 4,
+			["icon"] = "Interface\\Icons\\spell_sandexplosion",
+			["debuffType"] = "Magic",
 		},
 		[201810] = {
 			["icon"] = "Interface\\Icons\\inv_fishing_lure_kelp",
@@ -6211,40 +6247,39 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\ICONS\\INV_SuramarMount",
 		},
 		[227404] = {
-			["name"] = "无形",
 			["icon"] = "Interface\\Icons\\Spell_Holy_SenseUndead",
+			["name"] = "无形",
 			["debuffType"] = "Magic",
 		},
-		[234153] = {
-			["duration"] = 4.938,
-			["name"] = "吸取生命",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_LifeDrain02",
+		[208410] = {
+			["name"] = "莉亚德琳的不羁之怒",
+			["icon"] = "Interface\\Icons\\Spell_Holy_AvengineWrath",
 		},
-		[224333] = {
-			["name"] = "包围之风",
-			["icon"] = "Interface\\Icons\\ability_skyreach_wind",
-			["debuffType"] = "Magic",
+		[207953] = {
+			["name"] = "萨洛拉丝的黑暗之击",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_RitualOfSacrifice",
 		},
-		[142945] = {
-			["name"] = "诡异之雾",
-			["icon"] = "Interface\\Icons\\ability_xaril_masterpoisoner_green",
+		[187990] = {
+			["name"] = "幻影腐蚀",
+			["icon"] = "Interface\\Icons\\spell_fel_elementaldevastation",
 		},
-		[213962] = {
-			["name"] = "殊死抗击",
-			["icon"] = "Interface\\Icons\\ability_monk_deadlyreach",
+		[195129] = {
+			["duration"] = 1,
+			["name"] = "雷霆践踏",
+			["icon"] = "INTERFACE\\ICONS\\spell_shaman_earthquake",
 		},
-		[148564] = {
-			["duration"] = 3600.005,
-			["name"] = "幽灵烈酒",
-			["icon"] = "Interface\\Icons\\inv_helmet_66",
+		[191615] = {
+			["duration"] = 0,
+			["name"] = "应许之一",
+			["icon"] = "Interface\\Icons\\70_inscription_deck_promises_a",
 		},
 		[148576] = {
 			["name"] = "粉碎冲击",
 			["icon"] = "Interface\\Icons\\Ability_Gouge",
 		},
-		[189560] = {
-			["name"] = "腐臭蜂群",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_CarrionSwarm",
+		[23766] = {
+			["name"] = "塞格的黑暗塔罗牌：智力",
+			["icon"] = "Interface\\Icons\\INV_Misc_Orb_02",
 		},
 		[227405] = {
 			["name"] = "反抗引力",
@@ -6255,36 +6290,38 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Nature_ChainLightning",
 			["name"] = "专注闪电",
 		},
-		[215558] = {
+		[221673] = {
+			["icon"] = "Interface\\Icons\\Ability_Mount_BlackDireWolf",
 			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\inv_ratmount",
-			["name"] = "骑乘巨鼠",
 		},
 		[212561] = {
 			["duration"] = 10,
 			["icon"] = "Interface\\Icons\\Ability_Druid_ChallangingRoar",
 			["debuffType"] = "Magic",
 		},
-		[225358] = {
-			["icon"] = "Interface\\Icons\\Ability_Warrior_BattleShout",
-			["duration"] = 3,
+		[192598] = {
+			["name"] = "水疱炸弹",
+			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_06",
+			["debuffType"] = "Poison",
 		},
-		[41517] = {
-			["name"] = "绿色灵翼幼龙",
-			["icon"] = "Interface\\Icons\\Ability_Mount_NetherdrakePurple",
+		[95809] = {
+			["duration"] = 600,
+			["name"] = "疯狂",
+			["icon"] = "Interface\\Icons\\Spell_Nature_FocusedMind",
 		},
-		[191630] = {
-			["name"] = "不朽之七",
-			["icon"] = "Interface\\Icons\\70_inscription_deck_promises_7",
+		[164309] = {
+			["name"] = "法师护甲",
+			["icon"] = "Interface\\Icons\\Spell_MageArmor",
+			["debuffType"] = "Magic",
 		},
-		[191609] = {
-			["name"] = "地狱火之七",
-			["icon"] = "Interface\\Icons\\70_inscription_deck_hellfire_7",
+		[65645] = {
+			["name"] = "白色骷髅战马",
+			["icon"] = "Interface\\Icons\\Ability_Mount_Undeadhorse",
 		},
-		[206931] = {
-			["duration"] = 3,
-			["icon"] = "Interface\\Icons\\ability_animusdraw",
-			["name"] = "饮血者",
+		[202836] = {
+			["name"] = "柔顺尸网",
+			["icon"] = "INTERFACE\\ICONS\\trade_archaeology_gemmeddrinkingcup",
 		},
 		[203348] = {
 			["icon"] = "INTERFACE\\ICONS\\spell_druid_stamedingroar",
@@ -6296,9 +6333,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Fire_Immolation",
 			["debuffType"] = "Magic",
 		},
-		[190074] = {
-			["icon"] = "Interface\\Icons\\Ability_Creature_Cursed_04",
-			["duration"] = 0,
+		[230002] = {
+			["icon"] = "Interface\\Icons\\Ability_Warrior_Cleave",
+			["name"] = "炽热断筋",
+			["debuffType"] = "Magic",
 		},
 		[143459] = {
 			["name"] = "煞能残渣",
@@ -6310,14 +6348,13 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_monk_vivify",
 			["debuffType"] = "Magic",
 		},
-		[203814] = {
-			["name"] = "荣誉旗帜",
-			["icon"] = "Interface\\Icons\\Achievement_BG_3flagcap_nodeaths",
+		[149624] = {
+			["name"] = "火祭",
+			["icon"] = "Interface\\Icons\\warlock_sacrificial_pact",
 		},
-		[164309] = {
-			["icon"] = "Interface\\Icons\\Spell_MageArmor",
-			["name"] = "法师护甲",
-			["debuffType"] = "Magic",
+		[227781] = {
+			["name"] = "光耀碎片",
+			["icon"] = "Interface\\Icons\\ability_paladin_blindinglight2",
 		},
 		[115767] = {
 			["duration"] = 19.5,
@@ -6328,9 +6365,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
 			["duration"] = 3600,
 		},
-		[26274] = {
-			["name"] = "PX-238冬幕欢乐制造器",
-			["icon"] = "Interface\\Icons\\Spell_Frost_FrostShock",
+		[155176] = {
+			["name"] = "减伤护盾",
+			["icon"] = "Interface\\Icons\\INV_Misc_EngGizmos_15",
 		},
 		[155233] = {
 			["name"] = "休眠",
@@ -6340,14 +6377,15 @@ JamPlatesAccessoriesDB = {
 			["name"] = "邪煞池",
 			["icon"] = "Interface\\Icons\\sha_spell_fire_felfire",
 		},
-		[68948] = {
-			["name"] = "喷洒无法抗拒的古龙水",
-			["icon"] = "Interface\\Icons\\ability_creature_poison_02",
+		[193997] = {
+			["icon"] = "Interface\\Icons\\INV_Misc_Web_01",
+			["duration"] = 0,
 		},
-		[221812] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\spell_nature_insect_swarm2",
-			["name"] = "疫病虫群",
+		[12611] = {
+			["name"] = "冰锥术",
+			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\Spell_Frost_Glacier",
+			["debuffType"] = "Magic",
 		},
 		[173661] = {
 			["name"] = "薇薇安被击败",
@@ -6410,8 +6448,8 @@ JamPlatesAccessoriesDB = {
 			["debuffType"] = "Magic",
 		},
 		[79937] = {
-			["name"] = "献祭",
 			["icon"] = "Interface\\Icons\\Spell_Fire_Immolation",
+			["name"] = "献祭",
 			["debuffType"] = "Magic",
 		},
 		[197209] = {
@@ -6420,31 +6458,31 @@ JamPlatesAccessoriesDB = {
 			["name"] = "引雷针",
 		},
 		[189531] = {
-			["name"] = "灵魂灾祸",
 			["icon"] = "INTERFACE\\ICONS\\ability_warlock_soulswap",
+			["name"] = "灵魂灾祸",
 			["debuffType"] = "Magic",
 		},
 		[190043] = {
 			["name"] = "邪血打击",
 			["icon"] = "Interface\\Icons\\inv_knife_1h_felfireraid_d_04",
 		},
-		[97341] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\inv_epicguildtabard",
-			["name"] = "公会勇士",
+		[198745] = {
+			["duration"] = 12,
+			["icon"] = "Interface\\Icons\\Spell_Holy_AuraMastery",
+			["debuffType"] = "Magic",
 		},
 		[162402] = {
 			["name"] = "炎阳珠",
 			["icon"] = "Interface\\Icons\\inv_misc_gem_pearl_13",
 		},
-		[227781] = {
-			["name"] = "光耀碎片",
-			["icon"] = "Interface\\Icons\\ability_paladin_blindinglight2",
+		[217206] = {
+			["name"] = "强风",
+			["icon"] = "Interface\\Icons\\Spell_Frost_WindWalkOn",
 		},
-		[79683] = {
-			["duration"] = 20,
-			["icon"] = "Interface\\Icons\\Spell_Nature_StarFall",
-			["name"] = "奥术飞弹！",
+		[199185] = {
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\Ability_Creature_Disease_03",
+			["debuffType"] = "Disease",
 		},
 		[5384] = {
 			["duration"] = 360,
@@ -6455,36 +6493,34 @@ JamPlatesAccessoriesDB = {
 			["name"] = "水兵的破坏",
 			["icon"] = "INTERFACE\\ICONS\\warrior_talent_icon_skirmisher",
 		},
-		[189532] = {
-			["name"] = "灵魂灼烧",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowPower",
+		[156772] = {
+			["name"] = "燃烧射击",
+			["icon"] = "Interface\\Icons\\ability_hunter_crossfire",
 		},
-		[193997] = {
-			["icon"] = "Interface\\Icons\\INV_Misc_Web_01",
-			["duration"] = 0,
+		[215159] = {
+			["name"] = "失落已久的角鹰兽",
+			["icon"] = "Interface\\Icons\\Ability_Mount_WarHippogryph",
 		},
-		[215126] = {
-			["duration"] = 60,
-			["name"] = "凝结的黏性物质",
-			["icon"] = "Interface\\Icons\\spell_yorsahj_bloodboil_green",
+		[223316] = {
+			["name"] = "狂热殉道者",
+			["icon"] = "Interface\\Icons\\ability_paladin_selflesshealer",
 		},
 		[43688] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\Ability_Druid_ChallangingRoar",
 			["name"] = "阿曼尼战熊",
 		},
-		[187485] = {
-			["icon"] = "Interface\\Icons\\Ability_Warrior_Charge",
-			["duration"] = 2,
+		[162915] = {
+			["name"] = "督军之魂",
+			["icon"] = "Interface\\Icons\\inv_misc_pvp_trinket",
 		},
-		[224852] = {
-			["name"] = "完整的始祖龙鳞腰带",
-			["icon"] = "Interface\\Icons\\Spell_Shaman_LavaBurst",
+		[171617] = {
+			["icon"] = "Interface\\Icons\\inv_clefthoofdraenormount_blue",
+			["duration"] = 0,
 		},
-		[148529] = {
-			["duration"] = 900,
-			["name"] = "迷时水手结晶",
-			["icon"] = "Interface\\Icons\\spell_warlock_soulburn",
+		[204333] = {
+			["icon"] = "Interface\\Icons\\inv_pet_otter",
+			["duration"] = 7,
 		},
 		[197211] = {
 			["name"] = "空气之怒",
@@ -6509,54 +6545,52 @@ JamPlatesAccessoriesDB = {
 			["name"] = "魔火锁定",
 			["icon"] = "Interface\\Icons\\ability_fixated_state_red",
 		},
-		[146986] = {
-			["name"] = "传送",
-			["icon"] = "Interface\\Icons\\spell_shadow_mindflay",
+		[224934] = {
+			["icon"] = "INTERFACE\\ICONS\\spell_warlock_demonsoul",
+			["duration"] = 10,
 		},
 		[187998] = {
 			["name"] = "邪能导管",
 			["icon"] = "Interface\\Icons\\Spell_Fire_FelFireNova",
 		},
-		[211064] = {
-			["name"] = "迅捷领域",
-			["icon"] = "Interface\\Icons\\ability_socererking_arcanemines",
+		[166021] = {
+			["name"] = "病变打击",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_FeignDeath",
 		},
-		[203898] = {
-			["duration"] = 12,
-			["name"] = "侧击撕碎",
-			["icon"] = "Interface\\Icons\\Ability_GhoulFrenzy",
+		[148951] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_AntiMagicShell",
+			["duration"] = 0,
 		},
 		[5672] = {
 			["name"] = "治疗之泉",
 			["icon"] = "Interface\\Icons\\INV_Spear_04",
 		},
-		[48045] = {
-			["duration"] = 3.23,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_MindShear",
-			["name"] = "精神灼烧",
+		[51259] = {
+			["icon"] = "Interface\\Icons\\Spell_Misc_HellifrePVPCombatMorale",
+			["duration"] = 16,
 		},
 		[219223] = {
 			["duration"] = 0,
 			["name"] = "疾风之行",
 			["icon"] = "Interface\\Icons\\ability_skyreach_four_wind",
 		},
-		[199340] = {
-			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
-			["duration"] = 3,
+		[1850] = {
+			["duration"] = 15,
+			["name"] = "急奔",
+			["icon"] = "Interface\\Icons\\Ability_Druid_Dash",
 		},
 		[146537] = {
 			["name"] = "湮灭打击",
 			["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldBreak",
 		},
-		[171619] = {
-			["name"] = "苔原冰蹄牛",
-			["icon"] = "Interface\\Icons\\inv_clefthoofdraenormount_blue",
+		[79683] = {
+			["duration"] = 20,
+			["icon"] = "Interface\\Icons\\Spell_Nature_StarFall",
+			["name"] = "奥术飞弹！",
 		},
-		[184416] = {
-			["name"] = "瘟疫之种",
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\inv_misc_herb_plaguebloom",
-			["debuffType"] = "Disease",
+		[104509] = {
+			["name"] = "风歌",
+			["icon"] = "Interface\\Icons\\Spell_Frost_ArcticWinds",
 		},
 		[5784] = {
 			["name"] = "地狱战马",
@@ -6566,10 +6600,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "鼓舞咆哮",
 			["icon"] = "Interface\\Icons\\Ability_Warrior_BattleShout",
 		},
-		[204945] = {
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\inv_mace_1h_artifactdoomhammer_d_01",
-			["name"] = "毁灭之风",
+		[210984] = {
+			["duration"] = 29,
+			["name"] = "命运之眼",
+			["icon"] = "Interface\\Icons\\sha_inv_elemental_primal_shadow_nightmare",
 		},
 		[202844] = {
 			["name"] = "火枪鞋",
@@ -6590,8 +6624,8 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_engineering_gunpowdercharge",
 			["name"] = "火药炸弹",
 		},
-		[148951] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_AntiMagicShell",
+		[198190] = {
+			["icon"] = "Interface\\Icons\\Spell_Misc_EmotionSad",
 			["duration"] = 0,
 		},
 		[143979] = {
@@ -6613,62 +6647,60 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Hunter_RapidKilling",
 			["debuffType"] = "Magic",
 		},
-		[162370] = {
-			["name"] = "晶化弹幕",
-			["icon"] = "Interface\\Icons\\Spell_Holiday_ToW_SpiceCloud",
-		},
-		[194615] = {
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\Spell_Magic_LesserInvisibilty",
-			["debuffType"] = "Magic",
-		},
-		[159336] = {
-			["name"] = "钢铁意志",
-			["icon"] = "Interface\\Icons\\ability_ironmaidens_ironwill",
-		},
-		[202285] = {
-			["icon"] = "Interface\\Icons\\INV_Drink_05",
-			["duration"] = 60,
-		},
-		[198190] = {
-			["icon"] = "Interface\\Icons\\Spell_Misc_EmotionSad",
-			["duration"] = 0,
-		},
-		[211053] = {
-			["duration"] = 1,
-			["icon"] = "Interface\\Icons\\ability_felarakkoa_feldetonation_green",
-			["name"] = "邪能弹幕",
+		[188033] = {
+			["duration"] = 7200.004,
+			["name"] = "第七恶魔合剂",
+			["icon"] = "Interface\\Icons\\inv_alchemy_70_flask03orange",
 		},
 		[182734] = {
 			["duration"] = 12,
 			["icon"] = "Interface\\Icons\\Spell_Arcane_Arcane03",
 			["debuffType"] = "Magic",
 		},
-		[195630] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\ability_monk_shuffle",
-			["name"] = "醉拳大师",
+		[171621] = {
+			["name"] = "铁蹄毁灭者",
+			["icon"] = "Interface\\Icons\\inv_ironhordeclefthoof",
 		},
-		[212993] = {
-			["duration"] = 25,
-			["name"] = "微光之羽",
-			["icon"] = "Interface\\Icons\\INV_Feather_05",
+		[192048] = {
+			["icon"] = "Interface\\Icons\\Spell_Holy_DivineProvidence",
+			["duration"] = 3.001,
+		},
+		[184985] = {
+			["name"] = "凋零契印",
+			["icon"] = "Interface\\Icons\\Spell_Holy_SealOfRighteousness",
+		},
+		[216187] = {
+			["icon"] = "Interface\\Icons\\warlock_grimoireofservice",
+			["duration"] = 0,
+		},
+		[225731] = {
+			["name"] = "腐臭蜂群",
+			["icon"] = "Interface\\Icons\\spell_deathknight_necroticplague",
+		},
+		[175671] = {
+			["name"] = "空袋子",
+			["icon"] = "Interface\\Icons\\inv_misc_bag_09",
+		},
+		[142990] = {
+			["name"] = "致命打击",
+			["icon"] = "Interface\\Icons\\warrior_wild_strike",
 		},
 		[199775] = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyFrenzy",
 			["duration"] = 0,
 		},
-		[212572] = {
-			["name"] = "石血之拥",
-			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_04",
+		[155242] = {
+			["name"] = "高热",
+			["icon"] = "Interface\\Icons\\INV_Ammo_FireTar",
 		},
 		[147564] = {
 			["name"] = "强化腐蚀",
 			["icon"] = "INTERFACE\\ICONS\\spell_warlock_demonsoul",
 		},
-		[216187] = {
-			["icon"] = "Interface\\Icons\\warlock_grimoireofservice",
-			["duration"] = 0,
+		[47788] = {
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\Spell_Holy_GuardianSpirit",
+			["name"] = "守护之魂",
 		},
 		[189538] = {
 			["name"] = "末日降临",
@@ -6680,10 +6712,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_monk_renewingmists",
 			["debuffType"] = "Magic",
 		},
-		[215132] = {
+		[41514] = {
+			["icon"] = "Interface\\Icons\\Ability_Mount_NetherdrakePurple",
 			["duration"] = 0,
-			["name"] = "迅捷领域",
-			["icon"] = "Interface\\Icons\\ability_socererking_arcanemines",
 		},
 		[124218] = {
 			["name"] = "进食充分",
@@ -6693,18 +6724,18 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Misc_Birdbeck_01",
 			["duration"] = 5,
 		},
-		[225731] = {
-			["name"] = "腐臭蜂群",
-			["icon"] = "Interface\\Icons\\spell_deathknight_necroticplague",
+		[134847] = {
+			["name"] = "派对动物",
+			["icon"] = "Interface\\Icons\\INV_Misc_DiscoBall_01",
 		},
 		[204895] = {
 			["duration"] = 10,
 			["icon"] = "INTERFACE\\ICONS\\inv_jewelcrafting_shadowspirit_02",
 			["debuffType"] = "Magic",
 		},
-		[148650] = {
-			["name"] = "脚力劲健",
-			["icon"] = "Interface\\Icons\\achievement_faction_klaxxi",
+		[203816] = {
+			["icon"] = "Interface\\Icons\\Ability_Warrior_StrengthOfArms",
+			["duration"] = 0,
 		},
 		[189539] = {
 			["name"] = "震荡波",
@@ -6732,9 +6763,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\ability_rogue_dirtydeeds",
 			["duration"] = 20,
 		},
-		[142990] = {
-			["name"] = "致命打击",
-			["icon"] = "Interface\\Icons\\warrior_wild_strike",
+		[13730] = {
+			["icon"] = "Interface\\Icons\\Ability_Warrior_WarCry",
+			["duration"] = 20,
 		},
 		[152173] = {
 			["name"] = "屏气凝神",
@@ -6744,23 +6775,21 @@ JamPlatesAccessoriesDB = {
 			["name"] = "压倒能量",
 			["icon"] = "Interface\\Icons\\ability_priest_clarityofpower",
 		},
-		[206930] = {
-			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\INV_Weapon_Shortblade_40",
-			["name"] = "心脏打击",
+		[45348] = {
+			["name"] = "烈焰触摸",
+			["icon"] = "Interface\\Icons\\Spell_Fire_SealOfFire",
 		},
-		[189999] = {
-			["duration"] = 0,
-			["name"] = "林地守卫者",
-			["icon"] = "Interface\\Icons\\inv_moosemount",
+		[225768] = {
+			["name"] = "时光转换",
+			["icon"] = "INTERFACE\\ICONS\\spell_arcane_invocation",
 		},
 		[227931] = {
 			["name"] = "聚光灯下",
 			["icon"] = "Interface\\Icons\\Spell_Holy_InnerFire",
 		},
 		[232538] = {
-			["icon"] = "Interface\\Icons\\ability_demonhunter_infernalstrike1",
 			["name"] = "混乱之雨",
+			["icon"] = "Interface\\Icons\\ability_demonhunter_infernalstrike1",
 			["debuffType"] = "Magic",
 		},
 		[147055] = {
@@ -6784,28 +6813,27 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\sha_inv_misc_slime_01",
 			["debuffType"] = "Magic",
 		},
-		[203816] = {
-			["icon"] = "Interface\\Icons\\Ability_Warrior_StrengthOfArms",
-			["duration"] = 0,
+		[230011] = {
+			["name"] = "残忍绞喉",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_Garrote",
 		},
 		[202850] = {
 			["icon"] = "Interface\\Icons\\Spell_Holy_Heal",
 			["duration"] = 8,
 		},
-		[193069] = {
-			["name"] = "梦魇",
-			["duration"] = 5,
-			["icon"] = "INTERFACE\\ICONS\\spell_shadow_mindflay",
+		[31842] = {
+			["duration"] = 30,
+			["icon"] = "Interface\\Icons\\Spell_Holy_AvengineWrath",
+			["name"] = "复仇之怒",
+		},
+		[43198] = {
+			["icon"] = "Interface\\Icons\\Spell_Nature_UnyeildingStamina",
+			["name"] = "耐力",
 			["debuffType"] = "Magic",
 		},
-		[207999] = {
-			["duration"] = 8,
-			["name"] = "扭曲虚空的冲击",
-			["icon"] = "Interface\\Icons\\spell_nature_rune",
-		},
-		[171626] = {
-			["name"] = "装甲铁牙践踏者",
-			["icon"] = "Interface\\Icons\\inv_iron horde elekk",
+		[200291] = {
+			["icon"] = "Interface\\Icons\\Ability_Rogue_FanofKnives",
+			["duration"] = 5,
 		},
 		[200803] = {
 			["name"] = "苦痛药膏",
@@ -6813,57 +6841,56 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Poison_MindNumbing",
 			["debuffType"] = "Poison",
 		},
-		[213600] = {
-			["duration"] = 2,
-			["icon"] = "Interface\\Icons\\ability_vehicle_sonicshockwave",
-			["debuffType"] = "Magic",
+		[189030] = {
+			["name"] = "玷污",
+			["icon"] = "Interface\\Icons\\ability_malkorok_blightofyshaarj_red",
 		},
-		[145987] = {
-			["name"] = "设置炸弹",
-			["icon"] = "Interface\\Icons\\INV_Misc_Bomb_07",
+		[192002] = {
+			["duration"] = 20,
+			["name"] = "食物和饮水",
+			["icon"] = "Interface\\Icons\\INV_Drink_18",
 		},
 		[214624] = {
 			["name"] = "督军的坚韧",
 			["icon"] = "Interface\\Icons\\ability_shaman_fortifyingwaters",
 		},
-		[192132] = {
-			["icon"] = "Interface\\Icons\\Spell_Lightning_LightningBolt01",
-			["duration"] = 0,
-		},
-		[207458] = {
-			["name"] = "梦魇孢子",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_SeedOfDestruction",
-			["debuffType"] = "Magic",
-		},
-		[235543] = {
-			["icon"] = "Interface\\Icons\\inv_misc_head_dragon_blue_nightmare",
-			["name"] = "黑炎之魂",
-			["debuffType"] = "Magic",
-		},
-		[47788] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\Spell_Holy_GuardianSpirit",
-			["name"] = "守护之魂",
-		},
-		[61230] = {
-			["icon"] = "Interface\\Icons\\ability_mount_swiftpurplewindrider",
-			["duration"] = 0,
-		},
-		[189031] = {
-			["name"] = "玷污",
-			["icon"] = "Interface\\Icons\\ability_malkorok_blightofyshaarj_yellow",
-		},
 		[214980] = {
 			["name"] = "切割漩涡",
 			["icon"] = "Interface\\Icons\\ability_skyreach_four_wind",
+		},
+		[37548] = {
+			["name"] = "嘲讽",
+			["icon"] = "Interface\\Icons\\Spell_Nature_Reincarnation",
+		},
+		[193065] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Misery",
+			["name"] = "忍辱负重",
+			["debuffType"] = "Magic",
+		},
+		[201671] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\artifactability_guardiandruid_goryfur",
+			["name"] = "血污毛皮",
+		},
+		[225729] = {
+			["name"] = "野性强化",
+			["icon"] = "Interface\\Icons\\INV_Staff_15",
+		},
+		[221791] = {
+			["icon"] = "Interface\\Icons\\ability_fixated_state_red",
+			["duration"] = 120,
+		},
+		[148542] = {
+			["name"] = "灰尘暴",
+			["icon"] = "Interface\\Icons\\inv_misc_ashenpigment",
 		},
 		[198245] = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_DecisiveStrike",
 			["duration"] = 10,
 		},
 		[235612] = {
-			["name"] = "冰霜吐息",
 			["icon"] = "Interface\\Icons\\Spell_Frost_FrostNova",
+			["name"] = "冰霜吐息",
 			["debuffType"] = "Magic",
 		},
 		[34477] = {
@@ -6871,18 +6898,18 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Hunter_Misdirection",
 			["name"] = "误导",
 		},
-		[90708] = {
-			["name"] = "公会战旗",
-			["icon"] = "Interface\\Icons\\inv_misc_tournaments_banner_orc",
+		[199754] = {
+			["duration"] = 10,
+			["name"] = "还击",
+			["icon"] = "Interface\\Icons\\Ability_Parry",
 		},
-		[212578] = {
-			["icon"] = "Interface\\Icons\\INV_Cask_04",
-			["duration"] = 300,
+		[179818] = {
+			["name"] = "聚焦法力光束",
+			["icon"] = "Interface\\Icons\\ability_druid_stellarflare",
 		},
-		[201671] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\artifactability_guardiandruid_goryfur",
-			["name"] = "血污毛皮",
+		[202905] = {
+			["name"] = "纳瓦罗格的指引",
+			["icon"] = "INTERFACE\\ICONS\\inv_spiritshard_01",
 		},
 		[221792] = {
 			["icon"] = "Interface\\Icons\\Ability_Rogue_KidneyShot",
@@ -6893,22 +6920,22 @@ JamPlatesAccessoriesDB = {
 			["name"] = "噬骨咀嚼",
 			["icon"] = "Interface\\Icons\\Ability_Druid_FerociousBite",
 		},
-		[225729] = {
-			["name"] = "野性强化",
-			["icon"] = "Interface\\Icons\\INV_Staff_15",
+		[143423] = {
+			["name"] = "煞能灼烧",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_MindShear",
 		},
 		[194663] = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_IntensifyRage",
 			["duration"] = 6,
 		},
-		[187459] = {
-			["name"] = "魔能震击",
-			["icon"] = "Interface\\Icons\\INV_Ore_FelIron",
-			["debuffType"] = "Magic",
+		[198599] = {
+			["icon"] = "Interface\\Icons\\ability_thunderking_thunderstruck",
+			["duration"] = 3,
 		},
-		[26013] = {
-			["name"] = "逃亡者",
-			["icon"] = "Interface\\Icons\\Ability_Druid_Cower",
+		[202419] = {
+			["duration"] = 12,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyFrenzy",
+			["debuffType"] = "Magic",
 		},
 		[171629] = {
 			["name"] = "装甲霜鬃野猪",
@@ -6937,39 +6964,40 @@ JamPlatesAccessoriesDB = {
 			["name"] = "鬼灵之速",
 			["icon"] = "Interface\\Icons\\ability_shaman_freedomwolf",
 		},
-		[225788] = {
-			["duration"] = 0,
-			["name"] = "使者印记",
-			["icon"] = "Interface\\Icons\\Achievement_Reputation_08",
+		[164815] = {
+			["name"] = "阳炎术",
+			["duration"] = 23.4,
+			["icon"] = "Interface\\Icons\\Ability_Mage_FireStarter",
+			["debuffType"] = "Magic",
 		},
-		[212549] = {
-			["name"] = "恐惧咆哮",
-			["icon"] = "Interface\\Icons\\Ability_Devour",
+		[143828] = {
+			["name"] = "锁定",
+			["icon"] = "Interface\\Icons\\Ability_Hunter_MarkedForDeath",
 		},
-		[171630] = {
-			["icon"] = "Interface\\Icons\\inv_giantboarmount_brown",
-			["duration"] = 0,
+		[188010] = {
+			["name"] = "野蛮",
+			["icon"] = "INTERFACE\\ICONS\\warrior_talent_icon_furyintheblood",
 		},
 		[208997] = {
 			["name"] = "反击图腾",
 			["icon"] = "Interface\\Icons\\spell_nature_wrathofair_totem",
 		},
-		[49322] = {
-			["name"] = "迅捷斑马",
-			["icon"] = "Interface\\Icons\\Ability_Mount_Charger",
+		[156274] = {
+			["name"] = "怒斥",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_BattleShout",
 		},
 		[193641] = {
 			["duration"] = 5,
 			["name"] = "深谋远虑",
 			["icon"] = "INTERFACE\\ICONS\\inv_misc_map08",
 		},
-		[198599] = {
-			["icon"] = "Interface\\Icons\\ability_thunderking_thunderstruck",
+		[232978] = {
+			["icon"] = "Interface\\Icons\\ability_mage_arcanebarrage_nightborne",
 			["duration"] = 3,
 		},
-		[194665] = {
-			["icon"] = "Interface\\Icons\\ability_warlock_soullink",
-			["duration"] = 10,
+		[190570] = {
+			["name"] = "挫锐",
+			["icon"] = "Interface\\Icons\\Spell_Misc_EmotionAfraid",
 		},
 		[215652] = {
 			["name"] = "美德之盾",
@@ -6985,73 +7013,70 @@ JamPlatesAccessoriesDB = {
 			["name"] = "闪电之盾",
 			["icon"] = "Interface\\Icons\\Spell_Nature_LightningShield",
 		},
-		[201332] = {
-			["duration"] = 3600,
-			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
-			["name"] = "进食充分",
-		},
-		[164815] = {
-			["name"] = "阳炎术",
-			["duration"] = 23.4,
-			["icon"] = "Interface\\Icons\\Ability_Mage_FireStarter",
-			["debuffType"] = "Magic",
-		},
-		[129597] = {
-			["name"] = "奥术洪流",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Teleport",
-			["debuffType"] = "Magic",
-		},
-		[198249] = {
-			["icon"] = "INTERFACE\\ICONS\\spell_shaman_improvedreincarnation",
-			["name"] = "元素治疗",
-			["debuffType"] = "Magic",
-		},
-		[143828] = {
-			["name"] = "锁定",
-			["icon"] = "Interface\\Icons\\Ability_Hunter_MarkedForDeath",
-		},
-		[156834] = {
-			["name"] = "黑石尖刺",
-			["icon"] = "Interface\\Icons\\6bf_blackrock_nova",
-		},
-		[201350] = {
-			["duration"] = 3600,
-			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
-			["name"] = "进食充分",
+		[181386] = {
+			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Crab",
+			["duration"] = 5,
 		},
 		[146387] = {
 			["name"] = "疾跑",
 			["icon"] = "Interface\\Icons\\rogue_burstofspeed",
 		},
-		[231946] = {
-			["name"] = "普通魔力",
-			["icon"] = "Interface\\Icons\\spell_arcane_blast_nightborne",
+		[129597] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Teleport",
+			["name"] = "奥术洪流",
+			["debuffType"] = "Magic",
+		},
+		[198249] = {
+			["name"] = "元素治疗",
+			["icon"] = "INTERFACE\\ICONS\\spell_shaman_improvedreincarnation",
+			["debuffType"] = "Magic",
+		},
+		[156214] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_DevouringPlague",
+			["name"] = "震颤暗影",
+			["debuffType"] = "Magic",
+		},
+		[206980] = {
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
+			["duration"] = 0,
+		},
+		[181706] = {
+			["name"] = "野蛮之韧",
+			["icon"] = "Interface\\Icons\\Spell_Holy_MindVision",
+		},
+		[209540] = {
+			["duration"] = 15.089,
+			["name"] = "泰坦之光",
+			["icon"] = "INTERFACE\\ICONS\\spell_paladin_lightofdawn",
+		},
+		[222793] = {
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_eye_04",
+			["duration"] = 10,
 		},
 		[221796] = {
 			["duration"] = 10,
 			["name"] = "血性狂乱",
 			["icon"] = "Interface\\Icons\\ability_deathwing_assualtaspects",
 		},
-		[222308] = {
-			["name"] = "萨萨里安的印记",
-			["icon"] = "Interface\\Icons\\ability_deathknight_deathsiphon",
+		[160883] = {
+			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+			["duration"] = 3600,
 		},
-		[183436] = {
-			["duration"] = 20,
-			["name"] = "报复",
-			["icon"] = "Interface\\Icons\\Spell_Holy_Crusade",
+		[155794] = {
+			["name"] = "利刃冲刺",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_QuickRecovery",
 		},
 		[223332] = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_Charge",
 			["duration"] = 2,
 		},
-		[181706] = {
-			["name"] = "野蛮之韧",
-			["icon"] = "Interface\\Icons\\Spell_Holy_MindVision",
+		[142803] = {
+			["name"] = "爆炸之环",
+			["icon"] = "Interface\\Icons\\ability_xaril_masterpoisoner_orange",
 		},
-		[216708] = {
-			["name"] = "逆风收割者",
-			["icon"] = "Interface\\Icons\\inv_misc_2h_farmscythe_a_01",
+		[213995] = {
+			["name"] = "阴险伎俩",
+			["icon"] = "Interface\\Icons\\rogue_dirtytricks",
 		},
 		[192108] = {
 			["name"] = "飞刃",
@@ -7065,9 +7090,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_06",
 			["duration"] = 0,
 		},
-		[97109] = {
-			["name"] = "女性巨魔面具",
-			["icon"] = "Interface\\Icons\\Achievement_Character_Troll_Female",
+		[126188] = {
+			["name"] = "雨云笼罩",
+			["icon"] = "Interface\\Icons\\inv_misc_volatileair",
 		},
 		[210536] = {
 			["icon"] = "Interface\\Icons\\Spell_Fire_FelRainOfFire",
@@ -7075,51 +7100,50 @@ JamPlatesAccessoriesDB = {
 		},
 		[211048] = {
 			["duration"] = 12,
-			["icon"] = "Interface\\Icons\\inv_glaive_1h_artifactaldrochi_d_03dual",
 			["name"] = "混乱之刃",
+			["icon"] = "Interface\\Icons\\inv_glaive_1h_artifactaldrochi_d_03dual",
 		},
-		[199337] = {
-			["icon"] = "INTERFACE\\ICONS\\ability_hunter_traplauncher",
-			["duration"] = 12,
+		[182217] = {
+			["name"] = "吸取生命",
+			["icon"] = "Interface\\Icons\\inv_ember_fel",
 		},
 		[183407] = {
 			["duration"] = 0,
 			["name"] = "酸性溅泼",
 			["icon"] = "Interface\\Icons\\Spell_Nature_Acid_01",
 		},
-		[142803] = {
-			["name"] = "爆炸之环",
-			["icon"] = "Interface\\Icons\\ability_xaril_masterpoisoner_orange",
+		[191626] = {
+			["name"] = "不朽之三",
+			["icon"] = "Interface\\Icons\\70_inscription_deck_promises_3",
 		},
-		[30108] = {
-			["duration"] = 7.392,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_UnstableAffliction_3",
-			["debuffType"] = "Magic",
+		[220803] = {
+			["icon"] = "Interface\\Icons\\Spell_Holy_BlessedLife",
+			["duration"] = 0,
 		},
-		[126188] = {
-			["name"] = "雨云笼罩",
-			["icon"] = "Interface\\Icons\\inv_misc_volatileair",
+		[221631] = {
+			["name"] = "翡翠之风",
+			["icon"] = "Interface\\Icons\\INV_Misc_Herb_Felblossom",
 		},
 		[189550] = {
 			["name"] = "火焰之雨",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_RainOfFire",
 		},
 		[202347] = {
-			["name"] = "星辰耀斑",
 			["icon"] = "Interface\\Icons\\ability_druid_stellarflare",
+			["name"] = "星辰耀斑",
 			["debuffType"] = "Magic",
 		},
-		[149624] = {
-			["name"] = "火祭",
-			["icon"] = "Interface\\Icons\\warlock_sacrificial_pact",
+		[41517] = {
+			["name"] = "绿色灵翼幼龙",
+			["icon"] = "Interface\\Icons\\Ability_Mount_NetherdrakePurple",
 		},
 		[107844] = {
 			["name"] = "暮光先驱者",
 			["icon"] = "Interface\\Icons\\Ability_Mount_Drake_Red",
 		},
-		[182217] = {
-			["name"] = "吸取生命",
-			["icon"] = "Interface\\Icons\\inv_ember_fel",
+		[221315] = {
+			["icon"] = "Interface\\Icons\\ability_xavius_nightmareinfusion",
+			["duration"] = 10,
 		},
 		[75596] = {
 			["name"] = "凝霜飞毯",
@@ -7154,35 +7178,34 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_Charge",
 			["name"] = "冲锋",
 		},
-		[193695] = {
-			["name"] = "声威战马",
-			["icon"] = "Interface\\Icons\\inv_alliancepvpmount",
+		[196126] = {
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
+			["duration"] = 6,
 		},
 		[155256] = {
 			["name"] = "元素杀手",
 			["icon"] = "Interface\\Icons\\Spell_Nature_ElementalAbsorption",
 		},
-		[228484] = {
-			["name"] = "暗影魔心",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FlameBolt",
+		[146385] = {
+			["name"] = "永恒精魄",
+			["icon"] = "Interface\\Icons\\spell_nature_timestop",
 		},
-		[221631] = {
-			["name"] = "翡翠之风",
-			["icon"] = "Interface\\Icons\\INV_Misc_Herb_Felblossom",
+		[209387] = {
+			["icon"] = "Interface\\Icons\\inv_misc_volatileshadow",
+			["duration"] = 0,
 		},
-		[226407] = {
-			["name"] = "暗夜诅咒",
-			["duration"] = 12,
-			["icon"] = "Interface\\Icons\\artifactability_balancedruid_fullmoon",
+		[189552] = {
+			["icon"] = "Interface\\Icons\\warlock_sacrificial_pact",
+			["name"] = "不稳定的护盾",
 			["debuffType"] = "Magic",
 		},
-		[201198] = {
-			["name"] = "无影步",
-			["icon"] = "Interface\\Icons\\Ability_Rogue_FleetFooted",
+		[223166] = {
+			["name"] = "圣光过载",
+			["icon"] = "Interface\\Icons\\Spell_Holy_SurgeOfLight",
 		},
 		[202861] = {
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
 			["name"] = "邪灼",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
 			["debuffType"] = "Magic",
 		},
 		[215658] = {
@@ -7190,34 +7213,32 @@ JamPlatesAccessoriesDB = {
 			["name"] = "黑暗打击",
 			["icon"] = "Interface\\Icons\\Ability_Rogue_ShadowStrikes",
 		},
-		[194604] = {
-			["name"] = "苦痛之矛",
-			["duration"] = 4,
-			["icon"] = "Interface\\Icons\\Spell_Nature_SlowPoison",
-			["debuffType"] = "Poison",
+		[214464] = {
+			["icon"] = "Interface\\Icons\\Trade_Engineering",
+			["duration"] = 0,
 		},
 		[32216] = {
 			["duration"] = 20,
 			["name"] = "胜利",
 			["icon"] = "Interface\\Icons\\Ability_Warrior_Devastate",
 		},
-		[146385] = {
-			["name"] = "永恒精魄",
-			["icon"] = "Interface\\Icons\\spell_nature_timestop",
+		[147655] = {
+			["name"] = "巨口蛙毒",
+			["icon"] = "Interface\\Icons\\rogue_leeching_poison",
 		},
-		[209516] = {
-			["name"] = "魔法之牙",
-			["icon"] = "Interface\\Icons\\Spell_Fire_BlueFireNova",
-			["debuffType"] = "Magic",
+		[156281] = {
+			["name"] = "呵斥",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_BattleShout",
 		},
 		[214123] = {
 			["duration"] = 0,
 			["name"] = "移位力场",
 			["icon"] = "Interface\\Icons\\Spell_Arcane_Blink",
 		},
-		[152262] = {
-			["name"] = "炽天使",
-			["icon"] = "Interface\\Icons\\ability_paladin_seraphim",
+		[30108] = {
+			["duration"] = 7.392,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_UnstableAffliction_3",
+			["debuffType"] = "Magic",
 		},
 		[182387] = {
 			["name"] = "地震术",
@@ -7236,67 +7257,69 @@ JamPlatesAccessoriesDB = {
 			["name"] = "迦拉克隆之焰",
 			["icon"] = "Interface\\Icons\\Ability_Hunter_MarkedForDeath",
 		},
-		[223166] = {
-			["name"] = "圣光过载",
-			["icon"] = "Interface\\Icons\\Spell_Holy_SurgeOfLight",
+		[44212] = {
+			["duration"] = 3600.005,
+			["name"] = "南瓜灯！",
+			["icon"] = "Interface\\Icons\\INV_Misc_Bag_28_Halloween",
 		},
-		[214464] = {
-			["icon"] = "Interface\\Icons\\Trade_Engineering",
-			["duration"] = 0,
+		[191941] = {
+			["icon"] = "Interface\\Icons\\Ability_Rogue_ShadowStrikes",
+			["duration"] = 10,
 		},
-		[201839] = {
-			["duration"] = 12,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_CurseOfTounges",
-			["debuffType"] = "Curse",
+		[189554] = {
+			["icon"] = "Interface\\Icons\\ability_deathknight_roilingblood",
+			["name"] = "吞噬之痛",
+			["debuffType"] = "Magic",
 		},
-		[231947] = {
-			["name"] = "强效魔力",
-			["icon"] = "Interface\\Icons\\inv_misc_volatilefire",
+		[224189] = {
+			["duration"] = 3600,
+			["icon"] = "Interface\\Icons\\Spell_Arcane_ManaTap",
+			["name"] = "魔网精通",
 		},
-		[24858] = {
-			["duration"] = 0,
-			["name"] = "枭兽形态",
-			["icon"] = "Interface\\Icons\\Spell_Nature_ForceOfNature",
+		[211053] = {
+			["duration"] = 1,
+			["icon"] = "Interface\\Icons\\ability_felarakkoa_feldetonation_green",
+			["name"] = "邪能弹幕",
 		},
-		[221352] = {
-			["name"] = "肋切",
-			["icon"] = "INTERFACE\\ICONS\\ability_rogue_sealfate",
+		[231946] = {
+			["name"] = "普通魔力",
+			["icon"] = "Interface\\Icons\\spell_arcane_blast_nightborne",
 		},
 		[220267] = {
-			["name"] = "毒性新星",
 			["icon"] = "Interface\\Icons\\Spell_Nature_ElementalShields",
+			["name"] = "毒性新星",
 			["debuffType"] = "Poison",
 		},
 		[183924] = {
 			["name"] = "黑暗之星印记",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_NightOfTheDead",
 		},
-		[155158] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\spell_mage_meteor",
-			["name"] = "流星灼烧",
+		[235450] = {
+			["icon"] = "Interface\\Icons\\Spell_MageArmor",
+			["name"] = "棱光屏障",
+			["debuffType"] = "Magic",
 		},
 		[217708] = {
 			["icon"] = "Interface\\Icons\\inv_holiday_beerfestsausage03",
 			["duration"] = 600,
 		},
-		[191941] = {
-			["icon"] = "Interface\\Icons\\Ability_Rogue_ShadowStrikes",
-			["duration"] = 10,
-		},
-		[214637] = {
-			["name"] = "德娅娜的鼓舞",
-			["icon"] = "Interface\\Icons\\Spell_Holy_Heal",
-		},
-		[117828] = {
-			["name"] = "爆燃",
-			["duration"] = 4.11,
-			["icon"] = "Interface\\Icons\\ability_warlock_backdraftgreen",
+		[209407] = {
+			["icon"] = "Interface\\Icons\\ability_druid_stellarflare",
+			["name"] = "欧奈斯的自负",
 			["debuffType"] = "Magic",
 		},
-		[146046] = {
-			["name"] = "醍醐灌顶",
-			["icon"] = "Interface\\Icons\\INV_Misc_Gem_Bloodstone_01",
+		[76622] = {
+			["icon"] = "Interface\\Icons\\Ability_Warrior_Sunder",
+			["duration"] = 20,
+		},
+		[194674] = {
+			["duration"] = 4,
+			["icon"] = "Interface\\Icons\\INV_Spear_11",
+			["name"] = "带钩长矛",
+		},
+		[199281] = {
+			["name"] = "延绵恐惧",
+			["icon"] = "Interface\\Icons\\achievement_dungeon_shadowmoonhideout",
 		},
 		[191603] = {
 			["name"] = "地狱火之一",
@@ -7306,32 +7329,34 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_alchemy_70_potion2",
 			["duration"] = 60,
 		},
-		[224189] = {
-			["duration"] = 3600,
-			["name"] = "魔网精通",
-			["icon"] = "Interface\\Icons\\Spell_Arcane_ManaTap",
+		[234115] = {
+			["duration"] = 4,
+			["name"] = "傲慢",
+			["icon"] = "Interface\\Icons\\Ability_Mage_TormentOfTheWeak",
 		},
-		[189470] = {
-			["name"] = "催眠术",
-			["icon"] = "Interface\\Icons\\Spell_Nature_Sleep",
+		[207386] = {
+			["duration"] = 6,
+			["name"] = "春暖花开",
+			["icon"] = "Interface\\Icons\\inv_misc_trailofflowers",
 		},
-		[107079] = {
-			["name"] = "震山掌",
-			["icon"] = "Interface\\Icons\\pandarenracial_quiveringpain",
+		[94794] = {
+			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\Spell_Fire_FlameBlades",
+			["name"] = "火箭燃料泄漏",
 		},
-		[235450] = {
-			["name"] = "棱光屏障",
-			["icon"] = "Interface\\Icons\\Spell_MageArmor",
-			["debuffType"] = "Magic",
+		[97560] = {
+			["duration"] = 0,
+			["name"] = "堕落火鹰",
+			["icon"] = "Interface\\Icons\\INV_Misc_Orb_04",
 		},
-		[207953] = {
-			["name"] = "萨洛拉丝的黑暗之击",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_RitualOfSacrifice",
+		[171465] = {
+			["name"] = "反魔法护罩",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_AntiMagicShell",
 		},
-		[12975] = {
-			["duration"] = 15,
-			["name"] = "破釜沉舟",
-			["icon"] = "Interface\\Icons\\Spell_Holy_AshesToAshes",
+		[207472] = {
+			["duration"] = 30,
+			["name"] = "萨瓦里克的杰作",
+			["icon"] = "Interface\\Icons\\ability_vehicle_shellshieldgenerator",
 		},
 		[191604] = {
 			["name"] = "地狱火之二",
@@ -7341,9 +7366,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_alchemy_70_potion3_drogbar",
 			["duration"] = 60,
 		},
-		[209008] = {
-			["name"] = "邪火风暴",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelRainOfFire",
+		[196723] = {
+			["icon"] = "Interface\\Icons\\ability_monk_blackoutkick",
+			["duration"] = 3,
 		},
 		[201330] = {
 			["duration"] = 3600,
@@ -7354,85 +7379,81 @@ JamPlatesAccessoriesDB = {
 			["name"] = "萨萨里安的印记",
 			["icon"] = "INTERFACE\\ICONS\\spell_deathvortex",
 		},
-		[226943] = {
-			["name"] = "心灵炸弹",
-			["duration"] = 4,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_MindBomb",
-			["debuffType"] = "Magic",
+		[232378] = {
+			["name"] = "星界和谐",
+			["icon"] = "Interface\\Icons\\talentspec_druid_restoration",
 		},
-		[206961] = {
-			["name"] = "森严威仪",
-			["duration"] = 3,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_AuraOfDarkness",
-			["debuffType"] = "Magic",
+		[223341] = {
+			["name"] = "勇猛的吉尔尼斯战马",
+			["icon"] = "Interface\\Icons\\inv_mount_vicioushorse",
 		},
 		[195188] = {
 			["icon"] = "Interface\\Icons\\Spell_Fire_LavaSpawn",
 			["duration"] = 0,
 		},
-		[171130] = {
-			["name"] = "苦修",
-			["icon"] = "Interface\\Icons\\Spell_Holy_Penance",
+		[191605] = {
+			["name"] = "地狱火之三",
+			["icon"] = "Interface\\Icons\\70_inscription_deck_hellfire_3",
 		},
-		[69179] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Teleport",
-			["name"] = "奥术洪流",
-			["debuffType"] = "Magic",
+		[192053] = {
+			["duration"] = 0,
+			["name"] = "流沙",
+			["icon"] = "Interface\\Icons\\spell_quicksand",
 		},
 		[135299] = {
 			["icon"] = "Interface\\Icons\\spell_yorsahj_bloodboil_black",
 			["duration"] = 0,
 		},
-		[72807] = {
-			["name"] = "缚寒冰霜征服者",
-			["icon"] = "Interface\\Icons\\ability_mount_redfrostwyrm_01",
+		[210879] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_SeedOfDestruction",
+			["duration"] = 8,
 		},
-		[160893] = {
-			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
-			["duration"] = 3229.24,
+		[214128] = {
+			["duration"] = 10,
+			["name"] = "增速",
+			["icon"] = "Interface\\Icons\\INV_Enchant_ShardBrilliantSmall",
 		},
-		[171465] = {
-			["name"] = "反魔法护罩",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_AntiMagicShell",
+		[783] = {
+			["duration"] = 0,
+			["name"] = "旅行形态",
+			["icon"] = "Interface\\Icons\\Ability_Druid_TravelForm",
 		},
 		[219247] = {
 			["name"] = "谜团",
 			["icon"] = "Interface\\Icons\\archaeology_5_0_crackedmogurunestone",
 		},
-		[232378] = {
-			["name"] = "星界和谐",
-			["icon"] = "Interface\\Icons\\talentspec_druid_restoration",
+		[194627] = {
+			["name"] = "就是现在！",
+			["icon"] = "Interface\\Icons\\Ability_Hunter_Readiness",
 		},
-		[228461] = {
-			["duration"] = 12,
-			["name"] = "魔力的滋味",
-			["icon"] = "Interface\\Icons\\inv_70_dungeon_ring6a",
+		[191606] = {
+			["name"] = "地狱火之四",
+			["icon"] = "Interface\\Icons\\70_inscription_deck_hellfire_4",
 		},
-		[155181] = {
-			["name"] = "装填中",
-			["icon"] = "Interface\\Icons\\INV_Gizmo_FuelCell",
+		[225723] = {
+			["name"] = "美味蛋糕！",
+			["icon"] = "Interface\\ICONS\\INV_Misc_Food_144_CakeSlice",
 		},
-		[217200] = {
-			["duration"] = 8,
-			["name"] = "凶猛狂暴",
-			["icon"] = "Interface\\Icons\\Ability_Druid_Mangle",
+		[196725] = {
+			["name"] = "碧玉疾风",
+			["icon"] = "Interface\\Icons\\ability_monk_rushingjadewind",
 		},
-		[160382] = {
-			["name"] = "防御",
-			["icon"] = "Interface\\Icons\\INV_Shield_32",
+		[189047] = {
+			["name"] = "邪影相位转移",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Requiem",
 		},
-		[210879] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_SeedOfDestruction",
-			["duration"] = 8,
+		[221335] = {
+			["duration"] = 3600,
+			["name"] = "大法师瓦格斯的奥术智慧",
+			["icon"] = "Interface\\Icons\\inv_staff_45",
 		},
-		[87023] = {
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\spell_fire_rune",
-			["name"] = "灸灼",
+		[26522] = {
+			["name"] = "春节的财富！",
+			["icon"] = "Interface\\Icons\\INV_Misc_MissileLargeCluster_White",
 		},
 		[166013] = {
-			["name"] = "燃烧之拳",
 			["icon"] = "Interface\\Icons\\Ability_Warlock_Backdraft",
+			["name"] = "燃烧之拳",
 			["debuffType"] = "Magic",
 		},
 		[68946] = {
@@ -7443,25 +7464,30 @@ JamPlatesAccessoriesDB = {
 			["name"] = "地狱火之五",
 			["icon"] = "Interface\\Icons\\70_inscription_deck_hellfire_5",
 		},
-		[26522] = {
-			["name"] = "春节的财富！",
-			["icon"] = "Interface\\Icons\\INV_Misc_MissileLargeCluster_White",
+		[215997] = {
+			["duration"] = 0,
+			["name"] = "奥丁的凝视",
+			["icon"] = "Interface\\Icons\\inv_valkiergoldpet",
 		},
-		[225723] = {
-			["name"] = "美味蛋糕！",
-			["icon"] = "Interface\\ICONS\\INV_Misc_Food_144_CakeSlice",
+		[219580] = {
+			["icon"] = "Interface\\Icons\\spell_druid_massentanglement_nightmare",
+			["duration"] = 0,
 		},
-		[179743] = {
-			["name"] = "邪能爆破",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelRainOfFire",
+		[124682] = {
+			["name"] = "氤氲之雾",
+			["duration"] = 7,
+			["icon"] = "Interface\\Icons\\spell_monk_envelopingmist",
+			["debuffType"] = "Magic",
 		},
 		[173180] = {
 			["icon"] = "Interface\\Icons\\spell_sandexplosion",
 			["duration"] = 5,
 		},
-		[162908] = {
-			["icon"] = "INTERFACE\\ICONS\\trade_archaeology_whitehydrafigurine",
-			["duration"] = 0,
+		[50613] = {
+			["name"] = "奥术洪流",
+			["duration"] = 2,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Teleport",
+			["debuffType"] = "Magic",
 		},
 		[194679] = {
 			["duration"] = 3,
@@ -7472,17 +7498,17 @@ JamPlatesAccessoriesDB = {
 			["name"] = "炸弹",
 			["icon"] = "Interface\\Icons\\inv_misc_enggizmos_35",
 		},
-		[220273] = {
-			["name"] = "狂野法力魔杖",
-			["icon"] = "Interface\\Icons\\inv_wand_1h_draenorraid_d_01purple",
+		[191608] = {
+			["name"] = "地狱火之六",
+			["icon"] = "Interface\\Icons\\70_inscription_deck_hellfire_6",
 		},
 		[155265] = {
 			["name"] = "禁锢",
 			["icon"] = "INTERFACE\\ICONS\\spell_shaman_bindelemental",
 		},
 		[233582] = {
-			["icon"] = "Interface\\Icons\\ability_rhyolith_magmaflow_wave",
 			["name"] = "烈焰缠身",
+			["icon"] = "Interface\\Icons\\ability_rhyolith_magmaflow_wave",
 			["debuffType"] = "Magic",
 		},
 		[201334] = {
@@ -7490,29 +7516,28 @@ JamPlatesAccessoriesDB = {
 			["name"] = "进食充分",
 			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
 		},
-		[173181] = {
-			["duration"] = 4,
-			["icon"] = "Interface\\Icons\\spell_sandexplosion",
-			["debuffType"] = "Magic",
+		[201846] = {
+			["duration"] = 12,
+			["name"] = "风暴使者",
+			["icon"] = "Interface\\Icons\\Spell_Nature_StormReach",
 		},
 		[214643] = {
 			["duration"] = 10,
 			["icon"] = "Interface\\Icons\\INV_Misc_MonsterScales_08",
 			["debuffType"] = "Magic",
 		},
-		[215997] = {
-			["duration"] = 0,
-			["name"] = "奥丁的凝视",
-			["icon"] = "Interface\\Icons\\inv_valkiergoldpet",
+		[213063] = {
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\ability_monk_blackoutkick",
+			["name"] = "月之暗面",
 		},
 		[68947] = {
 			["name"] = "无法抗拒的古龙水",
 			["icon"] = "Interface\\Icons\\INV_Potion_114",
 		},
-		[69203] = {
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\inv_pet_babyshark",
-			["name"] = "恶毒之咬",
+		[191609] = {
+			["name"] = "地狱火之七",
+			["icon"] = "Interface\\Icons\\70_inscription_deck_hellfire_7",
 		},
 		[155266] = {
 			["name"] = "禁锢",
@@ -7524,34 +7549,34 @@ JamPlatesAccessoriesDB = {
 		},
 		[20572] = {
 			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Racial_Orc_BerserkerStrength",
 			["name"] = "血性狂怒",
+			["icon"] = "Interface\\Icons\\Racial_Orc_BerserkerStrength",
 		},
 		[160897] = {
 			["name"] = "进食充分",
 			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
 		},
 		[70483] = {
-			["name"] = "卡亚可乐",
 			["icon"] = "Interface\\Icons\\INV_Drink_21",
+			["name"] = "卡亚可乐",
 			["debuffType"] = "Magic",
 		},
-		[219580] = {
-			["icon"] = "Interface\\Icons\\spell_druid_massentanglement_nightmare",
-			["duration"] = 0,
+		[87023] = {
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\spell_fire_rune",
+			["name"] = "灸灼",
 		},
-		[196242] = {
-			["duration"] = 10,
-			["name"] = "雷霆一击",
-			["icon"] = "Interface\\Icons\\Ability_ThunderClap",
+		[70244] = {
+			["name"] = "“巫术”古龙水",
+			["icon"] = "INTERFACE\\ICONS\\inv_inscription_inkgreen04",
 		},
 		[191610] = {
 			["name"] = "地狱火之八",
 			["icon"] = "Interface\\Icons\\70_inscription_deck_hellfire_8",
 		},
-		[155267] = {
-			["name"] = "禁锢",
-			["icon"] = "INTERFACE\\ICONS\\spell_shaman_bindelemental",
+		[171647] = {
+			["name"] = "土之壁垒",
+			["icon"] = "Interface\\Icons\\ability_gift_of_earth",
 		},
 		[143494] = {
 			["name"] = "碎甲重击",
@@ -7572,15 +7597,13 @@ JamPlatesAccessoriesDB = {
 			["name"] = "上古仪祭",
 			["icon"] = "Interface\\Icons\\achievement_moguraid_02",
 		},
-		[217741] = {
-			["name"] = "邪焰斗篷",
-			["icon"] = "Interface\\Icons\\Spell_Arcane_PrismaticCloak",
+		[227465] = {
+			["name"] = "能量释放",
+			["icon"] = "Interface\\Icons\\Spell_Nature_Lightning",
 		},
-		[59052] = {
-			["name"] = "白霜",
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Spell_Frost_ArcticWinds",
-			["debuffType"] = "Magic",
+		[68948] = {
+			["name"] = "喷洒无法抗拒的古龙水",
+			["icon"] = "Interface\\Icons\\ability_creature_poison_02",
 		},
 		[228466] = {
 			["name"] = "挫锐",
@@ -7595,10 +7618,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Druid_ChallangingRoar",
 			["debuffType"] = "Magic",
 		},
-		[230002] = {
-			["name"] = "炽热断筋",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_Cleave",
-			["debuffType"] = "Magic",
+		[221812] = {
+			["duration"] = 10,
+			["name"] = "疫病虫群",
+			["icon"] = "Interface\\Icons\\spell_nature_insect_swarm2",
 		},
 		[173184] = {
 			["name"] = "元素冲击：精通",
@@ -7606,49 +7629,49 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\shaman_talent_elementalblast",
 			["debuffType"] = "Magic",
 		},
-		[68927] = {
-			["name"] = "泼洒浓缩的诱惑香水",
-			["icon"] = "Interface\\Icons\\spell_yorsahj_bloodboil_purple",
+		[228281] = {
+			["name"] = "撕裂",
+			["icon"] = "Interface\\Icons\\Ability_Gouge",
 		},
-		[128519] = {
-			["name"] = "西瓜炸弹",
-			["icon"] = "Interface\\Icons\\inv_misc_food_22",
+		[165979] = {
+			["name"] = "燃烧",
+			["icon"] = "Interface\\Icons\\INV_SummerFest_FireSpirit",
 		},
 		[215670] = {
 			["duration"] = 15,
 			["icon"] = "Interface\\Icons\\Spell_Nature_ElementalShields",
 			["name"] = "海洋污染",
 		},
-		[231938] = {
-			["name"] = "超载",
-			["icon"] = "Interface\\Icons\\Spell_DeathKnight_AntiMagicZone",
+		[116768] = {
+			["name"] = "幻灭踢！",
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\ability_monk_roundhousekick",
+			["debuffType"] = "Magic",
 		},
-		[603] = {
-			["name"] = "末日降临",
-			["duration"] = 18.964,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_AuraOfDarkness",
-			["debuffType"] = "Curse",
+		[128519] = {
+			["name"] = "西瓜炸弹",
+			["icon"] = "Interface\\Icons\\inv_misc_food_22",
 		},
-		[217206] = {
-			["name"] = "强风",
-			["icon"] = "Interface\\Icons\\Spell_Frost_WindWalkOn",
+		[188541] = {
+			["name"] = "狂乱",
+			["icon"] = "INTERFACE\\ICONS\\spell_shadow_mindflay",
 		},
 		[225908] = {
 			["icon"] = "INTERFACE\\ICONS\\spell_warlock_soulburn",
 			["duration"] = 0,
 		},
-		[228281] = {
-			["name"] = "撕裂",
-			["icon"] = "Interface\\Icons\\Ability_Gouge",
+		[148428] = {
+			["name"] = "灰皮穆山兽",
+			["icon"] = "Interface\\Icons\\inv_mushanbeastmountblack",
 		},
-		[199185] = {
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\Ability_Creature_Disease_03",
-			["debuffType"] = "Disease",
+		[203277] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\inv_ember",
+			["name"] = "易燃",
 		},
-		[194684] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_DeathScream",
-			["duration"] = 2,
+		[211064] = {
+			["name"] = "迅捷领域",
+			["icon"] = "Interface\\Icons\\ability_socererking_arcanemines",
 		},
 		[118089] = {
 			["duration"] = 0,
@@ -7657,41 +7680,40 @@ JamPlatesAccessoriesDB = {
 		},
 		[199803] = {
 			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\spell_hunter_focusingshot",
 			["name"] = "稳定瞄准",
+			["icon"] = "Interface\\Icons\\spell_hunter_focusingshot",
 		},
 		[216695] = {
 			["duration"] = 0,
 			["name"] = "被折磨的幽魂",
 			["icon"] = "Interface\\Icons\\inv_staff_2h_artifactdeadwind_d_01",
 		},
-		[116768] = {
-			["name"] = "幻灭踢！",
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\ability_monk_roundhousekick",
-			["debuffType"] = "Magic",
+		[221114] = {
+			["icon"] = "Interface\\Icons\\spell_hunter_focusingshot",
+			["duration"] = 5,
 		},
-		[225909] = {
-			["duration"] = 16.56,
-			["icon"] = "INTERFACE\\ICONS\\spell_warlock_soulburn",
-			["debuffType"] = "Magic",
+		[15407] = {
+			["duration"] = 2.164,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_SiphonMana",
+			["name"] = "精神鞭笞",
 		},
-		[179864] = {
-			["name"] = "死亡之影",
-			["icon"] = "Interface\\Icons\\Spell_Arcane_PrismaticCloak",
+		[138702] = {
+			["name"] = "强度激增",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_StrengthOfArms",
 		},
 		[214648] = {
 			["name"] = "督军的力竭",
 			["icon"] = "Interface\\Icons\\inv_misc_nagamale",
 		},
-		[22812] = {
-			["duration"] = 12,
-			["icon"] = "Interface\\Icons\\Spell_Nature_StoneClawTotem",
-			["name"] = "树皮术",
+		[223350] = {
+			["duration"] = 10.001,
+			["icon"] = "Interface\\Icons\\ability_fixated_state_green",
+			["name"] = "狂野奔跑",
 		},
 		[182912] = {
-			["icon"] = "Interface\\Icons\\ability_mount_felreavermount",
 			["duration"] = 0,
+			["name"] = "魔钢歼灭者",
+			["icon"] = "Interface\\Icons\\ability_mount_felreavermount",
 		},
 		[199804] = {
 			["duration"] = 0.5,
@@ -7711,18 +7733,17 @@ JamPlatesAccessoriesDB = {
 			["name"] = "驱逐灵魂",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_TwistedFaith",
 		},
-		[148428] = {
-			["name"] = "灰皮穆山兽",
-			["icon"] = "Interface\\Icons\\inv_mushanbeastmountblack",
+		[170950] = {
+			["name"] = "被缠身",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_AuraOfDarkness",
 		},
 		[15727] = {
 			["icon"] = "Interface\\Icons\\Ability_Druid_DemoralizingRoar",
 			["duration"] = 20,
 		},
-		[97359] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Ability_Mount_WarHippogryph",
-			["name"] = "浴火角鹰兽",
+		[178306] = {
+			["name"] = "战歌兽人服装",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_Disguise",
 		},
 		[191103] = {
 			["icon"] = "Interface\\Icons\\Achievement_Dungeon_UlduarRaid_Titan_01",
@@ -7732,48 +7753,52 @@ JamPlatesAccessoriesDB = {
 			["name"] = "扭曲虚空的火焰",
 			["icon"] = "Interface\\Icons\\spell_fire_rune",
 		},
-		[193440] = {
-			["name"] = "恶魔之怒",
-			["icon"] = "Interface\\Icons\\spell_warlock_demonwrath",
-		},
-		[213114] = {
-			["icon"] = "Interface\\Icons\\ability_monk_touchofdeath",
-			["name"] = "隐世大师的禁忌之触",
+		[160452] = {
+			["name"] = "虚空之风",
+			["icon"] = "Interface\\Icons\\Spell_Arcane_MassDispel",
 			["debuffType"] = "Magic",
 		},
-		[221114] = {
-			["icon"] = "Interface\\Icons\\spell_hunter_focusingshot",
-			["duration"] = 5,
+		[213114] = {
+			["name"] = "隐世大师的禁忌之触",
+			["icon"] = "Interface\\Icons\\ability_monk_touchofdeath",
+			["debuffType"] = "Magic",
 		},
-		[138702] = {
-			["name"] = "强度激增",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_StrengthOfArms",
+		[22812] = {
+			["duration"] = 12,
+			["icon"] = "Interface\\Icons\\Spell_Nature_StoneClawTotem",
+			["name"] = "树皮术",
 		},
-		[170950] = {
-			["name"] = "被缠身",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_AuraOfDarkness",
+		[214459] = {
+			["name"] = "窒息烈焰",
+			["duration"] = 2,
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameBreath",
+			["debuffType"] = "Magic",
+		},
+		[73313] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Spell_DeathKnight_SummonDeathCharger",
+			["name"] = "血色死亡战马",
 		},
 		[178307] = {
 			["icon"] = "Interface\\Icons\\Ability_Rogue_Disguise",
 			["duration"] = 3600.003,
 		},
-		[115232] = {
-			["icon"] = "Interface\\Icons\\INV_Elemental_Primal_Shadow",
-			["duration"] = 30,
+		[142863] = {
+			["name"] = "虚弱的上古屏障",
+			["icon"] = "Interface\\Icons\\ability_malkorok_blightofyshaarj_red",
 		},
 		[191616] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\70_inscription_deck_promises_2",
 			["name"] = "应许之二",
 		},
-		[188033] = {
-			["duration"] = 7200.004,
-			["icon"] = "Interface\\Icons\\inv_alchemy_70_flask03orange",
-			["name"] = "第七恶魔合剂",
+		[104270] = {
+			["name"] = "饮水",
+			["icon"] = "Interface\\Icons\\INV_Drink_18",
 		},
 		[184450] = {
-			["name"] = "死灵印记",
 			["icon"] = "Interface\\Icons\\ability_bossfelorcs_necromancer_purple",
+			["name"] = "死灵印记",
 			["debuffType"] = "Magic",
 		},
 		[156297] = {
@@ -7784,15 +7809,15 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_misc_bugsprayer",
 			["duration"] = 3,
 		},
-		[155196] = {
-			["name"] = "锁定",
-			["icon"] = "Interface\\Icons\\ability_fixated_state_red",
+		[177161] = {
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\Spell_Holy_MindSooth",
+			["name"] = "大法师的灼热",
 		},
-		[214459] = {
-			["name"] = "窒息烈焰",
-			["duration"] = 2,
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameBreath",
-			["debuffType"] = "Magic",
+		[198293] = {
+			["duration"] = 3,
+			["name"] = "疾风打击",
+			["icon"] = "Interface\\Icons\\ability_skyreach_four_wind",
 		},
 		[232055] = {
 			["name"] = "怒雷破",
@@ -7804,22 +7829,23 @@ JamPlatesAccessoriesDB = {
 		},
 		[188034] = {
 			["duration"] = 3881.391,
-			["name"] = "无尽大军合剂",
 			["icon"] = "Interface\\Icons\\inv_alchemy_70_flask03red",
+			["name"] = "无尽大军合剂",
 		},
-		[198293] = {
-			["duration"] = 3,
-			["name"] = "疾风打击",
-			["icon"] = "Interface\\Icons\\ability_skyreach_four_wind",
+		[146594] = {
+			["name"] = "泰坦之赐",
+			["icon"] = "Interface\\Icons\\Achievement_Dungeon_UlduarRaid_Titan_01",
 		},
 		[106830] = {
 			["duration"] = 15,
 			["icon"] = "INTERFACE\\ICONS\\spell_druid_thrash",
 			["name"] = "痛击",
 		},
-		[196111] = {
-			["icon"] = "Interface\\Icons\\spell_druid_bloodythrash",
-			["duration"] = 14.999,
+		[155145] = {
+			["name"] = "奥术洪流",
+			["duration"] = 2,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Teleport",
+			["debuffType"] = "Magic",
 		},
 		[157322] = {
 			["name"] = "炉渣冲击",
@@ -7829,10 +7855,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "魔能涌动",
 			["icon"] = "Interface\\Icons\\Spell_Arcane_ManaTap",
 		},
-		[199721] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\ICONS\\Ability_DeathKnight_NecroticAura",
-			["name"] = "腐烂光环",
+		[190400] = {
+			["name"] = "军团之触",
+			["icon"] = "Interface\\Icons\\ability_priest_surgeofdarkness",
 		},
 		[207998] = {
 			["duration"] = 8,
@@ -7844,37 +7869,37 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\warlock_siphonlife",
 			["name"] = "灵魂榨取",
 		},
-		[215186] = {
+		[199590] = {
+			["icon"] = "Interface\\Icons\\INV_Misc_Head_Vrykul",
 			["duration"] = 0,
-			["name"] = "Gurglrgmrgl!",
-			["icon"] = "Interface\\Icons\\INV_Misc_Head_Murloc_01",
 		},
-		[104282] = {
-			["name"] = "进食充分",
-			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+		[171543] = {
+			["name"] = "团结就是力量",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_BloodFrenzy",
 		},
-		[222209] = {
-			["duration"] = 20,
-			["name"] = "晦暗灵魂",
-			["icon"] = "Interface\\Icons\\ability_xavius_blackened",
+		[225719] = {
+			["name"] = "急速乐章",
+			["icon"] = "Interface\\Icons\\Spell_Holy_BorrowedTime",
 		},
-		[190400] = {
-			["name"] = "军团之触",
-			["icon"] = "Interface\\Icons\\ability_priest_surgeofdarkness",
+		[225788] = {
+			["duration"] = 0,
+			["name"] = "使者印记",
+			["icon"] = "Interface\\Icons\\Achievement_Reputation_08",
 		},
 		[215165] = {
 			["duration"] = 15,
 			["name"] = "生命吞噬者",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_LifeDrain02",
 		},
-		[871] = {
-			["duration"] = 8,
-			["name"] = "盾墙",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldWall",
-		},
-		[191619] = {
-			["icon"] = "Interface\\Icons\\70_inscription_deck_promises_5",
+		[72808] = {
 			["duration"] = 0,
+			["name"] = "浴血冰霜征服者",
+			["icon"] = "Interface\\Icons\\ability_mount_redfrostwyrm_01",
+		},
+		[207999] = {
+			["duration"] = 8,
+			["name"] = "扭曲虚空的冲击",
+			["icon"] = "Interface\\Icons\\spell_nature_rune",
 		},
 		[192131] = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_BloodBath",
@@ -7894,10 +7919,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_inscription_pigment_nether",
 			["name"] = "虚空抗体",
 		},
-		[226327] = {
-			["duration"] = 3600.001,
-			["name"] = "活跃的灵魂烈焰",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameRing",
+		[187406] = {
+			["icon"] = "Interface\\Icons\\Ability_Warrior_Charge",
+			["duration"] = 2,
 		},
 		[211071] = {
 			["name"] = "星光玫瑰茶",
@@ -7912,35 +7936,36 @@ JamPlatesAccessoriesDB = {
 			["name"] = "应许之六",
 			["icon"] = "Interface\\Icons\\70_inscription_deck_promises_6",
 		},
-		[175752] = {
-			["name"] = "矿渣之息",
-			["icon"] = "INTERFACE\\ICONS\\spell_shaman_lavasurge",
+		[192132] = {
+			["icon"] = "Interface\\Icons\\Spell_Lightning_LightningBolt01",
+			["duration"] = 0,
 		},
 		[229499] = {
 			["name"] = "午夜",
 			["icon"] = "Interface\\Icons\\Ability_Mount_Dreadsteed",
 		},
-		[230011] = {
-			["name"] = "残忍绞喉",
-			["icon"] = "Interface\\Icons\\Ability_Rogue_Garrote",
+		[217726] = {
+			["duration"] = 21,
+			["name"] = "焚毁",
+			["icon"] = "Interface\\Icons\\inv_ember_fel",
 		},
 		[197763] = {
 			["duration"] = 12,
 			["icon"] = "Interface\\Icons\\ability_priest_angelicbulwark",
 			["name"] = "争分夺秒",
 		},
-		[225719] = {
-			["name"] = "急速乐章",
-			["icon"] = "Interface\\Icons\\Spell_Holy_BorrowedTime",
+		[70243] = {
+			["name"] = "“英武”古龙水",
+			["icon"] = "INTERFACE\\ICONS\\inv_inscription_inkgreen02",
 		},
 		[206977] = {
 			["duration"] = 10,
 			["name"] = "血之镜像",
 			["icon"] = "Interface\\Icons\\INV_Misc_Gem_Bloodstone_01",
 		},
-		[61469] = {
-			["name"] = "重型冰雪猛犸象",
-			["icon"] = "Interface\\Icons\\Ability_Mount_Mammoth_White_3seater",
+		[227473] = {
+			["name"] = "回旋利刃",
+			["icon"] = "Interface\\Icons\\warrior_wild_strike",
 		},
 		[191621] = {
 			["name"] = "应许之七",
@@ -7950,28 +7975,26 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Holy_Aspiration",
 			["duration"] = 0,
 		},
-		[182958] = {
+		[191619] = {
+			["icon"] = "Interface\\Icons\\70_inscription_deck_promises_5",
 			["duration"] = 0,
-			["name"] = "阿苏纳的宝藏",
-			["icon"] = "Interface\\Icons\\icon_treasuremap",
 		},
-		[186384] = {
-			["name"] = "毒害之云",
-			["icon"] = "INTERFACE\\ICONS\\spell_festergutgas",
+		[206413] = {
+			["name"] = "潮汐主母的尖叫",
+			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
 		},
 		[70233] = {
 			["name"] = "“女神”香水",
 			["icon"] = "INTERFACE\\ICONS\\inv_inscription_inkpurple03",
 		},
-		[184469] = {
-			["name"] = "提振精神",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_SoulLeech_2",
+		[202225] = {
+			["duration"] = 5,
+			["name"] = "狂怒冲锋",
+			["icon"] = "Interface\\Icons\\spell_warrior_barbarian",
 		},
-		[135700] = {
-			["name"] = "节能施法",
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_ManaBurn",
-			["debuffType"] = "Magic",
+		[159686] = {
+			["name"] = "酸脊毒浆",
+			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_06",
 		},
 		[66906] = {
 			["icon"] = "Interface\\Icons\\Ability_Mount_Charger",
@@ -7982,28 +8005,27 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\70_inscription_deck_promises_8",
 			["name"] = "应许之八",
 		},
-		[202739] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\spell_priest_divinestar_holy",
-			["name"] = "安瑟的祝福",
+		[170145] = {
+			["name"] = "影刃之油",
+			["icon"] = "Interface\\Icons\\inv_misc_stoneoil",
 		},
 		[196741] = {
 			["duration"] = 10,
 			["name"] = "连击",
 			["icon"] = "Interface\\Icons\\ability_monk_palmstrike",
 		},
-		[187406] = {
-			["icon"] = "Interface\\Icons\\Ability_Warrior_Charge",
-			["duration"] = 2,
+		[22888] = {
+			["duration"] = 7200,
+			["icon"] = "Interface\\Icons\\INV_Misc_Head_Dragon_01",
+			["name"] = "屠龙者的咆哮",
 		},
-		[189061] = {
-			["name"] = "邪能欲望",
-			["icon"] = "Interface\\Icons\\Racial_Orc_BerserkerStrength",
-			["debuffType"] = "",
+		[207290] = {
+			["name"] = "邪恶狂乱",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyFrenzy",
 		},
-		[159686] = {
-			["name"] = "酸脊毒浆",
-			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_06",
+		[11396] = {
+			["name"] = "强效智力",
+			["icon"] = "Interface\\Icons\\INV_Potion_10",
 		},
 		[80983] = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_RallyingCry",
@@ -8014,14 +8036,14 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_paladin_holyavenger",
 			["name"] = "神圣复仇者",
 		},
-		[220288] = {
-			["duration"] = 4.5,
-			["name"] = "烹骨",
-			["icon"] = "Interface\\Icons\\spell_yorsahj_bloodboil_orange",
+		[114255] = {
+			["duration"] = 20,
+			["icon"] = "Interface\\Icons\\Spell_Holy_SurgeOfLight",
+			["name"] = "圣光涌动",
 		},
-		[51510] = {
-			["icon"] = "Interface\\Icons\\INV_Misc_Bomb_04",
-			["duration"] = 60,
+		[198076] = {
+			["name"] = "诸罪加身",
+			["icon"] = "Interface\\Icons\\Spell_Holy_HolyGuidance",
 		},
 		[209027] = {
 			["name"] = "压制打击",
@@ -8032,17 +8054,19 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\inv_elemental_eternal_earth",
 			["name"] = "大地之鳞",
 		},
-		[181386] = {
-			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Crab",
-			["duration"] = 5,
+		[70234] = {
+			["name"] = "“魅法”香水",
+			["icon"] = "INTERFACE\\ICONS\\inv_inscription_inkpurple04",
 		},
-		[185993] = {
-			["name"] = "幻影秘境",
-			["icon"] = "Interface\\Icons\\ability_priest_phantasm",
+		[226943] = {
+			["name"] = "心灵炸弹",
+			["duration"] = 4,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_MindBomb",
+			["debuffType"] = "Magic",
 		},
-		[206980] = {
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
-			["duration"] = 0,
+		[123981] = {
+			["icon"] = "Interface\\Icons\\INV_Misc_ShadowEgg",
+			["duration"] = 180,
 		},
 		[211587] = {
 			["name"] = "借用神器",
@@ -8052,53 +8076,56 @@ JamPlatesAccessoriesDB = {
 			["name"] = "不朽之一",
 			["icon"] = "Interface\\Icons\\70_inscription_deck_immortality_a",
 		},
-		[170145] = {
-			["name"] = "影刃之油",
-			["icon"] = "Interface\\Icons\\inv_misc_stoneoil",
+		[189877] = {
+			["duration"] = 15,
+			["name"] = "大德鲁伊的力量",
+			["icon"] = "Interface\\Icons\\spell_druid_rampantgrowth",
 		},
 		[176268] = {
-			["icon"] = "Interface\\Icons\\Spell_Frost_FrostBolt02",
 			["name"] = "寒冰箭",
+			["icon"] = "Interface\\Icons\\Spell_Frost_FrostBolt02",
 			["debuffType"] = "Magic",
 		},
-		[209540] = {
-			["duration"] = 15.089,
-			["name"] = "泰坦之光",
-			["icon"] = "INTERFACE\\ICONS\\spell_paladin_lightofdawn",
+		[201350] = {
+			["duration"] = 3600,
+			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+			["name"] = "进食充分",
 		},
 		[197767] = {
 			["name"] = "虔诚之速",
 			["icon"] = "Interface\\Icons\\ability_paladin_speedoflight",
 		},
-		[207290] = {
-			["name"] = "邪恶狂乱",
+		[18501] = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyFrenzy",
+			["name"] = "激怒",
+			["debuffType"] = "",
 		},
 		[202886] = {
 			["duration"] = 12,
 			["name"] = "闪电充能",
 			["icon"] = "Interface\\Icons\\Spell_Nature_LightningOverload",
 		},
-		[11396] = {
-			["name"] = "强效智力",
-			["icon"] = "Interface\\Icons\\INV_Potion_10",
+		[233395] = {
+			["name"] = "严寒中心",
+			["icon"] = "Interface\\Icons\\Spell_Frost_FrostArmor",
+			["debuffType"] = "Magic",
 		},
 		[191625] = {
 			["name"] = "不朽之二",
 			["icon"] = "Interface\\Icons\\70_inscription_deck_promises_2",
 		},
-		[198076] = {
-			["name"] = "诸罪加身",
-			["icon"] = "Interface\\Icons\\Spell_Holy_HolyGuidance",
+		[155865] = {
+			["icon"] = "Interface\\Icons\\ability_butcher_whirl",
+			["duration"] = 30,
 		},
 		[213124] = {
 			["duration"] = 0,
 			["name"] = "剧毒之池",
 			["icon"] = "Interface\\Icons\\Ability_Rogue_DeviousPoisons",
 		},
-		[66090] = {
-			["name"] = "奎尔多雷战马",
-			["icon"] = "Interface\\Icons\\Ability_Mount_RidingHorse",
+		[235156] = {
+			["name"] = "强化生命分流",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_ManaFeed",
 		},
 		[70235] = {
 			["name"] = "“永恒”香水",
@@ -8113,40 +8140,44 @@ JamPlatesAccessoriesDB = {
 			["name"] = "毁灭践踏",
 			["icon"] = "Interface\\Icons\\Ability_WarStomp",
 		},
-		[18501] = {
-			["name"] = "激怒",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyFrenzy",
-			["debuffType"] = "",
+		[215479] = {
+			["duration"] = 7,
+			["name"] = "铁骨酒",
+			["icon"] = "Interface\\Icons\\ability_monk_ironskinbrew",
 		},
-		[191626] = {
-			["name"] = "不朽之三",
-			["icon"] = "Interface\\Icons\\70_inscription_deck_promises_3",
+		[183436] = {
+			["duration"] = 20,
+			["name"] = "报复",
+			["icon"] = "Interface\\Icons\\Spell_Holy_Crusade",
 		},
 		[228993] = {
 			["name"] = "腐蚀之池",
 			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_06",
 		},
-		[221315] = {
-			["icon"] = "Interface\\Icons\\ability_xavius_nightmareinfusion",
-			["duration"] = 10,
+		[184460] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_RainOfFire",
+			["duration"] = 0,
 		},
-		[233395] = {
-			["icon"] = "Interface\\Icons\\Spell_Frost_FrostArmor",
-			["name"] = "严寒中心",
-			["debuffType"] = "Magic",
+		[186302] = {
+			["name"] = "腐烂之咬",
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\INV_Misc_MonsterFang_01",
+			["debuffType"] = "Disease",
 		},
 		[88663] = {
-			["name"] = "萨麦尔的祈祷",
 			["icon"] = "Interface\\Icons\\Spell_Holy_WordFortitude",
+			["name"] = "萨麦尔的祈祷",
 			["debuffType"] = "Magic",
 		},
-		[7353] = {
-			["name"] = "温暖的小火",
-			["icon"] = "Interface\\Icons\\Spell_Fire_Fire",
+		[97109] = {
+			["name"] = "女性巨魔面具",
+			["icon"] = "Interface\\Icons\\Achievement_Character_Troll_Female",
 		},
-		[191550] = {
-			["name"] = "统御之四",
-			["icon"] = "Interface\\Icons\\70_inscription_deck_dominion_4",
+		[25046] = {
+			["name"] = "奥术洪流",
+			["duration"] = 2,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Teleport",
+			["debuffType"] = "Magic",
 		},
 		[207495] = {
 			["name"] = "先祖护佑",
@@ -8160,9 +8191,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\ability_rogue_dirtydeeds",
 			["duration"] = 5,
 		},
-		[233620] = {
-			["name"] = "邪能炸弹",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameRing",
+		[219622] = {
+			["duration"] = 1200,
+			["name"] = "试验药水",
+			["icon"] = "Interface\\Icons\\inv_holiday_tow_spicepotion03",
 		},
 		[127310] = {
 			["icon"] = "Interface\\Icons\\ability_mount_pandaranmountepicpurple",
@@ -8173,33 +8205,30 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\spell_hunter_exoticmunitions_poisoned",
 			["debuffType"] = "Poison",
 		},
-		[215479] = {
-			["duration"] = 7,
-			["name"] = "铁骨酒",
-			["icon"] = "Interface\\Icons\\ability_monk_ironskinbrew",
+		[197051] = {
+			["name"] = "麻痹药膏",
+			["icon"] = "Interface\\Icons\\Spell_Nature_NullifyDisease",
+			["debuffType"] = "Poison",
 		},
 		[202889] = {
 			["name"] = "风暴克星的屏障",
 			["icon"] = "Interface\\Icons\\Spell_Nature_LightningShield",
 		},
-		[186302] = {
-			["name"] = "腐烂之咬",
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\INV_Misc_MonsterFang_01",
-			["debuffType"] = "Disease",
+		[100333] = {
+			["name"] = "勇猛的战狼",
+			["icon"] = "Interface\\Icons\\ability_mount_hordepvpmount",
 		},
-		[228483] = {
-			["name"] = "烈焰魔心",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FlameBolt",
+		[26013] = {
+			["name"] = "逃亡者",
+			["icon"] = "Interface\\Icons\\Ability_Druid_Cower",
 		},
 		[228995] = {
 			["name"] = "腐蚀剧毒",
 			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_06",
 		},
-		[206491] = {
-			["duration"] = 60,
-			["icon"] = "Interface\\Icons\\Ability_Warlock_ImprovedDemonicTactics",
-			["name"] = "涅墨西斯",
+		[155077] = {
+			["name"] = "压迫打击",
+			["icon"] = "Interface\\Icons\\ability_kilruk_reave",
 		},
 		[193164] = {
 			["name"] = "末日预言者的礼物",
@@ -8207,43 +8236,45 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_AntiShadow",
 			["debuffType"] = "Magic",
 		},
-		[202908] = {
-			["name"] = "河鬃的净化",
-			["icon"] = "Interface\\Icons\\Spell_Holy_InnerFire",
+		[214170] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Spell_Shaman_FeralSpirit",
+			["name"] = "灵魂之旅",
 		},
-		[197051] = {
-			["icon"] = "Interface\\Icons\\Spell_Nature_NullifyDisease",
-			["name"] = "麻痹药膏",
-			["debuffType"] = "Poison",
+		[215478] = {
+			["icon"] = "Interface\\Icons\\INV_Misc_FireDancer_01",
+			["duration"] = 0,
 		},
 		[211080] = {
 			["name"] = "沁心圣光",
 			["icon"] = "Interface\\Icons\\Spell_Holy_PureOfHeart",
 		},
-		[100333] = {
-			["name"] = "勇猛的战狼",
-			["icon"] = "Interface\\Icons\\ability_mount_hordepvpmount",
+		[213188] = {
+			["duration"] = 20,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_BlackPlague",
+			["debuffType"] = "Curse",
 		},
-		[203914] = {
-			["name"] = "时间放逐",
-			["icon"] = "Interface\\Icons\\Spell_Holy_BorrowedTime",
+		[228484] = {
+			["name"] = "暗影魔心",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FlameBolt",
 		},
-		[155077] = {
-			["name"] = "压迫打击",
-			["icon"] = "Interface\\Icons\\ability_kilruk_reave",
-		},
-		[179818] = {
-			["name"] = "聚焦法力光束",
-			["icon"] = "Interface\\Icons\\ability_druid_stellarflare",
-		},
-		[234115] = {
-			["duration"] = 4,
-			["icon"] = "Interface\\Icons\\Ability_Mage_TormentOfTheWeak",
-			["name"] = "傲慢",
-		},
-		[215478] = {
-			["icon"] = "Interface\\Icons\\INV_Misc_FireDancer_01",
+		[155158] = {
 			["duration"] = 0,
+			["name"] = "流星灼烧",
+			["icon"] = "Interface\\Icons\\spell_mage_meteor",
+		},
+		[174793] = {
+			["icon"] = "INTERFACE\\ICONS\\creatureportrait_bubble",
+			["duration"] = 6,
+		},
+		[176785] = {
+			["name"] = "救魂者",
+			["icon"] = "Interface\\Icons\\INV_DataCrystal01",
+		},
+		[196768] = {
+			["duration"] = 60,
+			["name"] = "鹏羽天角风筝",
+			["icon"] = "Interface\\Icons\\ability_mount_pandarenkitemount",
 		},
 		[218759] = {
 			["name"] = "腐蚀之池",
@@ -8258,41 +8289,42 @@ JamPlatesAccessoriesDB = {
 			["name"] = "先祖护佑",
 			["icon"] = "Interface\\Icons\\Spell_Nature_Reincarnation",
 		},
-		[228485] = {
-			["name"] = "威吓魔心",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FlameBolt",
+		[191630] = {
+			["name"] = "不朽之七",
+			["icon"] = "Interface\\Icons\\70_inscription_deck_promises_7",
 		},
-		[171647] = {
-			["name"] = "土之壁垒",
-			["icon"] = "Interface\\Icons\\ability_gift_of_earth",
+		[230383] = {
+			["name"] = "猎物",
+			["icon"] = "Interface\\Icons\\spell_hunter_focusingshot",
 		},
 		[225414] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_CarrionSwarm",
 			["name"] = "午夜诅咒",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_CarrionSwarm",
 			["debuffType"] = "Curse",
 		},
-		[193234] = {
-			["icon"] = "Interface\\Icons\\inv_sword_98",
-			["duration"] = 0,
+		[210027] = {
+			["name"] = "共享光明",
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\Spell_Holy_PowerWordShield",
+			["debuffType"] = "Magic",
 		},
-		[783] = {
-			["duration"] = 0,
-			["name"] = "旅行形态",
-			["icon"] = "Interface\\Icons\\Ability_Druid_TravelForm",
+		[203285] = {
+			["name"] = "烈焰轰击",
+			["icon"] = "Interface\\Icons\\Ability_Vehicle_DemolisherFlameCatapult",
 		},
 		[97111] = {
 			["icon"] = "Interface\\Icons\\Achievement_Character_Troll_Male",
 			["duration"] = 0,
 		},
-		[223203] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Achievement_Reputation_KirinTor",
-			["name"] = "下水道守卫",
+		[186576] = {
+			["name"] = "石化云雾",
+			["icon"] = "Interface\\Icons\\Spell_Holiday_ToW_SpiceCloud",
+			["debuffType"] = "Magic",
 		},
-		[124280] = {
-			["name"] = "业报之触",
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\ability_monk_touchofkarma",
+		[117526] = {
+			["name"] = "束缚射击",
+			["duration"] = 5,
+			["icon"] = "INTERFACE\\ICONS\\spell_shaman_bindelemental",
 			["debuffType"] = "Magic",
 		},
 		[191631] = {
@@ -8322,116 +8354,115 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Rogue_Disguise",
 			["name"] = "身份危机",
 		},
-		[180750] = {
-			["duration"] = 3237.784,
-			["name"] = "进食充分",
-			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+		[126554] = {
+			["name"] = "敏捷",
+			["icon"] = "Interface\\Icons\\inv_jewelry_trinket_10",
 		},
-		[183416] = {
-			["name"] = "牺牲光环",
-			["icon"] = "Interface\\Icons\\ability_deathwing_bloodcorruption_earth",
+		[196770] = {
+			["duration"] = 8.5,
+			["icon"] = "Interface\\Icons\\ability_deathknight_remorselesswinters2",
+			["name"] = "冷酷严冬",
 		},
-		[227847] = {
-			["duration"] = 5.538,
-			["icon"] = "Interface\\Icons\\Ability_Warrior_Bladestorm",
-			["name"] = "剑刃风暴",
+		[59542] = {
+			["duration"] = 5,
+			["icon"] = "Interface\\Icons\\Spell_Holy_HolyProtection",
+			["name"] = "纳鲁的赐福",
 		},
 		[155289] = {
 			["icon"] = "Interface\\Icons\\Spell_Frost_ArcticWinds",
 			["duration"] = 5,
 		},
-		[118038] = {
-			["duration"] = 8,
-			["name"] = "剑在人在",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_Challange",
+		[208822] = {
+			["name"] = "斯特顿的疯狂",
+			["icon"] = "INTERFACE\\ICONS\\spell_priest_shadoworbs",
 		},
-		[164547] = {
-			["name"] = "月光增效",
-			["duration"] = 40,
-			["icon"] = "Interface\\Icons\\Spell_Arcane_StarFire",
-			["debuffType"] = "Magic",
+		[23510] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Ability_Mount_MountainRam",
+			["name"] = "雷矛军用坐骑",
 		},
 		[72286] = {
 			["duration"] = 0,
-			["name"] = "无敌",
 			["icon"] = "INTERFACE\\ICONS\\ability_mount_pegasus",
+			["name"] = "无敌",
 		},
-		[227482] = {
-			["name"] = "烧焦的大地",
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\INV_Pet_ScorchedStone",
-			["debuffType"] = "Magic",
+		[205473] = {
+			["duration"] = 61,
+			["name"] = "冰刺",
+			["icon"] = "Interface\\Icons\\Spell_Frost_IceShard",
 		},
 		[215179] = {
 			["duration"] = 1,
 			["icon"] = "Interface\\Icons\\spell_frost_stun",
 			["name"] = "突袭",
 		},
-		[126554] = {
-			["name"] = "敏捷",
-			["icon"] = "Interface\\Icons\\inv_jewelry_trinket_10",
-		},
-		[208822] = {
-			["name"] = "斯特顿的疯狂",
-			["icon"] = "INTERFACE\\ICONS\\spell_priest_shadoworbs",
-		},
-		[118611] = {
-			["name"] = "魔丝蛾刻像",
-			["icon"] = "Interface\\Icons\\inv_inscription_pigment_bug01",
-		},
-		[213150] = {
-			["name"] = "定身",
-			["icon"] = "Interface\\Icons\\spell_druid_wildcharge",
-		},
-		[12611] = {
-			["name"] = "冰锥术",
-			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\Spell_Frost_Glacier",
-			["debuffType"] = "Magic",
-		},
-		[161293] = {
-			["name"] = "碎铁之暴怒",
-			["icon"] = "Interface\\Icons\\spell_beastmaster_elekk",
+		[142931] = {
+			["name"] = "血脉暴露",
+			["icon"] = "INTERFACE\\ICONS\\ability_rogue_sanguinaryvein",
 		},
 		[165824] = {
 			["name"] = "精通",
 			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_06",
 		},
-		[227465] = {
-			["name"] = "能量释放",
-			["icon"] = "Interface\\Icons\\Spell_Nature_Lightning",
-		},
-		[227977] = {
-			["name"] = "眩目灯光",
-			["icon"] = "INTERFACE\\ICONS\\paladin_icon_speedoflight",
+		[175765] = {
+			["name"] = "粉碎打击",
+			["icon"] = "INTERFACE\\ICONS\\ability_warrior_colossussmash",
 		},
 		[57724] = {
 			["duration"] = 600,
 			["name"] = "心满意足",
 			["icon"] = "Interface\\Icons\\Spell_Nature_Sleep",
 		},
-		[128849] = {
-			["name"] = "金钟罩",
-			["icon"] = "Interface\\Icons\\ability_monk_guard",
-		},
-		[72808] = {
-			["duration"] = 0,
-			["name"] = "浴血冰霜征服者",
-			["icon"] = "Interface\\Icons\\ability_mount_redfrostwyrm_01",
+		[202914] = {
+			["duration"] = 5,
+			["icon"] = "Interface\\Icons\\hunter_pvp_spidersting",
+			["debuffType"] = "Poison",
 		},
 		[188858] = {
 			["duration"] = 10,
 			["icon"] = "Interface\\Icons\\warlock_curse_shadow_aura",
 			["debuffType"] = "Curse",
 		},
-		[185492] = {
-			["icon"] = "Interface\\Icons\\Ability_WarStomp",
-			["duration"] = 2,
-		},
 		[225201] = {
 			["duration"] = 6,
 			["icon"] = "Interface\\Icons\\Spell_Arcane_MassDispel",
 			["debuffType"] = "Magic",
+		},
+		[202895] = {
+			["name"] = "前膛火枪",
+			["icon"] = "INTERFACE\\ICONS\\inv_weapon_rifle_07",
+		},
+		[227977] = {
+			["name"] = "眩目灯光",
+			["icon"] = "INTERFACE\\ICONS\\paladin_icon_speedoflight",
+		},
+		[73320] = {
+			["name"] = "霜脉幻象",
+			["duration"] = 600,
+			["icon"] = "Interface\\Icons\\Spell_Frost_FrostWard",
+			["debuffType"] = "Magic",
+		},
+		[128849] = {
+			["name"] = "金钟罩",
+			["icon"] = "Interface\\Icons\\ability_monk_guard",
+		},
+		[219119] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_CurseOfSargeras",
+			["name"] = "痛苦诅咒",
+			["debuffType"] = "Curse",
+		},
+		[204962] = {
+			["icon"] = "Interface\\Icons\\warlock_curse_shadow_aura",
+			["duration"] = 8,
+		},
+		[185492] = {
+			["icon"] = "Interface\\Icons\\Ability_WarStomp",
+			["duration"] = 2,
+		},
+		[45242] = {
+			["duration"] = 8,
+			["icon"] = "INTERFACE\\ICONS\\ability_priest_focusedwill",
+			["name"] = "专注意志",
 		},
 		[68704] = {
 			["name"] = "香气蒸腾",
@@ -8442,89 +8473,84 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_GhoulFrenzy",
 			["name"] = "割裂",
 		},
-		[73320] = {
-			["name"] = "霜脉幻象",
-			["duration"] = 600,
-			["icon"] = "Interface\\Icons\\Spell_Frost_FrostWard",
-			["debuffType"] = "Magic",
+		[188027] = {
+			["duration"] = 30,
+			["name"] = "致命优雅药水",
+			["icon"] = "Interface\\Icons\\inv_alchemy_70_flask02",
 		},
-		[51124] = {
+		[196242] = {
 			["duration"] = 10,
-			["name"] = "杀戮机器",
-			["icon"] = "Interface\\Icons\\INV_Sword_122",
+			["name"] = "雷霆一击",
+			["icon"] = "Interface\\Icons\\Ability_ThunderClap",
 		},
 		[213134] = {
 			["name"] = "邪焰地狱火",
 			["icon"] = "Interface\\Icons\\inv_infernalmount",
 		},
-		[102744] = {
-			["name"] = "猫鼬之速",
-			["icon"] = "Interface\\Icons\\Spell_Holy_DivinePurpose",
+		[217741] = {
+			["name"] = "邪焰斗篷",
+			["icon"] = "Interface\\Icons\\Spell_Arcane_PrismaticCloak",
 		},
 		[185493] = {
 			["duration"] = 8,
 			["icon"] = "Interface\\Icons\\Spell_Shadow_Cripple",
 			["debuffType"] = "Magic",
 		},
-		[208403] = {
-			["icon"] = "INTERFACE\\ICONS\\ability_rogue_sturdyrecuperate",
-			["name"] = "瓦莉拉的意志",
-			["debuffType"] = "Magic",
-		},
-		[182422] = {
-			["name"] = "Training Gear",
-			["icon"] = "Interface\\Icons\\INV_Shield_09",
-		},
-		[209569] = {
-			["name"] = "扎卡兹的腐化之血",
-			["duration"] = 6.588,
-			["icon"] = "Interface\\Icons\\inv_artifact_corruptedbloodofzakajz",
-			["debuffType"] = "Magic",
-		},
-		[210918] = {
-			["name"] = "灵体形态",
-			["icon"] = "Interface\\Icons\\Spell_Shaman_AstralShift",
-		},
-		[224908] = {
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameStrike",
-			["duration"] = 10,
-		},
-		[225420] = {
-			["name"] = "汲取生机",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_LifeDrain02",
-		},
-		[589] = {
-			["name"] = "暗言术：痛",
-			["duration"] = 15.648,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowWordPain",
-			["debuffType"] = "Magic",
-		},
-		[193684] = {
-			["icon"] = "Interface\\Icons\\Ability_Hunter_Displacement",
-			["duration"] = 0,
-		},
 		[40192] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\Inv_Misc_SummerFest_BrazierOrange",
 			["name"] = "奥的灰烬",
 		},
-		[157853] = {
-			["name"] = "余震",
-			["icon"] = "Interface\\Icons\\ability_vehicle_sonicshockwave",
+		[182422] = {
+			["name"] = "Training Gear",
+			["icon"] = "Interface\\Icons\\INV_Shield_09",
 		},
 		[188857] = {
 			["name"] = "恶魔冲锋",
 			["icon"] = "Interface\\Icons\\spell_warlock_demonbolt",
 		},
-		[201380] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\spell_deathknight_breathofsindragosa",
-			["debuffType"] = "Magic",
+		[227998] = {
+			["name"] = "毒水腐蚀",
+			["icon"] = "Interface\\Icons\\ability_shawaterelemental_split",
 		},
-		[122708] = {
+		[224908] = {
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameStrike",
+			["duration"] = 10,
+		},
+		[204945] = {
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\inv_mace_1h_artifactdoomhammer_d_01",
+			["name"] = "毁灭之风",
+		},
+		[193530] = {
+			["duration"] = 10,
+			["name"] = "野性守护",
+			["icon"] = "Interface\\Icons\\Spell_Nature_ProtectionformNature",
+		},
+		[193684] = {
+			["icon"] = "Interface\\Icons\\Ability_Hunter_Displacement",
 			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\ability_mount_travellersyakmount",
-			["name"] = "雄壮远足牦牛",
+		},
+		[156601] = {
+			["name"] = "血红打击",
+			["icon"] = "Interface\\Icons\\ability_ironmaidens_sanguinestrikes",
+		},
+		[157853] = {
+			["name"] = "余震",
+			["icon"] = "Interface\\Icons\\ability_vehicle_sonicshockwave",
+		},
+		[190632] = {
+			["name"] = "开拓者",
+			["icon"] = "Interface\\Icons\\Achievement_Zone_Terrokar",
+		},
+		[214962] = {
+			["duration"] = 30,
+			["name"] = "霜覆",
+			["icon"] = "INTERFACE\\ICONS\\spell_shaman_unleashweapon_frost",
+		},
+		[179864] = {
+			["name"] = "死亡之影",
+			["icon"] = "Interface\\Icons\\Spell_Arcane_PrismaticCloak",
 		},
 		[200851] = {
 			["name"] = "沉睡者之怒",
@@ -8543,17 +8569,17 @@ JamPlatesAccessoriesDB = {
 			["name"] = "霜狼之怒",
 			["icon"] = "Interface\\Icons\\Spell_Nature_Sentinal",
 		},
-		[219279] = {
-			["icon"] = "Interface\\Icons\\ability_rogue_plunderarmor",
-			["duration"] = 0,
+		[202899] = {
+			["name"] = "乌拉的祝福",
+			["icon"] = "Interface\\Icons\\Spell_Holy_InnerFire",
 		},
 		[227981] = {
 			["name"] = "上勾拳",
 			["icon"] = "Interface\\Icons\\Ability_Rogue_KidneyShot",
 		},
-		[200183] = {
-			["name"] = "神圣化身",
-			["icon"] = "Interface\\Icons\\ability_priest_ascension",
+		[191920] = {
+			["name"] = "糖棒",
+			["icon"] = "Interface\\Icons\\INV_Misc_Food_61",
 		},
 		[143010] = {
 			["name"] = "蚀骨回旋踢",
@@ -8563,14 +8589,13 @@ JamPlatesAccessoriesDB = {
 			["name"] = "虚空阴霾",
 			["icon"] = "Interface\\Icons\\ability_priest_voidentropy",
 		},
-		[54452] = {
-			["name"] = "法能药剂",
-			["icon"] = "Interface\\Icons\\INV_Potion_96",
+		[225934] = {
+			["icon"] = "Interface\\Icons\\sha_spell_warlock_demonsoul_nightborne",
+			["duration"] = 120,
 		},
-		[218256] = {
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\ability_demonhunter_empowerwards",
-			["name"] = "强化结界",
+		[193686] = {
+			["icon"] = "Interface\\Icons\\Ability_CriticalStrike",
+			["duration"] = 20,
 		},
 		[97115] = {
 			["icon"] = "INTERFACE\\ICONS\\inv_mask_09",
@@ -8590,40 +8615,41 @@ JamPlatesAccessoriesDB = {
 			["name"] = "治疗之壳",
 			["icon"] = "Interface\\Icons\\ability_vehicle_shellshieldgenerator",
 		},
-		[223903] = {
-			["icon"] = "Interface\\Icons\\ability_demonhunter_metamorphasistank",
-			["duration"] = 20,
+		[177083] = {
+			["name"] = "倾倒炉渣",
+			["icon"] = "Interface\\Icons\\inv_misc_trinket6oih_orb1",
 		},
 		[184473] = {
 			["name"] = "虚空阴霾",
 			["icon"] = "Interface\\Icons\\ability_priest_voidentropy",
 		},
-		[184985] = {
-			["name"] = "凋零契印",
-			["icon"] = "Interface\\Icons\\Spell_Holy_SealOfRighteousness",
+		[59571] = {
+			["name"] = "暮光幼龙",
+			["icon"] = "Interface\\Icons\\Ability_Mount_Drake_Twilight",
 		},
 		[70242] = {
 			["name"] = "“大胆爱”古龙水",
 			["icon"] = "INTERFACE\\ICONS\\inv_inscription_inkgreen03",
 		},
-		[199845] = {
+		[131526] = {
 			["duration"] = 0,
-			["name"] = "灵能鞭笞",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_SiphonMana",
+			["name"] = "飓风启迪",
+			["icon"] = "Interface\\Icons\\Spell_Nature_Cyclone",
 		},
-		[190616] = {
-			["icon"] = "Interface\\Icons\\Spell_Nature_CorrosiveBreath",
-			["name"] = "腐蚀邪能污秽",
-			["debuffType"] = "Poison",
+		[215186] = {
+			["duration"] = 0,
+			["name"] = "Gurglrgmrgl!",
+			["icon"] = "Interface\\Icons\\INV_Misc_Head_Murloc_01",
 		},
-		[214962] = {
-			["duration"] = 30,
-			["name"] = "霜覆",
-			["icon"] = "INTERFACE\\ICONS\\spell_shaman_unleashweapon_frost",
+		[589] = {
+			["name"] = "暗言术：痛",
+			["duration"] = 15.648,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowWordPain",
+			["debuffType"] = "Magic",
 		},
-		[225963] = {
-			["icon"] = "Interface\\Icons\\creatureportrait_saberworg",
-			["duration"] = 12,
+		[90896] = {
+			["name"] = "黑暗卷须",
+			["icon"] = "Interface\\Icons\\INV_Misc_Herb_07",
 		},
 		[179867] = {
 			["name"] = "血魔的腐化",
@@ -8641,21 +8667,22 @@ JamPlatesAccessoriesDB = {
 			["name"] = "协议：和平使者",
 			["icon"] = "Interface\\Icons\\spell_mage_infernoblast",
 		},
-		[177083] = {
-			["name"] = "倾倒炉渣",
-			["icon"] = "Interface\\Icons\\inv_misc_trinket6oih_orb1",
+		[689] = {
+			["duration"] = 5.076,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_LifeDrain02",
+			["name"] = "吸取生命",
 		},
-		[156096] = {
-			["name"] = "死亡标记",
-			["icon"] = "Interface\\Icons\\ability_blackhand_marked4death",
+		[164353] = {
+			["name"] = "萨格雷伪装",
+			["icon"] = "Interface\\Icons\\spell_fel_incinerate",
 		},
-		[104270] = {
-			["name"] = "饮水",
-			["icon"] = "Interface\\Icons\\INV_Drink_18",
+		[48287] = {
+			["icon"] = "Interface\\Icons\\Ability_Druid_PrimalTenacity",
+			["duration"] = 5,
 		},
-		[190632] = {
-			["name"] = "开拓者",
-			["icon"] = "Interface\\Icons\\Achievement_Zone_Terrokar",
+		[198069] = {
+			["name"] = "阴暗面之力",
+			["icon"] = "Interface\\Icons\\inv_artifact_powerofthedarkside",
 		},
 		[183963] = {
 			["name"] = "纳鲁之光",
@@ -8665,13 +8692,14 @@ JamPlatesAccessoriesDB = {
 			["name"] = "撕裂旋风",
 			["icon"] = "Interface\\Icons\\Ability_Warrior_BloodNova",
 		},
-		[148541] = {
-			["name"] = "日落黄昏",
-			["icon"] = "INTERFACE\\ICONS\\achievement_zone_mount hyjal",
+		[229349] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Fumble",
+			["name"] = "邪恶之书的诅咒",
+			["debuffType"] = "Magic",
 		},
-		[70243] = {
-			["name"] = "“英武”古龙水",
-			["icon"] = "INTERFACE\\ICONS\\inv_inscription_inkgreen02",
+		[156834] = {
+			["name"] = "黑石尖刺",
+			["icon"] = "Interface\\Icons\\6bf_blackrock_nova",
 		},
 		[214676] = {
 			["icon"] = "Interface\\Icons\\INV_Misc_MonsterFang_01",
@@ -8681,50 +8709,53 @@ JamPlatesAccessoriesDB = {
 			["name"] = "奥术灌注",
 			["icon"] = "Interface\\Icons\\Spell_Arcane_ArcanePotency",
 		},
-		[225768] = {
-			["name"] = "时光转换",
-			["icon"] = "INTERFACE\\ICONS\\spell_arcane_invocation",
+		[224743] = {
+			["icon"] = "Interface\\Icons\\spell_mage_presenceofmind",
+			["name"] = "分析",
+			["debuffType"] = "Magic",
 		},
 		[203927] = {
 			["duration"] = 10,
 			["icon"] = "Interface\\Icons\\inv_pet_undeadeagle",
 			["name"] = "啸天者守护",
 		},
-		[210927] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\shaman_pvp_staticcling",
-			["name"] = "静电附着",
+		[138424] = {
+			["name"] = "珀光原始恐角龙",
+			["icon"] = "Interface\\Icons\\ability_mount_triceratopsmount_yellow",
 		},
 		[176286] = {
 			["name"] = "艾维娜之羽",
 			["icon"] = "Interface\\Icons\\ability_priest_angelicfeather",
 		},
-		[198069] = {
-			["name"] = "阴暗面之力",
-			["icon"] = "Interface\\Icons\\inv_artifact_powerofthedarkside",
+		[90215] = {
+			["duration"] = 6,
+			["name"] = "冲击波",
+			["icon"] = "Interface\\Icons\\Spell_Holy_Excorcism_02",
 		},
-		[689] = {
-			["duration"] = 5.076,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_LifeDrain02",
-			["name"] = "吸取生命",
+		[220079] = {
+			["name"] = "静电新星",
+			["icon"] = "Interface\\Icons\\Spell_Shaman_StaticShock",
+			["debuffType"] = "Magic",
 		},
-		[155242] = {
-			["name"] = "高热",
-			["icon"] = "Interface\\Icons\\INV_Ammo_FireTar",
+		[182958] = {
+			["duration"] = 0,
+			["name"] = "阿苏纳的宝藏",
+			["icon"] = "Interface\\Icons\\icon_treasuremap",
 		},
-		[211110] = {
-			["name"] = "深黯孢子",
-			["icon"] = "Interface\\Icons\\inv_misc_herb_starflower",
+		[165889] = {
+			["name"] = "正义之心",
+			["icon"] = "Interface\\Icons\\Ability_Paladin_RighteousVengeance",
+			["debuffType"] = "Magic",
 		},
 		[236176] = {
 			["name"] = "时空教程",
 			["icon"] = "Interface\\Icons\\spell_warlock_demonicportal_purple",
 		},
-		[219812] = {
-			["name"] = "冻结",
-			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\inv_pet_snowman",
-			["debuffType"] = "Curse",
+		[45438] = {
+			["name"] = "寒冰屏障",
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\Spell_Frost_Frost",
+			["debuffType"] = "Magic",
 		},
 		[200345] = {
 			["icon"] = "Interface\\Icons\\inv_ammo_arrow_06",
@@ -8735,14 +8766,13 @@ JamPlatesAccessoriesDB = {
 			["name"] = "雷欧克的视界",
 			["icon"] = "Interface\\Icons\\inv_misc_elitewyvern",
 		},
-		[220079] = {
-			["icon"] = "Interface\\Icons\\Spell_Shaman_StaticShock",
-			["name"] = "静电新星",
-			["debuffType"] = "Magic",
+		[177081] = {
+			["name"] = "熔铁之水",
+			["icon"] = "Interface\\Icons\\inv_misc_trinket6oih_orb1",
 		},
-		[70244] = {
-			["name"] = "“巫术”古龙水",
-			["icon"] = "INTERFACE\\ICONS\\inv_inscription_inkgreen04",
+		[51510] = {
+			["icon"] = "Interface\\Icons\\INV_Misc_Bomb_04",
+			["duration"] = 60,
 		},
 		[210583] = {
 			["duration"] = 3,
@@ -8753,13 +8783,13 @@ JamPlatesAccessoriesDB = {
 			["name"] = "净化火焰",
 			["icon"] = "Interface\\Icons\\Spell_Holy_PurifyingPower",
 		},
-		[138424] = {
-			["name"] = "珀光原始恐角龙",
-			["icon"] = "Interface\\Icons\\ability_mount_triceratopsmount_yellow",
+		[176569] = {
+			["icon"] = "Interface\\Icons\\spell_fel_incinerate",
+			["duration"] = 1800,
 		},
-		[223341] = {
-			["name"] = "勇猛的吉尔尼斯战马",
-			["icon"] = "Interface\\Icons\\inv_mount_vicioushorse",
+		[224740] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Teleport",
+			["duration"] = 4,
 		},
 		[30174] = {
 			["name"] = "乌龟坐骑",
@@ -8769,27 +8799,27 @@ JamPlatesAccessoriesDB = {
 			["name"] = "传送：设置返回裂隙",
 			["icon"] = "Interface\\Icons\\Spell_Misc_HellifrePVPCombatMorale",
 		},
-		[45438] = {
-			["name"] = "寒冰屏障",
+		[201255] = {
+			["icon"] = "Interface\\Icons\\inv_icon_shadowcouncilorb_purple",
+			["duration"] = 0,
+		},
+		[224173] = {
 			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\Spell_Frost_Frost",
-			["debuffType"] = "Magic",
+			["name"] = "狩猎大师的激励",
+			["icon"] = "Interface\\Icons\\spell_fire_playingwithfiregreen",
 		},
-		[177081] = {
-			["name"] = "熔铁之水",
-			["icon"] = "Interface\\Icons\\inv_misc_trinket6oih_orb1",
-		},
-		[176569] = {
-			["icon"] = "Interface\\Icons\\spell_fel_incinerate",
-			["duration"] = 1800,
+		[199340] = {
+			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
+			["duration"] = 3,
 		},
 		[219286] = {
 			["name"] = "痛击",
 			["icon"] = "Interface\\Icons\\Ability_Druid_Maul",
 		},
-		[213995] = {
-			["name"] = "阴险伎俩",
-			["icon"] = "Interface\\Icons\\rogue_dirtytricks",
+		[80483] = {
+			["name"] = "奥术洪流",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Teleport",
+			["debuffType"] = "Magic",
 		},
 		[171170] = {
 			["name"] = "纵火狂",
@@ -8809,10 +8839,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "撕裂之咬",
 			["icon"] = "INTERFACE\\ICONS\\trade_archaeology_trolltooth w goldfilling",
 		},
-		[138425] = {
-			["duration"] = 0,
-			["name"] = "岩灰原始恐角龙",
-			["icon"] = "Interface\\Icons\\ability_mount_triceratopsmount_grey",
+		[169402] = {
+			["name"] = "小戈隆碾压",
+			["icon"] = "Interface\\Icons\\Ability_Smash",
 		},
 		[198300] = {
 			["duration"] = 12,
@@ -8823,25 +8852,22 @@ JamPlatesAccessoriesDB = {
 			["name"] = "碧蓝云端翔龙",
 			["icon"] = "Interface\\Icons\\inv_pandarenserpentmount_blue",
 		},
-		[224173] = {
-			["duration"] = 10,
-			["name"] = "狩猎大师的激励",
-			["icon"] = "Interface\\Icons\\spell_fire_playingwithfiregreen",
+		[196154] = {
+			["icon"] = "Interface\\Icons\\spell_sandstorm",
+			["duration"] = 0,
 		},
 		[167076] = {
-			["icon"] = "Interface\\Icons\\inv_weapon_shortblade_109",
 			["name"] = "哀嚎之刃",
+			["icon"] = "Interface\\Icons\\inv_weapon_shortblade_109",
 			["debuffType"] = "Magic",
 		},
-		[204517] = {
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\spell_warlock_harvestoflife",
-			["debuffType"] = "Magic",
+		[176568] = {
+			["name"] = "萨格雷伪装",
+			["icon"] = "Interface\\Icons\\spell_fel_incinerate",
 		},
-		[221335] = {
-			["duration"] = 3600,
-			["name"] = "大法师瓦格斯的奥术智慧",
-			["icon"] = "Interface\\Icons\\inv_staff_45",
+		[233620] = {
+			["name"] = "邪能炸弹",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameRing",
 		},
 		[197277] = {
 			["duration"] = 24,
@@ -8853,45 +8879,46 @@ JamPlatesAccessoriesDB = {
 			["name"] = "野蛮强击",
 			["icon"] = "Interface\\Icons\\Ability_Warrior_DecisiveStrike",
 		},
-		[235156] = {
-			["name"] = "强化生命分流",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_ManaFeed",
+		[206491] = {
+			["duration"] = 60,
+			["icon"] = "Interface\\Icons\\Ability_Warlock_ImprovedDemonicTactics",
+			["name"] = "涅墨西斯",
 		},
-		[198813] = {
-			["duration"] = 3,
-			["name"] = "复仇回避",
-			["icon"] = "Interface\\Icons\\ability_demonhunter_vengefulretreat2",
+		[202908] = {
+			["name"] = "河鬃的净化",
+			["icon"] = "Interface\\Icons\\Spell_Holy_InnerFire",
 		},
-		[171621] = {
-			["name"] = "铁蹄毁灭者",
-			["icon"] = "Interface\\Icons\\inv_ironhordeclefthoof",
+		[205546] = {
+			["duration"] = 4,
+			["name"] = "奥丁之怒",
+			["icon"] = "Interface\\Icons\\inv_sword_1h_artifactvigfus_d_01",
 		},
-		[189877] = {
-			["duration"] = 15,
-			["name"] = "大德鲁伊的力量",
-			["icon"] = "Interface\\Icons\\spell_druid_rampantgrowth",
-		},
-		[80483] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Teleport",
-			["name"] = "奥术洪流",
+		[205290] = {
+			["name"] = "灰烬觉醒",
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\inv_sword_2h_artifactashbringer_d_01",
 			["debuffType"] = "Magic",
 		},
-		[176568] = {
-			["name"] = "萨格雷伪装",
-			["icon"] = "Interface\\Icons\\spell_fel_incinerate",
+		[200684] = {
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\Spell_Nature_FocusedMind",
+			["debuffType"] = "Poison",
+		},
+		[59961] = {
+			["name"] = "红色始祖幼龙",
+			["icon"] = "Interface\\Icons\\Ability_Mount_Drake_Proto",
 		},
 		[209563] = {
 			["name"] = "邪钢马镫",
 			["icon"] = "Interface\\Icons\\inv_blacksmith_demonsteelstirrups",
 		},
-		[214170] = {
-			["duration"] = 0,
-			["name"] = "灵魂之旅",
-			["icon"] = "Interface\\Icons\\Spell_Shaman_FeralSpirit",
+		[193695] = {
+			["name"] = "声威战马",
+			["icon"] = "Interface\\Icons\\inv_alliancepvpmount",
 		},
-		[217831] = {
-			["name"] = "上古之怒：冰霜",
-			["icon"] = "Interface\\Icons\\inv_infernalmounice",
+		[204484] = {
+			["icon"] = "Interface\\Icons\\inv_misc_bugsprayer",
+			["duration"] = 3,
 		},
 		[123993] = {
 			["duration"] = 0,
@@ -8902,23 +8929,22 @@ JamPlatesAccessoriesDB = {
 			["name"] = "兽穴之母",
 			["icon"] = "Interface\\Icons\\ability_druid_denmother",
 		},
-		[186870] = {
-			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
-			["duration"] = 12,
+		[147643] = {
+			["name"] = "被诅咒的水手头盔",
+			["icon"] = "Interface\\Icons\\INV_Helmet_49",
 		},
-		[226325] = {
-			["duration"] = 3600.001,
-			["name"] = "敏捷的灵魂烈焰",
-			["icon"] = "Interface\\Icons\\Spell_Fire_BlueFlameBreath",
+		[156604] = {
+			["name"] = "燃烧",
+			["icon"] = "Interface\\Icons\\Ability_Mage_FireStarter",
 		},
 		[204957] = {
 			["name"] = "冰冻灵魂",
 			["icon"] = "Interface\\Icons\\Ability_Mage_ChilledToTheBone",
 		},
-		[215210] = {
-			["icon"] = "Interface\\Icons\\ability_ironmaidens_convulsiveshadows",
-			["name"] = "安努德的临终之息",
-			["debuffType"] = "Magic",
+		[202414] = {
+			["duration"] = 12,
+			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_02",
+			["debuffType"] = "Poison",
 		},
 		[148651] = {
 			["name"] = "复眼视界",
@@ -8929,60 +8955,14 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_Haunting",
 			["name"] = "阴霾",
 		},
-		[183543] = {
-			["icon"] = "Interface\\Icons\\Spell_Nature_ThunderClap",
-			["duration"] = 8,
+		[222209] = {
+			["duration"] = 20,
+			["name"] = "晦暗灵魂",
+			["icon"] = "Interface\\Icons\\ability_xavius_blackened",
 		},
 		[211612] = {
 			["icon"] = "Interface\\Icons\\Spell_Magic_ManaGain",
 			["duration"] = 0,
-		},
-		[12051] = {
-			["name"] = "唤醒",
-			["icon"] = "Interface\\Icons\\Spell_Nature_Purge",
-		},
-		[156604] = {
-			["name"] = "燃烧",
-			["icon"] = "Interface\\Icons\\Ability_Mage_FireStarter",
-		},
-		[196768] = {
-			["duration"] = 60,
-			["name"] = "鹏羽天角风筝",
-			["icon"] = "Interface\\Icons\\ability_mount_pandarenkitemount",
-		},
-		[12654] = {
-			["name"] = "点燃",
-			["duration"] = 9.352,
-			["icon"] = "Interface\\Icons\\Spell_Fire_Incinerate",
-			["debuffType"] = "Magic",
-		},
-		[200941] = {
-			["duration"] = 15,
-			["name"] = "抗性毛皮",
-			["icon"] = "Interface\\Icons\\artifactability_guardiandruid_adaptivefur",
-		},
-		[157354] = {
-			["name"] = "断骨",
-			["icon"] = "Interface\\Icons\\spell_frost_stun",
-		},
-		[115804] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\Ability_CriticalStrike",
-			["name"] = "致死之伤",
-		},
-		[184358] = {
-			["name"] = "邪能狂怒",
-			["icon"] = "Interface\\Icons\\Spell_Fire_ElementalDevastation",
-		},
-		[205546] = {
-			["duration"] = 4,
-			["icon"] = "Interface\\Icons\\inv_sword_1h_artifactvigfus_d_01",
-			["name"] = "奥丁之怒",
-		},
-		[138927] = {
-			["duration"] = 3600.011,
-			["name"] = "燃烧精华",
-			["icon"] = "Interface\\Icons\\INV_Elemental_Mote_Fire01",
 		},
 		[147644] = {
 			["name"] = "收割",
@@ -8990,9 +8970,54 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_warlock_soulswap",
 			["debuffType"] = "Magic",
 		},
-		[171617] = {
-			["icon"] = "Interface\\Icons\\inv_clefthoofdraenormount_blue",
-			["duration"] = 0,
+		[214035] = {
+			["icon"] = "Interface\\Icons\\ability_socererking_arcanefortification",
+			["name"] = "奥术充能",
+			["debuffType"] = "Magic",
+		},
+		[217243] = {
+			["duration"] = 5,
+			["name"] = "低吼",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_DeathScream",
+		},
+		[145389] = {
+			["name"] = "时空错乱",
+			["icon"] = "Interface\\Icons\\spell_mage_altertime",
+		},
+		[193215] = {
+			["name"] = "克瓦迪尔笼子",
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_steelweaponchain",
+		},
+		[157354] = {
+			["name"] = "断骨",
+			["icon"] = "Interface\\Icons\\spell_frost_stun",
+		},
+		[115804] = {
+			["duration"] = 10,
+			["name"] = "致死之伤",
+			["icon"] = "Interface\\Icons\\Ability_CriticalStrike",
+		},
+		[198065] = {
+			["name"] = "棱彩屏障",
+			["icon"] = "Interface\\Icons\\Spell_Arcane_PrismaticCloak",
+		},
+		[104935] = {
+			["name"] = "进食",
+			["icon"] = "Interface\\Icons\\INV_Misc_Fork&Knife",
+		},
+		[138927] = {
+			["duration"] = 3600.011,
+			["name"] = "燃烧精华",
+			["icon"] = "Interface\\Icons\\INV_Elemental_Mote_Fire01",
+		},
+		[176048] = {
+			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\Ability_Druid_ChallangingRoar",
+			["debuffType"] = "",
+		},
+		[104423] = {
+			["name"] = "风歌",
+			["icon"] = "Interface\\Icons\\Spell_Frost_ArcticWinds",
 		},
 		[193698] = {
 			["duration"] = 11,
@@ -9003,14 +9028,15 @@ JamPlatesAccessoriesDB = {
 			["name"] = "夺魂咆哮",
 			["icon"] = "Interface\\Icons\\Ability_Druid_DemoralizingRoar",
 		},
-		[166057] = {
-			["icon"] = "Interface\\Icons\\Spell_Deathknight_FrostPresence",
-			["name"] = "刺骨之寒",
+		[227482] = {
+			["name"] = "烧焦的大地",
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\INV_Pet_ScorchedStone",
 			["debuffType"] = "Magic",
 		},
-		[198065] = {
-			["name"] = "棱彩屏障",
-			["icon"] = "Interface\\Icons\\Spell_Arcane_PrismaticCloak",
+		[236757] = {
+			["name"] = "火红割裂者",
+			["icon"] = "Interface\\Icons\\Ability_Druid_Mangle.tga",
 		},
 		[55095] = {
 			["name"] = "冰霜疫病",
@@ -9022,10 +9048,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "蚀骨酒",
 			["icon"] = "Interface\\Icons\\sha_inv_elemental_primal_shadow",
 		},
-		[196770] = {
-			["duration"] = 8.5,
-			["icon"] = "Interface\\Icons\\ability_deathknight_remorselesswinters2",
-			["name"] = "冷酷严冬",
+		[213150] = {
+			["name"] = "定身",
+			["icon"] = "Interface\\Icons\\spell_druid_wildcharge",
 		},
 		[209567] = {
 			["duration"] = 5,
@@ -9036,9 +9061,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "科学狂人",
 			["icon"] = "Interface\\Icons\\achievement_faction_klaxxi",
 		},
-		[104935] = {
-			["name"] = "进食",
-			["icon"] = "Interface\\Icons\\INV_Misc_Fork&Knife",
+		[224170] = {
+			["duration"] = 10,
+			["name"] = "狩猎大师的激励",
+			["icon"] = "Interface\\Icons\\spell_fire_playingwithfiregreen",
 		},
 		[219293] = {
 			["name"] = "恐惧咆哮",
@@ -9050,20 +9076,17 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\spell_shaman_spiritwalkersgrace",
 			["debuffType"] = "Magic",
 		},
-		[20707] = {
-			["duration"] = 900,
-			["name"] = "灵魂石",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_SoulGem",
+		[195561] = {
+			["icon"] = "Interface\\Icons\\INV_Misc_Birdbeck_01",
+			["duration"] = 4,
 		},
-		[104423] = {
-			["name"] = "风歌",
-			["icon"] = "Interface\\Icons\\Spell_Frost_ArcticWinds",
+		[230104] = {
+			["name"] = "饱餐一顿",
+			["icon"] = "Interface\\ICONS\\INV_Misc_Food_03",
 		},
-		[124682] = {
-			["name"] = "氤氲之雾",
-			["duration"] = 7,
-			["icon"] = "Interface\\Icons\\spell_monk_envelopingmist",
-			["debuffType"] = "Magic",
+		[23509] = {
+			["name"] = "霜狼嗥叫者",
+			["icon"] = "Interface\\Icons\\Ability_Mount_WhiteDireWolf",
 		},
 		[213663] = {
 			["duration"] = 6,
@@ -9074,15 +9097,13 @@ JamPlatesAccessoriesDB = {
 			["name"] = "嗜血",
 			["icon"] = "Interface\\Icons\\achievement_faction_klaxxi",
 		},
-		[224170] = {
-			["duration"] = 10,
-			["name"] = "狩猎大师的激励",
-			["icon"] = "Interface\\Icons\\spell_fire_playingwithfiregreen",
+		[171130] = {
+			["name"] = "苦修",
+			["icon"] = "Interface\\Icons\\Spell_Holy_Penance",
 		},
-		[202914] = {
-			["duration"] = 5,
-			["icon"] = "Interface\\Icons\\hunter_pvp_spidersting",
-			["debuffType"] = "Poison",
+		[198819] = {
+			["name"] = "致死打击",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_SavageBlow",
 		},
 		[215711] = {
 			["name"] = "灵魂收割",
@@ -9095,37 +9116,37 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\inv_misc_tournaments_tabard_human",
 			["name"] = "暴风城勇士",
 		},
-		[222256] = {
-			["duration"] = 3600,
-			["name"] = "玉树临风",
-			["icon"] = "Interface\\Icons\\INV_Helmet_51",
+		[156667] = {
+			["name"] = "黑铁铠甲",
+			["icon"] = "Interface\\Icons\\INV_Misc_ArmorKit_09",
 		},
-		[204962] = {
-			["icon"] = "Interface\\Icons\\warlock_curse_shadow_aura",
-			["duration"] = 8,
+		[26656] = {
+			["name"] = "黑色其拉作战坦克",
+			["icon"] = "Interface\\Icons\\INV_Misc_QirajiCrystal_05",
 		},
-		[45242] = {
-			["duration"] = 8,
-			["icon"] = "INTERFACE\\ICONS\\ability_priest_focusedwill",
-			["name"] = "专注意志",
-		},
-		[214613] = {
-			["duration"] = 20,
-			["icon"] = "Interface\\Icons\\ability_monk_leeroftheox",
-			["debuffType"] = "",
-		},
-		[214688] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_CarrionSwarm",
-			["name"] = "腐臭蜂群",
+		[209569] = {
+			["name"] = "扎卡兹的腐化之血",
+			["duration"] = 6.588,
+			["icon"] = "Interface\\Icons\\inv_artifact_corruptedbloodofzakajz",
 			["debuffType"] = "Magic",
 		},
-		[23766] = {
-			["name"] = "塞格的黑暗塔罗牌：智力",
-			["icon"] = "Interface\\Icons\\INV_Misc_Orb_02",
+		[180148] = {
+			["name"] = "生命渴望",
+			["icon"] = "Interface\\Icons\\ability_fixated_state_purple",
 		},
-		[59571] = {
-			["name"] = "暮光幼龙",
-			["icon"] = "Interface\\Icons\\Ability_Mount_Drake_Twilight",
+		[214688] = {
+			["name"] = "腐臭蜂群",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_CarrionSwarm",
+			["debuffType"] = "Magic",
+		},
+		[85739] = {
+			["duration"] = 20,
+			["name"] = "血肉顺劈",
+			["icon"] = "Interface\\Icons\\ability_whirlwind",
+		},
+		[156861] = {
+			["name"] = "狂暴",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyFrenzy",
 		},
 		[199844] = {
 			["duration"] = 60,
@@ -9136,10 +9157,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "远古列王守卫",
 			["icon"] = "Interface\\Icons\\Spell_Holy_Heroism",
 		},
-		[59542] = {
-			["duration"] = 5,
-			["icon"] = "Interface\\Icons\\Spell_Holy_HolyProtection",
-			["name"] = "纳鲁的赐福",
+		[62124] = {
+			["duration"] = 3,
+			["icon"] = "Interface\\Icons\\Spell_Holy_UnyieldingFaith",
+			["name"] = "清算之手",
 		},
 		[213665] = {
 			["name"] = "劫掠之雾",
@@ -9150,46 +9171,46 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Arcane_Blast",
 			["debuffType"] = "Magic",
 		},
-		[180148] = {
-			["name"] = "生命渴望",
-			["icon"] = "Interface\\Icons\\ability_fixated_state_purple",
+		[195253] = {
+			["duration"] = 9.6,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_DemonBreath",
+			["debuffType"] = "Magic",
 		},
 		[1715] = {
 			["duration"] = 15,
 			["name"] = "断筋",
 			["icon"] = "Interface\\Icons\\Ability_ShockWave",
 		},
-		[227998] = {
-			["name"] = "毒水腐蚀",
-			["icon"] = "Interface\\Icons\\ability_shawaterelemental_split",
-		},
-		[183465] = {
-			["duration"] = 4,
-			["name"] = "粘性胆汁",
-			["icon"] = "Interface\\Icons\\INV_Misc_Web_01",
-		},
-		[85739] = {
+		[223903] = {
+			["icon"] = "Interface\\Icons\\ability_demonhunter_metamorphasistank",
 			["duration"] = 20,
-			["name"] = "血肉顺劈",
-			["icon"] = "Interface\\Icons\\ability_whirlwind",
 		},
-		[209951] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_AntiShadow",
+		[199845] = {
 			["duration"] = 0,
+			["name"] = "灵能鞭笞",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_SiphonMana",
 		},
-		[218797] = {
-			["name"] = "月火术",
-			["duration"] = 16,
-			["icon"] = "Interface\\Icons\\Spell_Nature_StarFall",
-			["debuffType"] = "Magic",
+		[185778] = {
+			["duration"] = 1.5,
+			["icon"] = "Interface\\Icons\\ability_rogue_cannonballbarrage",
+			["name"] = "弹震症",
+		},
+		[104934] = {
+			["name"] = "进食",
+			["icon"] = "Interface\\Icons\\INV_Misc_Fork&Knife",
+		},
+		[191628] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\70_inscription_deck_promises_5",
+			["name"] = "不朽之五",
 		},
 		[222368] = {
 			["name"] = "即抛型冬幕节服装",
 			["icon"] = "Interface\\Icons\\inv_helm_cloth_holiday_christmas_a_03",
 		},
-		[147383] = {
-			["name"] = "衰竭",
-			["icon"] = "Interface\\Icons\\sha_spell_fire_felfireward",
+		[180147] = {
+			["name"] = "邪火弹药",
+			["icon"] = "Interface\\Icons\\inv_blacksmithdye_black",
 		},
 		[202917] = {
 			["name"] = "艾露恩之怒",
@@ -9199,14 +9220,16 @@ JamPlatesAccessoriesDB = {
 			["name"] = "墓石",
 			["icon"] = "Interface\\Icons\\Ability_FiegnDead",
 		},
-		[185778] = {
-			["duration"] = 1.5,
-			["icon"] = "Interface\\Icons\\ability_rogue_cannonballbarrage",
-			["name"] = "弹震症",
+		[228775] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Ability_Mage_StudentOfTheMind",
+			["name"] = "训练有素",
 		},
-		[156601] = {
-			["name"] = "血红打击",
-			["icon"] = "Interface\\Icons\\ability_ironmaidens_sanguinestrikes",
+		[183218] = {
+			["name"] = "妨害之手",
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\ability_paladin_handofhindrance",
+			["debuffType"] = "Magic",
 		},
 		[180395] = {
 			["name"] = "折磨诅咒",
@@ -9219,52 +9242,51 @@ JamPlatesAccessoriesDB = {
 			["name"] = "致死之伤",
 			["icon"] = "Interface\\Icons\\Ability_CriticalStrike",
 		},
-		[230059] = {
-			["name"] = "隼龙狂乱",
-			["icon"] = "Interface\\Icons\\inv_falcosaurosblack",
+		[60025] = {
+			["name"] = "白色幼龙",
+			["icon"] = "Interface\\Icons\\Ability_Mount_Drake_Blue",
 		},
-		[180147] = {
-			["name"] = "邪火弹药",
-			["icon"] = "Interface\\Icons\\inv_blacksmithdye_black",
+		[194657] = {
+			["icon"] = "Interface\\Icons\\ability_deathknight_asphixiate",
+			["duration"] = 4,
 		},
-		[228775] = {
-			["duration"] = 0,
-			["name"] = "训练有素",
-			["icon"] = "Interface\\Icons\\Ability_Mage_StudentOfTheMind",
+		[227502] = {
+			["name"] = "不稳定的法力",
+			["icon"] = "Interface\\Icons\\spell_mage_unstablemagic",
 		},
-		[187050] = {
-			["name"] = "军团标记",
-			["icon"] = "Interface\\Icons\\spell_warlock_demonbolt",
+		[81256] = {
+			["duration"] = 14,
+			["icon"] = "Interface\\Icons\\INV_Sword_07",
+			["name"] = "符文刃舞",
 		},
-		[183218] = {
-			["name"] = "妨害之手",
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\ability_paladin_handofhindrance",
-			["debuffType"] = "Magic",
+		[33697] = {
+			["name"] = "血性狂怒",
+			["icon"] = "Interface\\Icons\\Racial_Orc_BerserkerStrength",
 		},
 		[155314] = {
 			["name"] = "岩浆猛击",
 			["icon"] = "Interface\\Icons\\spell_burningbladeshaman_lavaslash",
 		},
-		[60025] = {
-			["name"] = "白色幼龙",
-			["icon"] = "Interface\\Icons\\Ability_Mount_Drake_Blue",
+		[208052] = {
+			["duration"] = 10,
+			["name"] = "塞弗斯的秘密",
+			["icon"] = "Interface\\Icons\\inv_jewelry_ring_149",
 		},
 		[234143] = {
 			["name"] = "诱惑",
 			["icon"] = "Interface\\Icons\\spell_priest_void blast",
 		},
-		[183025] = {
-			["icon"] = "Interface\\Icons\\Ability_Gouge",
-			["duration"] = 9,
+		[191208] = {
+			["icon"] = "Interface\\Icons\\Ability_Rogue_Disguise",
+			["duration"] = 3600,
 		},
 		[214692] = {
 			["name"] = "暗影箭雨",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowBolt",
 		},
 		[215204] = {
-			["name"] = "遏止",
 			["icon"] = "Interface\\Icons\\Spell_Nature_Slow",
+			["name"] = "遏止",
 			["debuffType"] = "Magic",
 		},
 		[16739] = {
@@ -9284,46 +9306,45 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Nature_EarthElemental_Totem",
 			["duration"] = 0,
 		},
-		[195253] = {
-			["duration"] = 9.6,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_DemonBreath",
-			["debuffType"] = "Magic",
-		},
-		[164857] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\Achievement_Zone_LochModan",
-			["name"] = "生存专家",
-		},
-		[8122] = {
-			["name"] = "心灵尖啸",
+		[219610] = {
 			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_PsychicScream",
-			["debuffType"] = "Magic",
+			["name"] = "穿冰破雪",
+			["icon"] = "Interface\\Icons\\ability_mage_frostjaw",
+		},
+		[224167] = {
+			["icon"] = "Interface\\Icons\\Ability_Warrior_StrengthOfArms",
+			["duration"] = 0,
+		},
+		[122470] = {
+			["duration"] = 10,
+			["name"] = "业报之触",
+			["icon"] = "Interface\\Icons\\ability_monk_touchofkarma",
 		},
 		[227490] = {
 			["name"] = "烙印",
 			["icon"] = "Interface\\Icons\\boss_odunrunes_purple",
 		},
-		[182957] = {
-			["duration"] = 0,
-			["name"] = "风暴峡湾的宝藏",
-			["icon"] = "Interface\\Icons\\icon_treasuremap",
+		[219812] = {
+			["name"] = "冻结",
+			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\inv_pet_snowman",
+			["debuffType"] = "Curse",
 		},
 		[130653] = {
 			["icon"] = "Interface\\Icons\\inv_misc_herb_goldenlotus",
 			["duration"] = 900,
 		},
-		[195561] = {
-			["icon"] = "Interface\\Icons\\INV_Misc_Birdbeck_01",
-			["duration"] = 4,
+		[181948] = {
+			["name"] = "强化邪焰风暴",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelRainOfFire",
 		},
 		[139448] = {
 			["name"] = "季鹍之嗣",
 			["icon"] = "Interface\\Icons\\achievement_boss_ji-kun",
 		},
 		[43196] = {
-			["icon"] = "Interface\\Icons\\Ability_Warrior_DefensiveStance",
 			["name"] = "护甲",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_DefensiveStance",
 			["debuffType"] = "Magic",
 		},
 		[189612] = {
@@ -9346,10 +9367,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "邪恶作战刃豹",
 			["icon"] = "Interface\\Icons\\ability_mount_warnightsaber",
 		},
-		[218845] = {
-			["duration"] = 20,
-			["icon"] = "Interface\\Icons\\ability_rogue_ghostpirate",
-			["name"] = "星矛警戒",
+		[202156] = {
+			["name"] = "腐蚀",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_DeviousPoisons",
+			["debuffType"] = "Poison",
 		},
 		[229539] = {
 			["name"] = "拿着酒",
@@ -9372,13 +9393,14 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_Bladestorm",
 			["name"] = "回音猛击",
 		},
-		[224167] = {
-			["icon"] = "Interface\\Icons\\Ability_Warrior_StrengthOfArms",
-			["duration"] = 0,
+		[203447] = {
+			["name"] = "充能",
+			["icon"] = "Interface\\Icons\\Spell_Nature_Lightning",
+			["debuffType"] = "Magic",
 		},
-		[197687] = {
-			["icon"] = "Interface\\Icons\\spell_hunter_focusingshot",
-			["duration"] = 0,
+		[199740] = {
+			["name"] = "贿赂",
+			["icon"] = "Interface\\Icons\\INV_Misc_Coin_17",
 		},
 		[138938] = {
 			["name"] = "魂能癫狂",
@@ -9389,35 +9411,31 @@ JamPlatesAccessoriesDB = {
 			["name"] = "公会战旗",
 			["icon"] = "Interface\\Icons\\inv_misc_tournaments_banner_human",
 		},
-		[218803] = {
-			["duration"] = 6,
-			["name"] = "熊皮之怒",
-			["icon"] = "Interface\\Icons\\Ability_Druid_Maul",
+		[202866] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_NightOfTheDead",
+			["duration"] = 15,
 		},
 		[181424] = {
 			["duration"] = 6,
 			["icon"] = "Interface\\Icons\\Spell_Nature_Drowsy",
 			["debuffType"] = "Curse",
 		},
-		[202156] = {
-			["icon"] = "Interface\\Icons\\Ability_Rogue_DeviousPoisons",
-			["name"] = "腐蚀",
-			["debuffType"] = "Poison",
+		[159939] = {
+			["name"] = "酸喉",
+			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_01",
 		},
-		[166592] = {
-			["duration"] = 300,
-			["name"] = "守备官盔甲打磨包",
-			["icon"] = "Interface\\Icons\\inv_misc_legarmorkit",
+		[228261] = {
+			["name"] = "烈焰花环",
+			["icon"] = "INTERFACE\\ICONS\\spell_shaman_improvedfirenova",
 		},
 		[1943] = {
 			["duration"] = 25.266,
 			["name"] = "割裂",
 			["icon"] = "Interface\\Icons\\Ability_Rogue_Rupture",
 		},
-		[211442] = {
-			["icon"] = "Interface\\Icons\\Spell_Holy_DivineProvidence",
-			["name"] = "奥尔麦什，希望之索",
-			["debuffType"] = "Magic",
+		[48018] = {
+			["name"] = "恶魔法阵",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_DemonicCircleSummon",
 		},
 		[122] = {
 			["name"] = "冰霜新星",
@@ -9429,25 +9447,21 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Crab",
 			["duration"] = 12,
 		},
-		[198374] = {
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\Ability_ShockWave",
-			["name"] = "断筋",
+		[24723] = {
+			["name"] = "骷髅装束",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_Disguise",
 		},
-		[117526] = {
-			["name"] = "束缚射击",
-			["duration"] = 5,
-			["icon"] = "INTERFACE\\ICONS\\spell_shaman_bindelemental",
-			["debuffType"] = "Magic",
+		[225749] = {
+			["name"] = "角鹰兽星座",
+			["icon"] = "Interface\\Icons\\inv_pet_celestialbabyhippo",
 		},
-		[228261] = {
-			["name"] = "烈焰花环",
-			["icon"] = "INTERFACE\\ICONS\\spell_shaman_improvedfirenova",
+		[223446] = {
+			["name"] = "自制宴会面具",
+			["icon"] = "Interface\\Icons\\inv_helm_mask_fittedalpha_b_01_nightborne_01",
 		},
-		[202425] = {
-			["icon"] = "Interface\\Icons\\Spell_Holy_ElunesGrace",
-			["name"] = "艾露恩的战士",
-			["debuffType"] = "Magic",
+		[40477] = {
+			["name"] = "重击",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_WeaponMastery",
 		},
 		[223911] = {
 			["duration"] = 5,
@@ -9459,16 +9473,13 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\priest_spell_leapoffaith_a",
 			["name"] = "信仰飞跃",
 		},
-		[211127] = {
+		[211128] = {
+			["icon"] = "Interface\\Icons\\Achievement_BG_kill_flag_carrierEOS",
 			["duration"] = 0,
-			["name"] = "风暴之眼",
-			["icon"] = "Interface\\Icons\\sha_ability_rogue_bloodyeye",
 		},
-		[196782] = {
-			["name"] = "爆发",
-			["duration"] = 6,
-			["icon"] = "INTERFACE\\ICONS\\spell_deathvortex",
-			["debuffType"] = "Disease",
+		[221352] = {
+			["name"] = "肋切",
+			["icon"] = "INTERFACE\\ICONS\\ability_rogue_sealfate",
 		},
 		[205484] = {
 			["duration"] = 0,
@@ -9485,49 +9496,50 @@ JamPlatesAccessoriesDB = {
 			["name"] = "超凡之盟",
 			["icon"] = "Interface\\Icons\\Spell_Nature_NatureGuardian",
 		},
-		[59961] = {
-			["name"] = "红色始祖幼龙",
-			["icon"] = "Interface\\Icons\\Ability_Mount_Drake_Proto",
+		[215210] = {
+			["name"] = "安努德的临终之息",
+			["icon"] = "Interface\\Icons\\ability_ironmaidens_convulsiveshadows",
+			["debuffType"] = "Magic",
 		},
 		[228007] = {
 			["name"] = "舞动之刃",
 			["icon"] = "Interface\\Icons\\inv_sword_98",
 		},
-		[194279] = {
-			["duration"] = 6.188,
-			["name"] = "铁蒺藜",
-			["icon"] = "Interface\\Icons\\ability_ironmaidens_incindiarydevice",
+		[9459] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_AnimateDead",
+			["name"] = "腐蚀泥浆",
+			["debuffType"] = "Magic",
 		},
 		[188081] = {
 			["name"] = "重碾",
 			["icon"] = "Interface\\Icons\\creatureportrait_fomorhand",
 		},
-		[147643] = {
-			["name"] = "被诅咒的水手头盔",
-			["icon"] = "Interface\\Icons\\INV_Helmet_49",
+		[12051] = {
+			["name"] = "唤醒",
+			["icon"] = "Interface\\Icons\\Spell_Nature_Purge",
 		},
-		[33697] = {
-			["name"] = "血性狂怒",
-			["icon"] = "Interface\\Icons\\Racial_Orc_BerserkerStrength",
+		[224165] = {
+			["icon"] = "Interface\\Icons\\Ability_Warrior_StrengthOfArms",
+			["duration"] = 10,
 		},
 		[201902] = {
 			["duration"] = 14,
 			["icon"] = "Interface\\Icons\\Spell_Fire_SearingTotem",
 			["debuffType"] = "Magic",
 		},
-		[202414] = {
-			["duration"] = 12,
-			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_02",
-			["debuffType"] = "Poison",
+		[8122] = {
+			["name"] = "心灵尖啸",
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_PsychicScream",
+			["debuffType"] = "Magic",
 		},
-		[208612] = {
-			["name"] = "涅墨西斯",
-			["icon"] = "INTERFACE\\ICONS\\achievement_dungeon_ulduarraid_icegiant_01",
+		[174708] = {
+			["name"] = "泰罗克的化身",
+			["icon"] = "Interface\\Icons\\inv_tabard_a_76arakkoaoutcast",
 		},
-		[42650] = {
-			["duration"] = 4,
-			["icon"] = "Interface\\Icons\\Spell_DeathKnight_ArmyOfTheDead",
-			["name"] = "亡者大军",
+		[186286] = {
+			["name"] = "冲动",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowWordDominate",
 		},
 		[73326] = {
 			["duration"] = 300,
@@ -9543,10 +9555,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "巨化术",
 			["icon"] = "Interface\\Icons\\INV_Potion_10",
 		},
-		[201405] = {
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\inv_misc_trinket6oih_horn1",
-			["name"] = "恶魔克星",
+		[221365] = {
+			["icon"] = "Interface\\Icons\\spell_druid_bearhug",
+			["duration"] = 0,
 		},
 		[53563] = {
 			["duration"] = 0,
@@ -9568,9 +9579,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "破胆咆哮",
 			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Devilsaur",
 		},
-		[224165] = {
-			["icon"] = "Interface\\Icons\\Ability_Warrior_StrengthOfArms",
-			["duration"] = 10,
+		[190074] = {
+			["icon"] = "Interface\\Icons\\Ability_Creature_Cursed_04",
+			["duration"] = 0,
 		},
 		[204463] = {
 			["duration"] = 8,
@@ -9587,21 +9598,21 @@ JamPlatesAccessoriesDB = {
 			["name"] = "咔啡提神",
 			["icon"] = "Interface\\Icons\\INV_Drink_15",
 		},
-		[217066] = {
-			["name"] = "哀伤噬咬",
-			["icon"] = "Interface\\Icons\\spell_beastmaster_wolf",
+		[214046] = {
+			["icon"] = "Interface\\Icons\\inv_enchant_essencearcanelarge",
+			["duration"] = 25,
 		},
-		[186286] = {
-			["name"] = "冲动",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowWordDominate",
+		[147383] = {
+			["name"] = "衰竭",
+			["icon"] = "Interface\\Icons\\sha_spell_fire_felfireward",
 		},
-		[214625] = {
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameBreath",
-			["duration"] = 3.496,
+		[155061] = {
+			["name"] = "狂乱撕扯",
+			["icon"] = "Interface\\Icons\\Ability_GhoulFrenzy",
 		},
-		[236200] = {
-			["name"] = "唤醒者的忠诚",
-			["icon"] = "Interface\\Icons\\inv_offhand_1h_artifactskulloferedar_d_01",
+		[199345] = {
+			["icon"] = "Interface\\Icons\\ability_skyreach_wind",
+			["duration"] = 8,
 		},
 		[212142] = {
 			["name"] = "神鹤引项踢",
@@ -9611,27 +9622,29 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\sha_spell_warlock_demonsoul_nightmare",
 			["duration"] = 60,
 		},
-		[197030] = {
-			["name"] = "圣洁",
-			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\ability_priest_ascendance",
+		[195810] = {
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_petmoonkinne",
+			["duration"] = 120,
+		},
+		[234153] = {
+			["duration"] = 4.938,
+			["name"] = "吸取生命",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_LifeDrain02",
+		},
+		[120032] = {
+			["name"] = "钢铁之舞",
+			["icon"] = "INTERFACE\\ICONS\\trade_archaeology_zinrokh sword",
+		},
+		[218797] = {
+			["name"] = "月火术",
+			["duration"] = 16,
+			["icon"] = "Interface\\Icons\\Spell_Nature_StarFall",
 			["debuffType"] = "Magic",
 		},
-		[189108] = {
-			["icon"] = "Interface\\Icons\\Spell_Frost_Frostbolt",
-			["duration"] = 3,
-		},
-		[65645] = {
-			["name"] = "白色骷髅战马",
-			["icon"] = "Interface\\Icons\\Ability_Mount_Undeadhorse",
-		},
-		[210607] = {
-			["name"] = "约纳特的聚焦",
-			["icon"] = "Interface\\Icons\\Spell_Nature_HealingWaveGreater",
-		},
-		[221093] = {
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
-			["duration"] = 0,
+		[206760] = {
+			["duration"] = 8,
+			["name"] = "暗夜恐怖",
+			["icon"] = "Interface\\Icons\\Spell_Holy_PrayerofShadowProtection",
 		},
 		[139] = {
 			["name"] = "恢复",
@@ -9639,25 +9652,27 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Holy_Renew",
 			["debuffType"] = "Magic",
 		},
-		[155061] = {
-			["name"] = "狂乱撕扯",
-			["icon"] = "Interface\\Icons\\Ability_GhoulFrenzy",
+		[2094] = {
+			["name"] = "致盲",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_MindSteal",
 		},
-		[216282] = {
-			["name"] = "血性狂乱",
-			["icon"] = "Interface\\Icons\\sha_ability_rogue_bloodyeye_nightmare",
+		[14914] = {
+			["name"] = "神圣之火",
+			["duration"] = 7,
+			["icon"] = "Interface\\Icons\\Spell_Holy_SearingLight",
+			["debuffType"] = "Magic",
 		},
 		[196787] = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_Metamorphosis",
 			["duration"] = 0,
 		},
-		[185014] = {
-			["name"] = "聚焦混乱",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_SoulLeech_1",
+		[230059] = {
+			["name"] = "隼龙狂乱",
+			["icon"] = "Interface\\Icons\\inv_falcosaurosblack",
 		},
-		[156861] = {
-			["name"] = "狂暴",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyFrenzy",
+		[26274] = {
+			["name"] = "PX-238冬幕欢乐制造器",
+			["icon"] = "Interface\\Icons\\Spell_Frost_FrostShock",
 		},
 		[181943] = {
 			["duration"] = 3600,
@@ -9678,14 +9693,13 @@ JamPlatesAccessoriesDB = {
 			["name"] = "闪光术",
 			["icon"] = "Interface\\Icons\\spell_mage_supernova",
 		},
-		[120032] = {
-			["name"] = "钢铁之舞",
-			["icon"] = "INTERFACE\\ICONS\\trade_archaeology_zinrokh sword",
+		[156084] = {
+			["name"] = "德拉诺强效耐力合剂",
+			["icon"] = "Interface\\Icons\\inv_trade_alchemy_dpotion_c1a",
 		},
-		[206760] = {
-			["duration"] = 8,
-			["name"] = "暗夜恐怖",
-			["icon"] = "Interface\\Icons\\Spell_Holy_PrayerofShadowProtection",
+		[209008] = {
+			["name"] = "邪火风暴",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelRainOfFire",
 		},
 		[213680] = {
 			["duration"] = 15,
@@ -9701,28 +9715,26 @@ JamPlatesAccessoriesDB = {
 			["name"] = "神圣庇护所",
 			["icon"] = "Interface\\Icons\\Spell_Arcane_ArcaneResilience",
 		},
-		[184460] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_RainOfFire",
-			["duration"] = 0,
+		[220580] = {
+			["icon"] = "Interface\\Icons\\ability_warrior_dragonroar",
+			["duration"] = 4,
 		},
 		[203443] = {
 			["duration"] = 1800,
 			["name"] = "猛犸象奶",
 			["icon"] = "Interface\\Icons\\inv_drink_milk_04",
 		},
-		[14914] = {
-			["name"] = "神圣之火",
-			["duration"] = 7,
-			["icon"] = "Interface\\Icons\\Spell_Holy_SearingLight",
-			["debuffType"] = "Magic",
+		[101860] = {
+			["name"] = "心脏收缩",
+			["icon"] = "Interface\\Icons\\INV_Misc_Organ_01",
 		},
 		[9460] = {
 			["name"] = "腐蚀泥浆",
 			["icon"] = "Interface\\Icons\\Spell_Nature_NatureTouchDecay",
 		},
-		[156084] = {
-			["name"] = "德拉诺强效耐力合剂",
-			["icon"] = "Interface\\Icons\\inv_trade_alchemy_dpotion_c1a",
+		[179908] = {
+			["name"] = "命运相连",
+			["icon"] = "Interface\\Icons\\ability_warlock_soullink",
 		},
 		[230061] = {
 			["name"] = "进食充分",
@@ -9732,33 +9744,36 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Misc_DiscoBall_01",
 			["duration"] = 0,
 		},
-		[225749] = {
-			["name"] = "角鹰兽星座",
-			["icon"] = "Interface\\Icons\\inv_pet_celestialbabyhippo",
+		[172780] = {
+			["icon"] = "Interface\\Icons\\achievement_brewery_2",
+			["duration"] = 4,
 		},
-		[227502] = {
-			["name"] = "不稳定的法力",
-			["icon"] = "Interface\\Icons\\spell_mage_unstablemagic",
+		[19236] = {
+			["name"] = "绝望祷言",
+			["icon"] = "Interface\\Icons\\Spell_Holy_TestOfFaith",
 		},
 		[211634] = {
 			["name"] = "永恒黑暗",
 			["icon"] = "Interface\\Icons\\sha_ability_rogue_envelopingshadows_nightmare",
 		},
-		[220580] = {
-			["icon"] = "Interface\\Icons\\ability_warrior_dragonroar",
-			["duration"] = 4,
+		[195293] = {
+			["name"] = "衰弱怒吼",
+			["duration"] = 18,
+			["icon"] = "Interface\\Icons\\warrior_disruptingshout",
+			["debuffType"] = "Magic",
 		},
-		[101860] = {
-			["name"] = "心脏收缩",
-			["icon"] = "Interface\\Icons\\INV_Misc_Organ_01",
+		[177070] = {
+			["name"] = "引爆",
+			["icon"] = "Interface\\Icons\\spell_sandexplosion",
 		},
-		[213056] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Shadesofdarkness",
-			["duration"] = 30,
+		[201380] = {
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\spell_deathknight_breathofsindragosa",
+			["debuffType"] = "Magic",
 		},
 		[43199] = {
-			["icon"] = "Interface\\Icons\\Spell_Nature_Strength",
 			["name"] = "力量",
+			["icon"] = "Interface\\Icons\\Spell_Nature_Strength",
 			["debuffType"] = "Magic",
 		},
 		[210099] = {
@@ -9776,15 +9791,14 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_deathknight_remorselesswinters",
 			["debuffType"] = "Magic",
 		},
-		[188027] = {
-			["duration"] = 30,
-			["name"] = "致命优雅药水",
-			["icon"] = "Interface\\Icons\\inv_alchemy_70_flask02",
+		[32615] = {
+			["icon"] = "Interface\\Icons\\Ability_Stealth",
+			["duration"] = 0,
 		},
-		[208052] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\inv_jewelry_ring_149",
-			["name"] = "塞弗斯的秘密",
+		[195767] = {
+			["duration"] = 4,
+			["icon"] = "Interface\\Icons\\Ability_Warlock_ShadowFlame",
+			["name"] = "黑暗之槌",
 		},
 		[188089] = {
 			["name"] = "大地之刺",
@@ -9812,14 +9826,13 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\warrior_talent_icon_stormbolt",
 			["debuffType"] = "Magic",
 		},
-		[22721] = {
-			["duration"] = 0,
-			["name"] = "黑色作战迅猛龙",
-			["icon"] = "Interface\\Icons\\Ability_Mount_Raptor",
+		[58615] = {
+			["name"] = "野蛮角斗士的虚空幼龙",
+			["icon"] = "Interface\\Icons\\Ability_Mount_NetherDrakeElite",
 		},
-		[177070] = {
-			["name"] = "引爆",
-			["icon"] = "Interface\\Icons\\spell_sandexplosion",
+		[216291] = {
+			["icon"] = "Interface\\Icons\\ability_deathknight_icygrip",
+			["duration"] = 9,
 		},
 		[93805] = {
 			["duration"] = 0,
@@ -9838,22 +9851,24 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Fire_LavaSpawn",
 			["duration"] = 0,
 		},
-		[174793] = {
-			["icon"] = "INTERFACE\\ICONS\\creatureportrait_bubble",
-			["duration"] = 6,
+		[222418] = {
+			["duration"] = 8,
+			["name"] = "心脏打击",
+			["icon"] = "Interface\\Icons\\INV_Weapon_Shortblade_40",
 		},
-		[181948] = {
-			["name"] = "强化邪焰风暴",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelRainOfFire",
+		[218803] = {
+			["duration"] = 6,
+			["name"] = "熊皮之怒",
+			["icon"] = "Interface\\Icons\\Ability_Druid_Maul",
 		},
 		[211125] = {
 			["name"] = "平行空间",
 			["icon"] = "Interface\\Icons\\Spell_Arcane_PrismaticCloak",
 		},
-		[203447] = {
-			["icon"] = "Interface\\Icons\\Spell_Nature_Lightning",
-			["name"] = "充能",
-			["debuffType"] = "Magic",
+		[5211] = {
+			["duration"] = 2.5,
+			["icon"] = "Interface\\Icons\\Ability_Druid_Bash",
+			["name"] = "蛮力猛击",
 		},
 		[142534] = {
 			["name"] = "毒素：黄色",
@@ -9864,20 +9879,20 @@ JamPlatesAccessoriesDB = {
 			["name"] = "守备官",
 			["icon"] = "Interface\\Icons\\Spell_Holy_AvengineWrath",
 		},
-		[225778] = {
-			["name"] = "反冲",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
-		},
-		[205495] = {
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\inv_hand_1h_artifactstormfist_d_01",
-			["name"] = "风暴守护者",
-		},
-		[16870] = {
-			["name"] = "节能施法",
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_ManaBurn",
+		[235235] = {
+			["icon"] = "Interface\\Icons\\Spell_Frost_FrostNova",
+			["name"] = "冰霜新星",
 			["debuffType"] = "Magic",
+		},
+		[164545] = {
+			["name"] = "日光增效",
+			["duration"] = 40,
+			["icon"] = "Interface\\Icons\\spell_nature_wrathv2",
+			["debuffType"] = "Magic",
+		},
+		[90854] = {
+			["name"] = "幻象",
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_monstertail_04",
 		},
 		[181949] = {
 			["name"] = "守护凝视",
@@ -9888,8 +9903,8 @@ JamPlatesAccessoriesDB = {
 			["duration"] = 9,
 		},
 		[162498] = {
-			["name"] = "炽燃余烬",
 			["icon"] = "INTERFACE\\ICONS\\ability_warlock_burningembers",
+			["name"] = "炽燃余烬",
 			["debuffType"] = "Magic",
 		},
 		[93806] = {
@@ -9905,13 +9920,14 @@ JamPlatesAccessoriesDB = {
 			["name"] = "剧毒外皮",
 			["icon"] = "INTERFACE\\ICONS\\ability_rogue_venomouswounds",
 		},
-		[179908] = {
-			["name"] = "命运相连",
-			["icon"] = "Interface\\Icons\\ability_warlock_soullink",
+		[224449] = {
+			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\Spell_Nature_Web",
+			["debuffType"] = "Magic",
 		},
-		[127308] = {
-			["name"] = "巨型棕色龙龟",
-			["icon"] = "Interface\\Icons\\ability_mount_pandaranmountepicbrown",
+		[144817] = {
+			["name"] = "亵渎",
+			["icon"] = "Interface\\Icons\\inv_axe_2h_orgrimmarraid_d_01",
 		},
 		[210615] = {
 			["icon"] = "Interface\\Icons\\INV_Enchant_DustArcane",
@@ -9921,38 +9937,42 @@ JamPlatesAccessoriesDB = {
 			["name"] = "巫妖王的印记",
 			["icon"] = "Interface\\Icons\\spell_deathknight_necroticplague",
 		},
-		[187620] = {
-			["name"] = "玛鲁斯",
-			["icon"] = "Interface\\Icons\\inv_jewelry_ring_89",
+		[118751] = {
+			["name"] = "黯淡林木纹章",
+			["icon"] = "Interface\\Icons\\inv_misc_trinketpanda_08",
 		},
-		[90854] = {
-			["name"] = "幻象",
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_monstertail_04",
+		[48181] = {
+			["name"] = "鬼影缠身",
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\Ability_Warlock_Haunt",
+			["debuffType"] = "Magic",
 		},
 		[216758] = {
 			["name"] = "无尽饥渴",
 			["icon"] = "Interface\\Icons\\rogue_leeching_poison",
 		},
-		[147655] = {
-			["name"] = "巨口蛙毒",
-			["icon"] = "Interface\\Icons\\rogue_leeching_poison",
+		[116841] = {
+			["duration"] = 6,
+			["name"] = "迅如猛虎",
+			["icon"] = "Interface\\Icons\\ability_monk_tigerslust",
 		},
 		[180927] = {
 			["name"] = "黑石助推器",
 			["icon"] = "Interface\\Icons\\INV_Gizmo_RocketBootExtreme",
 		},
-		[104509] = {
-			["name"] = "风歌",
-			["icon"] = "Interface\\Icons\\Spell_Frost_ArcticWinds",
+		[236446] = {
+			["name"] = "屠夫的白骨围裙",
+			["icon"] = "Interface\\Icons\\ability_hunter_carve",
 		},
 		[186046] = {
-			["name"] = "炽阳飞轮",
 			["icon"] = "Interface\\Icons\\ability_arakkoa_spinning_blade",
+			["name"] = "炽阳飞轮",
 			["debuffType"] = "Magic",
 		},
-		[211128] = {
-			["icon"] = "Interface\\Icons\\Achievement_BG_kill_flag_carrierEOS",
-			["duration"] = 0,
+		[207033] = {
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\Ability_Druid_FerociousBite",
+			["name"] = "狂野怒火",
 		},
 		[126311] = {
 			["duration"] = 0,
@@ -9964,10 +9984,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Druid_TreeofLife",
 			["name"] = "树人形态",
 		},
-		[183499] = {
-			["duration"] = 2,
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelPyroblast",
-			["debuffType"] = "Magic",
+		[186339] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\ability_monk_renewingmists",
+			["name"] = "窒息之雾",
 		},
 		[196796] = {
 			["icon"] = "Interface\\Icons\\spell_mage_infernoblast",
@@ -9978,13 +9998,14 @@ JamPlatesAccessoriesDB = {
 			["name"] = "精魂碎片",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_MindTwisting",
 		},
-		[118751] = {
-			["name"] = "黯淡林木纹章",
-			["icon"] = "Interface\\Icons\\inv_misc_trinketpanda_08",
+		[226322] = {
+			["name"] = "稳固的灵魂烈焰",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FlameBolt",
 		},
-		[196296] = {
-			["icon"] = "Interface\\Icons\\ability_thunderking_balllightning",
-			["duration"] = 3,
+		[183020] = {
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameRing",
+			["debuffType"] = "Magic",
 		},
 		[186559] = {
 			["name"] = "火焰之池",
@@ -10016,57 +10037,63 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Fire_Felcano",
 			["duration"] = 0,
 		},
-		[236446] = {
-			["name"] = "屠夫的白骨围裙",
-			["icon"] = "Interface\\Icons\\ability_hunter_carve",
+		[156401] = {
+			["name"] = "熔火炉渣",
+			["icon"] = "Interface\\Icons\\INV_SummerFest_FireSpirit",
 		},
-		[142073] = {
+		[97341] = {
 			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\inv_pegasusmount",
-			["name"] = "炉石天马",
+			["name"] = "公会勇士",
+			["icon"] = "Interface\\Icons\\inv_epicguildtabard",
 		},
-		[155240] = {
-			["name"] = "淬火",
-			["icon"] = "Interface\\Icons\\inv_ingot_titansteel_red",
+		[44827] = {
+			["name"] = "飞行驯鹿",
+			["icon"] = "Interface\\Icons\\INV_Misc_Branch_01",
 		},
-		[186339] = {
+		[222928] = {
 			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\ability_monk_renewingmists",
-			["name"] = "窒息之雾",
+			["icon"] = "Interface\\Icons\\ability_demonhunter_infernalstrike2",
+			["name"] = "死亡之舞",
 		},
-		[79640] = {
-			["name"] = "增强智力",
-			["icon"] = "INTERFACE\\ICONS\\inv_potione_5",
+		[203685] = {
+			["name"] = "石化血肉",
+			["duration"] = 20.065,
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_stonetablet_02",
+			["debuffType"] = "Magic",
 		},
 		[213178] = {
 			["duration"] = 3600,
 			["icon"] = "Interface\\Icons\\Ability_Druid_EmpoweredTouch",
 			["name"] = "玛洛恩的祝福",
 		},
-		[193215] = {
-			["name"] = "克瓦迪尔笼子",
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_steelweaponchain",
+		[201405] = {
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\inv_misc_trinket6oih_horn1",
+			["name"] = "恶魔克星",
 		},
 		[214202] = {
 			["duration"] = 10,
 			["icon"] = "Interface\\Icons\\ability_paladin_longarmofthelaw",
 			["name"] = "律法之则",
 		},
-		[159939] = {
-			["name"] = "酸喉",
-			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_01",
+		[212943] = {
+			["name"] = "引雷针",
+			["icon"] = "INTERFACE\\ICONS\\inv_rod_enchantedcobalt",
 		},
 		[70774] = {
 			["name"] = "情人卡",
 			["icon"] = "Interface\\Icons\\INV_ValentinesCard02",
 		},
-		[222417] = {
-			["icon"] = "Interface\\Icons\\INV_Stone_10",
-			["duration"] = 3.2,
+		[183499] = {
+			["duration"] = 2,
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelPyroblast",
+			["debuffType"] = "Magic",
 		},
-		[40477] = {
-			["name"] = "重击",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_WeaponMastery",
+		[31935] = {
+			["name"] = "复仇者之盾",
+			["duration"] = 3,
+			["icon"] = "Interface\\Icons\\Spell_Holy_AvengersShield",
+			["debuffType"] = "Magic",
 		},
 		[155337] = {
 			["name"] = "食人魔之韧",
@@ -10081,11 +10108,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "魔网灌注",
 			["icon"] = "Interface\\Icons\\Spell_Arcane_Arcane02",
 		},
-		[203685] = {
-			["name"] = "石化血肉",
-			["duration"] = 20.065,
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_stonetablet_02",
-			["debuffType"] = "Magic",
+		[177067] = {
+			["name"] = "引爆",
+			["icon"] = "Interface\\Icons\\spell_sandexplosion",
 		},
 		[190145] = {
 			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
@@ -10096,9 +10121,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "星辰能量",
 			["icon"] = "Interface\\Icons\\artifactability_balancedruid_moonandstars",
 		},
-		[37548] = {
-			["name"] = "嘲讽",
-			["icon"] = "Interface\\Icons\\Spell_Nature_Reincarnation",
+		[156080] = {
+			["duration"] = 3600.078,
+			["name"] = "德拉诺强效力量合剂",
+			["icon"] = "Interface\\Icons\\trade_alchemy_dpotion_c13",
 		},
 		[216251] = {
 			["name"] = "波动",
@@ -10110,39 +10136,35 @@ JamPlatesAccessoriesDB = {
 			["name"] = "嚎镇八方",
 			["icon"] = "Interface\\Icons\\ability_monk_provoke",
 		},
-		[204321] = {
-			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Raptor",
-			["duration"] = 7,
+		[211543] = {
+			["name"] = "吞噬",
+			["icon"] = "Interface\\Icons\\INV_Misc_MonsterSpiderCarapace_01",
 		},
-		[31935] = {
-			["name"] = "复仇者之盾",
-			["duration"] = 3,
-			["icon"] = "Interface\\Icons\\Spell_Holy_AvengersShield",
-			["debuffType"] = "Magic",
+		[129023] = {
+			["name"] = "外科易形",
+			["icon"] = "Interface\\Icons\\INV_Misc_SurgeonGlove_01",
 		},
 		[185539] = {
 			["icon"] = "Interface\\Icons\\Ability_Druid_Ravage",
 			["duration"] = 6,
 		},
-		[177067] = {
-			["name"] = "引爆",
-			["icon"] = "Interface\\Icons\\spell_sandexplosion",
+		[235712] = {
+			["name"] = "回转稳定",
+			["icon"] = "interface\\ICONS\\INV_Glove_Mail_RaidShamanMythic_O_01",
 		},
-		[156080] = {
-			["duration"] = 3600.078,
-			["name"] = "德拉诺强效力量合剂",
-			["icon"] = "Interface\\Icons\\trade_alchemy_dpotion_c13",
+		[211362] = {
+			["name"] = "猫鼬之力",
+			["icon"] = "Interface\\Icons\\Ability_Hunter_SwiftStrike",
 		},
-		[219336] = {
-			["duration"] = 30,
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameBolt",
-			["debuffType"] = "Magic",
+		[223135] = {
+			["duration"] = 300,
+			["name"] = "托里姆的巨人之力",
+			["icon"] = "Interface\\Icons\\Achievement_Boss_Thorim",
 		},
-		[195293] = {
-			["name"] = "衰弱怒吼",
-			["duration"] = 18,
-			["icon"] = "Interface\\Icons\\warrior_disruptingshout",
-			["debuffType"] = "Magic",
+		[48045] = {
+			["duration"] = 3.23,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_MindShear",
+			["name"] = "精神灼烧",
 		},
 		[155339] = {
 			["name"] = "飞沙走石",
@@ -10158,18 +10180,19 @@ JamPlatesAccessoriesDB = {
 			["name"] = "净化火焰",
 			["icon"] = "Interface\\Icons\\inv_misc_trinket6oog_tablet3",
 		},
-		[23251] = {
-			["name"] = "迅捷森林狼",
-			["icon"] = "Interface\\Icons\\Ability_Mount_WhiteDireWolf",
+		[197541] = {
+			["duration"] = 10,
+			["name"] = "自爆",
+			["icon"] = "Interface\\Icons\\spell_fel_elementaldevastation",
 		},
-		[211362] = {
-			["name"] = "猫鼬之力",
-			["icon"] = "Interface\\Icons\\Ability_Hunter_SwiftStrike",
+		[42650] = {
+			["duration"] = 4,
+			["icon"] = "Interface\\Icons\\Spell_DeathKnight_ArmyOfTheDead",
+			["name"] = "亡者大军",
 		},
-		[223135] = {
-			["duration"] = 300,
-			["name"] = "托里姆的巨人之力",
-			["icon"] = "Interface\\Icons\\Achievement_Boss_Thorim",
+		[160839] = {
+			["name"] = "进食充分",
+			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
 		},
 		[219836] = {
 			["name"] = "魔网灌注",
@@ -10185,62 +10208,65 @@ JamPlatesAccessoriesDB = {
 			["name"] = "疼痛之刺",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_PainSpike",
 		},
-		[120178] = {
-			["name"] = "游学者符记",
-			["icon"] = "Interface\\Icons\\inv_misc_trinketpanda_04",
+		[230346] = {
+			["name"] = "空中冲刺",
+			["icon"] = "Interface\\Icons\\ability_demonhunter_felrush",
 		},
-		[197541] = {
-			["duration"] = 10,
-			["name"] = "自爆",
-			["icon"] = "Interface\\Icons\\spell_fel_elementaldevastation",
+		[234184] = {
+			["name"] = "暮光信徒兜帽",
+			["icon"] = "Interface\\ICONS\\INV_Helmet_27",
 		},
 		[214206] = {
 			["name"] = "救赎",
 			["icon"] = "INTERFACE\\ICONS\\ability_priest_atonement",
 		},
-		[194243] = {
-			["duration"] = 4,
-			["icon"] = "INTERFACE\\ICONS\\spell_fire_twilightpyroblast",
-			["name"] = "腐烂光环",
+		[218813] = {
+			["icon"] = "Interface\\Icons\\inv_leystone",
+			["duration"] = 300,
 		},
-		[129023] = {
-			["name"] = "外科易形",
-			["icon"] = "Interface\\Icons\\INV_Misc_SurgeonGlove_01",
+		[227524] = {
+			["name"] = "能量虚空",
+			["icon"] = "Interface\\Icons\\spell_priest_void blast",
 		},
 		[215742] = {
-			["icon"] = "Interface\\Icons\\Achievement_Halloween_Ghost_01",
 			["name"] = "痛苦嚎叫",
+			["icon"] = "Interface\\Icons\\Achievement_Halloween_Ghost_01",
 			["debuffType"] = "Magic",
 		},
-		[52419] = {
-			["name"] = "偏斜",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_Challange",
+		[219279] = {
+			["icon"] = "Interface\\Icons\\ability_rogue_plunderarmor",
+			["duration"] = 0,
 		},
-		[6940] = {
-			["duration"] = 12,
-			["icon"] = "Interface\\Icons\\Spell_Holy_SealOfSacrifice",
-			["name"] = "牺牲祝福",
+		[22721] = {
+			["duration"] = 0,
+			["name"] = "黑色作战迅猛龙",
+			["icon"] = "Interface\\Icons\\Ability_Mount_Raptor",
 		},
-		[171764] = {
-			["name"] = "火球术",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FlameBolt",
+		[195802] = {
+			["icon"] = "Interface\\Icons\\INV_Feather_08",
+			["duration"] = 120,
 		},
 		[201410] = {
 			["duration"] = 15,
 			["icon"] = "Interface\\Icons\\inv_icon_shadowcouncilorb_purple",
 			["name"] = "暗影视界",
 		},
-		[230088] = {
-			["name"] = "无形",
-			["icon"] = "Interface\\Icons\\Spell_Holy_ConsumeMagic",
+		[188838] = {
+			["name"] = "烈焰震击",
+			["duration"] = 21,
+			["icon"] = "Interface\\Icons\\Spell_Fire_FlameShock",
+			["debuffType"] = "Magic",
 		},
-		[225726] = {
-			["name"] = "野性强化",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FlameBlades",
+		[58180] = {
+			["name"] = "感染伤口",
+			["duration"] = 12,
+			["icon"] = "Interface\\Icons\\Ability_Druid_InfectedWound",
+			["debuffType"] = "Disease",
 		},
-		[144817] = {
-			["name"] = "亵渎",
-			["icon"] = "Interface\\Icons\\inv_axe_2h_orgrimmarraid_d_01",
+		[222706] = {
+			["duration"] = 20,
+			["icon"] = "Interface\\Icons\\sha_ability_rogue_envelopingshadows_nightmare",
+			["name"] = "毒化梦境",
 		},
 		[162508] = {
 			["name"] = "盾牌猛击",
@@ -10251,72 +10277,70 @@ JamPlatesAccessoriesDB = {
 			["name"] = "埃索达勇士",
 			["icon"] = "INTERFACE\\ICONS\\inv_misc_tournaments_tabard_draenei",
 		},
-		[163532] = {
-			["name"] = "熔渣池",
-			["icon"] = "Interface\\Icons\\inv_misc_ring_firelands_3",
+		[81782] = {
+			["name"] = "真言术：障",
+			["icon"] = "Interface\\Icons\\spell_holy_powerwordbarrier",
 		},
-		[44185] = {
-			["icon"] = "Interface\\Icons\\INV_Misc_Bag_28_Halloween",
-			["duration"] = 900,
+		[200238] = {
+			["icon"] = "Interface\\Icons\\sha_ability_rogue_envelopingshadows_nightmare",
+			["duration"] = 5,
 		},
 		[221886] = {
 			["duration"] = 3,
-			["icon"] = "Interface\\Icons\\ability_paladin_divinesteed",
 			["name"] = "神圣马驹",
+			["icon"] = "Interface\\Icons\\ability_paladin_divinesteed",
 		},
 		[210113] = {
 			["name"] = "集中",
 			["icon"] = "Interface\\Icons\\spell_nature_doublepolymorph2",
 		},
-		[188838] = {
-			["name"] = "烈焰震击",
-			["duration"] = 21,
-			["icon"] = "Interface\\Icons\\Spell_Fire_FlameShock",
-			["debuffType"] = "Magic",
+		[355] = {
+			["duration"] = 3,
+			["icon"] = "Interface\\Icons\\Spell_Nature_Reincarnation",
+			["name"] = "嘲讽",
 		},
 		[70777] = {
 			["name"] = "情人卡",
 			["icon"] = "Interface\\Icons\\INV_ValentinesCard02",
 		},
-		[234184] = {
-			["name"] = "暮光信徒兜帽",
-			["icon"] = "Interface\\ICONS\\INV_Helmet_27",
+		[121820] = {
+			["duration"] = 0,
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_reforgedarchstone_01",
+			["name"] = "黑曜夜之翼",
 		},
 		[220351] = {
 			["name"] = "欢歌花夜曲",
 			["icon"] = "Interface\\Icons\\Spell_Holy_MindVision",
 		},
-		[227390] = {
-			["name"] = "花式斩杀",
-			["icon"] = "Interface\\Icons\\inv_misc_bone_skull_02",
+		[234182] = {
+			["name"] = "暮光信徒长袍",
+			["icon"] = "INTERFACE\\ICONS\\inv_chest_cloth_17",
 		},
 		[196805] = {
 			["name"] = "虚空链接",
 			["icon"] = "INTERFACE\\ICONS\\spell_arcane_invocation",
 		},
-		[225312] = {
-			["duration"] = 15,
-			["name"] = "深度切割",
-			["icon"] = "Interface\\Icons\\Ability_Druid_FerociousBite",
+		[192090] = {
+			["duration"] = 21.533,
+			["name"] = "痛击",
+			["icon"] = "INTERFACE\\ICONS\\spell_druid_thrash",
 		},
 		[206019] = {
 			["duration"] = 10,
 			["icon"] = "Interface\\Icons\\ability_titankeeper_cleanse",
 			["debuffType"] = "Magic",
 		},
-		[114050] = {
-			["duration"] = 15,
-			["name"] = "升腾",
-			["icon"] = "Interface\\Icons\\Spell_Fire_ElementalDevastation",
+		[213407] = {
+			["name"] = "失落的灵魂",
+			["icon"] = "INTERFACE\\ICONS\\spell_warlock_demonsoul",
 		},
 		[223423] = {
 			["icon"] = "Interface\\Icons\\inv_herbalism_70_nightmaredreamleaf",
 			["duration"] = 6,
 		},
-		[121820] = {
-			["duration"] = 0,
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_reforgedarchstone_01",
-			["name"] = "黑曜夜之翼",
+		[155565] = {
+			["name"] = "狼之狡黠",
+			["icon"] = "Interface\\Icons\\spell_beastmaster_wolf",
 		},
 		[224447] = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_SoulLeech_3",
@@ -10327,8 +10351,8 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\spell_frost_arcticwinds",
 		},
 		[51265] = {
-			["name"] = "希姆埃巴的祝福",
 			["icon"] = "Interface\\Icons\\Spell_Holy_FistOfJustice",
+			["name"] = "希姆埃巴的祝福",
 			["debuffType"] = "Magic",
 		},
 		[110960] = {
@@ -10341,8 +10365,8 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_vehicle_shellshieldgenerator",
 		},
 		[181962] = {
-			["name"] = "堕落猛击",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_RitualOfSacrifice",
+			["name"] = "堕落猛击",
 			["debuffType"] = "Magic",
 		},
 		[124013] = {
@@ -10353,13 +10377,14 @@ JamPlatesAccessoriesDB = {
 			["name"] = "试验药水",
 			["icon"] = "Interface\\Icons\\inv_holiday_tow_spicepotion03",
 		},
-		[90896] = {
-			["name"] = "黑暗卷须",
-			["icon"] = "Interface\\Icons\\INV_Misc_Herb_07",
+		[197687] = {
+			["icon"] = "Interface\\Icons\\spell_hunter_focusingshot",
+			["duration"] = 0,
 		},
-		[195801] = {
-			["icon"] = "Interface\\Icons\\Ability_Smash",
-			["duration"] = 7.5,
+		[116189] = {
+			["duration"] = 3,
+			["name"] = "嚎镇八方",
+			["icon"] = "Interface\\Icons\\ability_monk_provoke",
 		},
 		[116847] = {
 			["duration"] = 4.512,
@@ -10371,22 +10396,22 @@ JamPlatesAccessoriesDB = {
 			["name"] = "纯洁壁垒",
 			["icon"] = "Interface\\Icons\\inv_wand_14",
 		},
-		[213407] = {
-			["name"] = "失落的灵魂",
-			["icon"] = "INTERFACE\\ICONS\\spell_warlock_demonsoul",
+		[225994] = {
+			["duration"] = 120,
+			["icon"] = "Interface\\Icons\\ability_demonhunter_vengefulretreat2",
+			["name"] = "逐出荣耀之环",
 		},
-		[155565] = {
-			["name"] = "狼之狡黠",
-			["icon"] = "Interface\\Icons\\spell_beastmaster_wolf",
+		[221633] = {
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
+			["duration"] = 12,
 		},
-		[230844] = {
-			["name"] = "拳手的健壮蜥蜴",
-			["icon"] = "Interface\\ICONS\\INV_BasaliskMount",
+		[187099] = {
+			["name"] = "暗影残渣",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowMend",
 		},
-		[116189] = {
-			["duration"] = 3,
-			["name"] = "嚎镇八方",
-			["icon"] = "Interface\\Icons\\ability_monk_provoke",
+		[11319] = {
+			["name"] = "水上行走",
+			["icon"] = "Interface\\Icons\\INV_Potion_166",
 		},
 		[134359] = {
 			["duration"] = 0,
@@ -10405,20 +10430,18 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Weapon_Rifle_01",
 			["duration"] = 0,
 		},
-		[210633] = {
-			["duration"] = 0,
-			["name"] = "艾森娜的祝福",
-			["icon"] = "Interface\\Icons\\INV_Boots_Cloth_01",
+		[148650] = {
+			["name"] = "脚力劲健",
+			["icon"] = "Interface\\Icons\\achievement_faction_klaxxi",
 		},
 		[194249] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\spell_priest_voidform",
 			["name"] = "虚空形态",
 		},
-		[81680] = {
-			["duration"] = 5,
-			["icon"] = "INTERFACE\\ICONS\\inv_jewelcrafting_purpleowl",
-			["debuffType"] = "Magic",
+		[212170] = {
+			["icon"] = "Interface\\Icons\\Spell_Nature_ProtectionformNature",
+			["duration"] = 0,
 		},
 		[199368] = {
 			["icon"] = "Interface\\Icons\\inv_helm_plate_lordravencrest_b_01",
@@ -10431,8 +10454,8 @@ JamPlatesAccessoriesDB = {
 		},
 		[155347] = {
 			["duration"] = 0,
-			["name"] = "萨满之石：霜狼之灵",
 			["icon"] = "Interface\\Icons\\ability_rogue_sprint_blue",
+			["name"] = "萨满之石：霜狼之灵",
 		},
 		[200904] = {
 			["name"] = "侵蚀灵魂",
@@ -10445,28 +10468,27 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_BattleShout",
 			["name"] = "战斗怒吼",
 		},
-		[183020] = {
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameRing",
-			["debuffType"] = "Magic",
+		[114051] = {
+			["name"] = "升腾",
+			["icon"] = "Interface\\Icons\\Spell_Fire_ElementalDevastation",
 		},
-		[223946] = {
+		[201198] = {
+			["name"] = "无影步",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_FleetFooted",
+		},
+		[223427] = {
 			["duration"] = 0,
-			["name"] = "黑暗闪电",
-			["icon"] = "Interface\\Icons\\Ability_Vehicle_ElectroCharge",
+			["icon"] = "Interface\\Icons\\inv_herbalism_70_nightmaredreamleaf",
+			["name"] = "梦魇孢子",
 		},
-		[235712] = {
-			["name"] = "回转稳定",
-			["icon"] = "interface\\ICONS\\INV_Glove_Mail_RaidShamanMythic_O_01",
+		[196666] = {
+			["icon"] = "Interface\\Icons\\Spell_DeathKnight_PathOfFrost",
+			["duration"] = 0,
 		},
-		[212943] = {
-			["name"] = "引雷针",
-			["icon"] = "INTERFACE\\ICONS\\inv_rod_enchantedcobalt",
-		},
-		[193065] = {
-			["name"] = "忍辱负重",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Misery",
-			["debuffType"] = "Magic",
+		[122708] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\ability_mount_travellersyakmount",
+			["name"] = "雄壮远足牦牛",
 		},
 		[55233] = {
 			["duration"] = 10,
@@ -10482,14 +10504,15 @@ JamPlatesAccessoriesDB = {
 			["name"] = "魔法公鸡",
 			["icon"] = "Interface\\Icons\\INV_Egg_03",
 		},
-		[202912] = {
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Spell_Holy_SearingLight",
-			["name"] = "艾露恩之怒",
+		[81680] = {
+			["duration"] = 5,
+			["icon"] = "INTERFACE\\ICONS\\inv_jewelcrafting_purpleowl",
+			["debuffType"] = "Magic",
 		},
-		[215489] = {
-			["icon"] = "Interface\\Icons\\Ability_Rogue_DeviousPoisons",
-			["duration"] = 5.879,
+		[213708] = {
+			["duration"] = 15,
+			["name"] = "星河守护者",
+			["icon"] = "Interface\\Icons\\Spell_Frost_IceClaw",
 		},
 		[141528] = {
 			["name"] = "望远镜",
@@ -10499,14 +10522,15 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_AntiShadow",
 			["duration"] = 20,
 		},
-		[212704] = {
-			["duration"] = 0,
-			["name"] = "野兽之心",
-			["icon"] = "Interface\\Icons\\Ability_Hunter_BeastWithin",
+		[213405] = {
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\inv_glaive_1h_demonhunter_a_01",
+			["name"] = "战刃大师",
 		},
-		[146141] = {
-			["name"] = "燃怒之爪",
-			["icon"] = "Interface\\Icons\\monk_ability_fistoffury",
+		[189999] = {
+			["duration"] = 0,
+			["name"] = "林地守卫者",
+			["icon"] = "Interface\\Icons\\inv_moosemount",
 		},
 		[116849] = {
 			["duration"] = 12,
@@ -10517,37 +10541,38 @@ JamPlatesAccessoriesDB = {
 			["name"] = "生命渴望",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_AnimateDead",
 		},
-		[173790] = {
-			["name"] = "灵魂联结",
-			["icon"] = "Interface\\Icons\\Ability_Druid_DemoralizingRoar",
+		[163241] = {
+			["name"] = "溃烂",
+			["icon"] = "Interface\\Icons\\Ability_Creature_Disease_02",
 		},
 		[149207] = {
-			["name"] = "腐蚀之触",
 			["icon"] = "Interface\\Icons\\ability_titankeeper_cleanse",
+			["name"] = "腐蚀之触",
 			["debuffType"] = "Magic",
 		},
 		[48707] = {
 			["duration"] = 5,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_AntiMagicShell",
 			["name"] = "反魔法护罩",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_AntiMagicShell",
 		},
 		[162516] = {
 			["name"] = "钢铁漩涡",
 			["icon"] = "Interface\\Icons\\Ability_Rogue_BloodSplatter",
 		},
-		[19236] = {
-			["name"] = "绝望祷言",
-			["icon"] = "Interface\\Icons\\Spell_Holy_TestOfFaith",
+		[204335] = {
+			["icon"] = "Interface\\Icons\\Spell_Holy_GreaterBlessingofLight",
+			["name"] = "圣光护盾",
+			["debuffType"] = "Magic",
 		},
 		[204490] = {
 			["duration"] = 6,
 			["icon"] = "Interface\\Icons\\ability_demonhunter_sigilofsilence",
 			["name"] = "沉默咒符",
 		},
-		[213405] = {
-			["duration"] = 6,
-			["name"] = "战刃大师",
-			["icon"] = "Interface\\Icons\\inv_glaive_1h_demonhunter_a_01",
+		[210645] = {
+			["name"] = "奥术之灾",
+			["icon"] = "Interface\\Icons\\Spell_Arcane_PrismaticCloak",
+			["debuffType"] = "Magic",
 		},
 		[144089] = {
 			["name"] = "剧毒之雾",
@@ -10558,15 +10583,15 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Gizmo_RocketLauncher",
 			["name"] = "机械轰击火箭",
 		},
-		[186063] = {
-			["name"] = "虚空消耗",
-			["icon"] = "Interface\\Icons\\Ability_Creature_Disease_05",
+		[202443] = {
+			["duration"] = 2,
+			["name"] = "痛楚",
+			["icon"] = "Interface\\Icons\\artifactability_havocdemonhunter_anguishofthedeceiver",
 		},
-		[58180] = {
-			["name"] = "感染伤口",
-			["duration"] = 12,
-			["icon"] = "Interface\\Icons\\Ability_Druid_InfectedWound",
-			["debuffType"] = "Disease",
+		[114050] = {
+			["duration"] = 15,
+			["name"] = "升腾",
+			["icon"] = "Interface\\Icons\\Spell_Fire_ElementalDevastation",
 		},
 		[211657] = {
 			["name"] = "虚空",
@@ -10585,23 +10610,22 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_ironmaidens_bladerush",
 			["duration"] = 3,
 		},
-		[163241] = {
-			["name"] = "溃烂",
-			["icon"] = "Interface\\Icons\\Ability_Creature_Disease_02",
+		[148908] = {
+			["name"] = "救赎标记",
+			["icon"] = "Interface\\Icons\\Spell_Holy_GreaterBlessingofSalvation",
 		},
-		[92231] = {
-			["duration"] = 0,
-			["icon"] = "INTERFACE\\ICONS\\inv_mount_spectralhorse",
-			["name"] = "鬼灵战马",
+		[61685] = {
+			["duration"] = 4,
+			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Bear",
+			["name"] = "冲锋",
 		},
-		[69395] = {
-			["duration"] = 0,
-			["name"] = "奥妮克希亚幼龙",
-			["icon"] = "Interface\\Icons\\Achievement_Boss_Onyxia",
+		[195801] = {
+			["icon"] = "Interface\\Icons\\Ability_Smash",
+			["duration"] = 7.5,
 		},
-		[186576] = {
-			["icon"] = "Interface\\Icons\\Spell_Holiday_ToW_SpiceCloud",
-			["name"] = "石化云雾",
+		[219336] = {
+			["duration"] = 30,
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameBolt",
 			["debuffType"] = "Magic",
 		},
 		[182993] = {
@@ -10611,20 +10635,20 @@ JamPlatesAccessoriesDB = {
 		},
 		[93816] = {
 			["duration"] = 0,
-			["icon"] = "INTERFACE\\ICONS\\achievement_win_gilneas",
 			["name"] = "吉尔尼斯勇士",
+			["icon"] = "INTERFACE\\ICONS\\achievement_win_gilneas",
 		},
-		[176199] = {
-			["icon"] = "Interface\\Icons\\inv_misc_fieryspices",
-			["duration"] = 20,
+		[211399] = {
+			["name"] = "连击",
+			["icon"] = "Interface\\Icons\\Spell_Fire_SoulBurn",
 		},
 		[205004] = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_Revenge",
 			["duration"] = 0,
 		},
-		[148908] = {
-			["name"] = "救赎标记",
-			["icon"] = "Interface\\Icons\\Spell_Holy_GreaterBlessingofSalvation",
+		[205513] = {
+			["icon"] = "Interface\\Icons\\Ability_Warrior_Sunder",
+			["duration"] = 10,
 		},
 		[193743] = {
 			["icon"] = "Interface\\Icons\\ability_vehicle_shellshieldgenerator",
@@ -10635,10 +10659,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_earthenfury_giftofearth",
 			["name"] = "石拳",
 		},
-		[61685] = {
-			["duration"] = 4,
-			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Bear",
-			["name"] = "冲锋",
+		[195488] = {
+			["duration"] = 0,
+			["name"] = "精力旺盛",
+			["icon"] = "Interface\\Icons\\Spell_Holy_PureOfHeart",
 		},
 		[124273] = {
 			["duration"] = 8.999,
@@ -10660,9 +10684,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Mount_Gryphon_01",
 			["name"] = "迅捷紫色狮鹫",
 		},
-		[234182] = {
-			["name"] = "暮光信徒长袍",
-			["icon"] = "INTERFACE\\ICONS\\inv_chest_cloth_17",
+		[52419] = {
+			["name"] = "偏斜",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_Challange",
 		},
 		[222409] = {
 			["name"] = "黑暗命令",
@@ -10672,18 +10696,20 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_valkierpet",
 			["duration"] = 8,
 		},
-		[126582] = {
-			["name"] = "鼎力",
-			["icon"] = "Interface\\Icons\\inv_jewelry_trinket_16",
+		[197030] = {
+			["name"] = "圣洁",
+			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\ability_priest_ascendance",
+			["debuffType"] = "Magic",
 		},
 		[32612] = {
 			["duration"] = 20,
 			["name"] = "隐形术",
 			["icon"] = "Interface\\Icons\\Ability_Mage_Invisibility",
 		},
-		[187805] = {
-			["name"] = "伊瑟拉鲁斯",
-			["icon"] = "Interface\\Icons\\inv_jewelry_ring_89",
+		[231319] = {
+			["name"] = "玩具猫头鱼漂",
+			["icon"] = "INTERFACE\\ICONS\\trade_archaeology_catstatueemeraldeyes",
 		},
 		[220874] = {
 			["duration"] = 12,
@@ -10695,20 +10721,17 @@ JamPlatesAccessoriesDB = {
 			["name"] = "宁静之光",
 			["icon"] = "Interface\\Icons\\Spell_Holy_DivineProvidence",
 		},
-		[213708] = {
-			["duration"] = 15,
-			["name"] = "星河守护者",
-			["icon"] = "Interface\\Icons\\Spell_Frost_IceClaw",
+		[230088] = {
+			["name"] = "无形",
+			["icon"] = "Interface\\Icons\\Spell_Holy_ConsumeMagic",
 		},
-		[213188] = {
-			["duration"] = 20,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_BlackPlague",
-			["debuffType"] = "Curse",
+		[183025] = {
+			["icon"] = "Interface\\Icons\\Ability_Gouge",
+			["duration"] = 9,
 		},
-		[195488] = {
-			["duration"] = 0,
-			["name"] = "精力旺盛",
-			["icon"] = "Interface\\Icons\\Spell_Holy_PureOfHeart",
+		[205725] = {
+			["name"] = "反魔法屏障",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_AntiMagicShell",
 		},
 		[24870] = {
 			["name"] = "进食充分",
@@ -10728,43 +10751,45 @@ JamPlatesAccessoriesDB = {
 			["name"] = "雾霭风怒",
 			["icon"] = "Interface\\Icons\\Spell_Nature_Cyclone",
 		},
-		[186073] = {
-			["name"] = "邪能炙烤",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
+		[156073] = {
+			["name"] = "德拉诺敏捷合剂",
+			["icon"] = "Interface\\Icons\\trade_alchemy_dpotion_c22",
 		},
-		[225994] = {
-			["duration"] = 120,
-			["icon"] = "Interface\\Icons\\ability_demonhunter_vengefulretreat2",
-			["name"] = "逐出荣耀之环",
+		[193234] = {
+			["icon"] = "Interface\\Icons\\inv_sword_98",
+			["duration"] = 0,
 		},
 		[210126] = {
 			["duration"] = 0,
 			["name"] = "奥术魔宠",
 			["icon"] = "Interface\\Icons\\ability_socererking_arcanemines",
 		},
-		[231319] = {
-			["name"] = "玩具猫头鱼漂",
-			["icon"] = "INTERFACE\\ICONS\\trade_archaeology_catstatueemeraldeyes",
+		[191212] = {
+			["name"] = "泡沫苹果酒",
+			["icon"] = "Interface\\Icons\\inv_misc_flaskofvolatility",
 		},
-		[209967] = {
-			["name"] = "凶暴野兽：蜥蜴",
-			["icon"] = "Interface\\Icons\\inv_pet_ basilisk",
+		[34767] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Ability_Mount_Charger",
+			["name"] = "召唤萨拉斯军马",
 		},
-		[205725] = {
-			["name"] = "反魔法屏障",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_AntiMagicShell",
+		[195804] = {
+			["name"] = "隔离区",
+			["icon"] = "INTERFACE\\ICONS\\trade_archaeology_naarucrystal",
 		},
-		[156073] = {
-			["name"] = "德拉诺敏捷合剂",
-			["icon"] = "Interface\\Icons\\trade_alchemy_dpotion_c22",
+		[60021] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Ability_Mount_Drake_Proto",
+			["name"] = "被感染的始祖幼龙",
 		},
-		[211672] = {
-			["name"] = "毁伤血肉",
-			["icon"] = "Interface\\Icons\\ability_deathwing_bloodcorruption_earth",
+		[192221] = {
+			["duration"] = 0,
+			["name"] = "守卫解散",
+			["icon"] = "Interface\\Icons\\Achievement_Arena_2v2_5",
 		},
-		[42776] = {
-			["name"] = "幽灵虎",
-			["icon"] = "Interface\\Icons\\ability_mount_spectraltiger",
+		[142315] = {
+			["name"] = "酸性血液",
+			["icon"] = "Interface\\Icons\\ability_creature_poison_03",
 		},
 		[234185] = {
 			["name"] = "暮光信徒披肩",
@@ -10772,17 +10797,16 @@ JamPlatesAccessoriesDB = {
 		},
 		[214222] = {
 			["duration"] = 6,
-			["name"] = "审判",
 			["icon"] = "Interface\\Icons\\Spell_Holy_RighteousFury",
+			["name"] = "审判",
 		},
-		[218561] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\ability_demonhunter_reversemagic",
-			["name"] = "虹吸能量",
+		[131568] = {
+			["icon"] = "Interface\\Icons\\INV_Misc_Fork&Knife",
+			["duration"] = 6,
 		},
 		[170201] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Cripple",
 			["name"] = "阴冷突刺",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Cripple",
 			["debuffType"] = "Magic",
 		},
 		[124275] = {
@@ -10790,44 +10814,18 @@ JamPlatesAccessoriesDB = {
 			["name"] = "轻度醉拳",
 			["icon"] = "INTERFACE\\ICONS\\priest_icon_chakra_green",
 		},
-		[60021] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Ability_Mount_Drake_Proto",
-			["name"] = "被感染的始祖幼龙",
+		[60233] = {
+			["duration"] = 15,
+			["icon"] = "INTERFACE\\ICONS\\ability_hunter_onewithnature",
+			["name"] = "敏捷",
 		},
 		[175832] = {
 			["icon"] = "Interface\\Icons\\INV_Misc_MonsterFang_02",
 			["duration"] = 300,
 		},
-		[223446] = {
-			["name"] = "自制宴会面具",
-			["icon"] = "Interface\\Icons\\inv_helm_mask_fittedalpha_b_01_nightborne_01",
-		},
-		[60229] = {
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Spell_Nature_Strength",
-			["name"] = "力量",
-		},
-		[195804] = {
-			["name"] = "隔离区",
-			["icon"] = "INTERFACE\\ICONS\\trade_archaeology_naarucrystal",
-		},
-		[212170] = {
-			["icon"] = "Interface\\Icons\\Spell_Nature_ProtectionformNature",
-			["duration"] = 0,
-		},
 		[163750] = {
 			["name"] = "无情劈砍",
 			["icon"] = "INTERFACE\\ICONS\\warrior_talent_icon_skirmisher",
-		},
-		[195284] = {
-			["icon"] = "Interface\\Icons\\ability_shawaterelemental_split",
-			["duration"] = 8,
-		},
-		[208081] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_ManaBurn",
-			["name"] = "罗宁的突击裹腕",
-			["debuffType"] = "Magic",
 		},
 		[134573] = {
 			["duration"] = 0,
@@ -10838,20 +10836,47 @@ JamPlatesAccessoriesDB = {
 			["name"] = "叛徒的誓言",
 			["icon"] = "INTERFACE\\ICONS\\spell_arcane_arcanetactics",
 		},
+		[210633] = {
+			["duration"] = 0,
+			["name"] = "艾森娜的祝福",
+			["icon"] = "Interface\\Icons\\INV_Boots_Cloth_01",
+		},
+		[194243] = {
+			["duration"] = 4,
+			["icon"] = "INTERFACE\\ICONS\\spell_fire_twilightpyroblast",
+			["name"] = "腐烂光环",
+		},
+		[195284] = {
+			["icon"] = "Interface\\Icons\\ability_shawaterelemental_split",
+			["duration"] = 8,
+		},
+		[208081] = {
+			["name"] = "罗宁的突击裹腕",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_ManaBurn",
+			["debuffType"] = "Magic",
+		},
+		[182497] = {
+			["duration"] = 2,
+			["name"] = "不屈意志",
+			["icon"] = "INTERFACE\\ICONS\\spell_paladin_clarityofpurpose",
+		},
+		[195181] = {
+			["duration"] = 30,
+			["name"] = "白骨之盾",
+			["icon"] = "INTERFACE\\ICONS\\ability_deathknight_boneshield",
+		},
 		[172762] = {
 			["name"] = "佩佩",
 			["icon"] = "Interface\\Icons\\ability_garrison_orangebird",
 		},
-		[60233] = {
-			["duration"] = 15,
-			["icon"] = "INTERFACE\\ICONS\\ability_hunter_onewithnature",
-			["name"] = "敏捷",
+		[71909] = {
+			["name"] = "心碎",
+			["icon"] = "Interface\\Icons\\Spell_BrokenHeart",
 		},
-		[207589] = {
-			["name"] = "伊特伦迪，银月之珠",
-			["duration"] = 5,
-			["icon"] = "Interface\\Icons\\Spell_Holy_ImpHolyConcentration",
-			["debuffType"] = "Magic",
+		[51399] = {
+			["duration"] = 1.267,
+			["icon"] = "Interface\\Icons\\Spell_DeathKnight_Strangulate",
+			["name"] = "死亡之握",
 		},
 		[215248] = {
 			["name"] = "纳格法尔之幕",
@@ -10865,33 +10890,32 @@ JamPlatesAccessoriesDB = {
 			["name"] = "地下城逃亡者",
 		},
 		[199892] = {
-			["name"] = "虚弱诅咒",
 			["icon"] = "Interface\\Icons\\warlock_curse_weakness",
+			["name"] = "虚弱诅咒",
 			["debuffType"] = "Curse",
 		},
 		[54212] = {
 			["name"] = "纯净魔精合剂",
 			["icon"] = "Interface\\Icons\\INV_Alchemy_EndlessFlask_03",
 		},
-		[51399] = {
-			["duration"] = 1.267,
-			["icon"] = "Interface\\Icons\\Spell_DeathKnight_Strangulate",
-			["name"] = "死亡之握",
+		[233149] = {
+			["duration"] = 812457.984,
+			["name"] = "考古任务",
+			["icon"] = "INTERFACE\\ICONS\\trade_archaeology",
 		},
-		[192598] = {
-			["name"] = "水疱炸弹",
-			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_06",
-			["debuffType"] = "Poison",
+		[142246] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\inv_weapon_hand_30",
+			["name"] = "搏击冠军",
 		},
 		[201940] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\spell_druid_malfurionstenacity",
 			["name"] = "盟友守护",
 		},
-		[71909] = {
-			["name"] = "心碎",
-			["icon"] = "Interface\\Icons\\Spell_BrokenHeart",
+		[145833] = {
+			["name"] = "强化腐蚀漩涡",
+			["icon"] = "Interface\\Icons\\ability_garrosh_empowered_whirling_corruption",
 		},
 		[101498] = {
 			["name"] = "投掷用海星",
@@ -10901,19 +10925,21 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Smash",
 			["duration"] = 6,
 		},
-		[201820] = {
-			["icon"] = "Interface\\Icons\\inv_fishing_lure_kelp",
-			["duration"] = 120,
-		},
-		[114052] = {
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Spell_Fire_ElementalDevastation",
-			["name"] = "升腾",
-		},
-		[193249] = {
+		[136] = {
+			["name"] = "治疗宠物",
 			["duration"] = 10,
-			["name"] = "永恒脐带",
-			["icon"] = "Interface\\Icons\\artifactability_blooddeathknight_umbilicuseternus",
+			["icon"] = "Interface\\Icons\\Ability_Hunter_MendPet",
+			["debuffType"] = "Magic",
+		},
+		[22720] = {
+			["duration"] = 0,
+			["name"] = "黑色战羊",
+			["icon"] = "Interface\\Icons\\Ability_Mount_MountainRam",
+		},
+		[61684] = {
+			["duration"] = 16,
+			["icon"] = "Interface\\Icons\\Ability_Druid_Dash",
+			["name"] = "急奔",
 		},
 		[13877] = {
 			["duration"] = 0,
@@ -10926,19 +10952,18 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\sha_ability_mage_firestarter_nightborne",
 			["debuffType"] = "Magic",
 		},
-		[222928] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\ability_demonhunter_infernalstrike2",
-			["name"] = "死亡之舞",
+		[186073] = {
+			["name"] = "邪能炙烤",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
 		},
-		[145833] = {
-			["name"] = "强化腐蚀漩涡",
-			["icon"] = "Interface\\Icons\\ability_garrosh_empowered_whirling_corruption",
+		[217495] = {
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameRing",
+			["debuffType"] = "Magic",
 		},
-		[215956] = {
-			["duration"] = 30,
-			["icon"] = "Interface\\Icons\\INV_Misc_Horn_03",
-			["name"] = "瓦拉加尔之道",
+		[195279] = {
+			["icon"] = "Interface\\Icons\\INV_Sword_30",
+			["duration"] = 12,
 		},
 		[228559] = {
 			["name"] = "魅惑香水",
@@ -10949,10 +10974,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Hunter_Longevity",
 			["name"] = "凶暴野兽",
 		},
-		[22720] = {
-			["duration"] = 0,
-			["name"] = "黑色战羊",
-			["icon"] = "Interface\\Icons\\Ability_Mount_MountainRam",
+		[215489] = {
+			["icon"] = "Interface\\Icons\\Ability_Rogue_DeviousPoisons",
+			["duration"] = 5.879,
 		},
 		[197335] = {
 			["name"] = "含毒之刺",
@@ -10960,24 +10984,22 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Nature_Regenerate",
 			["debuffType"] = "Poison",
 		},
-		[185562] = {
-			["name"] = "暗月火酒",
-			["icon"] = "Interface\\Icons\\inv_misc_flaskofvolatility",
+		[222417] = {
+			["icon"] = "Interface\\Icons\\INV_Stone_10",
+			["duration"] = 3.2,
 		},
-		[61684] = {
-			["duration"] = 16,
-			["icon"] = "Interface\\Icons\\Ability_Druid_Dash",
-			["name"] = "急奔",
+		[224149] = {
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\sha_ability_rogue_bloodyeye",
+			["name"] = "贾辛的诡计",
 		},
-		[156070] = {
-			["duration"] = 3600,
-			["icon"] = "Interface\\Icons\\trade_alchemy_dpotion_c25",
-			["name"] = "德拉诺智力合剂",
+		[184357] = {
+			["name"] = "污血",
+			["icon"] = "Interface\\Icons\\inv_misc_boilingblood",
 		},
-		[137452] = {
-			["duration"] = 4,
-			["name"] = "野性位移",
-			["icon"] = "Interface\\Icons\\spell_druid_displacement",
+		[231938] = {
+			["name"] = "超载",
+			["icon"] = "Interface\\Icons\\Spell_DeathKnight_AntiMagicZone",
 		},
 		[93821] = {
 			["duration"] = 0,
@@ -10998,20 +11020,17 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_MindTwisting",
 			["name"] = "命运多舛",
 		},
-		[222418] = {
-			["duration"] = 8,
-			["name"] = "心脏打击",
-			["icon"] = "Interface\\Icons\\INV_Weapon_Shortblade_40",
+		[165088] = {
+			["name"] = "眩晕",
+			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
 		},
-		[210645] = {
-			["icon"] = "Interface\\Icons\\Spell_Arcane_PrismaticCloak",
-			["name"] = "奥术之灾",
-			["debuffType"] = "Magic",
+		[202455] = {
+			["icon"] = "Interface\\Icons\\INV_Enchant_VoidSphere",
+			["duration"] = 0,
 		},
-		[215572] = {
-			["duration"] = 6,
-			["name"] = "暴乱狂战士",
-			["icon"] = "INTERFACE\\ICONS\\warrior_talent_icon_furyintheblood",
+		[148903] = {
+			["name"] = "恶意",
+			["icon"] = "INTERFACE\\ICONS\\ability_racial_viciousness",
 		},
 		[211669] = {
 			["name"] = "舞刀弄剑",
@@ -11019,55 +11038,55 @@ JamPlatesAccessoriesDB = {
 		},
 		[208086] = {
 			["duration"] = 8,
-			["name"] = "巨人打击",
 			["icon"] = "INTERFACE\\ICONS\\ability_warrior_colossussmash",
+			["name"] = "巨人打击",
 		},
-		[224149] = {
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\sha_ability_rogue_bloodyeye",
-			["name"] = "贾辛的诡计",
+		[225726] = {
+			["name"] = "野性强化",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FlameBlades",
 		},
 		[205015] = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_AbominationExplosion",
 			["duration"] = 0,
 		},
-		[193609] = {
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
-			["duration"] = 0,
+		[116953] = {
+			["name"] = "咔啡疯狂",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_BloodyEye",
 		},
 		[210134] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\Ability_Mage_MissileBarrage",
 			["name"] = "奥术侵蚀",
 		},
-		[127734] = {
-			["icon"] = "INTERFACE\\ICONS\\warrior_talent_icon_singlemindedfury",
-			["duration"] = 15,
-		},
-		[148903] = {
-			["name"] = "恶意",
-			["icon"] = "INTERFACE\\ICONS\\ability_racial_viciousness",
-		},
-		[204731] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Ability_Creature_Cursed_05",
-			["name"] = "恐惧蔓延",
-		},
-		[195802] = {
-			["icon"] = "Interface\\Icons\\INV_Feather_08",
-			["duration"] = 120,
-		},
-		[116953] = {
-			["name"] = "咔啡疯狂",
-			["icon"] = "Interface\\Icons\\Ability_Rogue_BloodyEye",
-		},
 		[212887] = {
 			["name"] = "静电充能",
 			["icon"] = "Interface\\Icons\\Spell_Nature_UnrelentingStorm",
 		},
-		[39801] = {
-			["name"] = "紫色骑乘虚空鳐",
-			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_NetherRay",
+		[191900] = {
+			["icon"] = "Interface\\Icons\\Spell_Frost_SummonWaterElemental",
+			["duration"] = 0.8,
+		},
+		[186401] = {
+			["duration"] = 0,
+			["name"] = "练习印记",
+			["icon"] = "Interface\\Icons\\Achievement_Arena_2v2_2",
+		},
+		[126582] = {
+			["name"] = "鼎力",
+			["icon"] = "Interface\\Icons\\inv_jewelry_trinket_16",
+		},
+		[145831] = {
+			["name"] = "强化绝望之握",
+			["icon"] = "Interface\\Icons\\ability_deathknight_aoedeathgrip",
+		},
+		[208608] = {
+			["name"] = "涅墨西斯",
+			["icon"] = "Interface\\Icons\\INV_Misc_Head_Tiger_01",
+		},
+		[218561] = {
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\ability_demonhunter_reversemagic",
+			["name"] = "虹吸能量",
 		},
 		[339] = {
 			["name"] = "纠缠根须",
@@ -11079,21 +11098,22 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Misc_Bomb_07",
 			["duration"] = 0,
 		},
-		[211399] = {
-			["name"] = "连击",
-			["icon"] = "Interface\\Icons\\Spell_Fire_SoulBurn",
+		[184725] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowBolt",
+			["name"] = "暗影烈焰冲击",
+			["debuffType"] = "Magic",
 		},
-		[145831] = {
-			["name"] = "强化绝望之握",
-			["icon"] = "Interface\\Icons\\ability_deathknight_aoedeathgrip",
+		[181968] = {
+			["name"] = "恶魔变形",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Metamorphosis",
 		},
 		[228563] = {
 			["name"] = "幻灭连击",
 			["icon"] = "Interface\\Icons\\ability_monk_blackoutkick",
 		},
 		[21992] = {
-			["icon"] = "Interface\\Icons\\Spell_Nature_Cyclone",
 			["name"] = "雷霆之怒",
+			["icon"] = "Interface\\Icons\\Spell_Nature_Cyclone",
 			["debuffType"] = "Magic",
 		},
 		[164067] = {
@@ -11101,23 +11121,23 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Frost_FrostNova",
 			["debuffType"] = "Magic",
 		},
-		[66] = {
-			["duration"] = 3,
-			["name"] = "隐形术",
-			["icon"] = "Interface\\Icons\\Ability_Mage_Invisibility",
+		[200905] = {
+			["icon"] = "INTERFACE\\ICONS\\ability_warlock_soulswap",
+			["duration"] = 5,
 		},
 		[210136] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\inv_stone_weightstone_08",
 			["name"] = "石化",
 		},
-		[142863] = {
-			["name"] = "虚弱的上古屏障",
-			["icon"] = "Interface\\Icons\\ability_malkorok_blightofyshaarj_red",
+		[108416] = {
+			["duration"] = 20,
+			["name"] = "黑暗契约",
+			["icon"] = "Interface\\Icons\\warlock_sacrificial_pact",
 		},
 		[211160] = {
-			["icon"] = "Interface\\Icons\\Spell_Holy_BlessingOfAgility",
 			["name"] = "自然防御",
+			["icon"] = "Interface\\Icons\\Spell_Holy_BlessingOfAgility",
 			["debuffType"] = "Magic",
 		},
 		[36554] = {
@@ -11129,10 +11149,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "精神碾压",
 			["icon"] = "INTERFACE\\ICONS\\spell_shaman_earthquake",
 		},
-		[192221] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Achievement_Arena_2v2_5",
-			["name"] = "守卫解散",
+		[175841] = {
+			["name"] = "德拉诺水上行走",
+			["icon"] = "Interface\\Icons\\trade_alchemy_dpotion_b10",
 		},
 		[118905] = {
 			["name"] = "静电充能",
@@ -11140,9 +11159,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Nature_Brilliance",
 			["debuffType"] = "Magic",
 		},
-		[205513] = {
-			["icon"] = "Interface\\Icons\\Ability_Warrior_Sunder",
-			["duration"] = 10,
+		[224147] = {
+			["duration"] = 15,
+			["name"] = "暗夜井的奥秘",
+			["icon"] = "Interface\\Icons\\Spell_Arcane_FocusedPower",
 		},
 		[210137] = {
 			["icon"] = "Interface\\Icons\\inv_stone_weightstone_08",
@@ -11158,55 +11178,54 @@ JamPlatesAccessoriesDB = {
 			["name"] = "不屈意志",
 			["icon"] = "INTERFACE\\ICONS\\spell_paladin_clarityofpurpose",
 		},
-		[22888] = {
-			["duration"] = 7200,
-			["icon"] = "Interface\\Icons\\INV_Misc_Head_Dragon_01",
-			["name"] = "屠龙者的咆哮",
+		[187103] = {
+			["name"] = "暗影残渣",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowMend",
 		},
 		[195805] = {
 			["icon"] = "Interface\\Icons\\Spell_Magic_FeatherFall",
 			["duration"] = 120,
 		},
-		[220901] = {
-			["name"] = "赤喉之咬",
-			["icon"] = "Interface\\Icons\\inv_knife_1h_artifactfangs_d_01",
+		[208929] = {
+			["duration"] = 10,
+			["name"] = "腐化吐息",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_SoulLeech",
 		},
 		[213209] = {
 			["name"] = "钢缚吞噬者",
 			["icon"] = "Interface\\Icons\\inv_mount_felcorehoundmoun",
 		},
-		[224703] = {
-			["name"] = "震耳咆哮",
-			["icon"] = "Interface\\Icons\\warrior_disruptingshout",
+		[202480] = {
+			["icon"] = "Interface\\Icons\\ability_fixated_state_red",
+			["duration"] = 10,
+		},
+		[59052] = {
+			["name"] = "白霜",
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\Spell_Frost_ArcticWinds",
 			["debuffType"] = "Magic",
 		},
-		[221883] = {
-			["duration"] = 3,
-			["icon"] = "Interface\\Icons\\ability_paladin_divinesteed",
-			["name"] = "神圣马驹",
+		[186063] = {
+			["name"] = "虚空消耗",
+			["icon"] = "Interface\\Icons\\Ability_Creature_Disease_05",
 		},
-		[224147] = {
-			["duration"] = 15,
-			["name"] = "暗夜井的奥秘",
-			["icon"] = "Interface\\Icons\\Spell_Arcane_FocusedPower",
+		[137452] = {
+			["duration"] = 4,
+			["name"] = "野性位移",
+			["icon"] = "Interface\\Icons\\spell_druid_displacement",
 		},
-		[182497] = {
-			["duration"] = 2,
-			["name"] = "不屈意志",
-			["icon"] = "INTERFACE\\ICONS\\spell_paladin_clarityofpurpose",
-		},
-		[182925] = {
-			["name"] = "恶毒鬼魅",
-			["icon"] = "Interface\\Icons\\Trade_Engineering",
+		[116952] = {
+			["name"] = "咔啡疲惫",
+			["icon"] = "Interface\\Icons\\Spell_Misc_EmotionSad",
 		},
 		[187616] = {
 			["name"] = "尼萨姆斯",
 			["icon"] = "Interface\\Icons\\inv_jewelry_ring_89",
 		},
-		[204488] = {
-			["duration"] = 30,
-			["name"] = "怒火聚焦",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_FocusedRage",
+		[69395] = {
+			["duration"] = 0,
+			["name"] = "奥妮克希亚幼龙",
+			["icon"] = "Interface\\Icons\\Achievement_Boss_Onyxia",
 		},
 		[51271] = {
 			["duration"] = 20,
@@ -11225,22 +11244,23 @@ JamPlatesAccessoriesDB = {
 			["name"] = "星辰漂流",
 			["icon"] = "Interface\\Icons\\Spell_Nature_StarFall",
 		},
-		[48287] = {
-			["icon"] = "Interface\\Icons\\Ability_Druid_PrimalTenacity",
-			["duration"] = 5,
+		[236254] = {
+			["name"] = "等级缩放",
+			["icon"] = "Interface\\Icons\\levelupicon-lfd",
 		},
 		[228055] = {
 			["name"] = "巨喉之怒",
 			["icon"] = "Interface\\Icons\\Spell_Shaman_TidalWaves",
 		},
-		[236757] = {
-			["name"] = "火红割裂者",
-			["icon"] = "Interface\\Icons\\Ability_Druid_Mangle.tga",
+		[60229] = {
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\Spell_Nature_Strength",
+			["name"] = "力量",
 		},
-		[210670] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\artifactability_feraldruid_openwounds",
-			["name"] = "迸裂创伤",
+		[215956] = {
+			["duration"] = 30,
+			["icon"] = "Interface\\Icons\\INV_Misc_Horn_03",
+			["name"] = "瓦拉加尔之道",
 		},
 		[205021] = {
 			["duration"] = 10,
@@ -11251,17 +11271,18 @@ JamPlatesAccessoriesDB = {
 			["name"] = "饱餐一顿",
 			["icon"] = "Interface\\ICONS\\INV_Misc_Food_03",
 		},
-		[116952] = {
-			["name"] = "咔啡疲惫",
-			["icon"] = "Interface\\Icons\\Spell_Misc_EmotionSad",
+		[145829] = {
+			["name"] = "强化亵渎",
+			["icon"] = "Interface\\Icons\\inv_axe_2h_orgrimmarraid_d_01",
 		},
 		[210652] = {
 			["name"] = "风暴图腾",
 			["icon"] = "Interface\\Icons\\spell_shaman_stormtotem",
 		},
-		[32736] = {
-			["icon"] = "Interface\\Icons\\Ability_Warrior_SavageBlow",
-			["duration"] = 5,
+		[209427] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\ability_rogue_energeticrecovery",
+			["name"] = "暗影之抚",
 		},
 		[215771] = {
 			["icon"] = "Interface\\Icons\\Ability_Hunter_EagleEye",
@@ -11274,16 +11295,17 @@ JamPlatesAccessoriesDB = {
 		},
 		[208605] = {
 			["duration"] = 51.675,
-			["name"] = "涅墨西斯",
 			["icon"] = "Interface\\Icons\\INV_Misc_Head_Human_01",
+			["name"] = "涅墨西斯",
 		},
-		[236254] = {
-			["name"] = "等级缩放",
-			["icon"] = "Interface\\Icons\\levelupicon-lfd",
+		[173470] = {
+			["name"] = "火炮弹幕",
+			["icon"] = "Interface\\Icons\\ability_vehicle_siegeenginecannon",
 		},
-		[230104] = {
-			["name"] = "饱餐一顿",
-			["icon"] = "Interface\\ICONS\\INV_Misc_Food_03",
+		[193249] = {
+			["duration"] = 10,
+			["name"] = "永恒脐带",
+			["icon"] = "Interface\\Icons\\artifactability_blooddeathknight_umbilicuseternus",
 		},
 		[86659] = {
 			["duration"] = 8,
@@ -11295,59 +11317,57 @@ JamPlatesAccessoriesDB = {
 			["name"] = "人人有份",
 			["icon"] = "Interface\\Icons\\INV_Misc_Coin_17",
 		},
-		[142246] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\inv_weapon_hand_30",
-			["name"] = "搏击冠军",
+		[208579] = {
+			["duration"] = 56.485,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_DemonicFortitude",
+			["name"] = "涅墨西斯",
 		},
-		[145829] = {
-			["name"] = "强化亵渎",
-			["icon"] = "Interface\\Icons\\inv_axe_2h_orgrimmarraid_d_01",
+		[127734] = {
+			["icon"] = "INTERFACE\\ICONS\\warrior_talent_icon_singlemindedfury",
+			["duration"] = 15,
 		},
 		[187619] = {
 			["name"] = "索拉苏斯",
 			["icon"] = "Interface\\Icons\\inv_jewelry_ring_89",
 		},
-		[191628] = {
+		[221741] = {
+			["icon"] = "Interface\\Icons\\Spell_Holy_ImprovedResistanceAuras",
 			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\70_inscription_deck_promises_5",
-			["name"] = "不朽之五",
 		},
 		[213213] = {
 			["name"] = "伪装",
 			["icon"] = "Interface\\Icons\\inv_helm_mask_fittedalpha_b_01_nightborne_02",
 		},
-		[173470] = {
-			["name"] = "火炮弹幕",
-			["icon"] = "Interface\\Icons\\ability_vehicle_siegeenginecannon",
+		[54729] = {
+			["icon"] = "Interface\\Icons\\ability_mount_ebonblade",
+			["duration"] = 0,
 		},
-		[202419] = {
-			["duration"] = 12,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyFrenzy",
+		[236430] = {
+			["name"] = "诺甘农的预见",
+			["icon"] = "Interface\\Icons\\Spell_Arcane_FocusedPower",
+		},
+		[10060] = {
+			["name"] = "能量灌注",
+			["duration"] = 20,
+			["icon"] = "Interface\\Icons\\Spell_Holy_PowerInfusion",
 			["debuffType"] = "Magic",
-		},
-		[31842] = {
-			["duration"] = 30,
-			["icon"] = "Interface\\Icons\\Spell_Holy_AvengineWrath",
-			["name"] = "复仇之怒",
 		},
 		[8599] = {
 			["duration"] = 120,
 			["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyFrenzy",
 			["debuffType"] = "",
 		},
-		[221885] = {
-			["duration"] = 3,
-			["icon"] = "Interface\\Icons\\ability_paladin_divinesteed",
-			["name"] = "神圣马驹",
+		[44535] = {
+			["name"] = "灵魂治疗",
+			["icon"] = "Interface\\Icons\\Spell_Holy_Resurrection",
 		},
-		[195810] = {
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_petmoonkinne",
-			["duration"] = 120,
+		[187620] = {
+			["name"] = "玛鲁斯",
+			["icon"] = "Interface\\Icons\\inv_jewelry_ring_89",
 		},
-		[200905] = {
-			["icon"] = "INTERFACE\\ICONS\\ability_warlock_soulswap",
-			["duration"] = 5,
+		[148899] = {
+			["name"] = "坚韧",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_IntensifyRage",
 		},
 		[196834] = {
 			["duration"] = 16,
@@ -11364,47 +11384,50 @@ JamPlatesAccessoriesDB = {
 			["name"] = "赫米特的觅心者",
 			["icon"] = "Interface\\Icons\\inv_ragnaros_heart",
 		},
-		[210655] = {
-			["duration"] = 5,
-			["name"] = "阿莎曼的庇护",
-			["icon"] = "Interface\\Icons\\Ability_Druid_CatForm",
+		[218845] = {
+			["duration"] = 20,
+			["icon"] = "Interface\\Icons\\ability_rogue_ghostpirate",
+			["name"] = "星矛警戒",
 		},
 		[207072] = {
 			["icon"] = "Interface\\Icons\\Spell_Frost_Frostbolt",
 			["duration"] = 0,
 		},
-		[236430] = {
-			["name"] = "诺甘农的预见",
-			["icon"] = "Interface\\Icons\\Spell_Arcane_FocusedPower",
+		[204321] = {
+			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Raptor",
+			["duration"] = 7,
 		},
-		[52172] = {
-			["name"] = "卡洛斯的著名帽子",
-			["icon"] = "Interface\\Icons\\INV_Helmet_50",
+		[184730] = {
+			["icon"] = "Interface\\Icons\\Ability_Devour",
+			["name"] = "恐惧嚎叫",
+			["debuffType"] = "Magic",
 		},
-		[208608] = {
-			["name"] = "涅墨西斯",
-			["icon"] = "Interface\\Icons\\INV_Misc_Head_Tiger_01",
+		[229083] = {
+			["icon"] = "Interface\\Icons\\Ability_Mage_FireStarter",
+			["name"] = "炽热冲击",
+			["debuffType"] = "Magic",
 		},
 		[205025] = {
 			["name"] = "气定神闲",
 			["icon"] = "Interface\\Icons\\Spell_Nature_EnchantArmor",
 		},
-		[44535] = {
-			["name"] = "灵魂治疗",
-			["icon"] = "Interface\\Icons\\Spell_Holy_Resurrection",
+		[162547] = {
+			["name"] = "钢铁壁垒",
+			["icon"] = "Interface\\Icons\\INV_Shield_32",
 		},
-		[148899] = {
-			["name"] = "坚韧",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_IntensifyRage",
+		[220901] = {
+			["name"] = "赤喉之咬",
+			["icon"] = "Interface\\Icons\\inv_knife_1h_artifactfangs_d_01",
 		},
 		[129914] = {
 			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\ability_monk_powerstrikes",
 			["name"] = "力贯千钧",
+			["icon"] = "Interface\\Icons\\ability_monk_powerstrikes",
 		},
-		[191212] = {
-			["name"] = "泡沫苹果酒",
-			["icon"] = "Interface\\Icons\\inv_misc_flaskofvolatility",
+		[185365] = {
+			["duration"] = 12,
+			["icon"] = "Interface\\Icons\\Ability_Hunter_MarkedForDeath",
+			["name"] = "猎人印记",
 		},
 		[187110] = {
 			["name"] = "集火",
@@ -11414,15 +11437,15 @@ JamPlatesAccessoriesDB = {
 			["name"] = "暗矛勇士",
 			["icon"] = "INTERFACE\\ICONS\\inv_misc_tournaments_tabard_troll",
 		},
-		[192229] = {
+		[212704] = {
 			["duration"] = 0,
-			["name"] = "下水道守卫",
-			["icon"] = "Interface\\Icons\\Achievement_Reputation_KirinTor",
+			["name"] = "野兽之心",
+			["icon"] = "Interface\\Icons\\Ability_Hunter_BeastWithin",
 		},
-		[184730] = {
-			["name"] = "恐惧嚎叫",
-			["icon"] = "Interface\\Icons\\Ability_Devour",
-			["debuffType"] = "Magic",
+		[223632] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\sha_ability_rogue_sturdyrecuperate_nightborne",
+			["name"] = "枯法光环",
 		},
 		[217823] = {
 			["name"] = "奥术撕扯",
@@ -11433,13 +11456,14 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_paladin_beaconsoflight",
 			["name"] = "信仰道标",
 		},
-		[171761] = {
-			["name"] = "美酒节旗帜",
-			["icon"] = "Interface\\Icons\\INV_Holiday_BrewfestBuff_01",
+		[221883] = {
+			["duration"] = 3,
+			["icon"] = "Interface\\Icons\\ability_paladin_divinesteed",
+			["name"] = "神圣马驹",
 		},
-		[109856] = {
-			["name"] = "怒火之语",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FlameBlades",
+		[173468] = {
+			["name"] = "急速射击",
+			["icon"] = "Interface\\Icons\\INV_Ammo_Bullet_01",
 		},
 		[49865] = {
 			["duration"] = 5,
@@ -11450,18 +11474,17 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\spell_fel_incinerate",
 			["duration"] = 45,
 		},
-		[108416] = {
-			["duration"] = 20,
-			["name"] = "黑暗契约",
-			["icon"] = "Interface\\Icons\\warlock_sacrificial_pact",
+		[208610] = {
+			["name"] = "涅墨西斯",
+			["icon"] = "Interface\\Icons\\INV_Misc_Head_Dragon_Green",
 		},
 		[184552] = {
 			["name"] = "邪恶护盾",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_Shadesofdarkness",
 		},
 		[217824] = {
-			["icon"] = "Interface\\Icons\\inv_shield_60",
 			["name"] = "美德之盾",
+			["icon"] = "Interface\\Icons\\inv_shield_60",
 			["debuffType"] = "Magic",
 		},
 		[161006] = {
@@ -11472,10 +11495,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "余烬图腾",
 			["icon"] = "Interface\\Icons\\Spell_Fire_SearingTotem",
 		},
-		[214975] = {
-			["duration"] = 0,
-			["name"] = "抑心光环",
-			["icon"] = "Interface\\ICONS\\Ability_DeathKnight_HeartstopAura",
+		[177051] = {
+			["name"] = "动荡",
+			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_06",
 		},
 		[13750] = {
 			["duration"] = 15,
@@ -11495,10 +11517,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_fixated_state_red",
 			["duration"] = 6,
 		},
-		[185065] = {
-			["name"] = "死灵印记",
-			["icon"] = "Interface\\Icons\\ability_bossfelorcs_necromancer_orange",
-			["debuffType"] = "Magic",
+		[6940] = {
+			["duration"] = 12,
+			["icon"] = "Interface\\Icons\\Spell_Holy_SealOfSacrifice",
+			["name"] = "牺牲祝福",
 		},
 		[201957] = {
 			["icon"] = "INTERFACE\\ICONS\\spell_frost_ring of frost",
@@ -11527,36 +11549,40 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_DragonHawk",
 			["duration"] = 8,
 		},
-		[223632] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\sha_ability_rogue_sturdyrecuperate_nightborne",
-			["name"] = "枯法光环",
+		[107574] = {
+			["duration"] = 20,
+			["name"] = "天神下凡",
+			["icon"] = "Interface\\Icons\\warrior_talent_icon_avatar",
 		},
 		[185066] = {
-			["name"] = "死灵印记",
 			["icon"] = "Interface\\Icons\\ability_bossfelorcs_necromancer_red",
+			["name"] = "死灵印记",
 			["debuffType"] = "Magic",
 		},
 		[125565] = {
 			["duration"] = 9,
-			["icon"] = "Interface\\Icons\\Ability_Warrior_WarCry",
 			["name"] = "挫志怒吼",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_WarCry",
 		},
-		[218813] = {
-			["icon"] = "Interface\\Icons\\inv_leystone",
-			["duration"] = 300,
+		[193261] = {
+			["icon"] = "Interface\\Icons\\artifactability_blooddeathknight_umbilicuseternus",
+			["duration"] = 10,
 		},
-		[173468] = {
-			["name"] = "急速射击",
-			["icon"] = "Interface\\Icons\\INV_Ammo_Bullet_01",
+		[408] = {
+			["duration"] = 4,
+			["icon"] = "Interface\\Icons\\Ability_Rogue_KidneyShot",
+			["name"] = "肾击",
 		},
-		[32615] = {
-			["icon"] = "Interface\\Icons\\Ability_Stealth",
-			["duration"] = 0,
+		[207589] = {
+			["name"] = "伊特伦迪，银月之珠",
+			["duration"] = 5,
+			["icon"] = "Interface\\Icons\\Spell_Holy_ImpHolyConcentration",
+			["debuffType"] = "Magic",
 		},
-		[216291] = {
-			["icon"] = "Interface\\Icons\\ability_deathknight_icygrip",
-			["duration"] = 9,
+		[228576] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_SoothingKiss",
+			["name"] = "被诱惑",
+			["debuffType"] = "Magic",
 		},
 		[200423] = {
 			["name"] = "圣光救赎",
@@ -11566,22 +11592,22 @@ JamPlatesAccessoriesDB = {
 			["name"] = "红色长剑",
 			["icon"] = "Interface\\Icons\\ability_iyyokuk_sword_red",
 		},
-		[177051] = {
-			["name"] = "动荡",
-			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_06",
+		[212415] = {
+			["name"] = "符文斧兵勇士",
+			["icon"] = "INTERFACE\\ICONS\\spell_shadow_rune",
 		},
-		[142533] = {
-			["name"] = "毒素：红色",
-			["icon"] = "Interface\\Icons\\ability_xaril_masterpoisoner_red",
+		[194966] = {
+			["icon"] = "INTERFACE\\ICONS\\spell_warlock_demonsoul",
+			["duration"] = 12,
 		},
 		[227041] = {
 			["name"] = "宁神书卷",
 			["icon"] = "Interface\\Icons\\inv_relics_libramofgrace",
 		},
-		[235235] = {
-			["name"] = "冰霜新星",
-			["icon"] = "Interface\\Icons\\Spell_Frost_FrostNova",
-			["debuffType"] = "Magic",
+		[31821] = {
+			["duration"] = 8,
+			["name"] = "光环掌握",
+			["icon"] = "Interface\\Icons\\Spell_Holy_AuraMastery",
 		},
 		[191210] = {
 			["icon"] = "Interface\\Icons\\Ability_Rogue_Disguise",
@@ -11592,30 +11618,32 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Misc_Fork&Knife",
 			["name"] = "进食饮水",
 		},
-		[228583] = {
-			["name"] = "死灵光环",
-			["icon"] = "Interface\\Icons\\ability_deathknight_decomposingaura",
+		[148897] = {
+			["name"] = "卓越视界",
+			["icon"] = "Interface\\Icons\\Spell_Holy_MindVision",
 		},
-		[170196] = {
-			["name"] = "撕裂旋风",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_BloodNova",
+		[125174] = {
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\ability_monk_touchofkarma",
+			["name"] = "业报之触",
 		},
-		[194966] = {
-			["icon"] = "INTERFACE\\ICONS\\spell_warlock_demonsoul",
-			["duration"] = 12,
+		[71905] = {
+			["name"] = "灵魂残片",
+			["icon"] = "Interface\\Icons\\INV_Misc_Gem_Amethyst_02",
 		},
 		[121471] = {
 			["name"] = "暗影之刃",
 			["icon"] = "Interface\\Icons\\inv_knife_1h_grimbatolraid_d_03",
 		},
-		[54729] = {
-			["icon"] = "Interface\\Icons\\ability_mount_ebonblade",
+		[206567] = {
+			["icon"] = "Interface\\Icons\\Ability_Druid_TwilightsWrath",
 			["duration"] = 0,
 		},
-		[46668] = {
-			["duration"] = 3600.002,
-			["icon"] = "Interface\\Icons\\Spell_Misc_EmotionHappy",
-			["name"] = "耶！",
+		[15798] = {
+			["name"] = "月火术",
+			["duration"] = 12,
+			["icon"] = "Interface\\Icons\\Spell_Nature_StarFall",
+			["debuffType"] = "Magic",
 		},
 		[223971] = {
 			["icon"] = "Interface\\Icons\\Ability_Druid_PredatoryInstincts",
@@ -11626,35 +11654,35 @@ JamPlatesAccessoriesDB = {
 			["name"] = "锈水财阀勇士",
 			["icon"] = "INTERFACE\\ICONS\\inv_misc_tabard_kezan",
 		},
-		[148897] = {
-			["name"] = "卓越视界",
-			["icon"] = "Interface\\Icons\\Spell_Holy_MindVision",
+		[216814] = {
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Haunting",
+			["debuffType"] = "Magic",
 		},
-		[211903] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\INV_Misc_ArmorKit_23",
-			["name"] = "信仰之盾",
+		[193223] = {
+			["name"] = "疯入膏肓",
+			["icon"] = "Interface\\Icons\\Achievement_Boss_GeneralVezax_01",
 		},
 		[156404] = {
 			["name"] = "烧伤",
 			["icon"] = "Interface\\Icons\\INV_SummerFest_FireSpirit",
 		},
-		[71905] = {
-			["name"] = "灵魂残片",
-			["icon"] = "Interface\\Icons\\INV_Misc_Gem_Amethyst_02",
+		[223630] = {
+			["name"] = "灵魂裂劈",
+			["icon"] = "INTERFACE\\ICONS\\spell_warlock_soulburn",
 		},
 		[218853] = {
 			["icon"] = "Interface\\Icons\\Ability_Druid_PrimalTenacity",
 			["duration"] = 15,
 		},
-		[191727] = {
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\inv_misc_food_102_flatbread",
-			["name"] = "饥荒",
+		[227047] = {
+			["icon"] = "Interface\\Icons\\creatureportrait_infernal_ball_02",
+			["duration"] = 0,
 		},
-		[162547] = {
-			["name"] = "钢铁壁垒",
-			["icon"] = "Interface\\Icons\\INV_Shield_32",
+		[470] = {
+			["duration"] = 0,
+			["name"] = "黑马",
+			["icon"] = "Interface\\Icons\\Ability_Mount_RidingHorse",
 		},
 		[228579] = {
 			["duration"] = 0,
@@ -11665,8 +11693,8 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Mount_RidingHorse",
 			["duration"] = 0,
 		},
-		[179828] = {
-			["icon"] = "Interface\\Icons\\Achievement_Character_Orc_Female",
+		[22719] = {
+			["icon"] = "Interface\\Icons\\ability_mount_blackbattlestrider",
 			["duration"] = 0,
 		},
 		[193260] = {
@@ -11675,8 +11703,8 @@ JamPlatesAccessoriesDB = {
 		},
 		[210152] = {
 			["duration"] = 1,
-			["icon"] = "Interface\\Icons\\inv_glaive_1h_artifactaldrochi_d_02dual",
 			["name"] = "死亡横扫",
+			["icon"] = "Interface\\Icons\\inv_glaive_1h_artifactaldrochi_d_02dual",
 		},
 		[210664] = {
 			["duration"] = 4,
@@ -11684,8 +11712,8 @@ JamPlatesAccessoriesDB = {
 			["name"] = "血之气息",
 		},
 		[219366] = {
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_web_02",
 			["name"] = "腐蚀之网",
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_web_02",
 			["debuffType"] = "Magic",
 		},
 		[15286] = {
@@ -11693,34 +11721,36 @@ JamPlatesAccessoriesDB = {
 			["name"] = "吸血鬼的拥抱",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_UnsummonBuilding",
 		},
-		[408] = {
-			["duration"] = 4,
-			["icon"] = "Interface\\Icons\\Ability_Rogue_KidneyShot",
-			["name"] = "肾击",
+		[222094] = {
+			["name"] = "阿隆索斯·法奥",
+			["icon"] = "Interface\\Icons\\ability_priest_cascade",
 		},
-		[223630] = {
-			["name"] = "灵魂裂劈",
-			["icon"] = "INTERFACE\\ICONS\\spell_warlock_soulburn",
+		[228583] = {
+			["name"] = "死灵光环",
+			["icon"] = "Interface\\Icons\\ability_deathknight_decomposingaura",
 		},
-		[227047] = {
-			["icon"] = "Interface\\Icons\\creatureportrait_infernal_ball_02",
+		[194500] = {
+			["duration"] = 2,
+			["name"] = "毁灭践踏",
+			["icon"] = "Interface\\Icons\\Ability_WarStomp",
+		},
+		[217831] = {
+			["name"] = "上古之怒：冰霜",
+			["icon"] = "Interface\\Icons\\inv_infernalmounice",
+		},
+		[211127] = {
 			["duration"] = 0,
-		},
-		[193261] = {
-			["icon"] = "Interface\\Icons\\artifactability_blooddeathknight_umbilicuseternus",
-			["duration"] = 10,
-		},
-		[22719] = {
-			["icon"] = "Interface\\Icons\\ability_mount_blackbattlestrider",
-			["duration"] = 0,
+			["name"] = "风暴之眼",
+			["icon"] = "Interface\\Icons\\sha_ability_rogue_bloodyeye",
 		},
 		[218855] = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_VictoryRush",
 			["duration"] = 3,
 		},
-		[222094] = {
-			["name"] = "阿隆索斯·法奥",
-			["icon"] = "Interface\\Icons\\ability_priest_cascade",
+		[142241] = {
+			["duration"] = 0,
+			["name"] = "搏击冠军",
+			["icon"] = "Interface\\Icons\\inv_weapon_hand_30",
 		},
 		[191214] = {
 			["name"] = "黄色雪球",
@@ -11731,10 +11761,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "腐烂光环",
 			["icon"] = "Interface\\ICONS\\Ability_DeathKnight_NecroticAura",
 		},
-		[191728] = {
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\inv_sword_159",
-			["name"] = "战争",
+		[114052] = {
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\Spell_Fire_ElementalDevastation",
+			["name"] = "升腾",
 		},
 		[200940] = {
 			["duration"] = 15,
@@ -11742,50 +11772,49 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\artifactability_guardiandruid_adaptivefur",
 		},
 		[217832] = {
-			["name"] = "禁锢",
 			["icon"] = "Interface\\Icons\\ability_demonhunter_imprison",
+			["name"] = "禁锢",
 			["debuffType"] = "Magic",
 		},
-		[156374] = {
-			["name"] = "爆裂残片",
-			["icon"] = "Interface\\Icons\\6bf_explosive_shard",
+		[215552] = {
+			["name"] = "苍白魅力",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_AnimateDead",
 		},
 		[182001] = {
 			["name"] = "不稳定的宝珠",
 			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameRing",
 		},
-		[23338] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Ability_Mount_BlackPanther",
-			["name"] = "迅捷雷刃豹",
+		[46668] = {
+			["duration"] = 3600.002,
+			["icon"] = "Interface\\Icons\\Spell_Misc_EmotionHappy",
+			["name"] = "耶！",
 		},
-		[15798] = {
-			["name"] = "月火术",
-			["duration"] = 12,
-			["icon"] = "Interface\\Icons\\Spell_Nature_StarFall",
-			["debuffType"] = "Magic",
+		[215785] = {
+			["name"] = "灼热之手",
+			["icon"] = "Interface\\Icons\\Spell_Fire_PlayingWithFire",
 		},
-		[46924] = {
-			["name"] = "剑刃风暴",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_Bladestorm",
+		[191727] = {
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\inv_misc_food_102_flatbread",
+			["name"] = "饥荒",
 		},
-		[34767] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Ability_Mount_Charger",
-			["name"] = "召唤萨拉斯军马",
+		[171764] = {
+			["name"] = "火球术",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FlameBolt",
 		},
-		[63560] = {
-			["name"] = "黑暗突变",
-			["icon"] = "INTERFACE\\ICONS\\achievement_boss_festergutrotface",
+		[200941] = {
+			["duration"] = 15,
+			["name"] = "抗性毛皮",
+			["icon"] = "Interface\\Icons\\artifactability_guardiandruid_adaptivefur",
 		},
 		[213738] = {
 			["duration"] = 30,
 			["icon"] = "Interface\\Icons\\Ability_Warrior_BloodBath",
 			["name"] = "鲜血气息",
 		},
-		[186616] = {
-			["name"] = "石化",
-			["icon"] = "Interface\\Icons\\INV_DataCrystal06",
+		[218510] = {
+			["name"] = "精神鞭笞",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_SiphonMana",
 		},
 		[222952] = {
 			["duration"] = 0,
@@ -11801,15 +11830,14 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_CurseOfMannoroth",
 			["debuffType"] = "Curse",
 		},
-		[199918] = {
-			["duration"] = 20,
-			["name"] = "暗影冲撞",
-			["icon"] = "Interface\\Icons\\sha_spell_fire_bluehellfire",
+		[191728] = {
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\inv_sword_159",
+			["name"] = "战争",
 		},
-		[142241] = {
-			["duration"] = 0,
-			["name"] = "搏击冠军",
-			["icon"] = "Interface\\Icons\\inv_weapon_hand_30",
+		[146141] = {
+			["name"] = "燃怒之爪",
+			["icon"] = "Interface\\Icons\\monk_ability_fistoffury",
 		},
 		[200942] = {
 			["duration"] = 15,
@@ -11820,9 +11848,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "上古之怒：奥术",
 			["icon"] = "Interface\\Icons\\Spell_Arcane_PrismaticCloak",
 		},
-		[145629] = {
-			["name"] = "反魔法领域",
-			["icon"] = "Interface\\Icons\\Spell_DeathKnight_AntiMagicZone",
+		[224760] = {
+			["icon"] = "Interface\\Icons\\spell_arcane_arcanetorrent_nightborne",
+			["duration"] = 0,
 		},
 		[16246] = {
 			["name"] = "元素集中",
@@ -11853,36 +11881,38 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\artifactability_guardiandruid_adaptivefur",
 			["name"] = "抗性毛皮",
 		},
-		[194500] = {
-			["duration"] = 2,
-			["name"] = "毁灭践踏",
-			["icon"] = "Interface\\Icons\\Ability_WarStomp",
+		[147359] = {
+			["name"] = "永恒力量",
+			["icon"] = "INTERFACE\\ICONS\\spell_paladin_divinecircle",
 		},
-		[218510] = {
-			["name"] = "精神鞭笞",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_SiphonMana",
-		},
-		[206574] = {
-			["icon"] = "Interface\\Icons\\Spell_Arcane_ArcaneTorrent",
-			["name"] = "共鸣挥砍",
+		[224333] = {
+			["icon"] = "Interface\\Icons\\ability_skyreach_wind",
+			["name"] = "包围之风",
 			["debuffType"] = "Magic",
 		},
-		[165088] = {
-			["name"] = "眩晕",
-			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
+		[206574] = {
+			["name"] = "共鸣挥砍",
+			["icon"] = "Interface\\Icons\\Spell_Arcane_ArcaneTorrent",
+			["debuffType"] = "Magic",
 		},
-		[237744] = {
-			["name"] = "战神",
-			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
+		[207342] = {
+			["duration"] = 60,
+			["icon"] = "Interface\\Icons\\Ability_Druid_ChallangingRoar",
+			["debuffType"] = "",
+		},
+		[156374] = {
+			["name"] = "爆裂残片",
+			["icon"] = "Interface\\Icons\\6bf_explosive_shard",
 		},
 		[191730] = {
 			["duration"] = 6,
 			["name"] = "死亡",
 			["icon"] = "INTERFACE\\ICONS\\inv_helm_plate_pvpdeathknight_c_01",
 		},
-		[147359] = {
-			["name"] = "永恒力量",
-			["icon"] = "INTERFACE\\ICONS\\spell_paladin_divinecircle",
+		[221885] = {
+			["duration"] = 3,
+			["icon"] = "Interface\\Icons\\ability_paladin_divinesteed",
+			["name"] = "神圣马驹",
 		},
 		[200944] = {
 			["duration"] = 15,
@@ -11893,43 +11923,45 @@ JamPlatesAccessoriesDB = {
 			["name"] = "守护者的魔仆",
 			["icon"] = "INTERFACE\\ICONS\\trade_archaeology_carved wildhammer gryphon figurine",
 		},
-		[208610] = {
-			["name"] = "涅墨西斯",
-			["icon"] = "Interface\\Icons\\INV_Misc_Head_Dragon_Green",
-		},
-		[202480] = {
-			["icon"] = "Interface\\Icons\\ability_fixated_state_red",
-			["duration"] = 10,
-		},
-		[211182] = {
-			["icon"] = "Interface\\Icons\\inv_misc_head_dragon_black_nightmare",
-			["duration"] = 0,
-		},
-		[221246] = {
-			["name"] = "末日守卫的诅咒",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_AuraOfDarkness",
-			["debuffType"] = "Curse",
-		},
-		[205826] = {
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelFireward",
-			["duration"] = 0,
-		},
-		[184053] = {
-			["name"] = "邪能屏障",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelFireward",
-		},
 		[200945] = {
 			["duration"] = 15,
 			["name"] = "抗性毛皮",
 			["icon"] = "Interface\\Icons\\artifactability_guardiandruid_adaptivefur",
 		},
+		[210670] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\artifactability_feraldruid_openwounds",
+			["name"] = "迸裂创伤",
+		},
+		[211182] = {
+			["icon"] = "Interface\\Icons\\inv_misc_head_dragon_black_nightmare",
+			["duration"] = 0,
+		},
+		[196290] = {
+			["icon"] = "Interface\\Icons\\ability_thunderking_balllightning",
+			["duration"] = 3,
+		},
+		[131490] = {
+			["duration"] = 22,
+			["name"] = "钓鱼",
+			["icon"] = "Interface\\Icons\\Trade_Fishing",
+		},
+		[184053] = {
+			["name"] = "邪能屏障",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelFireward",
+		},
+		[546] = {
+			["duration"] = 600,
+			["icon"] = "Interface\\Icons\\Spell_Frost_WindWalkOn",
+			["name"] = "水上行走",
+		},
 		[193267] = {
 			["icon"] = "Interface\\Icons\\INV_Elemental_Primal_Earth",
 			["duration"] = 0,
 		},
-		[168089] = {
-			["name"] = "奥术壁垒",
-			["icon"] = "Interface\\Icons\\ability_paladin_blindinglight2",
+		[226512] = {
+			["name"] = "鲜血脓液",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_BloodBoil",
 		},
 		[218861] = {
 			["icon"] = "Interface\\Icons\\Spell_Arcane_Blast",
@@ -11948,10 +11980,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Arcane_FocusedPower",
 			["name"] = "智力",
 		},
-		[216814] = {
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Haunting",
-			["debuffType"] = "Magic",
+		[52172] = {
+			["name"] = "卡洛斯的著名帽子",
+			["icon"] = "Interface\\Icons\\INV_Helmet_50",
 		},
 		[145152] = {
 			["duration"] = 30,
@@ -11963,19 +11994,14 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Gorilla",
 			["name"] = "发狂",
 		},
-		[202443] = {
-			["duration"] = 2,
-			["icon"] = "Interface\\Icons\\artifactability_havocdemonhunter_anguishofthedeceiver",
-			["name"] = "痛楚",
+		[197637] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Ability_Druid_Starfall",
+			["name"] = "星界增效",
 		},
 		[9080] = {
 			["icon"] = "Interface\\Icons\\Ability_ShockWave",
 			["duration"] = 5,
-		},
-		[131490] = {
-			["duration"] = 22,
-			["icon"] = "Interface\\Icons\\Trade_Fishing",
-			["name"] = "钓鱼",
 		},
 		[216303] = {
 			["duration"] = 30,
@@ -11983,25 +12009,30 @@ JamPlatesAccessoriesDB = {
 			["debuffType"] = "Magic",
 		},
 		[204018] = {
-			["name"] = "破咒祝福",
 			["icon"] = "Interface\\Icons\\Spell_Holy_BlessingOfProtection",
+			["name"] = "破咒祝福",
 			["debuffType"] = "Magic",
+		},
+		[183543] = {
+			["icon"] = "Interface\\Icons\\Spell_Nature_ThunderClap",
+			["duration"] = 8,
 		},
 		[57291] = {
 			["name"] = "进食充分",
 			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
 		},
+		[215562] = {
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\Ability_Hunter_RapidKilling",
+			["name"] = "战争机器",
+		},
 		[209649] = {
 			["name"] = "艾露恩之光",
 			["icon"] = "Interface\\Icons\\Spell_Holy_ElunesGrace",
 		},
-		[115078] = {
-			["name"] = "分筋错骨",
-			["icon"] = "Interface\\Icons\\ability_monk_paralysis",
-		},
-		[155865] = {
-			["icon"] = "Interface\\Icons\\ability_butcher_whirl",
-			["duration"] = 30,
+		[189108] = {
+			["icon"] = "Interface\\Icons\\Spell_Frost_Frostbolt",
+			["duration"] = 3,
 		},
 		[198388] = {
 			["icon"] = "Interface\\Icons\\ability_deathwing_assualtaspects",
@@ -12012,23 +12043,23 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Magic_LesserInvisibilty",
 			["name"] = "渐隐术",
 		},
-		[198079] = {
-			["icon"] = "Interface\\Icons\\Ability_Rogue_BloodyEye",
-			["duration"] = 5,
+		[141917] = {
+			["icon"] = "Interface\\Icons\\inv_pet_mouse",
+			["duration"] = 180,
 		},
 		[216304] = {
 			["duration"] = 12,
 			["icon"] = "Interface\\Icons\\Spell_Frost_ArcticWinds",
 			["debuffType"] = "Magic",
 		},
+		[147357] = {
+			["name"] = "永恒智力",
+			["icon"] = "INTERFACE\\ICONS\\spell_paladin_divinecircle",
+		},
 		[6136] = {
 			["duration"] = 5,
 			["icon"] = "Interface\\Icons\\Spell_Frost_FrostArmor02",
 			["debuffType"] = "Magic",
-		},
-		[142878] = {
-			["name"] = "魔法灵龙",
-			["icon"] = "Interface\\Icons\\inv_faeriedragonmount",
 		},
 		[163024] = {
 			["duration"] = 0,
@@ -12040,10 +12071,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Nature_ThunderClap",
 			["debuffType"] = "Magic",
 		},
-		[200208] = {
-			["duration"] = 4,
-			["icon"] = "Interface\\Icons\\ability_shawaterelemental_split",
-			["name"] = "死水冲击",
+		[186616] = {
+			["name"] = "石化",
+			["icon"] = "Interface\\Icons\\INV_DataCrystal06",
 		},
 		[81039] = {
 			["duration"] = 15,
@@ -12054,9 +12084,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "永生者",
 			["icon"] = "Interface\\Icons\\Spell_Holy_AvengersShield",
 		},
-		[147357] = {
-			["name"] = "永恒智力",
-			["icon"] = "INTERFACE\\ICONS\\spell_paladin_divinecircle",
+		[222631] = {
+			["icon"] = "Interface\\Icons\\ability_demonhunter_felblade",
+			["duration"] = 30,
 		},
 		[216817] = {
 			["name"] = "你要爆炸了！",
@@ -12076,24 +12106,24 @@ JamPlatesAccessoriesDB = {
 			["duration"] = 0,
 		},
 		[206580] = {
-			["icon"] = "Interface\\Icons\\Spell_Arcane_ArcaneTorrent",
 			["name"] = "共鸣挥砍",
+			["icon"] = "Interface\\Icons\\Spell_Arcane_ArcaneTorrent",
 			["debuffType"] = "Magic",
 		},
-		[178306] = {
-			["name"] = "战歌兽人服装",
-			["icon"] = "Interface\\Icons\\Ability_Rogue_Disguise",
+		[152279] = {
+			["name"] = "冰龙吐息",
+			["icon"] = "Interface\\Icons\\spell_deathknight_breathofsindragosa",
 		},
 		[2479] = {
 			["duration"] = 30,
 			["name"] = "无荣誉目标",
 			["icon"] = "Interface\\Icons\\Spell_Magic_LesserInvisibilty",
 		},
-		[233496] = {
-			["name"] = "痛苦无常",
-			["duration"] = 6.764,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_UnstableAffliction_3",
-			["debuffType"] = "Magic",
+		[188818] = {
+			["name"] = "暗影镣铐",
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\inv_archaeology_ogres_stone_manacles",
+			["debuffType"] = "Curse",
 		},
 		[208628] = {
 			["duration"] = 4,
@@ -12104,16 +12134,13 @@ JamPlatesAccessoriesDB = {
 			["name"] = "迅捷紫色驭风者",
 			["icon"] = "Interface\\Icons\\ability_mount_swiftpurplewindrider",
 		},
-		[642] = {
-			["name"] = "圣盾术",
-			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\spell_holy_divineshield",
-			["debuffType"] = "Magic",
+		[180116] = {
+			["name"] = "爆炸能量",
+			["icon"] = "Interface\\Icons\\spell_yorsahj_bloodboil_orangeoil",
 		},
-		[192761] = {
-			["duration"] = 297348.992,
-			["name"] = "凡图斯符文：尼珊德拉",
-			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_nightmare",
+		[98444] = {
+			["name"] = "维库饮水角",
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_archaeology_vrykuldrinkinghorn",
 		},
 		[97164] = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_Charge",
@@ -12123,48 +12150,48 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\spell_mage_icenova",
 			["duration"] = 0,
 		},
-		[187131] = {
-			["duration"] = 30,
-			["icon"] = "Interface\\Icons\\Ability_Hunter_MasterMarksman",
-			["name"] = "易伤",
+		[642] = {
+			["name"] = "圣盾术",
+			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\spell_holy_divineshield",
+			["debuffType"] = "Magic",
 		},
-		[188818] = {
-			["name"] = "暗影镣铐",
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\inv_archaeology_ogres_stone_manacles",
-			["debuffType"] = "Curse",
+		[215435] = {
+			["icon"] = "Interface\\Icons\\Spell_Holy_SealOfValor",
+			["duration"] = 0,
 		},
 		[196344] = {
 			["name"] = "海底行者药水",
 			["icon"] = "Interface\\Icons\\INV_Elemental_Primal_Water",
 		},
-		[98444] = {
-			["name"] = "维库饮水角",
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_archaeology_vrykuldrinkinghorn",
+		[192761] = {
+			["duration"] = 297348.992,
+			["name"] = "凡图斯符文：尼珊德拉",
+			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_nightmare",
 		},
 		[115080] = {
 			["duration"] = 8,
 			["name"] = "轮回之触",
 			["icon"] = "Interface\\Icons\\ability_monk_touchofdeath",
 		},
-		[180116] = {
-			["name"] = "爆炸能量",
-			["icon"] = "Interface\\Icons\\spell_yorsahj_bloodboil_orangeoil",
+		[54861] = {
+			["duration"] = 5,
+			["name"] = "氮气推进器",
+			["icon"] = "Interface\\Icons\\Spell_Fire_BurningSpeed",
 		},
 		[198392] = {
 			["icon"] = "Interface\\Icons\\Ability_Druid_ChallangingRoar",
 			["duration"] = 0,
 		},
-		[198904] = {
-			["name"] = "剧毒之矛",
-			["duration"] = 12,
-			["icon"] = "Interface\\Icons\\Ability_Poisons",
-			["debuffType"] = "Poison",
+		[207094] = {
+			["duration"] = 8,
+			["name"] = "泰坦之雷",
+			["icon"] = "Interface\\Icons\\inv_firearm_2h_artifactlegion_d_01",
 		},
-		[199416] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\icon_treasuremap",
-			["name"] = "苏拉玛的宝藏",
+		[187131] = {
+			["duration"] = 30,
+			["name"] = "易伤",
+			["icon"] = "Interface\\Icons\\Ability_Hunter_MasterMarksman",
 		},
 		[163073] = {
 			["duration"] = 15,
@@ -12189,24 +12216,25 @@ JamPlatesAccessoriesDB = {
 			["name"] = "毒性污秽",
 			["icon"] = "Interface\\Icons\\Spell_Nature_CorrosiveBreath",
 		},
+		[219380] = {
+			["duration"] = 180,
+			["icon"] = "Interface\\Icons\\Ability_Hunter_EagleEye",
+			["name"] = "召唤雄鹰",
+		},
 		[93326] = {
 			["duration"] = 0,
 			["name"] = "沙石幼龙",
 			["icon"] = "INTERFACE\\ICONS\\inv_misc_stonedragonorange",
 		},
-		[54861] = {
+		[166302] = {
+			["duration"] = 600,
+			["icon"] = "Interface\\Icons\\Achievement_BG_winWSG_underXminutes",
+			["name"] = "消磨时间",
+		},
+		[1719] = {
 			["duration"] = 5,
-			["name"] = "氮气推进器",
-			["icon"] = "Interface\\Icons\\Spell_Fire_BurningSpeed",
-		},
-		[195321] = {
-			["duration"] = 30,
-			["name"] = "转化力量",
-			["icon"] = "Interface\\Icons\\monk_ability_fistoffury",
-		},
-		[215435] = {
-			["icon"] = "Interface\\Icons\\Spell_Holy_SealOfValor",
-			["duration"] = 0,
+			["icon"] = "INTERFACE\\ICONS\\warrior_talent_icon_innerrage",
+			["name"] = "战吼",
 		},
 		[163586] = {
 			["duration"] = 10,
@@ -12217,43 +12245,45 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_nightmare",
 			["duration"] = 161242,
 		},
+		[25771] = {
+			["duration"] = 30,
+			["name"] = "自律",
+			["icon"] = "Interface\\Icons\\Spell_Holy_RemoveCurse",
+		},
 		[181502] = {
 			["name"] = "能量吸取",
 			["duration"] = 8,
 			["icon"] = "Interface\\Icons\\Spell_Shadow_SoulLeech_2",
 			["debuffType"] = "Magic",
 		},
-		[156932] = {
-			["name"] = "崩裂",
-			["icon"] = "Interface\\Icons\\ability_rhyolith_magmaflow_whole",
+		[144954] = {
+			["duration"] = 61,
+			["name"] = "亚煞极之境",
+			["icon"] = "Interface\\Icons\\inv_heart_of_the_thunder king_icon",
 		},
-		[222631] = {
-			["icon"] = "Interface\\Icons\\ability_demonhunter_felblade",
-			["duration"] = 30,
-		},
-		[166302] = {
+		[57723] = {
 			["duration"] = 600,
-			["name"] = "消磨时间",
-			["icon"] = "Interface\\Icons\\Achievement_BG_winWSG_underXminutes",
+			["icon"] = "Interface\\Icons\\Spell_Nature_Sleep",
+			["name"] = "筋疲力尽",
 		},
-		[1719] = {
-			["duration"] = 5,
-			["icon"] = "INTERFACE\\ICONS\\warrior_talent_icon_innerrage",
-			["name"] = "战吼",
+		[498] = {
+			["duration"] = 8,
+			["name"] = "圣佑术",
+			["icon"] = "Interface\\Icons\\spell_holy_divineprotection",
 		},
 		[216310] = {
 			["duration"] = 0,
 			["name"] = "冰封地面",
 			["icon"] = "INTERFACE\\ICONS\\achievement_zone_icecrown_02",
 		},
-		[143624] = {
-			["name"] = "黄色螳螂妖",
-			["icon"] = "Interface\\Icons\\ability_iyyokuk_mantid_yellow",
-		},
 		[200954] = {
 			["duration"] = 5,
 			["icon"] = "Interface\\Icons\\Ability_Warrior_InnerRage",
 			["name"] = "战争疤痕",
+		},
+		[143624] = {
+			["name"] = "黄色螳螂妖",
+			["icon"] = "Interface\\Icons\\ability_iyyokuk_mantid_yellow",
 		},
 		[181503] = {
 			["duration"] = 15,
@@ -12265,20 +12295,20 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Holy_DivineHymn",
 			["name"] = "神圣赞美诗",
 		},
-		[144954] = {
-			["duration"] = 61,
-			["name"] = "亚煞极之境",
-			["icon"] = "Interface\\Icons\\inv_heart_of_the_thunder king_icon",
-		},
-		[186622] = {
-			["name"] = "致残阴影",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Cripple",
+		[205708] = {
+			["name"] = "冰冻",
+			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\Ability_Mage_ChilledToTheBone",
 			["debuffType"] = "Magic",
 		},
-		[57723] = {
-			["duration"] = 600,
-			["icon"] = "Interface\\Icons\\Spell_Nature_Sleep",
-			["name"] = "筋疲力尽",
+		[186622] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Cripple",
+			["name"] = "致残阴影",
+			["debuffType"] = "Magic",
+		},
+		[143612] = {
+			["name"] = "蓝色战鼓",
+			["icon"] = "Interface\\Icons\\ability_iyyokuk_drum_blue",
 		},
 		[163076] = {
 			["name"] = "身经百战",
@@ -12294,29 +12324,28 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Rogue_DualWeild",
 			["name"] = "致命药膏",
 		},
+		[201979] = {
+			["icon"] = "Interface\\Icons\\inv_helmet_goggles_pandariatradeskill_d_01",
+			["duration"] = 0,
+		},
 		[710] = {
 			["duration"] = 30,
 			["icon"] = "Interface\\Icons\\Spell_Shadow_Cripple",
 			["debuffType"] = "Magic",
-		},
-		[201979] = {
-			["icon"] = "Interface\\Icons\\inv_helmet_goggles_pandariatradeskill_d_01",
-			["duration"] = 0,
 		},
 		[41425] = {
 			["duration"] = 30,
 			["icon"] = "Interface\\Icons\\Spell_Fire_BlueImmolation",
 			["name"] = "低温",
 		},
-		[205708] = {
-			["name"] = "冰冻",
-			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\Ability_Mage_ChilledToTheBone",
-			["debuffType"] = "Magic",
+		[220597] = {
+			["name"] = "充能箭",
+			["icon"] = "Interface\\Icons\\Spell_Arcane_MassDispel",
 		},
-		[204887] = {
-			["icon"] = "INTERFACE\\ICONS\\spell_arcane_rune",
-			["duration"] = 3,
+		[202658] = {
+			["duration"] = 6,
+			["name"] = "抽取",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_RitualOfSacrifice",
 		},
 		[176898] = {
 			["name"] = "侏儒发条",
@@ -12330,10 +12359,11 @@ JamPlatesAccessoriesDB = {
 			["name"] = "凡图斯符文：塞纳留斯",
 			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_nightmare",
 		},
-		[156423] = {
-			["duration"] = 25,
-			["name"] = "德拉诺敏捷药水",
-			["icon"] = "Interface\\Icons\\trade_alchemy_dpotion_a27",
+		[27243] = {
+			["name"] = "腐蚀之种",
+			["duration"] = 16.631,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_SeedOfDestruction",
+			["debuffType"] = "Magic",
 		},
 		[214265] = {
 			["name"] = "狂风暴雨",
@@ -12341,41 +12371,42 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Shaman_Stormstrike",
 			["debuffType"] = "Magic",
 		},
-		[498] = {
-			["duration"] = 8,
-			["name"] = "圣佑术",
-			["icon"] = "Interface\\Icons\\spell_holy_divineprotection",
+		[143375] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_ChillTouch",
+			["name"] = "枯萎之握",
 		},
 		[160007] = {
 			["icon"] = "Interface\\Icons\\Spell_Magic_FeatherFall",
 			["duration"] = 30,
-		},
-		[118922] = {
-			["duration"] = 5,
-			["name"] = "迅疾如风",
-			["icon"] = "INTERFACE\\ICONS\\ability_hunter_posthaste",
-		},
-		[191743] = {
-			["duration"] = 3,
-			["name"] = "震耳尖啸",
-			["icon"] = "Interface\\Icons\\ability_vehicle_sonicshockwave",
-		},
-		[200958] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_BloodBoil",
-			["duration"] = 0,
-		},
-		[192767] = {
-			["name"] = "凡图斯符文：斯考匹隆",
-			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_suramar",
 		},
 		[31850] = {
 			["duration"] = 8,
 			["name"] = "炽热防御者",
 			["icon"] = "Interface\\Icons\\Spell_Holy_ArdentDefender",
 		},
-		[202494] = {
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameRing",
-			["duration"] = 0,
+		[191743] = {
+			["duration"] = 3,
+			["name"] = "震耳尖啸",
+			["icon"] = "Interface\\Icons\\ability_vehicle_sonicshockwave",
+		},
+		[192768] = {
+			["name"] = "凡图斯符文：时空畸体",
+			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_suramar",
+		},
+		[118922] = {
+			["duration"] = 5,
+			["name"] = "迅疾如风",
+			["icon"] = "INTERFACE\\ICONS\\ability_hunter_posthaste",
+		},
+		[185089] = {
+			["name"] = "英姿勃发",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_BattleShout",
+		},
+		[210173] = {
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelFireNova",
+			["name"] = "烈焰之喉",
+			["debuffType"] = "Magic",
 		},
 		[165638] = {
 			["name"] = "恶毒打击",
@@ -12383,13 +12414,12 @@ JamPlatesAccessoriesDB = {
 		},
 		[2983] = {
 			["duration"] = 8,
-			["name"] = "疾跑",
 			["icon"] = "Interface\\Icons\\Ability_Rogue_Sprint",
+			["name"] = "疾跑",
 		},
-		[768] = {
-			["duration"] = 0,
-			["name"] = "猎豹形态",
-			["icon"] = "Interface\\Icons\\Ability_Druid_CatForm",
+		[184067] = {
+			["name"] = "邪能腐液",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelFire",
 		},
 		[204029] = {
 			["icon"] = "Interface\\Icons\\inv_misc_fish_97",
@@ -12399,9 +12429,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Ensnare",
 			["duration"] = 5,
 		},
-		[192768] = {
-			["name"] = "凡图斯符文：时空畸体",
-			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_suramar",
+		[200958] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_BloodBoil",
+			["duration"] = 0,
 		},
 		[185090] = {
 			["name"] = "英姿勃发",
@@ -12414,15 +12444,37 @@ JamPlatesAccessoriesDB = {
 			["debuffType"] = "Magic",
 		},
 		[210684] = {
-			["name"] = "虹吸精华",
 			["icon"] = "INTERFACE\\ICONS\\spell_arcane_invocation",
+			["name"] = "虹吸精华",
 			["debuffType"] = "Magic",
 		},
-		[217851] = {
-			["name"] = "毒性污秽",
-			["duration"] = 5,
-			["icon"] = "Interface\\Icons\\Spell_Nature_CorrosiveBreath",
-			["debuffType"] = "Poison",
+		[192769] = {
+			["name"] = "凡图斯符文：崔利艾克斯",
+			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_suramar",
+		},
+		[201983] = {
+			["icon"] = "Interface\\Icons\\Spell_Nature_ShamanRage",
+			["duration"] = 10,
+		},
+		[228600] = {
+			["duration"] = 4,
+			["icon"] = "Interface\\Icons\\Spell_Frost_Frostbolt",
+			["name"] = "冰川尖刺",
+		},
+		[768] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Ability_Druid_CatForm",
+			["name"] = "猎豹形态",
+		},
+		[102543] = {
+			["duration"] = 30,
+			["name"] = "化身：丛林之王",
+			["icon"] = "Interface\\Icons\\spell_druid_incarnation",
+		},
+		[772] = {
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\Ability_Gouge",
+			["name"] = "撕裂",
 		},
 		[774] = {
 			["name"] = "回春术",
@@ -12430,33 +12482,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Nature_Rejuvenation",
 			["debuffType"] = "Magic",
 		},
-		[228600] = {
-			["duration"] = 4,
-			["icon"] = "Interface\\Icons\\Spell_Frost_Frostbolt",
-			["name"] = "冰川尖刺",
-		},
-		[184067] = {
-			["name"] = "邪能腐液",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelFire",
-		},
-		[192769] = {
-			["name"] = "凡图斯符文：崔利艾克斯",
-			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_suramar",
-		},
-		[772] = {
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Ability_Gouge",
-			["name"] = "撕裂",
-		},
-		[210173] = {
-			["name"] = "烈焰之喉",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelFireNova",
+		[79930] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_AbominationExplosion",
+			["name"] = "腐蚀术",
 			["debuffType"] = "Magic",
-		},
-		[143375] = {
-			["duration"] = 0,
-			["name"] = "枯萎之握",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_ChillTouch",
 		},
 		[57934] = {
 			["duration"] = 30,
@@ -12468,19 +12497,18 @@ JamPlatesAccessoriesDB = {
 			["name"] = "扶弱济困",
 			["icon"] = "Interface\\Icons\\ability_priest_savinggrace",
 		},
-		[172965] = {
-			["name"] = "枯萎凋零",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_DeathAndDecay",
+		[226181] = {
+			["icon"] = "Interface\\Icons\\inv_polearm_2h_draenorhonors2_c_01",
+			["duration"] = 300,
 		},
-		[202658] = {
-			["duration"] = 6,
-			["name"] = "抽取",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_RitualOfSacrifice",
+		[13812] = {
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\Spell_Fire_SelfDestruct",
+			["name"] = "爆炸陷阱",
 		},
-		[79930] = {
-			["name"] = "腐蚀术",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_AbominationExplosion",
-			["debuffType"] = "Magic",
+		[118737] = {
+			["name"] = "熊猫人风筝",
+			["icon"] = "Interface\\Icons\\ability_mount_pandarenkitemount",
 		},
 		[213757] = {
 			["name"] = "处决宣判",
@@ -12488,27 +12516,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\spell_paladin_executionsentence",
 			["debuffType"] = "Magic",
 		},
-		[127370] = {
-			["name"] = "血雨",
-			["icon"] = "Interface\\Icons\\achievement_raid_mantidraid03",
-		},
-		[226181] = {
-			["icon"] = "Interface\\Icons\\inv_polearm_2h_draenorhonors2_c_01",
-			["duration"] = 300,
-		},
-		[114573] = {
-			["name"] = "害虫问题",
-			["icon"] = "Interface\\Icons\\spell_nature_insect_swarm2",
-		},
-		[118737] = {
-			["name"] = "熊猫人风筝",
-			["icon"] = "Interface\\Icons\\ability_mount_pandarenkitemount",
-		},
-		[213758] = {
-			["name"] = "小蜘蛛毒素",
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\Spell_Nature_CorrosiveBreath",
-			["debuffType"] = "Poison",
+		[226326] = {
+			["duration"] = 3600,
+			["name"] = "敏锐的灵魂烈焰",
+			["icon"] = "Interface\\Icons\\ability_demonhunter_eyebeam",
 		},
 		[220924] = {
 			["icon"] = "Interface\\Icons\\inv_drink_29_sunkissedwine",
@@ -12517,6 +12528,25 @@ JamPlatesAccessoriesDB = {
 		[192771] = {
 			["name"] = "凡图斯符文：提克迪奥斯",
 			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_suramar",
+		},
+		[210824] = {
+			["duration"] = 6,
+			["name"] = "大法师之触",
+			["icon"] = "Interface\\Icons\\spell_mage_icenova",
+		},
+		[213758] = {
+			["name"] = "小蜘蛛毒素",
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\Spell_Nature_CorrosiveBreath",
+			["debuffType"] = "Poison",
+		},
+		[114573] = {
+			["name"] = "害虫问题",
+			["icon"] = "Interface\\Icons\\spell_nature_insect_swarm2",
+		},
+		[17454] = {
+			["name"] = "原色机械陆行鸟",
+			["icon"] = "Interface\\Icons\\Ability_Mount_MechaStrider",
 		},
 		[35028] = {
 			["name"] = "迅捷作战陆行鸟",
@@ -12527,59 +12557,64 @@ JamPlatesAccessoriesDB = {
 			["name"] = "召云聚气",
 			["icon"] = "Interface\\Icons\\ability_shawaterelemental_swirl",
 		},
-		[191748] = {
-			["duration"] = 6,
-			["name"] = "诸界之灾",
-			["icon"] = "Interface\\Icons\\artifactability_unholydeathknight_flagellation",
+		[201098] = {
+			["duration"] = 0,
+			["name"] = "永恒时空撕裂者",
+			["icon"] = "Interface\\Icons\\inv_infinitedragonmount",
 		},
 		[182534] = {
 			["name"] = "易爆火焰炸弹",
 			["icon"] = "Interface\\Icons\\spell_fire_ragnaros_molteninfernogreen",
 		},
-		[210824] = {
-			["duration"] = 6,
-			["name"] = "大法师之触",
-			["icon"] = "Interface\\Icons\\spell_mage_icenova",
+		[232698] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Shadowform",
+			["name"] = "暗影形态",
 		},
-		[224508] = {
-			["icon"] = "Interface\\Icons\\ability_xavius_corruptionmeteor",
-			["duration"] = 5,
+		[191748] = {
+			["duration"] = 6,
+			["name"] = "诸界之灾",
+			["icon"] = "Interface\\Icons\\artifactability_unholydeathknight_flagellation",
 		},
 		[192772] = {
 			["name"] = "凡图斯符文：高级植物学家特尔安",
 			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_suramar",
-		},
-		[131347] = {
-			["duration"] = 0,
-			["name"] = "滑翔",
-			["icon"] = "Interface\\Icons\\ability_demonhunter_glide",
 		},
 		[217342] = {
 			["duration"] = 4,
 			["name"] = "邪恶缠网",
 			["icon"] = "Interface\\Icons\\Spell_Nature_Web",
 		},
-		[201098] = {
-			["duration"] = 0,
-			["name"] = "永恒时空撕裂者",
-			["icon"] = "Interface\\Icons\\inv_infinitedragonmount",
-		},
-		[226326] = {
-			["duration"] = 3600,
-			["name"] = "敏锐的灵魂烈焰",
-			["icon"] = "Interface\\Icons\\ability_demonhunter_eyebeam",
-		},
 		[194645] = {
 			["icon"] = "Interface\\Icons\\INV_Trinket_Naxxramas06",
 			["duration"] = 20,
 		},
-		[173322] = {
-			["name"] = "血环之印",
-			["icon"] = "Interface\\Icons\\sha_ability_rogue_bloodyeye",
+		[182670] = {
+			["name"] = "无法阻挡",
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\Ability_Rogue_FleetFooted",
+			["debuffType"] = "Magic",
+		},
+		[208065] = {
+			["name"] = "图雷之光",
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\inv_staff_2h_artifactheartofkure_d_01",
+			["debuffType"] = "Magic",
+		},
+		[115192] = {
+			["duration"] = 3,
+			["name"] = "诡诈",
+			["icon"] = "Interface\\Icons\\rogue_subterfuge",
+		},
+		[111759] = {
+			["name"] = "漂浮术",
+			["duration"] = 600,
+			["icon"] = "Interface\\Icons\\Spell_Holy_LayOnHands",
+			["debuffType"] = "Magic",
 		},
 		[224509] = {
-			["icon"] = "Interface\\Icons\\inv_icon_shadowcouncilorb_purple",
 			["name"] = "脆弱",
+			["icon"] = "Interface\\Icons\\inv_icon_shadowcouncilorb_purple",
 			["debuffType"] = "Magic",
 		},
 		[196356] = {
@@ -12591,29 +12626,27 @@ JamPlatesAccessoriesDB = {
 			["name"] = "凡图斯符文：克洛苏斯",
 			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_suramar",
 		},
-		[182670] = {
-			["name"] = "无法阻挡",
+		[18990] = {
+			["icon"] = "Interface\\Icons\\Ability_Mount_Kodo_03",
+			["duration"] = 0,
+		},
+		[173322] = {
+			["name"] = "血环之印",
+			["icon"] = "Interface\\Icons\\sha_ability_rogue_bloodyeye",
+		},
+		[196490] = {
 			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Ability_Rogue_FleetFooted",
-			["debuffType"] = "Magic",
-		},
-		[210177] = {
-			["name"] = "尖刺盾牌",
-			["icon"] = "INTERFACE\\ICONS\\inv_shield_76",
-		},
-		[111759] = {
-			["name"] = "漂浮术",
-			["duration"] = 600,
-			["icon"] = "Interface\\Icons\\Spell_Holy_LayOnHands",
-			["debuffType"] = "Magic",
+			["name"] = "纳鲁之能",
+			["icon"] = "Interface\\Icons\\Spell_Holy_PrayerOfHealing02",
 		},
 		[227581] = {
 			["name"] = "无荣誉目标",
 			["icon"] = "Interface\\Icons\\Spell_Magic_LesserInvisibilty",
 		},
-		[209154] = {
-			["icon"] = "Interface\\Icons\\Spell_Frost_FrostBlast",
-			["duration"] = 0,
+		[203524] = {
+			["duration"] = 3,
+			["icon"] = "Interface\\Icons\\inv_shield_1h_artifactmagnar_d_01",
+			["name"] = "奈萨里奥之怒",
 		},
 		[208643] = {
 			["name"] = "雄鹰哨兵",
@@ -12623,32 +12656,31 @@ JamPlatesAccessoriesDB = {
 			["name"] = "毁灭之触",
 			["icon"] = "Interface\\Icons\\ability_bossgorefiend_touchofdoom",
 		},
-		[18990] = {
-			["icon"] = "Interface\\Icons\\Ability_Mount_Kodo_03",
+		[209154] = {
+			["icon"] = "Interface\\Icons\\Spell_Frost_FrostBlast",
 			["duration"] = 0,
 		},
 		[201476] = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_PlagueCloud",
 			["duration"] = 0,
 		},
-		[192775] = {
-			["name"] = "凡图斯符文：大魔导师艾利桑德",
-			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_suramar",
+		[97493] = {
+			["duration"] = 0,
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_orb_05",
+			["name"] = "纯血火鹰",
 		},
-		[194310] = {
-			["duration"] = 24,
-			["name"] = "溃烂之伤",
-			["icon"] = "Interface\\Icons\\spell_yorsahj_bloodboil_purpleoil",
+		[198405] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_PsychicScream",
+			["name"] = "刺骨尖叫",
+			["debuffType"] = "Magic",
 		},
-		[196490] = {
-			["duration"] = 15,
-			["name"] = "纳鲁之能",
-			["icon"] = "Interface\\Icons\\Spell_Holy_PrayerOfHealing02",
+		[209667] = {
+			["name"] = "剑刃奔涌",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_BloodBath",
 		},
-		[203524] = {
-			["duration"] = 3,
-			["name"] = "奈萨里奥之怒",
-			["icon"] = "Interface\\Icons\\inv_shield_1h_artifactmagnar_d_01",
+		[146194] = {
+			["name"] = "雪怒之捷",
+			["icon"] = "Interface\\Icons\\monk_stance_whitetiger",
 		},
 		[187656] = {
 			["duration"] = 8,
@@ -12659,17 +12691,17 @@ JamPlatesAccessoriesDB = {
 			["name"] = "末日印记",
 			["icon"] = "Interface\\Icons\\ability_blackhand_marked4death",
 		},
-		[196870] = {
-			["icon"] = "Interface\\Icons\\Spell_Nature_StormReach",
-			["duration"] = 12,
-		},
-		[209667] = {
-			["name"] = "剑刃奔涌",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_BloodBath",
-		},
-		[192776] = {
-			["name"] = "凡图斯符文：古尔丹",
+		[192775] = {
+			["name"] = "凡图斯符文：大魔导师艾利桑德",
 			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_suramar",
+		},
+		[193287] = {
+			["icon"] = "Interface\\Icons\\ACHIEVEMENT_BOSS_KINGYMIRON_03",
+			["duration"] = 300,
+		},
+		[180491] = {
+			["name"] = "灵魂纽带",
+			["icon"] = "INTERFACE\\ICONS\\spell_priest_shadoworbs",
 		},
 		[177931] = {
 			["name"] = "进食充分",
@@ -12679,15 +12711,13 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\spell_mage_presenceofmind",
 			["duration"] = 0,
 		},
-		[97493] = {
-			["duration"] = 0,
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_orb_05",
-			["name"] = "纯血火鹰",
+		[143766] = {
+			["name"] = "恐慌",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_PainAndSuffering",
 		},
-		[224001] = {
-			["duration"] = 3600.007,
-			["icon"] = "Interface\\Icons\\ability_bossfellord_felspike",
-			["name"] = "亵渎强化",
+		[192776] = {
+			["name"] = "凡图斯符文：古尔丹",
+			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_suramar",
 		},
 		[32235] = {
 			["duration"] = 0,
@@ -12698,10 +12728,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "点燃",
 			["icon"] = "Interface\\Icons\\INV_SummerFest_FireSpirit",
 		},
-		[181516] = {
-			["duration"] = 4,
-			["icon"] = "INTERFACE\\ICONS\\warrior_talent_icon_singlemindedfury",
-			["debuffType"] = "",
+		[224001] = {
+			["duration"] = 3600.007,
+			["name"] = "亵渎强化",
+			["icon"] = "Interface\\Icons\\ability_bossfellord_felspike",
 		},
 		[198408] = {
 			["duration"] = 0,
@@ -12712,9 +12742,11 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\spell_fel_elementaldevastation",
 			["duration"] = 0,
 		},
-		[143766] = {
-			["name"] = "恐慌",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_PainAndSuffering",
+		[221443] = {
+			["name"] = "嚎叫冰霜",
+			["duration"] = 4,
+			["icon"] = "INTERFACE\\ICONS\\spell_frost_ring of frost",
+			["debuffType"] = "Magic",
 		},
 		[195336] = {
 			["duration"] = 5,
@@ -12772,11 +12804,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_xavius_blackeningsoul",
 			["debuffType"] = "Magic",
 		},
-		[208065] = {
-			["name"] = "图雷之光",
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\inv_staff_2h_artifactheartofkure_d_01",
-			["debuffType"] = "Magic",
+		[203528] = {
+			["duration"] = 3600,
+			["icon"] = "Interface\\Icons\\Spell_Holy_GreaterBlessingofKings",
+			["name"] = "强效力量祝福",
 		},
 		[216837] = {
 			["icon"] = "Interface\\Icons\\Spell_Holy_SurgeOfLight",
@@ -12792,10 +12823,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "敏捷",
 			["icon"] = "Interface\\Icons\\Ability_Rogue_QuickRecovery",
 		},
-		[203528] = {
-			["duration"] = 3600,
-			["icon"] = "Interface\\Icons\\Spell_Holy_GreaterBlessingofKings",
-			["name"] = "强效力量祝福",
+		[146198] = {
+			["name"] = "玉珑之精",
+			["icon"] = "Interface\\Icons\\monk_stance_wiseserpent",
 		},
 		[228610] = {
 			["name"] = "燃烧之烙",
@@ -12806,18 +12836,17 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_misc_tolbaradsearchlight",
 			["name"] = "私人订制聚光灯",
 		},
-		[200953] = {
+		[197546] = {
+			["icon"] = "Interface\\Icons\\inv_glaive_1h_npc_c_01",
+			["duration"] = 30,
+		},
+		[10969] = {
+			["icon"] = "Interface\\Icons\\Ability_Mount_MechaStrider",
 			["duration"] = 0,
-			["name"] = "狂暴",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_IntensifyRage",
 		},
-		[217500] = {
-			["name"] = "背叛者的牢笼碎片",
-			["icon"] = "Interface\\Icons\\rogue_leeching_poison",
-		},
-		[125071] = {
-			["name"] = "进食充分",
-			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+		[26157] = {
+			["name"] = "PX-238冬幕欢乐制造器",
+			["icon"] = "Interface\\Icons\\Spell_Frost_FrostShock",
 		},
 		[198410] = {
 			["duration"] = 15,
@@ -12838,23 +12867,18 @@ JamPlatesAccessoriesDB = {
 			["name"] = "腐臭之池",
 			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_06",
 		},
-		[26157] = {
-			["name"] = "PX-238冬幕欢乐制造器",
-			["icon"] = "Interface\\Icons\\Spell_Frost_FrostShock",
-		},
 		[205065] = {
 			["duration"] = 4,
-			["icon"] = "Interface\\Icons\\inv_knife_1h_artifactcthun_d_01",
 			["name"] = "虚空洪流",
+			["icon"] = "Interface\\Icons\\inv_knife_1h_artifactcthun_d_01",
+		},
+		[125071] = {
+			["name"] = "进食充分",
+			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
 		},
 		[176912] = {
 			["name"] = "巴赫里克的手镯",
 			["icon"] = "Interface\\Icons\\inv_jewelry_talisman_14",
-		},
-		[129934] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\ability_mount_siberiantigermount",
-			["name"] = "蓝色影踪派骑乘虎",
 		},
 		[194316] = {
 			["name"] = "火疗闪烁",
@@ -12862,14 +12886,18 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Arcane_Blink",
 			["debuffType"] = "Magic",
 		},
-		[199061] = {
-			["duration"] = 15,
-			["name"] = "劈砍灵魂",
-			["icon"] = "INTERFACE\\ICONS\\inv_polearm_2h_cataclysm_b_01",
+		[129934] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\ability_mount_siberiantigermount",
+			["name"] = "蓝色影踪派骑乘虎",
 		},
-		[219911] = {
-			["name"] = "亵渎",
-			["icon"] = "Interface\\Icons\\ability_deathknight_decomposingaura",
+		[225947] = {
+			["name"] = "石之心",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_ImprovedDisciplines",
+		},
+		[222982] = {
+			["icon"] = "Interface\\Icons\\INV_Misc_EngGizmos_15",
+			["duration"] = 60,
 		},
 		[204042] = {
 			["duration"] = 1.5,
@@ -12877,9 +12905,21 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_FocusedRage",
 		},
 		[130958] = {
-			["icon"] = "Interface\\Icons\\Spell_Holy_MagicalSentry",
 			["name"] = "奥术光辉",
+			["icon"] = "Interface\\Icons\\Spell_Holy_MagicalSentry",
 			["debuffType"] = "Magic",
+		},
+		[219911] = {
+			["name"] = "亵渎",
+			["icon"] = "Interface\\Icons\\ability_deathknight_decomposingaura",
+		},
+		[50259] = {
+			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
+			["duration"] = 3,
+		},
+		[185104] = {
+			["name"] = "精神疲劳",
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_eye_04",
 		},
 		[45524] = {
 			["duration"] = 8,
@@ -12890,35 +12930,24 @@ JamPlatesAccessoriesDB = {
 			["name"] = "奥术切割者",
 			["icon"] = "INTERFACE\\ICONS\\spell_arcane_invocation",
 		},
-		[209162] = {
+		[158486] = {
 			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\ability_monk_summonserpentstatue",
-			["name"] = "神龙吐息",
-		},
-		[222982] = {
-			["icon"] = "Interface\\Icons\\INV_Misc_EngGizmos_15",
-			["duration"] = 60,
-		},
-		[198924] = {
-			["duration"] = 6,
-			["icon"] = "INTERFACE\\ICONS\\spell_arcane_invocation",
-			["name"] = "加速",
-		},
-		[215816] = {
-			["name"] = "强烈燃烧",
-			["icon"] = "Interface\\Icons\\Spell_Fire_Incinerate",
+			["name"] = "狩猎帽",
+			["icon"] = "Interface\\Icons\\inv_helm_cloth_petsafari_a_01",
 		},
 		[91800] = {
 			["name"] = "撕扯",
 			["icon"] = "Interface\\Icons\\Spell_DeathKnight_Gnaw_Ghoul",
 		},
-		[185104] = {
-			["name"] = "精神疲劳",
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_eye_04",
+		[208772] = {
+			["duration"] = 15,
+			["name"] = "惩击",
+			["icon"] = "Interface\\Icons\\Spell_Holy_HolySmite",
 		},
-		[50259] = {
-			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
-			["duration"] = 3,
+		[217352] = {
+			["icon"] = "Interface\\Icons\\ability_thunderking_lightningwhip",
+			["name"] = "放电",
+			["debuffType"] = "Magic",
 		},
 		[980] = {
 			["name"] = "痛楚",
@@ -12931,60 +12960,59 @@ JamPlatesAccessoriesDB = {
 			["name"] = "召唤军马",
 			["icon"] = "Interface\\Icons\\Ability_Mount_Charger",
 		},
-		[222786] = {
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\Ability_Rogue_BloodSplatter",
-			["name"] = "穿刺创伤",
-		},
 		[207115] = {
 			["duration"] = 0,
 			["name"] = "一捆绷带",
 			["icon"] = "Interface\\Icons\\inv_misc_bandage_10",
 		},
-		[225947] = {
-			["name"] = "石之心",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_ImprovedDisciplines",
+		[211210] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Spell_Holy_AuraMastery",
+			["name"] = "提尔的保护",
 		},
-		[147226] = {
-			["name"] = "纪元之书",
-			["icon"] = "INTERFACE\\ICONS\\spell_paladin_divinecircle",
+		[214184] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_MindTwisting",
+			["name"] = "漩涡",
 		},
 		[179986] = {
 			["name"] = "蔑视光环",
 			["icon"] = "Interface\\Icons\\ability_bossdarkvindicator_auraofoppression",
 		},
-		[208772] = {
-			["duration"] = 15,
-			["name"] = "惩击",
-			["icon"] = "Interface\\Icons\\Spell_Holy_HolySmite",
+		[147226] = {
+			["name"] = "纪元之书",
+			["icon"] = "INTERFACE\\ICONS\\spell_paladin_divinecircle",
 		},
-		[221571] = {
-			["icon"] = "Interface\\Icons\\Spell_Fire_Immolation",
-			["name"] = "燃烧",
+		[93337] = {
+			["duration"] = 0,
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_tabard_tolvir",
+			["name"] = "拉穆卡恒勇士",
+		},
+		[144787] = {
+			["name"] = "月牙头饰",
+			["icon"] = "Interface\\Icons\\Ability_Mount_WhiteDireWolf",
+		},
+		[183571] = {
+			["duration"] = 9,
+			["icon"] = "Interface\\Icons\\sha_ability_mage_firestarter_nightmare",
 			["debuffType"] = "Magic",
+		},
+		[218890] = {
+			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Bear",
+			["duration"] = 5,
 		},
 		[227592] = {
 			["name"] = "霜寒",
 			["icon"] = "Interface\\Icons\\Ability_Mage_DeepFreeze",
 		},
-		[190225] = {
-			["duration"] = 30,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyFrenzy",
-			["debuffType"] = "",
-		},
-		[223497] = {
-			["duration"] = 0,
-			["name"] = "天角战争甲胄",
-			["icon"] = "Interface\\Icons\\Ability_Hunter_EagleEye",
-		},
 		[203533] = {
 			["duration"] = 0,
-			["name"] = "黑冰闪耀",
 			["icon"] = "Interface\\Icons\\inv_misc_cutgemnormal2",
+			["name"] = "黑冰闪耀",
 		},
-		[144787] = {
-			["name"] = "月牙头饰",
-			["icon"] = "Interface\\Icons\\Ability_Mount_WhiteDireWolf",
+		[212236] = {
+			["name"] = "盾牌格挡",
+			["icon"] = "Interface\\Icons\\INV_Shield_06",
 		},
 		[179987] = {
 			["name"] = "蔑视光环",
@@ -12998,32 +13026,36 @@ JamPlatesAccessoriesDB = {
 			["name"] = "希格维德的印记",
 			["icon"] = "Interface\\Icons\\inv_relics_runestone",
 		},
-		[216331] = {
-			["name"] = "复仇十字军",
-			["icon"] = "Interface\\Icons\\ability_paladin_veneration",
+		[73630] = {
+			["name"] = "召唤大主教的雷象",
+			["icon"] = "Interface\\Icons\\Ability_Mount_Charger",
 		},
-		[218890] = {
-			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Bear",
-			["duration"] = 5,
+		[190225] = {
+			["duration"] = 30,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyFrenzy",
+			["debuffType"] = "",
 		},
-		[93337] = {
+		[223497] = {
 			["duration"] = 0,
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_tabard_tolvir",
-			["name"] = "拉穆卡恒勇士",
+			["name"] = "天角战争甲胄",
+			["icon"] = "Interface\\Icons\\Ability_Hunter_EagleEye",
+		},
+		[230152] = {
+			["name"] = "军团之眼",
+			["icon"] = "Interface\\Icons\\inv_pet_inquisitoreye",
+		},
+		[208141] = {
+			["duration"] = 0,
+			["name"] = "冰霜射线",
+			["icon"] = "Interface\\Icons\\Spell_Frost_ChillingBlast",
 		},
 		[188178] = {
 			["icon"] = "Interface\\Icons\\inv_alchemy_70_potion3",
 			["duration"] = 120,
 		},
-		[1022] = {
-			["name"] = "保护祝福",
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\Spell_Holy_SealOfProtection",
-			["debuffType"] = "Magic",
-		},
-		[73630] = {
-			["name"] = "召唤大主教的雷象",
-			["icon"] = "Interface\\Icons\\Ability_Mount_Charger",
+		[178058] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_MindSteal",
+			["duration"] = 4,
 		},
 		[32984] = {
 			["name"] = "寒冰箭",
@@ -13031,39 +13063,37 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Frost_FrostBolt02",
 			["debuffType"] = "Magic",
 		},
-		[230152] = {
-			["name"] = "军团之眼",
-			["icon"] = "Interface\\Icons\\inv_pet_inquisitoreye",
-		},
-		[202393] = {
-			["icon"] = "Interface\\Icons\\Spell_Nature_BloodLust",
-			["duration"] = 30,
-		},
-		[223498] = {
-			["duration"] = 0,
-			["name"] = "河鬃战争甲胄",
-			["icon"] = "Interface\\Icons\\inv_pet_otter",
-		},
 		[203023] = {
 			["icon"] = "Interface\\Icons\\INV_DataCrystal01",
 			["duration"] = 0,
+		},
+		[3409] = {
+			["name"] = "减速药膏",
+			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\Ability_PoisonSting",
+			["debuffType"] = "Poison",
+		},
+		[1044] = {
+			["name"] = "自由祝福",
+			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\Spell_Holy_SealOfValor",
+			["debuffType"] = "Magic",
 		},
 		[71071] = {
 			["name"] = "进食",
 			["icon"] = "Interface\\Icons\\INV_ValentinesChocolate02",
 		},
-		[217868] = {
-			["icon"] = "Interface\\Icons\\inv_polearm_2h_misc_spearfishingrod",
-			["duration"] = 9,
+		[156047] = {
+			["name"] = "炉渣冲击",
+			["icon"] = "INTERFACE\\ICONS\\spell_shaman_lavasurge",
 		},
-		[178058] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_MindSteal",
-			["duration"] = 4,
+		[195346] = {
+			["name"] = "水泡",
+			["icon"] = "Interface\\Icons\\Ability_Mage_FireStarter",
 		},
-		[223499] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Bear",
-			["name"] = "鲜血图腾战争甲胄",
+		[203139] = {
+			["name"] = "力场新星",
+			["icon"] = "Interface\\Icons\\ability_socererking_forcenova",
 		},
 		[201488] = {
 			["icon"] = "Interface\\Icons\\Ability_GolemThunderClap",
@@ -13073,45 +13103,45 @@ JamPlatesAccessoriesDB = {
 			["name"] = "旭日东升踢",
 			["icon"] = "INTERFACE\\ICONS\\warrior_talent_icon_singlemindedfury",
 		},
-		[3409] = {
-			["name"] = "减速药膏",
-			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\Ability_PoisonSting",
-			["debuffType"] = "Poison",
+		[224126] = {
+			["icon"] = "INTERFACE\\ICONS\\inv_mount_spectralwolf",
+			["name"] = "冰冻撕咬",
+			["debuffType"] = "Magic",
 		},
-		[68768] = {
-			["icon"] = "Interface\\Icons\\Ability_Mount_RidingHorse",
-			["duration"] = 0,
+		[137504] = {
+			["name"] = "重压",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldBreak",
 		},
 		[215821] = {
 			["name"] = "梦魇之息",
 			["icon"] = "Interface\\Icons\\sha_spell_warlock_demonsoul_nightmare",
 		},
-		[156047] = {
-			["name"] = "炉渣冲击",
-			["icon"] = "INTERFACE\\ICONS\\spell_shaman_lavasurge",
+		[137619] = {
+			["duration"] = 60,
+			["icon"] = "Interface\\Icons\\Achievement_BG_killingblow_berserker",
+			["name"] = "死亡标记",
 		},
-		[157981] = {
-			["duration"] = 4,
-			["name"] = "冲击波",
-			["icon"] = "Interface\\Icons\\Spell_Holy_Excorcism_02",
+		[182038] = {
+			["name"] = "粉碎防御",
+			["icon"] = "Interface\\Icons\\archaeology_5_0_crackedmogurunestone",
 		},
 		[200977] = {
 			["duration"] = 5,
 			["icon"] = "Interface\\Icons\\Ability_Warrior_StrengthOfArms",
 			["name"] = "无匹之力",
 		},
-		[236298] = {
-			["name"] = "时空转移",
-			["icon"] = "Interface\\Icons\\ability_monk_deadlyreach",
+		[157981] = {
+			["duration"] = 4,
+			["name"] = "冲击波",
+			["icon"] = "Interface\\Icons\\Spell_Holy_Excorcism_02",
 		},
 		[214286] = {
 			["icon"] = "Interface\\Icons\\Ability_Mage_NetherWindPresence",
 			["duration"] = 6,
 		},
-		[182038] = {
-			["name"] = "粉碎防御",
-			["icon"] = "Interface\\Icons\\archaeology_5_0_crackedmogurunestone",
+		[194323] = {
+			["icon"] = "Interface\\Icons\\Ability_Hunter_MasterMarksman",
+			["duration"] = 60,
 		},
 		[223500] = {
 			["name"] = "至高岭战争甲胄",
@@ -13122,24 +13152,21 @@ JamPlatesAccessoriesDB = {
 			["name"] = "装甲棕熊",
 			["icon"] = "Interface\\Icons\\Ability_Mount_PolarBear_Brown",
 		},
-		[224126] = {
-			["name"] = "冰冻撕咬",
-			["icon"] = "INTERFACE\\ICONS\\inv_mount_spectralwolf",
-			["debuffType"] = "Magic",
+		[236298] = {
+			["name"] = "时空转移",
+			["icon"] = "Interface\\Icons\\ability_monk_deadlyreach",
 		},
 		[179991] = {
 			["name"] = "怨恨光环",
 			["icon"] = "Interface\\Icons\\ability_bossdarkvindicator_auraofmalice",
 		},
-		[223614] = {
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Spell_Arcane_ManaTap",
-			["name"] = "共鸣",
+		[197908] = {
+			["name"] = "法力茶",
+			["icon"] = "Interface\\Icons\\monk_ability_cherrymanatea",
 		},
-		[160029] = {
-			["duration"] = 60,
-			["name"] = "正在复活",
-			["icon"] = "Interface\\Icons\\spell_holy_guardianspirit",
+		[71073] = {
+			["name"] = "进食",
+			["icon"] = "Interface\\Icons\\INV_ValentinesChocolate04",
 		},
 		[189717] = {
 			["name"] = "末日之刺",
@@ -13158,13 +13185,16 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Magic_GreaterBlessingofKings",
 			["name"] = "强效王者祝福",
 		},
-		[22703] = {
-			["name"] = "地狱火觉醒",
-			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
+		[138642] = {
+			["duration"] = 0,
+			["name"] = "黑色原始迅猛龙",
+			["icon"] = "Interface\\Icons\\ability_mount_raptor_black",
 		},
-		[236299] = {
-			["name"] = "时空转移",
-			["icon"] = "Interface\\Icons\\ability_monk_deadlyreach",
+		[224125] = {
+			["name"] = "炽热之喉",
+			["duration"] = 4,
+			["icon"] = "Interface\\Icons\\item_summon_cinderwolf",
+			["debuffType"] = "Magic",
 		},
 		[200979] = {
 			["duration"] = 12,
@@ -13176,9 +13206,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_WarCry",
 			["name"] = "挫志怒吼",
 		},
-		[197908] = {
-			["name"] = "法力茶",
-			["icon"] = "Interface\\Icons\\monk_ability_cherrymanatea",
+		[22703] = {
+			["name"] = "地狱火觉醒",
+			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
 		},
 		[210705] = {
 			["name"] = "阿莎曼的撕扯",
@@ -13190,9 +13220,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "怨恨光环",
 			["icon"] = "Interface\\Icons\\ability_bossdarkvindicator_auraofmalice",
 		},
-		[71073] = {
-			["name"] = "进食",
-			["icon"] = "Interface\\Icons\\INV_ValentinesChocolate04",
+		[203539] = {
+			["duration"] = 3600.941,
+			["name"] = "强效智慧祝福",
+			["icon"] = "Interface\\Icons\\Spell_Holy_GreaterBlessingofWisdom",
 		},
 		[220431] = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_BattleShout",
@@ -13202,35 +13233,31 @@ JamPlatesAccessoriesDB = {
 			["name"] = "粉碎冲锋",
 			["icon"] = "Interface\\Icons\\6bf_rolling_fury",
 		},
-		[222479] = {
-			["duration"] = 20,
-			["name"] = "暗影反射",
-			["icon"] = "Interface\\Icons\\ability_priest_auspiciousspirits",
+		[186135] = {
+			["name"] = "灵媒",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_AntiShadow",
 		},
-		[138642] = {
-			["duration"] = 0,
-			["name"] = "黑色原始迅猛龙",
-			["icon"] = "Interface\\Icons\\ability_mount_raptor_black",
+		[227508] = {
+			["name"] = "群体忏悔",
+			["icon"] = "Interface\\Icons\\Spell_Holy_PrayerOfHealing",
 		},
 		[202004] = {
 			["duration"] = 10,
 			["name"] = "山崩",
 			["icon"] = "Interface\\Icons\\inv_ore_blackrock_nugget",
 		},
-		[224125] = {
-			["name"] = "炽热之喉",
-			["duration"] = 4,
-			["icon"] = "Interface\\Icons\\item_summon_cinderwolf",
-			["debuffType"] = "Magic",
+		[68057] = {
+			["name"] = "迅捷联盟战马",
+			["icon"] = "Interface\\Icons\\Ability_Mount_RidingHorse",
 		},
 		[208147] = {
-			["name"] = "瓦丝琪之握",
 			["icon"] = "Interface\\Icons\\Spell_Frost_ManaRecharge",
+			["name"] = "瓦丝琪之握",
 			["debuffType"] = "Magic",
 		},
 		[207635] = {
-			["icon"] = "Interface\\Icons\\Ability_Paladin_SheathofLight",
 			["name"] = "纳斯雷兹姆的低语",
+			["icon"] = "Interface\\Icons\\Ability_Paladin_SheathofLight",
 			["debuffType"] = "Magic",
 		},
 		[31661] = {
@@ -13244,68 +13271,70 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
 			["debuffType"] = "Magic",
 		},
-		[186135] = {
-			["name"] = "灵媒",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_AntiShadow",
-		},
-		[214802] = {
-			["duration"] = 8,
-			["name"] = "因格瓦尔的嚎叫",
-			["icon"] = "Interface\\Icons\\Spell_Deathknight_BloodPresence",
-		},
-		[68057] = {
-			["name"] = "迅捷联盟战马",
-			["icon"] = "Interface\\Icons\\Ability_Mount_RidingHorse",
-		},
 		[194327] = {
 			["duration"] = 120,
 			["name"] = "破碎",
 			["icon"] = "Interface\\Icons\\Ability_Warlock_ImprovedSoulLeech",
-		},
-		[233375] = {
-			["name"] = "阿曼苏尔的凝视",
-			["icon"] = "Interface\\Icons\\Spell_Holy_HealingFocus",
-		},
-		[71074] = {
-			["name"] = "进食",
-			["icon"] = "Interface\\Icons\\INV_ValentinesChocolate01",
-		},
-		[179995] = {
-			["name"] = "末日井",
-			["icon"] = "INTERFACE\\ICONS\\ability_warlock_soulsiphon",
-		},
-		[116631] = {
-			["name"] = "巨神像",
-			["icon"] = "Interface\\Icons\\ability_vehicle_shellshieldgenerator",
-		},
-		[217362] = {
-			["name"] = "动荡漩涡",
-			["icon"] = "Interface\\Icons\\ability_ironmaidens_swirlingvortex",
-			["debuffType"] = "Magic",
 		},
 		[191876] = {
 			["duration"] = 20,
 			["name"] = "进食",
 			["icon"] = "Interface\\Icons\\INV_Misc_Fork&Knife",
 		},
-		[88990] = {
-			["duration"] = 0,
-			["icon"] = "INTERFACE\\ICONS\\inv_mount_darkphoenixa",
-			["name"] = "暗色凤凰",
+		[214802] = {
+			["duration"] = 8,
+			["name"] = "因格瓦尔的嚎叫",
+			["icon"] = "Interface\\Icons\\Spell_Deathknight_BloodPresence",
+		},
+		[202517] = {
+			["name"] = "嚎镇八方",
+			["icon"] = "Interface\\Icons\\ability_monk_provoke",
+		},
+		[179995] = {
+			["name"] = "末日井",
+			["icon"] = "INTERFACE\\ICONS\\ability_warlock_soulsiphon",
+		},
+		[71074] = {
+			["name"] = "进食",
+			["icon"] = "Interface\\Icons\\INV_ValentinesChocolate01",
+		},
+		[116631] = {
+			["name"] = "巨神像",
+			["icon"] = "Interface\\Icons\\ability_vehicle_shellshieldgenerator",
+		},
+		[159520] = {
+			["name"] = "粉碎冲锋",
+			["icon"] = "Interface\\Icons\\6bf_rolling_fury",
+		},
+		[217362] = {
+			["icon"] = "Interface\\Icons\\ability_ironmaidens_swirlingvortex",
+			["name"] = "动荡漩涡",
+			["debuffType"] = "Magic",
+		},
+		[192432] = {
+			["duration"] = 20,
+			["name"] = "暗影伏击",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_DeadlyBrew",
 		},
 		[214803] = {
 			["duration"] = 8,
 			["name"] = "席瓦拉的哀嚎",
 			["icon"] = "Interface\\Icons\\Spell_Deathknight_FrostPresence",
 		},
+		[88990] = {
+			["duration"] = 0,
+			["icon"] = "INTERFACE\\ICONS\\inv_mount_darkphoenixa",
+			["name"] = "暗色凤凰",
+		},
 		[93341] = {
 			["duration"] = 0,
 			["icon"] = "INTERFACE\\ICONS\\inv_misc_tabard_guardiansofhyjal",
 			["name"] = "海加尔守护者勇士",
 		},
-		[227508] = {
-			["name"] = "群体忏悔",
-			["icon"] = "Interface\\Icons\\Spell_Holy_PrayerOfHealing",
+		[212681] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Spell_Nature_ProtectionformNature",
+			["name"] = "净化大地",
 		},
 		[196376] = {
 			["duration"] = 0,
@@ -13317,10 +13346,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Druid_ChallangingRoar",
 			["name"] = "阿曼尼斗熊",
 		},
-		[192432] = {
-			["duration"] = 20,
-			["name"] = "暗影伏击",
-			["icon"] = "Interface\\Icons\\Ability_Rogue_DeadlyBrew",
+		[34897] = {
+			["duration"] = 0,
+			["name"] = "白色作战塔布羊",
+			["icon"] = "Interface\\Icons\\INV_Misc_Foot_Centaur",
 		},
 		[198936] = {
 			["icon"] = "Interface\\Icons\\spell_holy_rune",
@@ -13339,10 +13368,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Holy_SearingLight",
 			["duration"] = 6,
 		},
-		[212681] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Spell_Nature_ProtectionformNature",
-			["name"] = "净化大地",
+		[6795] = {
+			["duration"] = 3,
+			["icon"] = "Interface\\Icons\\Ability_Physical_Taunt",
+			["name"] = "低吼",
 		},
 		[29166] = {
 			["name"] = "激活",
@@ -13350,17 +13379,19 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Nature_Lightning",
 			["debuffType"] = "Magic",
 		},
-		[5246] = {
-			["name"] = "破胆怒吼",
-			["icon"] = "Interface\\Icons\\Ability_GolemThunderClap",
+		[225042] = {
+			["icon"] = "Interface\\Icons\\sha_ability_mage_firestarter_nightmare",
+			["duration"] = 5,
 		},
 		[116888] = {
 			["icon"] = "Interface\\Icons\\INV_Misc_ShadowEgg",
 			["duration"] = 3,
 		},
-		[225042] = {
-			["icon"] = "Interface\\Icons\\sha_ability_mage_firestarter_nightmare",
+		[64695] = {
+			["name"] = "陷地",
 			["duration"] = 5,
+			["icon"] = "Interface\\Icons\\Spell_Nature_StrangleVines",
+			["debuffType"] = "Magic",
 		},
 		[181533] = {
 			["duration"] = 9,
@@ -13375,29 +13406,27 @@ JamPlatesAccessoriesDB = {
 			["name"] = "饥饿符文武器",
 			["icon"] = "Interface\\Icons\\ability_deathknight_hungeringruneblade",
 		},
-		[34897] = {
-			["duration"] = 0,
-			["name"] = "白色作战塔布羊",
-			["icon"] = "Interface\\Icons\\INV_Misc_Foot_Centaur",
-		},
-		[6795] = {
+		[222075] = {
 			["duration"] = 3,
-			["icon"] = "Interface\\Icons\\Ability_Physical_Taunt",
-			["name"] = "低吼",
-		},
-		[64695] = {
-			["name"] = "陷地",
-			["duration"] = 5,
-			["icon"] = "Interface\\Icons\\Spell_Nature_StrangleVines",
-			["debuffType"] = "Magic",
+			["name"] = "精神鞭笞",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_SiphonMana",
 		},
 		[162761] = {
 			["name"] = "冰霜陷阱",
 			["icon"] = "Interface\\Icons\\spell_hunter_icetrap",
 		},
+		[196644] = {
+			["duration"] = 12,
+			["icon"] = "Interface\\Icons\\inv_pet_naaru",
+			["name"] = "图雷的祝福",
+		},
+		[147235] = {
+			["name"] = "恶毒冲击",
+			["icon"] = "Interface\\Icons\\Ability_Warlock_Eradication",
+		},
 		[217877] = {
-			["name"] = "燃烧的炸弹",
 			["icon"] = "Interface\\Icons\\Ability_Mage_LivingBomb",
+			["name"] = "燃烧的炸弹",
 			["debuffType"] = "Magic",
 		},
 		[222484] = {
@@ -13406,10 +13435,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_polearm_2h_pandaguard_a_01",
 			["debuffType"] = "Disease",
 		},
-		[222075] = {
-			["duration"] = 3,
-			["name"] = "精神鞭笞",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_SiphonMana",
+		[207640] = {
+			["duration"] = 0,
+			["name"] = "丰饶",
+			["icon"] = "Interface\\Icons\\Ability_Druid_EmpoweredRejuvination",
 		},
 		[207128] = {
 			["duration"] = 60,
@@ -13427,24 +13456,23 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\inv_misc_steelweaponchain",
 		},
 		[188189] = {
-			["name"] = "邪能污秽",
 			["icon"] = "Interface\\Icons\\Ability_PoisonArrow",
+			["name"] = "邪能污秽",
 			["debuffType"] = "Poison",
 		},
 		[200986] = {
 			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\Ability_Warrior_ImprovedDisciplines",
 			["name"] = "奥丁的勇士",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_ImprovedDisciplines",
 		},
-		[196644] = {
-			["duration"] = 12,
-			["icon"] = "Interface\\Icons\\inv_pet_naaru",
-			["name"] = "图雷的祝福",
+		[162185] = {
+			["icon"] = "Interface\\Icons\\INV_Elemental_Primal_Fire",
+			["name"] = "魔能散射：火焰",
+			["debuffType"] = "Magic",
 		},
-		[225832] = {
-			["duration"] = 29.902,
-			["name"] = "夜光小精灵",
-			["icon"] = "Interface\\Icons\\inv_pet_wisp_purple",
+		[217002] = {
+			["icon"] = "Interface\\Icons\\Spell_DeathKnight_Strangulate",
+			["duration"] = 5,
 		},
 		[214807] = {
 			["duration"] = 8,
@@ -13453,30 +13481,30 @@ JamPlatesAccessoriesDB = {
 		},
 		[194844] = {
 			["duration"] = 10,
-			["icon"] = "INTERFACE\\ICONS\\achievement_boss_lordmarrowgar",
 			["name"] = "白骨风暴",
+			["icon"] = "INTERFACE\\ICONS\\achievement_boss_lordmarrowgar",
 		},
 		[228116] = {
 			["duration"] = 10,
 			["name"] = "警告：混乱",
 			["icon"] = "Interface\\Icons\\inv_cape_pvp_s16_d_01",
 		},
-		[147235] = {
-			["name"] = "恶毒冲击",
-			["icon"] = "Interface\\Icons\\Ability_Warlock_Eradication",
+		[181536] = {
+			["name"] = "重击",
+			["icon"] = "Interface\\Icons\\Ability_Smash",
 		},
 		[180000] = {
 			["name"] = "凋零契印",
 			["icon"] = "Interface\\Icons\\Spell_Holy_SealOfRighteousness",
 		},
-		[217002] = {
-			["icon"] = "Interface\\Icons\\Spell_DeathKnight_Strangulate",
-			["duration"] = 5,
+		[210714] = {
+			["name"] = "冰怒",
+			["icon"] = "Interface\\Icons\\Spell_Frost_IceShard",
 		},
-		[162185] = {
-			["name"] = "魔能散射：火焰",
-			["icon"] = "Interface\\Icons\\INV_Elemental_Primal_Fire",
-			["debuffType"] = "Magic",
+		[180612] = {
+			["duration"] = 3,
+			["name"] = "最近使用过灵界打击",
+			["icon"] = "Interface\\Icons\\Spell_DeathKnight_Butcher2",
 		},
 		[197916] = {
 			["name"] = "生生不息（活血术）",
@@ -13486,13 +13514,15 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Mage_TormentOfTheWeak",
 			["duration"] = 15,
 		},
-		[187618] = {
-			["name"] = "伊瑟拉鲁斯",
-			["icon"] = "Interface\\Icons\\inv_jewelry_ring_89",
+		[102351] = {
+			["duration"] = 30,
+			["icon"] = "Interface\\Icons\\Ability_Druid_NaturalPerfection",
+			["name"] = "塞纳里奥结界",
 		},
-		[210714] = {
-			["name"] = "冰怒",
-			["icon"] = "Interface\\Icons\\Spell_Frost_IceShard",
+		[183585] = {
+			["icon"] = "Interface\\Icons\\Spell_Holy_WordFortitude",
+			["name"] = "真言术：韧",
+			["debuffType"] = "Magic",
 		},
 		[204059] = {
 			["icon"] = "INTERFACE\\ICONS\\inv_misc_steelweaponchain",
@@ -13506,9 +13536,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Paladin_SheathofLight",
 			["duration"] = 0,
 		},
-		[63956] = {
-			["name"] = "铁箍始祖幼龙",
-			["icon"] = "Interface\\Icons\\ability_mount_razorscale",
+		[158601] = {
+			["name"] = "主炮轰击",
+			["icon"] = "Interface\\Icons\\ability_ironmaidens_deployturret",
 		},
 		[222487] = {
 			["duration"] = 6,
@@ -13516,8 +13546,8 @@ JamPlatesAccessoriesDB = {
 			["name"] = "抽取",
 		},
 		[165669] = {
-			["icon"] = "Interface\\Icons\\Spell_Fire_FlameShock",
 			["name"] = "灼热酸液",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FlameShock",
 			["debuffType"] = "Poison",
 		},
 		[149801] = {
@@ -13533,10 +13563,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\inv_misc_steelweaponchain",
 			["duration"] = 0,
 		},
-		[180612] = {
-			["duration"] = 3,
-			["name"] = "最近使用过灵界打击",
-			["icon"] = "Interface\\Icons\\Spell_DeathKnight_Butcher2",
+		[63956] = {
+			["name"] = "铁箍始祖幼龙",
+			["icon"] = "Interface\\Icons\\ability_mount_razorscale",
 		},
 		[102558] = {
 			["duration"] = 30,
@@ -13548,10 +13577,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_BattleShout",
 			["debuffType"] = "Magic",
 		},
-		[102351] = {
-			["duration"] = 30,
-			["icon"] = "Interface\\Icons\\Ability_Druid_NaturalPerfection",
-			["name"] = "塞纳里奥结界",
+		[56814] = {
+			["name"] = "侦测",
+			["icon"] = "Interface\\Icons\\Ability_Spy",
 		},
 		[145195] = {
 			["name"] = "强化绝望之握",
@@ -13570,44 +13598,44 @@ JamPlatesAccessoriesDB = {
 			["name"] = "魔火",
 			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameRing",
 		},
-		[158601] = {
-			["name"] = "主炮轰击",
-			["icon"] = "Interface\\Icons\\ability_ironmaidens_deployturret",
+		[156902] = {
+			["name"] = "压力过载",
+			["icon"] = "Interface\\Icons\\ability_foundryraid_heatregulators",
 		},
 		[192800] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\Ability_Rogue_DeviousPoisons",
 			["name"] = "窒息之尘",
 		},
-		[127177] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\ability_mount_cranemountpurple",
-			["name"] = "帝王骑乘仙鹤",
+		[231190] = {
+			["name"] = "克瓦迪尔之雾",
+			["icon"] = "Interface\\Icons\\ability_skyreach_wind",
 		},
 		[206109] = {
 			["duration"] = 1,
 			["name"] = "梦魇惊魂",
 			["icon"] = "Interface\\Icons\\Spell_Nature_Sleep",
 		},
-		[56814] = {
-			["name"] = "侦测",
-			["icon"] = "Interface\\Icons\\Ability_Spy",
-		},
-		[156902] = {
-			["name"] = "压力过载",
-			["icon"] = "Interface\\Icons\\ability_foundryraid_heatregulators",
-		},
-		[231190] = {
-			["name"] = "克瓦迪尔之雾",
-			["icon"] = "Interface\\Icons\\ability_skyreach_wind",
-		},
 		[197919] = {
 			["name"] = "生生不息（氤氲之雾）",
 			["icon"] = "Interface\\Icons\\spell_monk_envelopingmist",
 		},
+		[219002] = {
+			["name"] = "蜡烛攻击！",
+			["icon"] = "Interface\\Icons\\INV_Elemental_Mote_Fire01",
+			["debuffType"] = "Magic",
+		},
+		[141857] = {
+			["name"] = "科学狂人",
+			["icon"] = "Interface\\Icons\\achievement_faction_klaxxi",
+		},
+		[215430] = {
+			["icon"] = "Interface\\Icons\\ability_thunderking_thunderstruck",
+			["duration"] = 3,
+		},
 		[212764] = {
-			["icon"] = "Interface\\Icons\\ability_deathknight_icygrip",
 			["name"] = "苍白行者",
+			["icon"] = "Interface\\Icons\\ability_deathknight_icygrip",
 			["debuffType"] = "Magic",
 		},
 		[8219] = {
@@ -13619,32 +13647,33 @@ JamPlatesAccessoriesDB = {
 			["name"] = "网覆",
 			["icon"] = "INTERFACE\\ICONS\\inv_misc_web_02",
 		},
-		[219002] = {
-			["icon"] = "Interface\\Icons\\INV_Elemental_Mote_Fire01",
-			["name"] = "蜡烛攻击！",
-			["debuffType"] = "Magic",
+		[198551] = {
+			["duration"] = 3,
+			["name"] = "破碎",
+			["icon"] = "Interface\\Icons\\Ability_Warlock_ImprovedSoulLeech",
 		},
-		[141857] = {
-			["name"] = "科学狂人",
-			["icon"] = "Interface\\Icons\\achievement_faction_klaxxi",
+		[214177] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_DemonicTactics",
+			["duration"] = 15,
 		},
 		[198944] = {
 			["duration"] = 5,
 			["name"] = "穿甲",
 			["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldBreak",
 		},
-		[215430] = {
-			["icon"] = "Interface\\Icons\\ability_thunderking_thunderstruck",
-			["duration"] = 3,
+		[194982] = {
+			["name"] = "腐烂之触",
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\Spell_Nature_AgitatingTotem",
+			["debuffType"] = "Disease",
 		},
 		[220443] = {
 			["name"] = "暗影觉醒",
 			["icon"] = "Interface\\Icons\\ability_warlock_coil2",
 		},
-		[198551] = {
-			["duration"] = 3,
-			["name"] = "破碎",
-			["icon"] = "Interface\\Icons\\Ability_Warlock_ImprovedSoulLeech",
+		[205088] = {
+			["icon"] = "Interface\\Icons\\spell_fel_incinerate",
+			["duration"] = 8,
 		},
 		[164137] = {
 			["name"] = "携带武器",
@@ -13661,49 +13690,52 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Misc_Organ_04",
 			["name"] = "裂肠者",
 		},
-		[214177] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_DemonicTactics",
-			["duration"] = 15,
+		[63468] = {
+			["duration"] = 8.318,
+			["name"] = "精确瞄准",
+			["icon"] = "Interface\\Icons\\Ability_Hunter_PiercingShots",
 		},
 		[166185] = {
 			["name"] = "撕裂猛击",
 			["icon"] = "Interface\\Icons\\Ability_Gouge",
 		},
-		[195362] = {
-			["name"] = "暗夜井能量",
-			["icon"] = "Interface\\Icons\\spell_mage_overpowered",
+		[162602] = {
+			["name"] = "狂野怒火",
+			["icon"] = "Interface\\Icons\\Ability_Druid_FerociousBite",
 		},
 		[199969] = {
-			["name"] = "游荡疫病",
 			["icon"] = "Interface\\Icons\\spell_deathknight_necroticplague",
+			["name"] = "游荡疫病",
 			["debuffType"] = "Disease",
 		},
-		[102560] = {
-			["duration"] = 30,
-			["name"] = "化身：艾露恩之眷",
-			["icon"] = "Interface\\Icons\\spell_druid_incarnation",
+		[144176] = {
+			["name"] = "暗影虚弱",
+			["icon"] = "Interface\\Icons\\sha_inv_misc_slime_01",
 		},
-		[205088] = {
-			["icon"] = "Interface\\Icons\\spell_fel_incinerate",
-			["duration"] = 8,
-		},
-		[108959] = {
-			["name"] = "目眩",
+		[1604] = {
+			["duration"] = 4,
+			["name"] = "眩晕",
 			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
 		},
-		[117405] = {
-			["duration"] = 0,
-			["name"] = "束缚射击",
-			["icon"] = "INTERFACE\\ICONS\\spell_shaman_bindelemental",
+		[214303] = {
+			["name"] = "治疗宠物",
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\Ability_Hunter_MendPet",
+			["debuffType"] = "Magic",
+		},
+		[203554] = {
+			["name"] = "专注生长",
+			["icon"] = "Interface\\Icons\\ability_druid_focusedgrowth",
 		},
 		[227099] = {
 			["name"] = "灵感",
 			["icon"] = "INTERFACE\\ICONS\\inv_misc_statue_02",
 		},
-		[63468] = {
-			["duration"] = 8.318,
-			["name"] = "精确瞄准",
-			["icon"] = "Interface\\Icons\\Ability_Hunter_PiercingShots",
+		[105421] = {
+			["name"] = "盲目之光",
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\ability_paladin_blindinglight",
+			["debuffType"] = "Magic",
 		},
 		[60118] = {
 			["duration"] = 0,
@@ -13715,102 +13747,101 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_deathwing_shrapnel",
 			["name"] = "晶化碎片",
 		},
-		[203554] = {
-			["name"] = "专注生长",
-			["icon"] = "Interface\\Icons\\ability_druid_focusedgrowth",
+		[185728] = {
+			["icon"] = "Interface\\Icons\\Ability_Druid_DemoralizingRoar",
+			["duration"] = 4,
 		},
-		[142641] = {
-			["duration"] = 0,
-			["name"] = "拳手的健壮穆山兽",
-			["icon"] = "Interface\\Icons\\inv_mushanbeastmount",
+		[226166] = {
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_missilelargecluster_red",
+			["duration"] = 5,
 		},
-		[144176] = {
-			["name"] = "暗影虚弱",
-			["icon"] = "Interface\\Icons\\sha_inv_misc_slime_01",
+		[108959] = {
+			["name"] = "目眩",
+			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
 		},
 		[132403] = {
 			["duration"] = 6.696,
 			["icon"] = "Interface\\Icons\\Ability_Paladin_ShieldofVengeance",
 			["name"] = "正义盾击",
 		},
-		[197924] = {
-			["duration"] = 6,
-			["name"] = "削凿",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowMend",
+		[9179] = {
+			["name"] = "昏迷",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Teleport",
 		},
-		[93347] = {
-			["duration"] = 0,
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_tabard_therazane",
-			["name"] = "塞拉赞恩勇士",
+		[186662] = {
+			["name"] = "阿古斯之心",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelFireNova",
 		},
 		[187174] = {
 			["name"] = "地狱火珠宝",
 			["icon"] = "Interface\\Icons\\inv_tradeskillitem_sorcerersfire",
 		},
-		[9179] = {
-			["name"] = "昏迷",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Teleport",
+		[142641] = {
+			["duration"] = 0,
+			["name"] = "拳手的健壮穆山兽",
+			["icon"] = "Interface\\Icons\\inv_mushanbeastmount",
 		},
 		[237338] = {
 			["name"] = "爆炸陷阱",
 			["icon"] = "Interface\\Icons\\achievment_raid_houroftwilight",
 		},
-		[105421] = {
-			["name"] = "盲目之光",
+		[197924] = {
 			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\ability_paladin_blindinglight",
-			["debuffType"] = "Magic",
+			["name"] = "削凿",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowMend",
 		},
-		[185728] = {
-			["icon"] = "Interface\\Icons\\Ability_Druid_DemoralizingRoar",
-			["duration"] = 4,
+		[188713] = {
+			["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldMastery",
+			["duration"] = 8,
 		},
 		[132404] = {
 			["duration"] = 7.5,
-			["name"] = "盾牌格挡",
 			["icon"] = "Interface\\Icons\\Ability_Defend",
+			["name"] = "盾牌格挡",
 		},
-		[226166] = {
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_missilelargecluster_red",
-			["duration"] = 5,
-		},
-		[199460] = {
-			["duration"] = 0,
-			["name"] = "落石",
-			["icon"] = "Interface\\Icons\\ability_thunderking_rockfalllow",
-		},
-		[211745] = {
-			["name"] = "邪能打击",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameStrike",
-		},
-		[60503] = {
-			["duration"] = 12,
-			["icon"] = "Interface\\Icons\\Ability_MeleeDamage",
-			["name"] = "压制！",
-		},
-		[181545] = {
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelFireward",
+		[88741] = {
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_stormdragongreen",
 			["duration"] = 0,
 		},
 		[145715] = {
 			["name"] = "疾风炸弹",
 			["icon"] = "Interface\\Icons\\Ability_Druid_GaleWinds",
 		},
-		[188713] = {
-			["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldMastery",
-			["duration"] = 8,
+		[199460] = {
+			["duration"] = 0,
+			["name"] = "落石",
+			["icon"] = "Interface\\Icons\\ability_thunderking_rockfalllow",
 		},
-		[88741] = {
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_stormdragongreen",
+		[223094] = {
+			["name"] = "裹体之网",
+			["icon"] = "Interface\\Icons\\INV_Misc_Web_01",
+		},
+		[60119] = {
+			["icon"] = "Interface\\Icons\\Ability_Mount_PolarBear_Black",
+			["duration"] = 0,
+		},
+		[60503] = {
+			["duration"] = 12,
+			["icon"] = "Interface\\Icons\\Ability_MeleeDamage",
+			["name"] = "压制！",
+		},
+		[2825] = {
+			["name"] = "嗜血",
+			["duration"] = 40,
+			["icon"] = "Interface\\Icons\\Spell_Nature_BloodLust",
+			["debuffType"] = "Magic",
+		},
+		[181545] = {
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelFireward",
 			["duration"] = 0,
 		},
 		[182057] = {
 			["name"] = "统御之涌",
 			["icon"] = "Interface\\Icons\\Spell_Holy_DivinePurpose",
 		},
-		[223094] = {
-			["name"] = "裹体之网",
-			["icon"] = "Interface\\Icons\\INV_Misc_Web_01",
+		[225141] = {
+			["name"] = "邪狂之怒",
+			["icon"] = "Interface\\Icons\\sha_inv_elemental_primal_shadow_nightborne",
 		},
 		[162606] = {
 			["name"] = "狂野怒火",
@@ -13821,9 +13852,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Magic_PolymorphPig",
 			["debuffType"] = "Magic",
 		},
-		[182059] = {
-			["name"] = "征服之涌",
-			["icon"] = "Interface\\Icons\\Spell_Holy_DivinePurpose",
+		[166787] = {
+			["icon"] = "Interface\\Icons\\Ability_Rogue_Dismantle",
+			["duration"] = 10,
 		},
 		[213282] = {
 			["name"] = "辐射邪能",
@@ -13834,10 +13865,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_hunter_murderofcrows",
 			["name"] = "夺命黑鸦",
 		},
-		[2825] = {
-			["name"] = "嗜血",
-			["duration"] = 40,
-			["icon"] = "Interface\\Icons\\Spell_Nature_BloodLust",
+		[162608] = {
+			["duration"] = 4,
+			["icon"] = "Interface\\Icons\\Spell_Frost_FrostBolt02",
 			["debuffType"] = "Magic",
 		},
 		[210723] = {
@@ -13850,9 +13880,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "污染之地",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_PlagueCloud",
 		},
-		[60119] = {
-			["icon"] = "Interface\\Icons\\Ability_Mount_PolarBear_Black",
-			["duration"] = 0,
+		[228127] = {
+			["name"] = "腐化物",
+			["icon"] = "Interface\\Icons\\inv_pet_diseasedsquirrel",
 		},
 		[146739] = {
 			["name"] = "腐蚀术",
@@ -13864,10 +13894,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "阿基萨姆，敬畏臂甲",
 			["icon"] = "Interface\\Icons\\Ability_Paladin_ShieldoftheTemplar",
 		},
-		[225568] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_CurseOfTounges",
-			["name"] = "隔绝诅咒",
-			["debuffType"] = "Curse",
+		[160048] = {
+			["name"] = "石化护甲",
+			["icon"] = "Interface\\Icons\\achievement_moguraid_01",
 		},
 		[193320] = {
 			["duration"] = 10,
@@ -13882,31 +13911,18 @@ JamPlatesAccessoriesDB = {
 			["name"] = "凿击",
 			["icon"] = "Interface\\Icons\\Ability_Gouge",
 		},
-		[225141] = {
-			["name"] = "邪狂之怒",
-			["icon"] = "Interface\\Icons\\sha_inv_elemental_primal_shadow_nightborne",
-		},
-		[1784] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Ability_Stealth",
-			["name"] = "潜行",
-		},
 		[89766] = {
 			["name"] = "巨斧投掷",
 			["icon"] = "Interface\\Icons\\Ability_Warrior_TitansGrip",
 		},
-		[162608] = {
-			["duration"] = 4,
-			["icon"] = "Interface\\Icons\\Spell_Frost_FrostBolt02",
-			["debuffType"] = "Magic",
-		},
-		[166787] = {
-			["icon"] = "Interface\\Icons\\Ability_Rogue_Dismantle",
-			["duration"] = 10,
+		[1784] = {
+			["duration"] = 0,
+			["name"] = "潜行",
+			["icon"] = "Interface\\Icons\\Ability_Stealth",
 		},
 		[208165] = {
-			["icon"] = "INTERFACE\\ICONS\\ability_warlock_soulsiphon",
 			["name"] = "枯萎灵魂",
+			["icon"] = "INTERFACE\\ICONS\\ability_warlock_soulsiphon",
 			["debuffType"] = "Magic",
 		},
 		[228128] = {
@@ -13924,21 +13940,6 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_Cleave",
 			["name"] = "顺劈斩",
 		},
-		[163121] = {
-			["name"] = "驱使",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_BattleShout",
-			["debuffType"] = "",
-		},
-		[208166] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\Spell_Frost_ChillingBlast",
-			["name"] = "冰霜射线",
-		},
-		[212773] = {
-			["name"] = "强光克敌",
-			["icon"] = "Interface\\Icons\\Spell_Frost_ChainsOfIce",
-			["debuffType"] = "Magic",
-		},
 		[225140] = {
 			["name"] = "地狱火契约",
 			["icon"] = "Interface\\ICONS\\INV_Misc_ScrollUnrolled01c",
@@ -13948,28 +13949,56 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Fire_FelFire",
 			["debuffType"] = "Magic",
 		},
-		[227104] = {
-			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
-			["duration"] = 3,
+		[208166] = {
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\Spell_Frost_ChillingBlast",
+			["name"] = "冰霜射线",
 		},
 		[211319] = {
 			["name"] = "大主教本尼迪塔斯的代偿",
 			["icon"] = "Interface\\Icons\\INV_Enchant_EssenceEternalLarge",
+		},
+		[163121] = {
+			["icon"] = "Interface\\Icons\\Ability_Warrior_BattleShout",
+			["name"] = "驱使",
+			["debuffType"] = "",
+		},
+		[212773] = {
+			["icon"] = "Interface\\Icons\\Spell_Frost_ChainsOfIce",
+			["name"] = "强光克敌",
+			["debuffType"] = "Magic",
+		},
+		[227104] = {
+			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
+			["duration"] = 3,
+		},
+		[224186] = {
+			["duration"] = 3600,
+			["name"] = "折跃行走",
+			["icon"] = "Interface\\Icons\\ability_socererking_arcaneacceleration",
+		},
+		[197498] = {
+			["duration"] = 30,
+			["name"] = "终结技：夜刃",
+			["icon"] = "Interface\\Icons\\ability_rogue_nightblade",
+		},
+		[188796] = {
+			["name"] = "邪能腐蚀",
+			["icon"] = "Interface\\Icons\\spell_yorsahj_bloodboil_green",
 		},
 		[194858] = {
 			["duration"] = 8,
 			["icon"] = "Interface\\Icons\\Spell_Fire_Incinerate",
 			["name"] = "龙焰手雷",
 		},
-		[224186] = {
-			["duration"] = 3600,
-			["icon"] = "Interface\\Icons\\ability_socererking_arcaneacceleration",
-			["name"] = "折跃行走",
-		},
 		[166646] = {
 			["duration"] = 10,
-			["name"] = "疾风步",
 			["icon"] = "Interface\\Icons\\monk_stance_whitetiger",
+			["name"] = "疾风步",
+		},
+		[45040] = {
+			["name"] = "战斗专注",
+			["icon"] = "Interface\\Icons\\INV_Misc_Gem_Pearl_04",
 		},
 		[171824] = {
 			["name"] = "天蓝淡水兽",
@@ -13980,10 +14009,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_PoisonArrow",
 			["debuffType"] = "Poison",
 		},
-		[197498] = {
-			["duration"] = 30,
-			["name"] = "终结技：夜刃",
-			["icon"] = "Interface\\Icons\\ability_rogue_nightblade",
+		[209786] = {
+			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\inv_knife_1h_artifactfangs_d_01",
+			["debuffType"] = "Magic",
 		},
 		[136505] = {
 			["duration"] = 0,
@@ -13999,18 +14028,18 @@ JamPlatesAccessoriesDB = {
 			["name"] = "虚空之触",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_MindTwisting",
 		},
-		[188796] = {
-			["name"] = "邪能腐蚀",
-			["icon"] = "Interface\\Icons\\spell_yorsahj_bloodboil_green",
+		[201158] = {
+			["icon"] = "Interface\\Icons\\spell_yorsahj_bloodboil_black",
+			["duration"] = 4,
 		},
-		[45040] = {
-			["name"] = "战斗专注",
-			["icon"] = "Interface\\Icons\\INV_Misc_Gem_Pearl_04",
-		},
-		[209786] = {
+		[215128] = {
 			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\inv_knife_1h_artifactfangs_d_01",
-			["debuffType"] = "Magic",
+			["name"] = "诅咒之血",
+			["icon"] = "Interface\\Icons\\Spell_DeathKnight_BloodTap",
+		},
+		[196907] = {
+			["icon"] = "Interface\\Icons\\Ability_WarStomp",
+			["duration"] = 2,
 		},
 		[205097] = {
 			["duration"] = 4,
@@ -14031,13 +14060,14 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Helmet_66",
 			["name"] = "布尔吉·黑心的时装帽",
 		},
-		[196907] = {
-			["icon"] = "Interface\\Icons\\Ability_WarStomp",
-			["duration"] = 2,
+		[178394] = {
+			["duration"] = 120,
+			["name"] = "无荣誉目标",
+			["icon"] = "Interface\\Icons\\Spell_Magic_LesserInvisibilty",
 		},
-		[201158] = {
-			["icon"] = "Interface\\Icons\\spell_yorsahj_bloodboil_black",
-			["duration"] = 4,
+		[142649] = {
+			["name"] = "吞噬",
+			["icon"] = "Interface\\Icons\\creatureportrait_garalon",
 		},
 		[216359] = {
 			["icon"] = "Interface\\Icons\\Spell_Fire_Elemental_Totem",
@@ -14047,40 +14077,40 @@ JamPlatesAccessoriesDB = {
 			["name"] = "泥背淡水兽",
 			["icon"] = "Interface\\Icons\\inv_hippo_green",
 		},
-		[188716] = {
-			["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldMastery",
+		[180093] = {
+			["name"] = "灵魂箭雨",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowBolt",
+		},
+		[196201] = {
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_monsterclaw_07",
 			["duration"] = 0,
-		},
-		[221654] = {
-			["icon"] = "Interface\\Icons\\Spell_Holy_ReviveChampion",
-			["duration"] = 12,
-		},
-		[217896] = {
-			["duration"] = 0,
-			["name"] = "努波顿的仪式",
-			["icon"] = "Interface\\Icons\\inv_offhand_1h_draenorquest95_b_01",
-		},
-		[202539] = {
-			["name"] = "狂乱",
-			["icon"] = "Interface\\Icons\\inv_axe_2h_orcwarrior_c_01",
 		},
 		[158082] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\warrior_talent_icon_furyintheblood",
 			["name"] = "坚韧不拔",
 		},
-		[180093] = {
-			["name"] = "灵魂箭雨",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowBolt",
+		[202539] = {
+			["name"] = "狂乱",
+			["icon"] = "Interface\\Icons\\inv_axe_2h_orcwarrior_c_01",
+		},
+		[170367] = {
+			["icon"] = "Interface\\Icons\\Ability_ShockWave",
+			["duration"] = 6,
+		},
+		[217896] = {
+			["duration"] = 0,
+			["name"] = "努波顿的仪式",
+			["icon"] = "Interface\\Icons\\inv_offhand_1h_draenorquest95_b_01",
 		},
 		[228645] = {
 			["duration"] = 8,
 			["icon"] = "Interface\\Icons\\INV_Weapon_Shortblade_40",
 			["name"] = "心脏打击",
 		},
-		[171828] = {
-			["name"] = "日光峰林飞鹰",
-			["icon"] = "Interface\\Icons\\inv_helm_suncrown_d_01",
+		[136583] = {
+			["icon"] = "Interface\\Icons\\inv_helm_misc_fireworkpartyhat",
+			["duration"] = 3600,
 		},
 		[205099] = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_Shadowform",
@@ -14091,13 +14121,14 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\warrior_talent_icon_igniteweapon",
 			["name"] = "粉碎防御",
 		},
-		[197422] = {
-			["icon"] = "Interface\\Icons\\ability_priest_auspiciousspirits",
-			["duration"] = 0,
+		[171828] = {
+			["name"] = "日光峰林飞鹰",
+			["icon"] = "Interface\\Icons\\inv_helm_suncrown_d_01",
 		},
-		[170367] = {
-			["icon"] = "Interface\\Icons\\Ability_ShockWave",
-			["duration"] = 6,
+		[28730] = {
+			["duration"] = 2,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Teleport",
+			["debuffType"] = "Magic",
 		},
 		[101542] = {
 			["duration"] = 0,
@@ -14109,43 +14140,41 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Mage_DeepFreeze",
 			["debuffType"] = "Magic",
 		},
-		[198446] = {
-			["icon"] = "Interface\\Icons\\spell_yorsahj_bloodboil_greenoil",
-			["duration"] = 6,
+		[197422] = {
+			["icon"] = "Interface\\Icons\\ability_priest_auspiciousspirits",
+			["duration"] = 0,
 		},
 		[139068] = {
 			["duration"] = 0,
 			["name"] = "坚定不移",
 			["icon"] = "Interface\\Icons\\Spell_Nature_FocusedMind",
 		},
-		[136583] = {
-			["icon"] = "Interface\\Icons\\inv_helm_misc_fireworkpartyhat",
-			["duration"] = 3600,
-		},
 		[98727] = {
 			["duration"] = 0,
 			["name"] = "飞翼守护者",
 			["icon"] = "Interface\\Icons\\inv_mount_wingedlion",
 		},
-		[32240] = {
-			["duration"] = 0,
-			["name"] = "雪色狮鹫",
-			["icon"] = "Interface\\Icons\\ability_mount_snowygryphon",
+		[205612] = {
+			["name"] = "黑化",
+			["icon"] = "Interface\\Icons\\ability_xavius_blackened",
+		},
+		[198446] = {
+			["icon"] = "Interface\\Icons\\spell_yorsahj_bloodboil_greenoil",
+			["duration"] = 6,
 		},
 		[173876] = {
 			["icon"] = "Interface\\Icons\\Ability_GhoulFrenzy",
 			["duration"] = 12,
 		},
-		[28730] = {
-			["duration"] = 2,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Teleport",
-			["debuffType"] = "Magic",
+		[176180] = {
+			["duration"] = 600,
+			["name"] = "复制米尔豪斯",
+			["icon"] = "Interface\\Icons\\Achievement_Character_Gnome_Male",
 		},
-		[8078] = {
-			["name"] = "雷霆一击",
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\Spell_Nature_ThunderClap",
-			["debuffType"] = "Magic",
+		[32240] = {
+			["duration"] = 0,
+			["name"] = "雪色狮鹫",
+			["icon"] = "Interface\\Icons\\ability_mount_snowygryphon",
 		},
 		[71342] = {
 			["duration"] = 0,
@@ -14153,8 +14182,8 @@ JamPlatesAccessoriesDB = {
 			["name"] = "爱情火箭",
 		},
 		[229159] = {
-			["name"] = "混沌暗影",
 			["icon"] = "INTERFACE\\ICONS\\inv_chaos_orb",
+			["name"] = "混沌暗影",
 			["debuffType"] = "Magic",
 		},
 		[233766] = {
@@ -14171,9 +14200,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "琉璃石幼龙",
 			["icon"] = "INTERFACE\\ICONS\\inv_misc_stonedragonblue",
 		},
-		[213292] = {
-			["name"] = "辐射邪能",
-			["icon"] = "Interface\\Icons\\spell_fel_elementaldevastation",
+		[8220] = {
+			["name"] = "精神错乱",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_Disguise",
 		},
 		[198959] = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowMend",
@@ -14192,22 +14221,21 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_mount_talbukdraenormount",
 			["name"] = "迅捷风蹄塔布羊",
 		},
-		[8220] = {
-			["name"] = "精神错乱",
-			["icon"] = "Interface\\Icons\\Ability_Rogue_Disguise",
+		[213292] = {
+			["name"] = "辐射邪能",
+			["icon"] = "Interface\\Icons\\spell_fel_elementaldevastation",
 		},
-		[176438] = {
-			["duration"] = 600,
-			["icon"] = "Interface\\Icons\\INV_Potion_86",
-			["name"] = "莫罗斯的著名抹布",
+		[145213] = {
+			["name"] = "绝望之破",
+			["icon"] = "Interface\\Icons\\ability_deathknight_asphixiate",
 		},
 		[2096] = {
 			["name"] = "心灵视界",
 			["icon"] = "Interface\\Icons\\Spell_Holy_MindVision",
 		},
-		[145213] = {
-			["name"] = "绝望之破",
-			["icon"] = "Interface\\Icons\\ability_deathknight_asphixiate",
+		[70575] = {
+			["name"] = "情人糖",
+			["icon"] = "Interface\\Icons\\INV_ValentinesCandy",
 		},
 		[2120] = {
 			["name"] = "烈焰风暴",
@@ -14215,9 +14243,11 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Fire_SelfDestruct",
 			["debuffType"] = "Magic",
 		},
-		[71087] = {
-			["name"] = "娇艳的玫瑰",
-			["icon"] = "INTERFACE\\ICONS\\inv_jewelry_talisman_03",
+		[207662] = {
+			["name"] = "梦魇伤口",
+			["duration"] = 6.581,
+			["icon"] = "Interface\\Icons\\spell_druid_bloodythrash",
+			["debuffType"] = "Magic",
 		},
 		[204079] = {
 			["duration"] = 8,
@@ -14228,18 +14258,35 @@ JamPlatesAccessoriesDB = {
 			["name"] = "钻孔",
 			["icon"] = "Interface\\Icons\\Spell_Nature_LightningOverload",
 		},
-		[160058] = {
-			["name"] = "厚皮",
-			["icon"] = "Interface\\Icons\\inv_misc_nativebeastskin",
+		[176438] = {
+			["duration"] = 600,
+			["icon"] = "Interface\\Icons\\INV_Potion_86",
+			["name"] = "莫罗斯的著名抹布",
 		},
-		[181557] = {
-			["name"] = "邪焰风暴",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelRainOfFire",
+		[171832] = {
+			["name"] = "风蹄公羊",
+			["icon"] = "Interface\\Icons\\ability_mount_talbukdraenormount",
 		},
 		[197937] = {
 			["duration"] = 60,
 			["name"] = "延宕狂乱",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_TwistedFaith",
+		},
+		[196914] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_RainOfFire",
+			["duration"] = 0,
+		},
+		[222509] = {
+			["icon"] = "Interface\\Icons\\Ability_GhoulFrenzy",
+			["duration"] = 0,
+		},
+		[236328] = {
+			["name"] = "萨恩的锁链",
+			["icon"] = "Interface\\Icons\\Spell_Holy_AvengineWrath",
+		},
+		[212270] = {
+			["icon"] = "INTERFACE\\ICONS\\item_sparkofragnoros",
+			["duration"] = 0,
 		},
 		[225067] = {
 			["name"] = "腐蚀剧毒",
@@ -14252,43 +14299,27 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\warrior_talent_icon_skirmisher",
 			["name"] = "主宰",
 		},
-		[170808] = {
-			["name"] = "赤精之护",
-			["icon"] = "Interface\\Icons\\ability_monk_uplift",
+		[214831] = {
+			["duration"] = 23,
+			["name"] = "混沌能量",
+			["icon"] = "Interface\\Icons\\spell_fire_moltenbloodgreen",
 		},
-		[212270] = {
-			["icon"] = "INTERFACE\\ICONS\\item_sparkofragnoros",
-			["duration"] = 0,
-		},
-		[171832] = {
-			["name"] = "风蹄公羊",
-			["icon"] = "Interface\\Icons\\ability_mount_talbukdraenormount",
-		},
-		[196914] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_RainOfFire",
-			["duration"] = 0,
-		},
-		[210202] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Ability_Creature_Disease_02",
-			["name"] = "恶臭",
-		},
-		[195452] = {
-			["duration"] = 12,
-			["icon"] = "Interface\\Icons\\ability_rogue_nightblade",
-			["name"] = "夜刃",
+		[121253] = {
+			["duration"] = 15,
+			["name"] = "醉酿投",
+			["icon"] = "Interface\\Icons\\achievement_brewery_2",
 		},
 		[70576] = {
 			["name"] = "情人糖",
 			["icon"] = "Interface\\Icons\\INV_ValentinesCandy",
 		},
-		[88748] = {
-			["name"] = "棕色骑乘骆驼",
-			["icon"] = "INTERFACE\\ICONS\\ability_mount_camel_brown",
+		[13819] = {
+			["name"] = "召唤战马",
+			["icon"] = "Interface\\Icons\\Spell_Nature_Swiftness",
 		},
-		[68529] = {
-			["name"] = "香水免疫",
-			["icon"] = "Interface\\Icons\\INV_Potion_107",
+		[59611] = {
+			["icon"] = "Interface\\Icons\\Ability_Warrior_Charge",
+			["duration"] = 2,
 		},
 		[204081] = {
 			["name"] = "利刃留痕",
@@ -14298,26 +14329,26 @@ JamPlatesAccessoriesDB = {
 			["name"] = "苍白食棘者",
 			["icon"] = "Interface\\Icons\\inv_talbukdraenor_white",
 		},
-		[201523] = {
-			["icon"] = "INTERFACE\\ICONS\\ability_deathknight_brittlebones",
-			["duration"] = 20,
+		[202037] = {
+			["icon"] = "Interface\\Icons\\spell_mage_frostbomb",
+			["duration"] = 30,
 		},
-		[197429] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_FocusedPower",
-			["duration"] = 25,
+		[195446] = {
+			["name"] = "极寒之心",
+			["icon"] = "Interface\\Icons\\Spell_Frost_ColdHearted",
 		},
-		[222509] = {
-			["icon"] = "Interface\\Icons\\Ability_GhoulFrenzy",
-			["duration"] = 0,
+		[88748] = {
+			["name"] = "棕色骑乘骆驼",
+			["icon"] = "INTERFACE\\ICONS\\ability_mount_camel_brown",
 		},
-		[214831] = {
-			["duration"] = 23,
-			["name"] = "混沌能量",
-			["icon"] = "Interface\\Icons\\spell_fire_moltenbloodgreen",
+		[68529] = {
+			["name"] = "香水免疫",
+			["icon"] = "Interface\\Icons\\INV_Potion_107",
 		},
-		[216881] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Possession",
-			["duration"] = 6,
+		[203124] = {
+			["duration"] = 35.944,
+			["icon"] = "Interface\\Icons\\inv_misc_head_dragon_bronze_nightmare",
+			["name"] = "莱索恩标记",
 		},
 		[228140] = {
 			["name"] = "宇宙观察",
@@ -14328,13 +14359,14 @@ JamPlatesAccessoriesDB = {
 			["name"] = "暴虐之风",
 			["icon"] = "Interface\\Icons\\Ability_Druid_GaleWinds",
 		},
-		[217905] = {
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
-			["duration"] = 12,
+		[157504] = {
+			["duration"] = 0,
+			["name"] = "暴雨图腾",
+			["icon"] = "Interface\\Icons\\ability_shaman_condensationtotem",
 		},
-		[202037] = {
-			["icon"] = "Interface\\Icons\\spell_mage_frostbomb",
-			["duration"] = 30,
+		[198005] = {
+			["icon"] = "Interface\\Icons\\INV_Misc_Bone_OrcSkull_01",
+			["duration"] = 0,
 		},
 		[193333] = {
 			["duration"] = 1800.001,
@@ -14365,8 +14397,8 @@ JamPlatesAccessoriesDB = {
 			["duration"] = 0,
 		},
 		[180025] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowMend",
 			["name"] = "先驱愈合",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowMend",
 			["debuffType"] = "Magic",
 		},
 		[209202] = {
@@ -14374,108 +14406,106 @@ JamPlatesAccessoriesDB = {
 			["name"] = "提尔之眼",
 			["icon"] = "Interface\\Icons\\inv_shield_1h_artifactnorgannon_d_01",
 		},
-		[121253] = {
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\achievement_brewery_2",
-			["name"] = "醉酿投",
+		[197429] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_FocusedPower",
+			["duration"] = 25,
 		},
-		[23219] = {
-			["icon"] = "Interface\\Icons\\Ability_Mount_BlackPanther",
-			["duration"] = 0,
+		[185656] = {
+			["name"] = "邪影屠戮",
+			["icon"] = "Interface\\Icons\\sha_spell_shadow_shadesofdarkness",
 		},
-		[182073] = {
-			["name"] = "适者生存",
-			["icon"] = "Interface\\Icons\\Spell_Holy_ChampionsBond",
+		[68530] = {
+			["name"] = "古龙水免疫",
+			["icon"] = "Interface\\Icons\\INV_Potion_114",
 		},
 		[101546] = {
 			["name"] = "神鹤引项踢",
 			["icon"] = "Interface\\Icons\\ability_monk_cranekick_new",
 		},
-		[224047] = {
-			["icon"] = "Interface\\Icons\\INV_SummerFest_FireSpirit",
-			["duration"] = 900,
+		[228142] = {
+			["name"] = "激怒",
+			["icon"] = "Interface\\Icons\\inv_offhand_1h_pandariaquest_b_01",
 		},
 		[31665] = {
 			["duration"] = 6,
 			["icon"] = "Interface\\Icons\\Ability_Rogue_MasterOfSubtlety",
 			["name"] = "敏锐大师",
 		},
-		[13819] = {
-			["name"] = "召唤战马",
-			["icon"] = "Interface\\Icons\\Spell_Nature_Swiftness",
+		[216881] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Possession",
+			["duration"] = 6,
 		},
-		[195446] = {
-			["name"] = "极寒之心",
-			["icon"] = "Interface\\Icons\\Spell_Frost_ColdHearted",
+		[171838] = {
+			["icon"] = "Interface\\Icons\\inv_wolfdraenormountfrost",
+			["duration"] = 0,
 		},
-		[59611] = {
-			["icon"] = "Interface\\Icons\\Ability_Warrior_Charge",
-			["duration"] = 2,
+		[217905] = {
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
+			["duration"] = 12,
 		},
 		[214322] = {
 			["icon"] = "Interface\\Icons\\inv_moosemount2",
 			["duration"] = 60,
 		},
-		[214834] = {
-			["duration"] = 15,
-			["name"] = "吸取未来",
-			["icon"] = "Interface\\Icons\\timelesscoin-bloody",
+		[182074] = {
+			["name"] = "献祭",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
 		},
-		[203124] = {
-			["duration"] = 35.944,
-			["icon"] = "Interface\\Icons\\inv_misc_head_dragon_bronze_nightmare",
-			["name"] = "莱索恩标记",
-		},
-		[210228] = {
-			["duration"] = 30,
-			["icon"] = "Interface\\Icons\\INV_Misc_MonsterSpiderCarapace_01",
-			["name"] = "流毒獠牙",
-		},
-		[204085] = {
-			["name"] = "死亡之寒",
-			["icon"] = "Interface\\Icons\\Spell_Frost_FrostArmor",
-			["debuffType"] = "Magic",
-		},
-		[171837] = {
-			["icon"] = "Interface\\Icons\\inv_wolfdraenormountbrown",
-			["duration"] = 0,
-		},
-		[198005] = {
-			["icon"] = "Interface\\Icons\\INV_Misc_Bone_OrcSkull_01",
-			["duration"] = 0,
-		},
-		[215859] = {
-			["duration"] = 30,
-			["icon"] = "Interface\\Icons\\ability_socererking_arcanereplication",
-			["name"] = "动荡魔法",
-		},
-		[197943] = {
-			["duration"] = 12,
-			["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldBreak",
-			["name"] = "压制",
-		},
-		[208693] = {
-			["icon"] = "Interface\\Icons\\Ability_Rogue_FanofKnives",
-			["name"] = "恐惧魔王的谎言",
-			["debuffType"] = "Magic",
-		},
-		[185147] = {
-			["name"] = "召唤传送门",
-			["icon"] = "Interface\\Icons\\warlock_summon_doomguard",
+		[155458] = {
+			["name"] = "狼之狡黠",
+			["icon"] = "Interface\\Icons\\spell_beastmaster_wolf",
 		},
 		[122278] = {
 			["duration"] = 45,
 			["icon"] = "Interface\\Icons\\ability_monk_dampenharm",
 			["name"] = "躯不坏",
 		},
+		[204085] = {
+			["icon"] = "Interface\\Icons\\Spell_Frost_FrostArmor",
+			["name"] = "死亡之寒",
+			["debuffType"] = "Magic",
+		},
+		[171837] = {
+			["icon"] = "Interface\\Icons\\inv_wolfdraenormountbrown",
+			["duration"] = 0,
+		},
+		[212337] = {
+			["name"] = "猛力打击",
+			["icon"] = "Interface\\Icons\\Ability_GolemThunderClap",
+		},
+		[204598] = {
+			["duration"] = 6,
+			["name"] = "烈焰咒符",
+			["icon"] = "Interface\\Icons\\ability_demonhunter_sigilofinquisition",
+		},
+		[197943] = {
+			["duration"] = 12,
+			["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldBreak",
+			["name"] = "压制",
+		},
+		[185147] = {
+			["name"] = "召唤传送门",
+			["icon"] = "Interface\\Icons\\warlock_summon_doomguard",
+		},
+		[70580] = {
+			["name"] = "情人糖",
+			["icon"] = "Interface\\Icons\\INV_ValentinesCandy",
+		},
+		[215859] = {
+			["duration"] = 30,
+			["icon"] = "Interface\\Icons\\ability_socererking_arcanereplication",
+			["name"] = "动荡魔法",
+		},
 		[77489] = {
 			["duration"] = 6.6,
 			["icon"] = "Interface\\Icons\\Spell_Holy_Aspiration",
 			["name"] = "圣光回响",
 		},
-		[171838] = {
-			["icon"] = "Interface\\Icons\\inv_wolfdraenormountfrost",
-			["duration"] = 0,
+		[225073] = {
+			["name"] = "掠夺之根",
+			["duration"] = 15.842,
+			["icon"] = "Interface\\Icons\\spell_nature_thorns_nightmare",
+			["debuffType"] = "Magic",
 		},
 		[205110] = {
 			["duration"] = 20,
@@ -14491,14 +14521,13 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Holy_Resurrection",
 			["name"] = "等待复活",
 		},
-		[57820] = {
-			["duration"] = 0,
-			["name"] = "黑锋勇士",
-			["icon"] = "Interface\\Icons\\INV_Sword_126",
+		[70579] = {
+			["name"] = "情人糖",
+			["icon"] = "Interface\\Icons\\INV_ValentinesCandy",
 		},
-		[212337] = {
-			["name"] = "猛力打击",
-			["icon"] = "Interface\\Icons\\Ability_GolemThunderClap",
+		[195386] = {
+			["name"] = "赛场加油器",
+			["icon"] = "Interface\\Icons\\inv_misc_emberweavecloth",
 		},
 		[5215] = {
 			["duration"] = 0,
@@ -14513,59 +14542,62 @@ JamPlatesAccessoriesDB = {
 			["name"] = "堕落者之赐",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_AntiMagicShell",
 		},
-		[155458] = {
-			["name"] = "狼之狡黠",
-			["icon"] = "Interface\\Icons\\spell_beastmaster_wolf",
-		},
-		[187196] = {
-			["name"] = "邪能反馈",
-			["icon"] = "Interface\\Icons\\spell_warlock_harvestoflife",
-		},
 		[34914] = {
 			["name"] = "吸血鬼之触",
 			["duration"] = 18,
 			["icon"] = "Interface\\Icons\\Spell_Holy_Stoicism",
 			["debuffType"] = "Magic",
 		},
+		[235313] = {
+			["name"] = "烈焰护体",
+			["icon"] = "Interface\\Icons\\Ability_Mage_MoltenArmor",
+			["debuffType"] = "Magic",
+		},
+		[188278] = {
+			["name"] = "消失",
+			["icon"] = "Interface\\Icons\\Ability_Vanish",
+		},
 		[59996] = {
 			["name"] = "蓝色始祖幼龙",
 			["icon"] = "Interface\\Icons\\Ability_Mount_Drake_Proto",
-		},
-		[205113] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_SummonFelHunter",
-			["duration"] = 0,
-		},
-		[195386] = {
-			["name"] = "赛场加油器",
-			["icon"] = "Interface\\Icons\\inv_misc_emberweavecloth",
 		},
 		[193340] = {
 			["duration"] = 12,
 			["name"] = "芬里的撕咬",
 			["icon"] = "Interface\\Icons\\INV_SummerFest_FireSpirit",
 		},
-		[188278] = {
-			["name"] = "消失",
-			["icon"] = "Interface\\Icons\\Ability_Vanish",
+		[187196] = {
+			["name"] = "邪能反馈",
+			["icon"] = "Interface\\Icons\\spell_warlock_harvestoflife",
+		},
+		[113862] = {
+			["duration"] = 3,
+			["icon"] = "Interface\\Icons\\ability_mage_greaterinvisibility",
+			["name"] = "强化隐形术",
+		},
+		[206649] = {
+			["name"] = "莱欧瑟拉斯之眼",
+			["icon"] = "Interface\\Icons\\ability_demonhunter_eyeofleotheras",
+			["debuffType"] = "Magic",
 		},
 		[205112] = {
 			["duration"] = 6,
 			["icon"] = "Interface\\Icons\\Spell_Shadow_LifeDrain02",
 			["debuffType"] = "Magic",
 		},
-		[206649] = {
-			["icon"] = "Interface\\Icons\\ability_demonhunter_eyeofleotheras",
-			["name"] = "莱欧瑟拉斯之眼",
-			["debuffType"] = "Magic",
+		[208697] = {
+			["duration"] = 8,
+			["name"] = "精神鞭笞",
+			["icon"] = "INTERFACE\\ICONS\\spell_shadow_mindflay",
 		},
 		[214326] = {
 			["duration"] = 3,
 			["icon"] = "Interface\\Icons\\inv_staff_2h_artifactmonkeyking_d_02",
 			["name"] = "爆炸酒桶",
 		},
-		[70580] = {
-			["name"] = "情人糖",
-			["icon"] = "Interface\\Icons\\INV_ValentinesCandy",
+		[63963] = {
+			["icon"] = "Interface\\Icons\\ability_mount_razorscale",
+			["duration"] = 0,
 		},
 		[190780] = {
 			["name"] = "冰霜吐息",
@@ -14605,15 +14637,15 @@ JamPlatesAccessoriesDB = {
 			["name"] = "放血",
 			["icon"] = "Interface\\Icons\\ability_deathwing_bloodcorruption_death",
 		},
-		[208697] = {
-			["duration"] = 8,
-			["name"] = "精神鞭笞",
-			["icon"] = "INTERFACE\\ICONS\\spell_shadow_mindflay",
+		[57821] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Spell_Holy_MindSooth",
+			["name"] = "肯瑞托勇士",
 		},
-		[199483] = {
+		[11196] = {
 			["duration"] = 60,
-			["name"] = "伪装",
-			["icon"] = "INTERFACE\\ICONS\\ability_hunter_camouflage",
+			["icon"] = "Interface\\Icons\\INV_Misc_Bandage_08",
+			["name"] = "新近包扎",
 		},
 		[204090] = {
 			["duration"] = 6,
@@ -14626,29 +14658,28 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Frost_Glacier",
 			["debuffType"] = "Magic",
 		},
-		[113862] = {
-			["duration"] = 3,
-			["icon"] = "Interface\\Icons\\ability_mage_greaterinvisibility",
-			["name"] = "强化隐形术",
+		[33891] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Ability_Druid_ImprovedTreeForm",
+			["name"] = "化身：生命之树",
 		},
-		[70581] = {
-			["name"] = "情人糖",
-			["icon"] = "Interface\\Icons\\INV_ValentinesCandy",
+		[171844] = {
+			["name"] = "灰鬃恐狼",
+			["icon"] = "Interface\\Icons\\inv_wolfdraenormountbrown",
 		},
 		[222518] = {
 			["duration"] = 10,
 			["name"] = "净化的精灵祝福",
 			["icon"] = "Interface\\Icons\\Spell_Nature_WispSplodeGreen",
 		},
-		[57821] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Spell_Holy_MindSooth",
-			["name"] = "肯瑞托勇士",
+		[70581] = {
+			["name"] = "情人糖",
+			["icon"] = "Interface\\Icons\\INV_ValentinesCandy",
 		},
-		[33891] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Ability_Druid_ImprovedTreeForm",
-			["name"] = "化身：生命之树",
+		[225081] = {
+			["duration"] = 4,
+			["name"] = "秽物天降",
+			["icon"] = "Interface\\Icons\\sha_inv_elemental_primal_shadow_nightmare",
 		},
 		[215864] = {
 			["duration"] = 10,
@@ -14679,8 +14710,8 @@ JamPlatesAccessoriesDB = {
 			["name"] = "净化的姐妹祝福",
 		},
 		[206651] = {
-			["icon"] = "Interface\\Icons\\ability_xavius_darkeningsoul",
 			["name"] = "晦暗灵魂",
+			["icon"] = "Interface\\Icons\\ability_xavius_darkeningsoul",
 			["debuffType"] = "Magic",
 		},
 		[223543] = {
@@ -14688,35 +14719,36 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_BullRush",
 			["name"] = "维库之怒",
 		},
-		[196414] = {
-			["duration"] = 6,
-			["name"] = "灭杀",
-			["icon"] = "Interface\\Icons\\Ability_Warlock_Eradication",
+		[154953] = {
+			["name"] = "内出血",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_BloodSplatter",
 		},
 		[27571] = {
 			["name"] = "玫瑰凋零",
 			["icon"] = "Interface\\Icons\\INV_Misc_Dust_04",
 		},
-		[171844] = {
-			["name"] = "灰鬃恐狼",
-			["icon"] = "Interface\\Icons\\inv_wolfdraenormountbrown",
+		[196414] = {
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\Ability_Warlock_Eradication",
+			["name"] = "灭杀",
 		},
 		[205116] = {
 			["icon"] = "Interface\\Icons\\ability_butcher_whirl",
 			["duration"] = 0,
 		},
-		[157000] = {
-			["name"] = "投掷炉渣炸弹",
-			["icon"] = "Interface\\Icons\\ability_blackhand_attachedslagbombs",
+		[203121] = {
+			["duration"] = 35.005,
+			["icon"] = "Interface\\Icons\\inv_misc_head_dragon_black_nightmare",
+			["name"] = "泰拉尔标记",
 		},
 		[27827] = {
 			["duration"] = 22.5,
 			["icon"] = "Interface\\Icons\\INV_Enchant_EssenceEternalLarge",
 			["name"] = "救赎之魂",
 		},
-		[154953] = {
-			["name"] = "内出血",
-			["icon"] = "Interface\\Icons\\Ability_Rogue_BloodSplatter",
+		[175941] = {
+			["name"] = "活体炉渣",
+			["icon"] = "Interface\\Icons\\shaman_talent_primalelementalist",
 		},
 		[194879] = {
 			["duration"] = 6,
@@ -14730,8 +14762,8 @@ JamPlatesAccessoriesDB = {
 		},
 		[212283] = {
 			["duration"] = 35,
-			["name"] = "死亡符记",
 			["icon"] = "INTERFACE\\ICONS\\spell_shadow_rune",
+			["name"] = "死亡符记",
 		},
 		[225080] = {
 			["duration"] = 0,
@@ -14742,19 +14774,20 @@ JamPlatesAccessoriesDB = {
 			["name"] = "乱羽孵化",
 			["icon"] = "Interface\\Icons\\inv_pet_babyhippogryph",
 		},
-		[175941] = {
-			["name"] = "活体炉渣",
-			["icon"] = "Interface\\Icons\\shaman_talent_primalelementalist",
+		[118699] = {
+			["name"] = "恐惧",
+			["duration"] = 20,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Possession",
+			["debuffType"] = "Magic",
 		},
 		[202046] = {
 			["duration"] = 0,
 			["name"] = "射线",
 			["icon"] = "Interface\\Icons\\ability_priest_flashoflight",
 		},
-		[225081] = {
-			["duration"] = 4,
-			["name"] = "秽物天降",
-			["icon"] = "Interface\\Icons\\sha_inv_elemental_primal_shadow_nightmare",
+		[106951] = {
+			["name"] = "狂暴",
+			["icon"] = "Interface\\Icons\\Ability_Druid_Berserk",
 		},
 		[207165] = {
 			["name"] = "憎恶之力",
@@ -14768,37 +14801,37 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_pet_ shalespider",
 			["duration"] = 0,
 		},
-		[171846] = {
-			["duration"] = 0,
-			["name"] = "勇士的践踏之刃",
-			["icon"] = "Interface\\Icons\\inv_chopper_alliance",
-		},
-		[203121] = {
-			["duration"] = 35.005,
-			["icon"] = "Interface\\Icons\\inv_misc_head_dragon_black_nightmare",
-			["name"] = "泰拉尔标记",
-		},
 		[229176] = {
 			["name"] = "凡图斯符文：海拉",
 			["icon"] = "Interface\\ICONS\\70_inscription_vantus_rune_odyn",
+		},
+		[123075] = {
+			["name"] = "死亡天使",
+			["icon"] = "Interface\\Icons\\achievement_raid_mantidraid03",
 		},
 		[180545] = {
 			["duration"] = 0,
 			["name"] = "秘魔刃豹",
 			["icon"] = "Interface\\Icons\\inv_saber2mount",
 		},
+		[15487] = {
+			["name"] = "沉默",
+			["duration"] = 5,
+			["icon"] = "INTERFACE\\ICONS\\ability_priest_silence",
+			["debuffType"] = "Magic",
+		},
 		[57822] = {
 			["duration"] = 0,
-			["name"] = "龙眠勇士",
 			["icon"] = "Interface\\Icons\\INV_Misc_Head_Dragon_Red",
+			["name"] = "龙眠勇士",
 		},
-		[106951] = {
-			["name"] = "狂暴",
-			["icon"] = "Interface\\Icons\\Ability_Druid_Berserk",
+		[143768] = {
+			["name"] = "音波发射",
+			["icon"] = "Interface\\Icons\\ability_vehicle_sonicshockwave",
 		},
-		[123075] = {
-			["name"] = "死亡天使",
-			["icon"] = "Interface\\Icons\\achievement_raid_mantidraid03",
+		[45041] = {
+			["name"] = "战斗洞察",
+			["icon"] = "Interface\\Icons\\Spell_Lightning_LightningBolt01",
 		},
 		[146765] = {
 			["name"] = "烈焰之箭",
@@ -14809,19 +14842,17 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_lavahorse",
 			["name"] = "烬鬃战马",
 		},
-		[15487] = {
-			["name"] = "沉默",
-			["duration"] = 5,
-			["icon"] = "INTERFACE\\ICONS\\ability_priest_silence",
-			["debuffType"] = "Magic",
+		[181573] = {
+			["icon"] = "Interface\\Icons\\creatureportrait_blackrock_chainsofwoe",
+			["duration"] = 0,
+		},
+		[147278] = {
+			["name"] = "穿云家传头盔",
+			["icon"] = "Interface\\Icons\\inv_helmet_leatherraidrogue_i_01",
 		},
 		[136528] = {
 			["icon"] = "Interface\\Icons\\Spell_Fire_FlameBlades",
 			["duration"] = 11,
-		},
-		[181573] = {
-			["icon"] = "Interface\\Icons\\creatureportrait_blackrock_chainsofwoe",
-			["duration"] = 0,
 		},
 		[210750] = {
 			["name"] = "坍缩裂隙",
@@ -14844,44 +14875,48 @@ JamPlatesAccessoriesDB = {
 			["name"] = "铁须的帽子",
 			["icon"] = "Interface\\Icons\\INV_Helmet_66",
 		},
-		[171848] = {
-			["icon"] = "Interface\\Icons\\inv_misc_pet_pandaren_yeti",
+		[190837] = {
+			["duration"] = 3600,
+			["name"] = "精美的范克里夫服装",
+			["icon"] = "Interface\\Icons\\Achievement_Boss_EdwinVancleef",
+		},
+		[127174] = {
+			["icon"] = "Interface\\Icons\\ability_mount_cranemountblue",
 			["duration"] = 0,
 		},
-		[147278] = {
-			["name"] = "穿云家传头盔",
-			["icon"] = "Interface\\Icons\\inv_helmet_leatherraidrogue_i_01",
-		},
-		[45041] = {
-			["name"] = "战斗洞察",
-			["icon"] = "Interface\\Icons\\Spell_Lightning_LightningBolt01",
+		[188741] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\icon_treasuremap",
+			["name"] = "至高岭宝藏",
 		},
 		[47585] = {
 			["name"] = "消散",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_Dispersion",
 		},
-		[190837] = {
-			["duration"] = 3600,
-			["name"] = "精美的范克里夫服装",
-			["icon"] = "Interface\\Icons\\Achievement_Boss_EdwinVancleef",
+		[208705] = {
+			["duration"] = 28800,
+			["icon"] = "Interface\\Icons\\inv_leatherworking_70_mountarmor",
+			["name"] = "石皮皮革骑甲",
 		},
 		[224060] = {
 			["duration"] = 8,
 			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Devilsaur",
 			["name"] = "暴龙的践踏",
 		},
+		[221502] = {
+			["duration"] = 4,
+			["name"] = "燃烧之手",
+			["icon"] = "Interface\\Icons\\Spell_Fire_SoulBurn",
+		},
+		[212799] = {
+			["name"] = "闪回信标",
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\Ability_Hunter_Displacement",
+			["debuffType"] = "Magic",
+		},
 		[184646] = {
 			["name"] = "失落的灵魂",
 			["icon"] = "Interface\\Icons\\Spell_Holy_TurnUndead",
-		},
-		[171849] = {
-			["name"] = "日隐小戈隆",
-			["icon"] = "Interface\\Icons\\inv_lessergronnmount_red",
-		},
-		[188741] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\icon_treasuremap",
-			["name"] = "至高岭宝藏",
 		},
 		[213823] = {
 			["name"] = "囫囵大口",
@@ -14891,14 +14926,13 @@ JamPlatesAccessoriesDB = {
 			["name"] = "实验型脉冲手雷",
 			["icon"] = "Interface\\Icons\\Ability_Vehicle_ElectroCharge",
 		},
-		[127174] = {
-			["icon"] = "Interface\\Icons\\ability_mount_cranemountblue",
+		[214336] = {
+			["icon"] = "Interface\\Icons\\ability_bossfelorcs_necromancer_purple",
 			["duration"] = 0,
 		},
-		[212800] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\ability_demonhunter_blur",
-			["name"] = "疾影",
+		[171851] = {
+			["name"] = "夜嚎铁颚狼",
+			["icon"] = "Interface\\Icons\\Ability_Mount_BlackDireWolf",
 		},
 		[183111] = {
 			["duration"] = 0,
@@ -14909,14 +14943,14 @@ JamPlatesAccessoriesDB = {
 			["name"] = "脓背",
 			["icon"] = "Interface\\Icons\\spell_yorsahj_bloodboil_orangeoil",
 		},
-		[180040] = {
-			["name"] = "统御者壁垒",
-			["icon"] = "Interface\\Icons\\inv_shield_38",
+		[212800] = {
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\ability_demonhunter_blur",
+			["name"] = "疾影",
 		},
-		[221502] = {
-			["duration"] = 4,
-			["name"] = "燃烧之手",
-			["icon"] = "Interface\\Icons\\Spell_Fire_SoulBurn",
+		[213312] = {
+			["name"] = "母兽咆哮",
+			["icon"] = "Interface\\Icons\\Ability_Druid_ChallangingRoar",
 		},
 		[164684] = {
 			["name"] = "怒斥",
@@ -14926,26 +14960,26 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Frost_Wisp",
 			["duration"] = 300,
 		},
-		[214336] = {
-			["icon"] = "Interface\\Icons\\ability_bossfelorcs_necromancer_purple",
-			["duration"] = 0,
+		[204611] = {
+			["icon"] = "Interface\\Icons\\Ability_Warrior_TitansGrip",
+			["duration"] = 5,
 		},
 		[182600] = {
 			["name"] = "邪火",
 			["icon"] = "Interface\\Icons\\Spell_Fire_FelFire",
 		},
+		[202052] = {
+			["duration"] = 20,
+			["name"] = "纯洁壁垒",
+			["icon"] = "Interface\\Icons\\inv_wand_14",
+		},
+		[127169] = {
+			["name"] = "神圣碧蓝云端翔龙",
+			["icon"] = "Interface\\Icons\\inv_bluegodcloudserpent",
+		},
 		[147281] = {
 			["name"] = "砮皂之韧",
 			["icon"] = "Interface\\Icons\\ability_monk_chargingoxwave",
-		},
-		[23221] = {
-			["duration"] = 0,
-			["name"] = "迅捷霜刃豹",
-			["icon"] = "Interface\\Icons\\Ability_Mount_WhiteTiger",
-		},
-		[171851] = {
-			["name"] = "夜嚎铁颚狼",
-			["icon"] = "Interface\\Icons\\Ability_Mount_BlackDireWolf",
 		},
 		[225598] = {
 			["duration"] = 3600,
@@ -14957,10 +14991,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "减速药膏",
 			["icon"] = "Interface\\Icons\\Ability_PoisonSting",
 		},
-		[202052] = {
-			["duration"] = 20,
-			["name"] = "纯洁壁垒",
-			["icon"] = "Interface\\Icons\\inv_wand_14",
+		[23221] = {
+			["duration"] = 0,
+			["name"] = "迅捷霜刃豹",
+			["icon"] = "Interface\\Icons\\Ability_Mount_WhiteTiger",
 		},
 		[207171] = {
 			["duration"] = 4,
@@ -14971,10 +15005,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "邪能之怒",
 			["icon"] = "Interface\\Icons\\Spell_Fire_FelHellfire",
 		},
-		[183625] = {
-			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\sha_spell_shaman_lavaburst_nightmare",
-			["debuffType"] = "Magic",
+		[163192] = {
+			["name"] = "熔岩之盾",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FireArmor",
 		},
 		[220480] = {
 			["name"] = "黑锋死亡战马",
@@ -14991,29 +15024,30 @@ JamPlatesAccessoriesDB = {
 		},
 		[19574] = {
 			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Ability_Druid_FerociousBite",
 			["name"] = "狂野怒火",
+			["icon"] = "Interface\\Icons\\Ability_Druid_FerociousBite",
 		},
 		[214338] = {
 			["icon"] = "Interface\\Icons\\ability_bossfelorcs_necromancer_orange",
 			["duration"] = 0,
 		},
-		[160455] = {
-			["name"] = "疲倦",
-			["icon"] = "INTERFACE\\ICONS\\inv_enchant_essencemagicsmall",
+		[176458] = {
+			["duration"] = 14400,
+			["icon"] = "Interface\\Icons\\inv_blacksmith_anvil",
+			["name"] = "铁砧之歌",
 		},
 		[145747] = {
 			["name"] = "浓缩信息素",
 			["icon"] = "Interface\\Icons\\ability_creature_amber_02",
 		},
-		[127169] = {
-			["name"] = "神圣碧蓝云端翔龙",
-			["icon"] = "Interface\\Icons\\inv_bluegodcloudserpent",
+		[158031] = {
+			["name"] = "无颚潜鱼鱼饵",
+			["icon"] = "Interface\\Icons\\inv_fishing_lure_kelp",
 		},
-		[176458] = {
-			["duration"] = 14400,
-			["icon"] = "Interface\\Icons\\inv_blacksmith_anvil",
-			["name"] = "铁砧之歌",
+		[214337] = {
+			["duration"] = 0,
+			["name"] = "强化",
+			["icon"] = "Interface\\Icons\\ability_bossfelorcs_necromancer_red",
 		},
 		[32243] = {
 			["duration"] = 0,
@@ -15024,13 +15058,14 @@ JamPlatesAccessoriesDB = {
 			["name"] = "痛苦之刺",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_PainSpike",
 		},
-		[163192] = {
-			["name"] = "熔岩之盾",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FireArmor",
+		[194102] = {
+			["duration"] = 0,
+			["name"] = "剧毒淤泥",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_DeviousPoisons",
 		},
-		[158031] = {
-			["name"] = "无颚潜鱼鱼饵",
-			["icon"] = "Interface\\Icons\\inv_fishing_lure_kelp",
+		[218435] = {
+			["icon"] = "Interface\\Icons\\spell_mage_supernova_nightborne",
+			["duration"] = 4,
 		},
 		[132951] = {
 			["duration"] = 0,
@@ -15062,41 +15097,39 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
 		},
 		[3600] = {
-			["icon"] = "Interface\\Icons\\Spell_Nature_StrengthOfEarthTotem02",
 			["name"] = "地缚术",
+			["icon"] = "Interface\\Icons\\Spell_Nature_StrengthOfEarthTotem02",
 			["debuffType"] = "Magic",
 		},
 		[206150] = {
 			["icon"] = "Interface\\Icons\\achievement_challengemode_everbloom_hourglass",
 			["duration"] = 0,
 		},
-		[214337] = {
-			["duration"] = 0,
-			["name"] = "强化",
-			["icon"] = "Interface\\Icons\\ability_bossfelorcs_necromancer_red",
+		[221545] = {
+			["name"] = "汽胃酒",
+			["icon"] = "INTERFACE\\ICONS\\creatureportrait_bubble",
 		},
-		[218435] = {
-			["icon"] = "Interface\\Icons\\spell_mage_supernova_nightborne",
-			["duration"] = 4,
+		[225600] = {
+			["name"] = "进食充分",
+			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
 		},
 		[215876] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\sha_spell_fire_bluehellfire_nightmare",
 			["name"] = "燃烧大地",
 		},
-		[194102] = {
-			["duration"] = 0,
-			["name"] = "剧毒淤泥",
-			["icon"] = "Interface\\Icons\\Ability_Rogue_DeviousPoisons",
-		},
 		[184652] = {
 			["name"] = "暗影收割",
 			["icon"] = "Interface\\Icons\\Ability_Rogue_EnvelopingShadows",
 		},
+		[207724] = {
+			["name"] = "双生子的痛苦之触",
+			["icon"] = "INTERFACE\\ICONS\\spell_shadow_mindflay",
+		},
 		[225602] = {
 			["duration"] = 3216.472,
-			["name"] = "进食充分",
 			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+			["name"] = "进食充分",
 		},
 		[176974] = {
 			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_06",
@@ -15111,13 +15144,13 @@ JamPlatesAccessoriesDB = {
 			["name"] = "白色北极熊坐骑",
 			["icon"] = "Interface\\Icons\\Ability_Mount_PolarBear_White",
 		},
-		[221545] = {
-			["name"] = "汽胃酒",
-			["icon"] = "INTERFACE\\ICONS\\creatureportrait_bubble",
+		[148310] = {
+			["name"] = "轰炸",
+			["icon"] = "Interface\\Icons\\Ability_Vehicle_DemolisherFlameCatapult",
 		},
 		[203592] = {
-			["name"] = "黑色热疫",
 			["icon"] = "Interface\\Icons\\inv_pet_diseasedsquirrel",
+			["name"] = "黑色热疫",
 			["debuffType"] = "Disease",
 		},
 		[175439] = {
@@ -15134,22 +15167,25 @@ JamPlatesAccessoriesDB = {
 			["name"] = "进食充分",
 			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
 		},
-		[148310] = {
-			["name"] = "轰炸",
-			["icon"] = "Interface\\Icons\\Ability_Vehicle_DemolisherFlameCatapult",
-		},
-		[181582] = {
-			["name"] = "狂野怒吼",
-			["icon"] = "Interface\\Icons\\ability_fomor_boss_shout",
-		},
 		[217925] = {
 			["duration"] = 0,
 			["name"] = "霜寒彗星",
 			["icon"] = "Interface\\Icons\\spell_hunter_icetrap",
 		},
-		[225600] = {
-			["name"] = "进食充分",
-			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+		[181582] = {
+			["name"] = "狂野怒吼",
+			["icon"] = "Interface\\Icons\\ability_fomor_boss_shout",
+		},
+		[93622] = {
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\Ability_Druid_Mangle2",
+			["name"] = "裂伤！",
+		},
+		[11426] = {
+			["name"] = "寒冰护体",
+			["duration"] = 60,
+			["icon"] = "Interface\\Icons\\Spell_Ice_Lament",
+			["debuffType"] = "Magic",
 		},
 		[187213] = {
 			["name"] = "急迫意志",
@@ -15159,9 +15195,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "蛊惑",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_MindTwisting",
 		},
-		[207724] = {
-			["name"] = "双生子的痛苦之触",
-			["icon"] = "INTERFACE\\ICONS\\spell_shadow_mindflay",
+		[108211] = {
+			["duration"] = 3600,
+			["name"] = "吸血药膏",
+			["icon"] = "Interface\\Icons\\rogue_leeching_poison",
 		},
 		[225604] = {
 			["duration"] = 3600.003,
@@ -15177,25 +15214,23 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\boss_odunrunes_purple",
 			["duration"] = 12,
 		},
-		[93622] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\Ability_Druid_Mangle2",
-			["name"] = "裂伤！",
+		[49379] = {
+			["duration"] = 0,
+			["name"] = "大型美酒节科多兽",
+			["icon"] = "Interface\\Icons\\Ability_Mount_KotoBrewfest",
 		},
-		[11426] = {
-			["name"] = "寒冰护体",
-			["duration"] = 60,
-			["icon"] = "Interface\\Icons\\Spell_Ice_Lament",
-			["debuffType"] = "Magic",
+		[102342] = {
+			["duration"] = 12,
+			["name"] = "铁木树皮",
+			["icon"] = "Interface\\Icons\\spell_druid_ironbark",
 		},
 		[228164] = {
 			["name"] = "裂地猛击",
 			["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldBreak",
 		},
-		[49379] = {
-			["duration"] = 0,
-			["name"] = "大型美酒节科多兽",
-			["icon"] = "Interface\\Icons\\Ability_Mount_KotoBrewfest",
+		[216425] = {
+			["name"] = "安详垂钓",
+			["icon"] = "Interface\\Icons\\inv_misc_food_164_fish_seadog",
 		},
 		[147288] = {
 			["name"] = "巨型毒牙",
@@ -15227,10 +15262,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_demonhunter_bloodlet",
 			["name"] = "血滴子",
 		},
-		[108211] = {
-			["duration"] = 3600,
-			["name"] = "吸血药膏",
-			["icon"] = "Interface\\Icons\\rogue_leeching_poison",
+		[176978] = {
+			["name"] = "完美的活性蘑菇",
+			["icon"] = "Interface\\Icons\\spell_druid_wildmushroom_bloom",
 		},
 		[128943] = {
 			["duration"] = 0,
@@ -15242,9 +15276,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "进食充分",
 			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
 		},
-		[176978] = {
-			["name"] = "完美的活性蘑菇",
-			["icon"] = "Interface\\Icons\\spell_druid_wildmushroom_bloom",
+		[160598] = {
+			["name"] = "进食",
+			["icon"] = "Interface\\Icons\\INV_Misc_Fork&Knife",
 		},
 		[197965] = {
 			["icon"] = "Interface\\Icons\\boss_odunrunes_yellow",
@@ -15276,9 +15310,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "梦魇幻影",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_SummonVoidWalker",
 		},
-		[205644] = {
-			["icon"] = "Interface\\Icons\\Ability_Physical_Taunt",
-			["duration"] = 15,
+		[160599] = {
+			["name"] = "饮水",
+			["icon"] = "Interface\\Icons\\INV_Drink_18",
 		},
 		[218441] = {
 			["icon"] = "Interface\\Icons\\inv_shield_11",
@@ -15286,17 +15320,16 @@ JamPlatesAccessoriesDB = {
 		},
 		[202573] = {
 			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Ability_Warrior_UnrelentingAssault",
 			["name"] = "报复：复仇",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_UnrelentingAssault",
 		},
 		[203085] = {
 			["icon"] = "Interface\\Icons\\inv_misc_head_dragon_black_nightmare",
 			["duration"] = 0,
 		},
-		[171845] = {
-			["duration"] = 0,
-			["name"] = "督军的死亡之轮",
-			["icon"] = "Interface\\Icons\\inv_chopper_horde",
+		[190831] = {
+			["name"] = "充气版雷霆之怒",
+			["icon"] = "Interface\\Icons\\INV_Sword_39",
 		},
 		[220489] = {
 			["name"] = "怀特迈恩的死亡战马",
@@ -15310,19 +15343,18 @@ JamPlatesAccessoriesDB = {
 			["name"] = "恶魔屏障",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_SealOfKings",
 		},
-		[102342] = {
-			["duration"] = 12,
-			["name"] = "铁木树皮",
-			["icon"] = "Interface\\Icons\\spell_druid_ironbark",
-		},
 		[202062] = {
 			["icon"] = "Interface\\Icons\\Ability_Mage_ColdAsIce",
 			["duration"] = 18,
 		},
+		[197967] = {
+			["icon"] = "Interface\\Icons\\boss_odunrunes_green",
+			["duration"] = 12,
+		},
 		[202574] = {
 			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Ability_Warrior_UnrelentingAssault",
 			["name"] = "报复：无视苦痛",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_UnrelentingAssault",
 		},
 		[194896] = {
 			["icon"] = "Interface\\Icons\\ability_fomor_boss_shout",
@@ -15361,9 +15393,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\ability_priest_atonement",
 			["name"] = "救赎",
 		},
-		[190831] = {
-			["name"] = "充气版雷霆之怒",
-			["icon"] = "Interface\\Icons\\INV_Sword_39",
+		[147833] = {
+			["name"] = "援护",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_VictoryRush",
 		},
 		[224074] = {
 			["duration"] = 1,
@@ -15389,8 +15421,8 @@ JamPlatesAccessoriesDB = {
 			["name"] = "梦魇脓液",
 		},
 		[215369] = {
-			["icon"] = "Interface\\Icons\\Spell_Arcane_PrismaticCloak",
 			["name"] = "枯萎哀伤",
+			["icon"] = "Interface\\Icons\\Spell_Arcane_PrismaticCloak",
 			["debuffType"] = "Magic",
 		},
 		[194386] = {
@@ -15398,31 +15430,32 @@ JamPlatesAccessoriesDB = {
 			["name"] = "乱射",
 			["icon"] = "Interface\\Icons\\Ability_Marksmanship",
 		},
-		[213836] = {
-			["icon"] = "Interface\\Icons\\Spell_Nature_Web",
-			["name"] = "蛛丝诅咒",
-			["debuffType"] = "Curse",
+		[220519] = {
+			["icon"] = "INTERFACE\\ICONS\\spell_shaman_earthquake",
+			["duration"] = 0,
 		},
-		[92089] = {
-			["name"] = "恩赐",
-			["icon"] = "Interface\\Icons\\Spell_Holy_HopeAndGrace",
+		[191342] = {
+			["duration"] = 15,
+			["name"] = "快速击杀",
+			["icon"] = "Interface\\Icons\\Ability_Hunter_Assassinate",
 		},
 		[220492] = {
 			["duration"] = 6,
 			["icon"] = "INTERFACE\\ICONS\\inv_offhand_stratholme_a_02",
 			["debuffType"] = "Curse",
 		},
-		[147833] = {
-			["name"] = "援护",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_VictoryRush",
+		[171845] = {
+			["duration"] = 0,
+			["name"] = "督军的死亡之轮",
+			["icon"] = "Interface\\Icons\\inv_chopper_horde",
 		},
 		[127154] = {
 			["icon"] = "Interface\\Icons\\inv_pandarenserpentmount_blue",
 			["duration"] = 0,
 		},
-		[8222] = {
-			["name"] = "呀啊啊啊啊",
-			["icon"] = "Interface\\Icons\\Ability_Rogue_Disguise",
+		[92089] = {
+			["name"] = "恩赐",
+			["icon"] = "Interface\\Icons\\Spell_Holy_HopeAndGrace",
 		},
 		[202065] = {
 			["icon"] = "Interface\\Icons\\spell_hunter_icetrap",
@@ -15437,13 +15470,13 @@ JamPlatesAccessoriesDB = {
 			["duration"] = 10,
 		},
 		[203601] = {
-			["name"] = "献祭",
 			["icon"] = "Interface\\Icons\\Spell_Fire_Immolation",
+			["name"] = "献祭",
 			["debuffType"] = "Magic",
 		},
-		[220519] = {
-			["icon"] = "INTERFACE\\ICONS\\spell_shaman_earthquake",
-			["duration"] = 0,
+		[189806] = {
+			["name"] = "虚空反馈",
+			["icon"] = "Interface\\Icons\\ability_warlock_soullink",
 		},
 		[92091] = {
 			["name"] = "终极密钥",
@@ -15465,37 +15498,36 @@ JamPlatesAccessoriesDB = {
 			["name"] = "炽炎残渣",
 			["icon"] = "Interface\\Icons\\ability_rhyolith_lavapool",
 		},
-		[191342] = {
-			["duration"] = 15,
-			["name"] = "快速击杀",
-			["icon"] = "Interface\\Icons\\Ability_Hunter_Assassinate",
+		[11327] = {
+			["duration"] = 3,
+			["icon"] = "Interface\\Icons\\Ability_Vanish",
+			["name"] = "消失",
 		},
-		[8510] = {
-			["name"] = "爆裂逆火",
-			["icon"] = "Interface\\Icons\\Spell_Fire_Fire",
+		[213836] = {
+			["name"] = "蛛丝诅咒",
+			["icon"] = "Interface\\Icons\\Spell_Nature_Web",
+			["debuffType"] = "Curse",
 		},
 		[199507] = {
 			["name"] = "广布圣言：保护",
 			["icon"] = "Interface\\Icons\\Spell_Holy_HolyProtection",
 		},
-		[220484] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\inv_skeletalwarhorse_black",
-			["name"] = "纳兹戈林的死亡战马",
+		[8222] = {
+			["name"] = "呀啊啊啊啊",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_Disguise",
 		},
-		[189806] = {
-			["name"] = "虚空反馈",
-			["icon"] = "Interface\\Icons\\ability_warlock_soullink",
+		[8510] = {
+			["name"] = "爆裂逆火",
+			["icon"] = "Interface\\Icons\\Spell_Fire_Fire",
 		},
 		[73920] = {
 			["duration"] = 10,
 			["name"] = "治疗之雨",
 			["icon"] = "Interface\\Icons\\Spell_Nature_GiftoftheWaterSpirit",
 		},
-		[11327] = {
-			["duration"] = 3,
-			["icon"] = "Interface\\Icons\\Ability_Vanish",
-			["name"] = "消失",
+		[162676] = {
+			["name"] = "渗漏的火药桶",
+			["icon"] = "Interface\\Icons\\INV_Cask_03",
 		},
 		[196937] = {
 			["duration"] = 16.186,
@@ -15506,22 +15538,24 @@ JamPlatesAccessoriesDB = {
 			["name"] = "就是现在！",
 			["icon"] = "Interface\\Icons\\Ability_Hunter_Readiness",
 		},
-		[194899] = {
-			["icon"] = "Interface\\Icons\\inv_tradeskillitem_sorcererswind",
-			["duration"] = 0,
+		[165747] = {
+			["name"] = "力量祝福",
+			["icon"] = "Interface\\Icons\\Spell_Holy_FistOfJustice",
+			["debuffType"] = "Magic",
 		},
 		[211793] = {
 			["duration"] = 3,
-			["name"] = "冷酷严冬",
 			["icon"] = "Interface\\Icons\\ability_deathknight_remorselesswinters2",
+			["name"] = "冷酷严冬",
 		},
 		[147283] = {
 			["name"] = "赤精之愿",
 			["icon"] = "Interface\\Icons\\inv_pet_crane",
 		},
-		[162676] = {
-			["name"] = "渗漏的火药桶",
-			["icon"] = "Interface\\Icons\\INV_Cask_03",
+		[220484] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\inv_skeletalwarhorse_black",
+			["name"] = "纳兹戈林的死亡战马",
 		},
 		[214342] = {
 			["duration"] = 20,
@@ -15529,8 +15563,8 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_skyreach_wind",
 		},
 		[209746] = {
-			["icon"] = "Interface\\Icons\\Ability_Druid_ImprovedMoonkinForm",
 			["name"] = "枭兽光环",
+			["icon"] = "Interface\\Icons\\Ability_Druid_ImprovedMoonkinForm",
 			["debuffType"] = "Magic",
 		},
 		[23223] = {
@@ -15538,10 +15572,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Mount_MechaStrider",
 			["name"] = "迅捷白色机械陆行鸟",
 		},
-		[165747] = {
-			["icon"] = "Interface\\Icons\\Spell_Holy_FistOfJustice",
-			["name"] = "力量祝福",
-			["debuffType"] = "Magic",
+		[180079] = {
+			["name"] = "邪火弹药",
+			["icon"] = "Interface\\Icons\\inv_blacksmithdye_black",
 		},
 		[215377] = {
 			["duration"] = 30,
@@ -15567,8 +15600,8 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\ability_mount_kodosunwalkerelite",
 		},
 		[230222] = {
-			["name"] = "雷霆仪式",
 			["icon"] = "Interface\\Icons\\ability_thunderking_thunderstruck",
+			["name"] = "雷霆仪式",
 			["debuffType"] = "Magic",
 		},
 		[197974] = {
@@ -15577,13 +15610,12 @@ JamPlatesAccessoriesDB = {
 		},
 		[227151] = {
 			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\ability_rogue_shadowstrike",
 			["name"] = "死亡",
+			["icon"] = "Interface\\Icons\\ability_rogue_shadowstrike",
 		},
-		[193358] = {
-			["duration"] = 46.8,
-			["icon"] = "Interface\\Icons\\ability_rogue_rollthebones02",
-			["name"] = "大乱斗",
+		[194899] = {
+			["icon"] = "Interface\\Icons\\inv_tradeskillitem_sorcererswind",
+			["duration"] = 0,
 		},
 		[207700] = {
 			["duration"] = 1800,
@@ -15594,30 +15626,32 @@ JamPlatesAccessoriesDB = {
 			["name"] = "纹铭刺青",
 			["icon"] = "Interface\\Icons\\ability_fomor_boss_rune_red",
 		},
-		[180079] = {
-			["name"] = "邪火弹药",
-			["icon"] = "Interface\\Icons\\inv_blacksmithdye_black",
+		[165746] = {
+			["name"] = "惩戒光环",
+			["icon"] = "Interface\\Icons\\Spell_Holy_AuraOfLight",
 		},
-		[197966] = {
-			["icon"] = "Interface\\Icons\\boss_odunrunes_blue",
-			["duration"] = 12,
+		[107203] = {
+			["duration"] = 0,
+			["name"] = "泰瑞尔的天使战马",
+			["icon"] = "Interface\\Icons\\ability_mount_tyraelmount",
 		},
 		[125365] = {
 			["name"] = "投掷污物",
 			["icon"] = "Interface\\Icons\\inv_food_christmasfruitcake_01",
 		},
+		[193358] = {
+			["duration"] = 46.8,
+			["icon"] = "Interface\\Icons\\ability_rogue_rollthebones02",
+			["name"] = "大乱斗",
+		},
+		[197966] = {
+			["icon"] = "Interface\\Icons\\boss_odunrunes_blue",
+			["duration"] = 12,
+		},
 		[48101] = {
-			["name"] = "耐力",
 			["icon"] = "Interface\\Icons\\Spell_Nature_UnyeildingStamina",
+			["name"] = "耐力",
 			["debuffType"] = "Magic",
-		},
-		[144215] = {
-			["name"] = "冰霜风暴打击",
-			["icon"] = "INTERFACE\\ICONS\\spell_shaman_unleashweapon_frost",
-		},
-		[165746] = {
-			["name"] = "惩戒光环",
-			["icon"] = "Interface\\Icons\\Spell_Holy_AuraOfLight",
 		},
 		[126389] = {
 			["duration"] = 120,
@@ -15632,20 +15666,19 @@ JamPlatesAccessoriesDB = {
 			["name"] = "时来运转",
 			["icon"] = "Interface\\Icons\\ability_monk_fortuneturned",
 		},
-		[107203] = {
-			["duration"] = 0,
-			["name"] = "泰瑞尔的天使战马",
-			["icon"] = "Interface\\Icons\\ability_mount_tyraelmount",
+		[144215] = {
+			["name"] = "冰霜风暴打击",
+			["icon"] = "INTERFACE\\ICONS\\spell_shaman_unleashweapon_frost",
 		},
 		[208723] = {
-			["icon"] = "Interface\\Icons\\inv_misc_volatileearth",
 			["name"] = "大分裂的回响",
+			["icon"] = "Interface\\Icons\\inv_misc_volatileearth",
 			["debuffType"] = "Magic",
 		},
-		[198479] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\spell_fel_incinerate",
-			["debuffType"] = "Magic",
+		[117952] = {
+			["duration"] = 3.548,
+			["name"] = "碎玉闪电",
+			["icon"] = "Interface\\Icons\\ability_monk_cracklingjadelightning",
 		},
 		[211794] = {
 			["name"] = "凛冬将至",
@@ -15653,19 +15686,19 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_wolfdraenormountfrost",
 			["debuffType"] = "Magic",
 		},
-		[207681] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\ability_priest_voidentropy",
-			["name"] = "梦魇花蕾",
+		[198479] = {
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\spell_fel_incinerate",
+			["debuffType"] = "Magic",
 		},
 		[230221] = {
 			["name"] = "被吸收的法力",
 			["icon"] = "Interface\\Icons\\Spell_Magic_ManaGain",
 		},
-		[117952] = {
-			["duration"] = 3.548,
-			["name"] = "碎玉闪电",
-			["icon"] = "Interface\\Icons\\ability_monk_cracklingjadelightning",
+		[207681] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\ability_priest_voidentropy",
+			["name"] = "梦魇花蕾",
 		},
 		[200536] = {
 			["icon"] = "Interface\\Icons\\INV_Misc_Bandage_08",
@@ -15675,33 +15708,31 @@ JamPlatesAccessoriesDB = {
 			["name"] = "碎骨重锤",
 			["icon"] = "INTERFACE\\ICONS\\ability_deathknight_brittlebones",
 		},
-		[193359] = {
-			["duration"] = 46.8,
-			["name"] = "精准定位",
-			["icon"] = "Interface\\Icons\\ability_rogue_rollthebones04",
+		[195945] = {
+			["icon"] = "Interface\\Icons\\inv_misc_volatileearth",
+			["duration"] = 30,
 		},
 		[118455] = {
 			["name"] = "野兽顺劈",
 			["icon"] = "INTERFACE\\ICONS\\ability_hunter_sickem",
 		},
-		[208215] = {
-			["duration"] = 15,
-			["name"] = "诺甘农的预见",
-			["icon"] = "Interface\\Icons\\Spell_Arcane_FocusedPower",
+		[195418] = {
+			["name"] = "连锁反应",
+			["icon"] = "Interface\\Icons\\Spell_Frost_Frostbolt",
 		},
 		[203096] = {
 			["duration"] = 9,
 			["name"] = "溃烂",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_CreepingPlague",
 		},
-		[195418] = {
-			["name"] = "连锁反应",
-			["icon"] = "Interface\\Icons\\Spell_Frost_Frostbolt",
+		[232273] = {
+			["name"] = "散逸的法力",
+			["icon"] = "Interface\\Icons\\Spell_Arcane_Arcane01",
 		},
-		[200025] = {
-			["duration"] = 8,
-			["name"] = "美德道标",
-			["icon"] = "Interface\\Icons\\ability_paladin_beaconofinsight",
+		[208215] = {
+			["duration"] = 15,
+			["name"] = "诺甘农的预见",
+			["icon"] = "Interface\\Icons\\Spell_Arcane_FocusedPower",
 		},
 		[77762] = {
 			["duration"] = 10,
@@ -15746,9 +15777,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_03",
 			["debuffType"] = "Poison",
 		},
-		[195945] = {
-			["icon"] = "Interface\\Icons\\inv_misc_volatileearth",
-			["duration"] = 30,
+		[200025] = {
+			["duration"] = 8,
+			["name"] = "美德道标",
+			["icon"] = "Interface\\Icons\\ability_paladin_beaconofinsight",
 		},
 		[196941] = {
 			["duration"] = 30,
@@ -15764,23 +15796,23 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_demonhunter_immolation",
 			["duration"] = 6,
 		},
-		[224078] = {
-			["duration"] = 6,
-			["name"] = "暴龙电击带",
-			["icon"] = "Interface\\Icons\\Spell_Nature_Lightning",
+		[155506] = {
+			["name"] = "石化",
+			["icon"] = "Interface\\Icons\\INV_Elemental_Primal_Earth",
 		},
-		[220500] = {
-			["name"] = "动荡宝珠",
-			["icon"] = "Interface\\Icons\\spell_mage_arcaneorb",
+		[195944] = {
+			["duration"] = 0.8,
+			["name"] = "冲天怒火",
+			["icon"] = "Interface\\Icons\\inv_misc_volatileearth",
 		},
 		[216407] = {
 			["icon"] = "INTERFACE\\ICONS\\spell_shaman_lavasurge",
 			["duration"] = 0,
 		},
-		[93368] = {
-			["duration"] = 0,
-			["name"] = "蛮锤部族勇士",
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_tabard_wildhammerclan",
+		[224078] = {
+			["duration"] = 6,
+			["name"] = "暴龙电击带",
+			["icon"] = "Interface\\Icons\\Spell_Nature_Lightning",
 		},
 		[205146] = {
 			["name"] = "魔性征召",
@@ -15788,36 +15820,36 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\ability_warlock_impoweredimp",
 			["debuffType"] = "Magic",
 		},
-		[219524] = {
-			["icon"] = "Interface\\Icons\\sha_spell_fire_blueimmolation_nightmare",
-			["duration"] = 8,
+		[220500] = {
+			["name"] = "动荡宝珠",
+			["icon"] = "Interface\\Icons\\spell_mage_arcaneorb",
 		},
 		[202075] = {
 			["icon"] = "Interface\\Icons\\Spell_Fire_FlameBolt",
 			["duration"] = 10,
 		},
-		[155506] = {
-			["name"] = "石化",
-			["icon"] = "Interface\\Icons\\INV_Elemental_Primal_Earth",
+		[93368] = {
+			["duration"] = 0,
+			["name"] = "蛮锤部族勇士",
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_tabard_wildhammerclan",
 		},
 		[158054] = {
 			["name"] = "巨力粉碎猛击",
 			["icon"] = "Interface\\Icons\\INV_Elemental_Primal_Fire",
 		},
 		[219991] = {
-			["icon"] = "Interface\\Icons\\warlock_curse_shadow",
 			["name"] = "邪恶伤口",
+			["icon"] = "Interface\\Icons\\warlock_curse_shadow",
 			["debuffType"] = "Magic",
 		},
 		[208218] = {
-			["icon"] = "Interface\\Icons\\spell_druid_bearhug",
 			["name"] = "斯凯塞克的坚守",
+			["icon"] = "Interface\\Icons\\spell_druid_bearhug",
 			["debuffType"] = "Magic",
 		},
-		[195944] = {
-			["duration"] = 0.8,
-			["name"] = "冲天怒火",
-			["icon"] = "Interface\\Icons\\inv_misc_volatileearth",
+		[219524] = {
+			["icon"] = "Interface\\Icons\\sha_spell_fire_blueimmolation_nightmare",
+			["duration"] = 8,
 		},
 		[58469] = {
 			["duration"] = 10,
@@ -15828,9 +15860,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "登船突击队",
 			["icon"] = "Interface\\Icons\\ships_ability_boardingpartyalliance",
 		},
-		[111803] = {
-			["name"] = "自由骑乘",
-			["icon"] = "Interface\\Icons\\ability_monk_dragonkick",
+		[181099] = {
+			["name"] = "末日印记",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_AuraOfDarkness",
 		},
 		[214350] = {
 			["name"] = "梦魇精华",
@@ -15838,13 +15870,13 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\spell_nature_thorns_nightmare",
 			["debuffType"] = "Magic",
 		},
+		[111803] = {
+			["name"] = "自由骑乘",
+			["icon"] = "Interface\\Icons\\ability_monk_dragonkick",
+		},
 		[207707] = {
 			["icon"] = "Interface\\Icons\\Ability_Stealth",
 			["duration"] = 0,
-		},
-		[211802] = {
-			["icon"] = "Interface\\Icons\\ability_xavius_nightmareblades",
-			["duration"] = 4,
 		},
 		[220504] = {
 			["duration"] = 0,
@@ -15873,18 +15905,19 @@ JamPlatesAccessoriesDB = {
 			["name"] = "折磨反射",
 			["icon"] = "Interface\\Icons\\Ability_Rogue_SinisterCalling",
 		},
-		[181099] = {
-			["name"] = "末日印记",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_AuraOfDarkness",
+		[211802] = {
+			["icon"] = "Interface\\Icons\\ability_xavius_nightmareblades",
+			["duration"] = 4,
 		},
 		[215898] = {
 			["duration"] = 0,
 			["name"] = "晶化大地",
 			["icon"] = "Interface\\Icons\\INV_DataCrystal05",
 		},
-		[220505] = {
-			["name"] = "白银之手科多兽",
-			["icon"] = "INTERFACE\\ICONS\\ability_mount_kodosunwalkerelite",
+		[32182] = {
+			["name"] = "英勇",
+			["icon"] = "Interface\\Icons\\Ability_Shaman_Heroism",
+			["debuffType"] = "Magic",
 		},
 		[32246] = {
 			["icon"] = "Interface\\Icons\\ability_mount_swiftredwindrider",
@@ -15937,19 +15970,18 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\spell_druid_stampedingroar_cat",
 			["name"] = "狂奔怒吼",
 		},
-		[183117] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\inv_feldreadravenmount",
-			["name"] = "腐化恐翼鸦",
+		[213858] = {
+			["name"] = "战斗专注",
+			["icon"] = "INTERFACE\\ICONS\\warrior_talent_icon_furyintheblood",
 		},
 		[227161] = {
 			["icon"] = "Interface\\Icons\\inv_enchant_essencecosmicgreater",
 			["duration"] = 10,
 		},
-		[184676] = {
-			["name"] = "死灵印记",
-			["icon"] = "Interface\\Icons\\ability_bossfelorcs_necromancer_purple",
-			["debuffType"] = "Magic",
+		[127164] = {
+			["duration"] = 0,
+			["name"] = "神圣金色云端翔龙",
+			["icon"] = "Interface\\Icons\\inv_pandarenserpentgodmount_gold",
 		},
 		[211805] = {
 			["duration"] = 0,
@@ -15965,6 +15997,16 @@ JamPlatesAccessoriesDB = {
 			["name"] = "炮弹",
 			["icon"] = "Interface\\Icons\\ability_vehicle_launchplayer",
 		},
+		[184676] = {
+			["icon"] = "Interface\\Icons\\ability_bossfelorcs_necromancer_purple",
+			["name"] = "死灵印记",
+			["debuffType"] = "Magic",
+		},
+		[183117] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\inv_feldreadravenmount",
+			["name"] = "腐化恐翼鸦",
+		},
 		[213341] = {
 			["name"] = "胆略",
 			["icon"] = "Interface\\Icons\\achievement_faction_brewmaster",
@@ -15975,23 +16017,14 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\spell_nature_thorns_nightmare",
 			["debuffType"] = "Magic",
 		},
-		[220507] = {
-			["name"] = "白银之手战马",
-			["icon"] = "Interface\\Icons\\Ability_Mount_Charger",
-		},
-		[213858] = {
-			["name"] = "战斗专注",
-			["icon"] = "INTERFACE\\ICONS\\warrior_talent_icon_furyintheblood",
-		},
 		[101568] = {
 			["duration"] = 20,
 			["icon"] = "Interface\\Icons\\ability_skeer_bloodletting",
 			["name"] = "黑暗援助",
 		},
-		[127164] = {
-			["duration"] = 0,
-			["name"] = "神圣金色云端翔龙",
-			["icon"] = "Interface\\Icons\\inv_pandarenserpentgodmount_gold",
+		[194918] = {
+			["name"] = "凋零符文武器",
+			["icon"] = "Interface\\Icons\\Spell_Deathknight_PlagueStrike",
 		},
 		[216413] = {
 			["duration"] = 10,
@@ -16002,15 +16035,14 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\spell_frost_stun",
 			["duration"] = 2,
 		},
+		[220507] = {
+			["name"] = "白银之手战马",
+			["icon"] = "Interface\\Icons\\Ability_Mount_Charger",
+		},
 		[175457] = {
 			["duration"] = 3600,
 			["name"] = "专注强化",
 			["icon"] = "Interface\\Icons\\INV_Misc_Rune_12",
-		},
-		[224604] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyFrenzy",
-			["debuffType"] = "",
 		},
 		[214366] = {
 			["name"] = "晶化身体",
@@ -16024,13 +16056,14 @@ JamPlatesAccessoriesDB = {
 			["name"] = "即抛型冬幕节服装",
 			["icon"] = "Interface\\Icons\\inv_helm_cloth_holiday_christmas_a_03",
 		},
-		[194918] = {
-			["name"] = "凋零符文武器",
-			["icon"] = "Interface\\Icons\\Spell_Deathknight_PlagueStrike",
-		},
 		[47977] = {
 			["icon"] = "Interface\\Icons\\Achievement_Halloween_Witch_01",
 			["duration"] = 0,
+		},
+		[224604] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyFrenzy",
+			["debuffType"] = "",
 		},
 		[191840] = {
 			["duration"] = 6.845,
@@ -16138,8 +16171,8 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Arcane_FocusedPower",
 		},
 		[144351] = {
-			["name"] = "傲慢标记",
 			["icon"] = "INTERFACE\\ICONS\\ability_warlock_impoweredimp",
+			["name"] = "傲慢标记",
 			["debuffType"] = "Magic",
 		},
 		[135029] = {
@@ -16169,10 +16202,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Misc_Head_Murloc_01",
 			["duration"] = 3600.001,
 		},
-		[32182] = {
-			["icon"] = "Interface\\Icons\\Ability_Shaman_Heroism",
-			["name"] = "英勇",
-			["debuffType"] = "Magic",
+		[220505] = {
+			["name"] = "白银之手科多兽",
+			["icon"] = "INTERFACE\\ICONS\\ability_mount_kodosunwalkerelite",
 		},
 		[191848] = {
 			["icon"] = "INTERFACE\\ICONS\\trade_archaeology_whitehydrafigurine",
@@ -16189,8 +16221,8 @@ JamPlatesAccessoriesDB = {
 			["name"] = "秋风扫落叶",
 		},
 		[201574] = {
-			["icon"] = "Interface\\Icons\\INV_Spear_02",
 			["name"] = "锈蚀打击",
+			["icon"] = "Interface\\Icons\\INV_Spear_02",
 			["debuffType"] = "Poison",
 		},
 		[113344] = {
@@ -16230,8 +16262,8 @@ JamPlatesAccessoriesDB = {
 			["debuffType"] = "Magic",
 		},
 		[148852] = {
-			["icon"] = "Interface\\Icons\\spell_holy_dizzy",
 			["name"] = "狂暴",
+			["icon"] = "Interface\\Icons\\spell_holy_dizzy",
 			["debuffType"] = "",
 		},
 		[223591] = {
@@ -16251,17 +16283,18 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_inscription_pigment_nether",
 		},
 		[208742] = {
-			["icon"] = "Interface\\Icons\\Spell_Shaman_StaticShock",
 			["name"] = "埃玛尔隆的充能之核",
+			["icon"] = "Interface\\Icons\\Spell_Shaman_StaticShock",
 			["debuffType"] = "Magic",
 		},
 		[201064] = {
 			["icon"] = "Interface\\Icons\\rogue_burstofspeed",
 			["duration"] = 0,
 		},
-		[232273] = {
-			["name"] = "散逸的法力",
-			["icon"] = "Interface\\Icons\\Spell_Arcane_Arcane01",
+		[193359] = {
+			["duration"] = 46.8,
+			["name"] = "精准定位",
+			["icon"] = "Interface\\Icons\\ability_rogue_rollthebones04",
 		},
 		[214373] = {
 			["duration"] = 1.5,
@@ -16300,20 +16333,20 @@ JamPlatesAccessoriesDB = {
 			["name"] = "烟雾弹",
 			["icon"] = "INTERFACE\\ICONS\\ability_rogue_smoke",
 		},
-		[59752] = {
-			["duration"] = 0.1,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Charm",
-			["name"] = "自利",
+		[210279] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Ability_Warlock_Eradication",
+			["name"] = "蠕行梦魇",
 		},
 		[51690] = {
 			["duration"] = 3,
 			["icon"] = "Interface\\Icons\\Ability_Rogue_MurderSpree",
 			["name"] = "影舞步",
 		},
-		[210279] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Ability_Warlock_Eradication",
-			["name"] = "蠕行梦魇",
+		[59752] = {
+			["duration"] = 0.1,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Charm",
+			["name"] = "自利",
 		},
 		[215884] = {
 			["duration"] = 12,
@@ -16426,13 +16459,13 @@ JamPlatesAccessoriesDB = {
 			["debuffType"] = "Magic",
 		},
 		[137596] = {
-			["name"] = "电荷",
 			["icon"] = "Interface\\Icons\\Spell_Nature_Purge",
+			["name"] = "电荷",
 			["debuffType"] = "Magic",
 		},
-		[197967] = {
-			["icon"] = "Interface\\Icons\\boss_odunrunes_green",
-			["duration"] = 12,
+		[205644] = {
+			["icon"] = "Interface\\Icons\\Ability_Physical_Taunt",
+			["duration"] = 15,
 		},
 		[191855] = {
 			["icon"] = "INTERFACE\\ICONS\\ability_rogue_venomouswounds",
@@ -16468,9 +16501,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\inv_shoulder_leather_firelandsdruid_d_01",
 			["name"] = "炽燃双翼",
 		},
-		[221621] = {
-			["icon"] = "Interface\\Icons\\inv_helm_plate_challengedeathknight_d_01",
-			["duration"] = 12,
+		[188747] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_MindBomb",
+			["duration"] = 9,
 		},
 		[48108] = {
 			["name"] = "炽热连击！",
@@ -16482,9 +16515,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
 			["duration"] = 3,
 		},
-		[188747] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_MindBomb",
-			["duration"] = 9,
+		[221621] = {
+			["icon"] = "Interface\\Icons\\inv_helm_plate_challengedeathknight_d_01",
+			["duration"] = 12,
 		},
 		[126657] = {
 			["name"] = "敏锐",
@@ -16505,23 +16538,24 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_misc_food_65",
 			["name"] = "宠物糕点",
 		},
-		[73422] = {
-			["name"] = "森罗万象",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_ChillTouch",
-		},
 		[212332] = {
 			["duration"] = 1,
 			["name"] = "重击",
 			["icon"] = "Interface\\Icons\\Ability_GolemThunderClap",
+		},
+		[183625] = {
+			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\sha_spell_shaman_lavaburst_nightmare",
+			["debuffType"] = "Magic",
 		},
 		[209261] = {
 			["duration"] = 180,
 			["icon"] = "Interface\\Icons\\inv_glaive_1h_artifactaldorchi_d_06",
 			["name"] = "未被污染的邪能",
 		},
-		[213312] = {
-			["name"] = "母兽咆哮",
-			["icon"] = "Interface\\Icons\\Ability_Druid_ChallangingRoar",
+		[73422] = {
+			["name"] = "森罗万象",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_ChillTouch",
 		},
 		[123586] = {
 			["name"] = "翔龙在天",
@@ -16541,43 +16575,40 @@ JamPlatesAccessoriesDB = {
 			["name"] = "清晰视界",
 			["icon"] = "Interface\\Icons\\crest_shaman",
 		},
-		[204611] = {
-			["icon"] = "Interface\\Icons\\Ability_Warrior_TitansGrip",
-			["duration"] = 5,
-		},
-		[208705] = {
-			["duration"] = 28800,
-			["icon"] = "Interface\\Icons\\inv_leatherworking_70_mountarmor",
-			["name"] = "石皮皮革骑甲",
-		},
 		[171850] = {
 			["duration"] = 0,
 			["name"] = "洛希恩徘徊者",
 			["icon"] = "Interface\\Icons\\foxmounticon",
 		},
-		[212799] = {
-			["name"] = "闪回信标",
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\Ability_Hunter_Displacement",
-			["debuffType"] = "Magic",
+		[171849] = {
+			["name"] = "日隐小戈隆",
+			["icon"] = "Interface\\Icons\\inv_lessergronnmount_red",
 		},
-		[143768] = {
-			["name"] = "音波发射",
-			["icon"] = "Interface\\Icons\\ability_vehicle_sonicshockwave",
+		[180040] = {
+			["name"] = "统御者壁垒",
+			["icon"] = "Interface\\Icons\\inv_shield_38",
+		},
+		[160455] = {
+			["name"] = "疲倦",
+			["icon"] = "INTERFACE\\ICONS\\inv_enchant_essencemagicsmall",
+		},
+		[204608] = {
+			["icon"] = "Interface\\Icons\\ability_bossfellord_felspike",
+			["duration"] = 0,
 		},
 		[202608] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\Spell_Shadow_SoulLeech_1",
 			["name"] = "痛苦的灵魂",
 		},
+		[171848] = {
+			["icon"] = "Interface\\Icons\\inv_misc_pet_pandaren_yeti",
+			["duration"] = 0,
+		},
 		[116680] = {
 			["duration"] = 30,
 			["icon"] = "Interface\\Icons\\ability_monk_thunderfocustea",
 			["name"] = "雷光聚神茶",
-		},
-		[204608] = {
-			["icon"] = "Interface\\Icons\\ability_bossfellord_felspike",
-			["duration"] = 0,
 		},
 		[200202] = {
 			["icon"] = "Interface\\Icons\\Spell_Frost_ArcticWinds",
@@ -16602,29 +16633,27 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Fire_Fireball02",
 			["debuffType"] = "Magic",
 		},
-		[207527] = {
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\spell_hunter_lonewolf",
-			["name"] = "迷雾幽灵",
+		[171846] = {
+			["duration"] = 0,
+			["name"] = "勇士的践踏之刃",
+			["icon"] = "Interface\\Icons\\inv_chopper_alliance",
 		},
 		[223596] = {
 			["duration"] = 0,
 			["name"] = "黑暗坠落",
 			["icon"] = "Interface\\Icons\\sha_spell_fire_bluerainoffire_nightmare",
 		},
-		[118699] = {
-			["name"] = "恐惧",
-			["duration"] = 20,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Possession",
-			["debuffType"] = "Magic",
+		[195391] = {
+			["name"] = "冰枪御体",
+			["icon"] = "Interface\\Icons\\Spell_Frost_FrostArmor02",
 		},
 		[216430] = {
 			["name"] = "震地践踏",
 			["icon"] = "Interface\\Icons\\Ability_WarStomp",
 		},
-		[195391] = {
-			["name"] = "冰枪御体",
-			["icon"] = "Interface\\Icons\\Spell_Frost_FrostArmor02",
+		[157000] = {
+			["name"] = "投掷炉渣炸弹",
+			["icon"] = "Interface\\Icons\\ability_blackhand_attachedslagbombs",
 		},
 		[131459] = {
 			["icon"] = "Interface\\Icons\\Spell_Frost_ArcticWinds",
@@ -16638,10 +16667,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\spell_fel_firebolt",
 			["duration"] = 0,
 		},
-		[176180] = {
-			["duration"] = 600,
-			["name"] = "复制米尔豪斯",
-			["icon"] = "Interface\\Icons\\Achievement_Character_Gnome_Male",
+		[199483] = {
+			["duration"] = 60,
+			["name"] = "伪装",
+			["icon"] = "INTERFACE\\ICONS\\ability_hunter_camouflage",
 		},
 		[199027] = {
 			["name"] = "午夜帷幕",
@@ -16651,10 +16680,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "瘆骨嚎叫",
 			["icon"] = "Interface\\Icons\\INV_Misc_Bone_02",
 		},
-		[11196] = {
-			["duration"] = 60,
-			["name"] = "新近包扎",
-			["icon"] = "Interface\\Icons\\INV_Misc_Bandage_08",
+		[205113] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_SummonFelHunter",
+			["duration"] = 0,
 		},
 		[175993] = {
 			["name"] = "笨拙之力",
@@ -16673,18 +16701,19 @@ JamPlatesAccessoriesDB = {
 			["name"] = "瓦尔莎拉的宝藏",
 			["icon"] = "Interface\\Icons\\icon_treasuremap",
 		},
-		[63963] = {
-			["icon"] = "Interface\\Icons\\ability_mount_razorscale",
+		[57820] = {
 			["duration"] = 0,
+			["name"] = "黑锋勇士",
+			["icon"] = "Interface\\Icons\\INV_Sword_126",
 		},
 		[223598] = {
 			["duration"] = 8,
 			["icon"] = "Interface\\Icons\\spell_arcane_arcane01_nightborne",
 			["debuffType"] = "Magic",
 		},
-		[235313] = {
-			["icon"] = "Interface\\Icons\\Ability_Mage_MoltenArmor",
-			["name"] = "烈焰护体",
+		[208693] = {
+			["name"] = "恐惧魔王的谎言",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_FanofKnives",
 			["debuffType"] = "Magic",
 		},
 		[33649] = {
@@ -16692,20 +16721,20 @@ JamPlatesAccessoriesDB = {
 			["name"] = "分解者之怒",
 			["icon"] = "Interface\\Icons\\Racial_Orc_BerserkerStrength",
 		},
-		[70579] = {
-			["name"] = "情人糖",
-			["icon"] = "Interface\\Icons\\INV_ValentinesCandy",
+		[210228] = {
+			["duration"] = 30,
+			["icon"] = "Interface\\Icons\\INV_Misc_MonsterSpiderCarapace_01",
+			["name"] = "流毒獠牙",
 		},
-		[225073] = {
-			["name"] = "掠夺之根",
-			["duration"] = 15.842,
-			["icon"] = "Interface\\Icons\\spell_nature_thorns_nightmare",
-			["debuffType"] = "Magic",
-		},
-		[204598] = {
+		[207527] = {
 			["duration"] = 6,
-			["name"] = "烈焰咒符",
-			["icon"] = "Interface\\Icons\\ability_demonhunter_sigilofinquisition",
+			["icon"] = "Interface\\Icons\\spell_hunter_lonewolf",
+			["name"] = "迷雾幽灵",
+		},
+		[214834] = {
+			["duration"] = 15,
+			["name"] = "吸取未来",
+			["icon"] = "Interface\\Icons\\timelesscoin-bloody",
 		},
 		[222575] = {
 			["duration"] = 10,
@@ -16713,8 +16742,8 @@ JamPlatesAccessoriesDB = {
 			["debuffType"] = "Magic",
 		},
 		[38384] = {
-			["icon"] = "Interface\\Icons\\Spell_Frost_Glacier",
 			["name"] = "冰锥术",
+			["icon"] = "Interface\\Icons\\Spell_Frost_Glacier",
 			["debuffType"] = "Magic",
 		},
 		[223599] = {
@@ -16726,80 +16755,79 @@ JamPlatesAccessoriesDB = {
 			["name"] = "库卡隆横扫者",
 			["icon"] = "INTERFACE\\ICONS\\inv_mount_hordescorpiong",
 		},
-		[157504] = {
+		[224047] = {
+			["icon"] = "Interface\\Icons\\INV_SummerFest_FireSpirit",
+			["duration"] = 900,
+		},
+		[182073] = {
+			["name"] = "适者生存",
+			["icon"] = "Interface\\Icons\\Spell_Holy_ChampionsBond",
+		},
+		[23219] = {
+			["icon"] = "Interface\\Icons\\Ability_Mount_BlackPanther",
 			["duration"] = 0,
-			["name"] = "暴雨图腾",
-			["icon"] = "Interface\\Icons\\ability_shaman_condensationtotem",
 		},
-		[228142] = {
-			["name"] = "激怒",
-			["icon"] = "Interface\\Icons\\inv_offhand_1h_pandariaquest_b_01",
-		},
-		[68530] = {
-			["name"] = "古龙水免疫",
-			["icon"] = "Interface\\Icons\\INV_Potion_114",
-		},
-		[185656] = {
-			["name"] = "邪影屠戮",
-			["icon"] = "Interface\\Icons\\sha_spell_shadow_shadesofdarkness",
+		[201523] = {
+			["icon"] = "INTERFACE\\ICONS\\ability_deathknight_brittlebones",
+			["duration"] = 20,
 		},
 		[198006] = {
 			["icon"] = "Interface\\Icons\\spell_druid_bearhug",
 			["duration"] = 6,
 		},
-		[182074] = {
-			["name"] = "献祭",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
+		[188213] = {
+			["icon"] = "Interface\\Icons\\spell_nature_rune",
+			["name"] = "邪能灼疗",
+			["debuffType"] = "Magic",
 		},
 		[203125] = {
 			["duration"] = 35,
 			["icon"] = "Interface\\Icons\\inv_misc_head_dragon_blue_nightmare",
 			["name"] = "艾莫莉丝标记",
 		},
-		[188213] = {
-			["name"] = "邪能灼疗",
-			["icon"] = "Interface\\Icons\\spell_nature_rune",
-			["debuffType"] = "Magic",
+		[170808] = {
+			["name"] = "赤精之护",
+			["icon"] = "Interface\\Icons\\ability_monk_uplift",
 		},
-		[196201] = {
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_monsterclaw_07",
-			["duration"] = 0,
+		[181557] = {
+			["name"] = "邪焰风暴",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelRainOfFire",
 		},
-		[236328] = {
-			["name"] = "萨恩的锁链",
-			["icon"] = "Interface\\Icons\\Spell_Holy_AvengineWrath",
+		[160058] = {
+			["name"] = "厚皮",
+			["icon"] = "Interface\\Icons\\inv_misc_nativebeastskin",
 		},
-		[178394] = {
-			["duration"] = 120,
-			["name"] = "无荣誉目标",
-			["icon"] = "Interface\\Icons\\Spell_Magic_LesserInvisibilty",
+		[71087] = {
+			["name"] = "娇艳的玫瑰",
+			["icon"] = "INTERFACE\\ICONS\\inv_jewelry_talisman_03",
 		},
 		[197495] = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_BattleShout",
 			["duration"] = 30,
 		},
 		[234862] = {
-			["name"] = "玛尔拉德的临终之息",
 			["icon"] = "INTERFACE\\ICONS\\paladin_icon_speedoflight",
+			["name"] = "玛尔拉德的临终之息",
 			["debuffType"] = "Magic",
 		},
-		[207662] = {
-			["name"] = "梦魇伤口",
-			["duration"] = 6.581,
-			["icon"] = "Interface\\Icons\\spell_druid_bloodythrash",
+		[8078] = {
+			["name"] = "雷霆一击",
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\Spell_Nature_ThunderClap",
 			["debuffType"] = "Magic",
 		},
-		[70575] = {
-			["name"] = "情人糖",
-			["icon"] = "Interface\\Icons\\INV_ValentinesCandy",
+		[195452] = {
+			["duration"] = 12,
+			["icon"] = "Interface\\Icons\\ability_rogue_nightblade",
+			["name"] = "夜刃",
 		},
 		[146308] = {
 			["name"] = "机敏",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_FingerOfDeath",
 		},
 		[204150] = {
-			["name"] = "圣光护盾",
 			["icon"] = "Interface\\Icons\\Spell_Holy_GreaterBlessingofLight",
+			["name"] = "圣光护盾",
 			["debuffType"] = "Magic",
 		},
 		[212852] = {
@@ -16812,12 +16840,12 @@ JamPlatesAccessoriesDB = {
 		},
 		[197496] = {
 			["duration"] = 30,
-			["icon"] = "Interface\\Icons\\Ability_Rogue_Eviscerate",
 			["name"] = "终结技：刺骨",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_Eviscerate",
 		},
 		[214388] = {
-			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_06",
 			["name"] = "酸性撕咬",
+			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_06",
 			["debuffType"] = "Poison",
 		},
 		[202615] = {
@@ -16842,28 +16870,28 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Arcane_Arcane01",
 			["duration"] = 4,
 		},
-		[205612] = {
-			["name"] = "黑化",
-			["icon"] = "Interface\\Icons\\ability_xavius_blackened",
+		[36702] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Ability_Mount_Dreadsteed",
+			["name"] = "炽热战马",
 		},
-		[215128] = {
-			["duration"] = 8,
-			["name"] = "诅咒之血",
-			["icon"] = "Interface\\Icons\\Spell_DeathKnight_BloodTap",
+		[210202] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Ability_Creature_Disease_02",
+			["name"] = "恶臭",
 		},
 		[2649] = {
 			["duration"] = 3,
 			["icon"] = "Interface\\Icons\\Ability_Physical_Taunt",
 			["name"] = "低吼",
 		},
-		[36702] = {
+		[188716] = {
+			["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldMastery",
 			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Ability_Mount_Dreadsteed",
-			["name"] = "炽热战马",
 		},
-		[142649] = {
-			["name"] = "吞噬",
-			["icon"] = "Interface\\Icons\\creatureportrait_garalon",
+		[221654] = {
+			["icon"] = "Interface\\Icons\\Spell_Holy_ReviveChampion",
+			["duration"] = 12,
 		},
 		[214133] = {
 			["duration"] = 60,
@@ -16901,8 +16929,8 @@ JamPlatesAccessoriesDB = {
 		},
 		[15007] = {
 			["duration"] = 600,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_DeathScream",
 			["name"] = "复活虚弱",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_DeathScream",
 		},
 		[195724] = {
 			["name"] = "野蛮槌击",
@@ -16917,8 +16945,8 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_vehicle_sonicshockwave",
 		},
 		[217462] = {
-			["icon"] = "Interface\\Icons\\ability_warlock_howlofterror",
 			["name"] = "恐怖怒嚎",
+			["icon"] = "Interface\\Icons\\ability_warlock_howlofterror",
 			["debuffType"] = "Magic",
 		},
 		[230259] = {
@@ -16926,19 +16954,17 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Fire_SealOfFire",
 		},
 		[203957] = {
-			["name"] = "时空枷锁",
 			["icon"] = "Interface\\Icons\\Spell_Arcane_Blast",
+			["name"] = "时空枷锁",
 			["debuffType"] = "Magic",
 		},
 		[223093] = {
 			["name"] = "裹体之网",
 			["icon"] = "Interface\\Icons\\INV_Misc_Web_01",
 		},
-		[194982] = {
-			["name"] = "腐烂之触",
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\Spell_Nature_AgitatingTotem",
-			["debuffType"] = "Disease",
+		[182059] = {
+			["name"] = "征服之涌",
+			["icon"] = "Interface\\Icons\\Spell_Holy_DivinePurpose",
 		},
 		[146312] = {
 			["name"] = "天神精通",
@@ -16960,8 +16986,8 @@ JamPlatesAccessoriesDB = {
 		},
 		[209785] = {
 			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Spell_Holy_CrusaderStrike",
 			["name"] = "正义之火",
+			["icon"] = "Interface\\Icons\\Spell_Holy_CrusaderStrike",
 		},
 		[214392] = {
 			["name"] = "昏睡凝视",
@@ -16978,13 +17004,14 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Frost_FrostNova",
 			["debuffType"] = "Magic",
 		},
-		[228127] = {
-			["name"] = "腐化物",
-			["icon"] = "Interface\\Icons\\inv_pet_diseasedsquirrel",
+		[225568] = {
+			["name"] = "隔绝诅咒",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_CurseOfTounges",
+			["debuffType"] = "Curse",
 		},
-		[160048] = {
-			["name"] = "石化护甲",
-			["icon"] = "Interface\\Icons\\achievement_moguraid_01",
+		[211745] = {
+			["name"] = "邪能打击",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameStrike",
 		},
 		[204667] = {
 			["icon"] = "Interface\\Icons\\sha_ability_mage_firestarter_nightmare",
@@ -16995,10 +17022,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "诡异魅影",
 			["icon"] = "Interface\\Icons\\INV_Enchant_VoidSphere",
 		},
-		[68054] = {
-			["duration"] = 600,
-			["icon"] = "Interface\\Icons\\INV_Misc_PocketWatch_01",
-			["name"] = "紧急赴约",
+		[217976] = {
+			["duration"] = 2.5,
+			["name"] = "海沫蜘茧",
+			["icon"] = "INTERFACE\\ICONS\\creatureportrait_bubble",
 		},
 		[23228] = {
 			["duration"] = 0,
@@ -17010,48 +17037,49 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Misc_Herb_16",
 			["debuffType"] = "Poison",
 		},
-		[217976] = {
-			["duration"] = 2.5,
-			["name"] = "海沫蜘茧",
-			["icon"] = "INTERFACE\\ICONS\\creatureportrait_bubble",
-		},
-		[146314] = {
-			["name"] = "泰坦恢复",
-			["icon"] = "Interface\\Icons\\Achievement_Dungeon_UlduarRaid_Titan_01",
-		},
-		[216441] = {
-			["icon"] = "Interface\\Icons\\inv_boot_cloth_draenorhonors2_c_01",
-			["duration"] = 0,
-		},
-		[73685] = {
-			["duration"] = 10,
-			["name"] = "生命释放",
-			["icon"] = "INTERFACE\\ICONS\\spell_shaman_unleashweapon_life",
-		},
-		[186662] = {
-			["name"] = "阿古斯之心",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelFireNova",
-		},
-		[214303] = {
-			["name"] = "治疗宠物",
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\Ability_Hunter_MendPet",
-			["debuffType"] = "Magic",
-		},
 		[157997] = {
 			["name"] = "寒冰新星",
 			["duration"] = 2,
 			["icon"] = "Interface\\Icons\\spell_mage_icenova",
 			["debuffType"] = "Magic",
 		},
-		[1604] = {
-			["duration"] = 4,
-			["name"] = "眩晕",
-			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
+		[146314] = {
+			["name"] = "泰坦恢复",
+			["icon"] = "Interface\\Icons\\Achievement_Dungeon_UlduarRaid_Titan_01",
 		},
-		[162602] = {
-			["name"] = "狂野怒火",
-			["icon"] = "Interface\\Icons\\Ability_Druid_FerociousBite",
+		[216441] = {
+			["duration"] = 0,
+			["name"] = "表面张力",
+			["icon"] = "Interface\\Icons\\inv_boot_cloth_draenorhonors2_c_01",
+		},
+		[73685] = {
+			["duration"] = 10,
+			["name"] = "生命释放",
+			["icon"] = "INTERFACE\\ICONS\\spell_shaman_unleashweapon_life",
+		},
+		[68054] = {
+			["duration"] = 600,
+			["icon"] = "Interface\\Icons\\INV_Misc_PocketWatch_01",
+			["name"] = "紧急赴约",
+		},
+		[93347] = {
+			["duration"] = 0,
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_tabard_therazane",
+			["name"] = "塞拉赞恩勇士",
+		},
+		[117405] = {
+			["duration"] = 0,
+			["name"] = "束缚射击",
+			["icon"] = "INTERFACE\\ICONS\\spell_shaman_bindelemental",
+		},
+		[102560] = {
+			["duration"] = 30,
+			["name"] = "化身：艾露恩之眷",
+			["icon"] = "Interface\\Icons\\spell_druid_incarnation",
+		},
+		[195362] = {
+			["name"] = "暗夜井能量",
+			["icon"] = "Interface\\Icons\\spell_mage_overpowered",
 		},
 		[163025] = {
 			["duration"] = 0,
@@ -17064,8 +17092,8 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_misc_lesseressence",
 		},
 		[208764] = {
-			["icon"] = "Interface\\Icons\\Spell_Nature_HealingWay",
 			["name"] = "努波顿的救赎",
+			["icon"] = "Interface\\Icons\\Spell_Nature_HealingWay",
 			["debuffType"] = "Magic",
 		},
 		[205181] = {
@@ -17119,45 +17147,49 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowWordPain",
 			["debuffType"] = "Magic",
 		},
-		[183585] = {
-			["name"] = "真言术：韧",
-			["icon"] = "Interface\\Icons\\Spell_Holy_WordFortitude",
-			["debuffType"] = "Magic",
+		[127177] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\ability_mount_cranemountpurple",
+			["name"] = "帝王骑乘仙鹤",
 		},
 		[173958] = {
 			["name"] = "海盗装束",
 			["icon"] = "Interface\\Icons\\Ability_Rogue_Disguise",
+		},
+		[62061] = {
+			["name"] = "节日坐骑",
+			["icon"] = "Interface\\Icons\\INV_Misc_Plant_03",
 		},
 		[194945] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\inv_misc_eye_02",
 			["name"] = "纠缠凝视",
 		},
-		[181536] = {
-			["name"] = "重击",
-			["icon"] = "Interface\\Icons\\Ability_Smash",
-		},
-		[62061] = {
-			["name"] = "节日坐骑",
-			["icon"] = "Interface\\Icons\\INV_Misc_Plant_03",
+		[187618] = {
+			["name"] = "伊瑟拉鲁斯",
+			["icon"] = "Interface\\Icons\\inv_jewelry_ring_89",
 		},
 		[229241] = {
 			["name"] = "获取目标",
 			["icon"] = "Interface\\Icons\\Spell_Fire_FelFire",
 		},
+		[225832] = {
+			["duration"] = 29.902,
+			["name"] = "夜光小精灵",
+			["icon"] = "Interface\\Icons\\inv_pet_wisp_purple",
+		},
+		[209790] = {
+			["name"] = "冰冻之箭",
+			["icon"] = "Interface\\Icons\\spell_hunter_exoticmunitions_frozen",
+			["debuffType"] = "Magic",
+		},
 		[186123] = {
 			["name"] = "精炼混乱",
 			["icon"] = "Interface\\Icons\\spell_misc_zandalari_council_soulswap",
 		},
-		[209790] = {
-			["icon"] = "Interface\\Icons\\spell_hunter_exoticmunitions_frozen",
-			["name"] = "冰冻之箭",
-			["debuffType"] = "Magic",
-		},
-		[207640] = {
-			["duration"] = 0,
-			["name"] = "丰饶",
-			["icon"] = "Interface\\Icons\\Ability_Druid_EmpoweredRejuvination",
+		[5246] = {
+			["name"] = "破胆怒吼",
+			["icon"] = "Interface\\Icons\\Ability_GolemThunderClap",
 		},
 		[157589] = {
 			["name"] = "虚空打击",
@@ -17168,11 +17200,6 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Mount_Mammoth_Brown_3seater",
 			["name"] = "旅行者的苔原猛犸象",
 		},
-		[196304] = {
-			["duration"] = 6,
-			["name"] = "永恒斗争",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_LifeDrain02",
-		},
 		[138640] = {
 			["icon"] = "Interface\\Icons\\ability_mount_raptor_white",
 			["duration"] = 0,
@@ -17182,6 +17209,11 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Druid_NaturalPerfection",
 			["name"] = "塞纳里奥结界",
 		},
+		[196304] = {
+			["duration"] = 6,
+			["name"] = "永恒斗争",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_LifeDrain02",
+		},
 		[193585] = {
 			["icon"] = "Interface\\Icons\\ability_hunter_blackicetrap",
 			["duration"] = 4,
@@ -17189,10 +17221,6 @@ JamPlatesAccessoriesDB = {
 		[199818] = {
 			["icon"] = "Interface\\Icons\\ability_thunderking_overcharge",
 			["duration"] = 0,
-		},
-		[219865] = {
-			["name"] = "裹体之网",
-			["icon"] = "Interface\\Icons\\Spell_Nature_EarthBind",
 		},
 		[223100] = {
 			["name"] = "绝望",
@@ -17214,31 +17242,31 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Raptor",
 			["duration"] = 0,
 		},
-		[159520] = {
-			["name"] = "粉碎冲锋",
-			["icon"] = "Interface\\Icons\\6bf_rolling_fury",
+		[219865] = {
+			["name"] = "裹体之网",
+			["icon"] = "Interface\\Icons\\Spell_Nature_EarthBind",
 		},
 		[160140] = {
-			["icon"] = "Interface\\Icons\\Ability_Mage_FireStarter",
 			["name"] = "灼疗之箭",
+			["icon"] = "Interface\\Icons\\Ability_Mage_FireStarter",
 			["debuffType"] = "Magic",
 		},
 		[230267] = {
 			["name"] = "腐化宝珠",
 			["icon"] = "Interface\\Icons\\inv_icon_shadowcouncilorb_green",
 		},
-		[202517] = {
-			["name"] = "嚎镇八方",
-			["icon"] = "Interface\\Icons\\ability_monk_provoke",
+		[222479] = {
+			["duration"] = 20,
+			["name"] = "暗影反射",
+			["icon"] = "Interface\\Icons\\ability_priest_auspiciousspirits",
 		},
-		[214184] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_MindTwisting",
-			["name"] = "漩涡",
+		[233375] = {
+			["name"] = "阿曼苏尔的凝视",
+			["icon"] = "Interface\\Icons\\Spell_Holy_HealingFocus",
 		},
-		[212598] = {
-			["icon"] = "Interface\\Icons\\INV_Cask_04",
-			["duration"] = 0,
+		[236299] = {
+			["name"] = "时空转移",
+			["icon"] = "Interface\\Icons\\ability_monk_deadlyreach",
 		},
 		[203650] = {
 			["name"] = "准备就绪",
@@ -17254,10 +17282,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_demonhunter_spectank",
 			["name"] = "无尽猎杀",
 		},
-		[203539] = {
-			["duration"] = 3600.941,
-			["name"] = "强效智慧祝福",
-			["icon"] = "Interface\\Icons\\Spell_Holy_GreaterBlessingofWisdom",
+		[160029] = {
+			["duration"] = 60,
+			["name"] = "正在复活",
+			["icon"] = "Interface\\Icons\\spell_holy_guardianspirit",
 		},
 		[213888] = {
 			["duration"] = 10,
@@ -17273,10 +17301,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "猎豹敏捷",
 			["icon"] = "Interface\\Icons\\Ability_Hunter_CatlikeReflexes",
 		},
-		[137619] = {
-			["duration"] = 60,
-			["name"] = "死亡标记",
-			["icon"] = "Interface\\Icons\\Achievement_BG_killingblow_berserker",
+		[223614] = {
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\Spell_Arcane_ManaTap",
+			["name"] = "共鸣",
 		},
 		[215936] = {
 			["duration"] = 20,
@@ -17294,45 +17322,47 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Druid_ChallangingRoar",
 		},
 		[221567] = {
-			["icon"] = "Interface\\Icons\\Spell_Frost_FrostShock",
 			["name"] = "寒冷之触",
+			["icon"] = "Interface\\Icons\\Spell_Frost_FrostShock",
 			["debuffType"] = "Magic",
 		},
 		[213889] = {
 			["icon"] = "Interface\\Icons\\ability_socererking_arcaneacceleration",
 			["duration"] = 20,
 		},
-		[203139] = {
-			["name"] = "力场新星",
-			["icon"] = "Interface\\Icons\\ability_socererking_forcenova",
+		[223499] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Bear",
+			["name"] = "鲜血图腾战争甲胄",
 		},
 		[198533] = {
 			["duration"] = 0,
 			["name"] = "抚慰之雾",
 			["icon"] = "Interface\\Icons\\ability_monk_soothingmists",
 		},
-		[194323] = {
-			["icon"] = "Interface\\Icons\\Ability_Hunter_MasterMarksman",
-			["duration"] = 60,
+		[217868] = {
+			["icon"] = "Interface\\Icons\\inv_polearm_2h_misc_spearfishingrod",
+			["duration"] = 9,
 		},
-		[195346] = {
-			["name"] = "水泡",
-			["icon"] = "Interface\\Icons\\Ability_Mage_FireStarter",
+		[223498] = {
+			["duration"] = 0,
+			["name"] = "河鬃战争甲胄",
+			["icon"] = "Interface\\Icons\\inv_pet_otter",
 		},
-		[137504] = {
-			["name"] = "重压",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldBreak",
+		[68768] = {
+			["icon"] = "Interface\\Icons\\Ability_Mount_RidingHorse",
+			["duration"] = 0,
 		},
-		[1044] = {
-			["name"] = "自由祝福",
-			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\Spell_Holy_SealOfValor",
+		[1022] = {
+			["name"] = "保护祝福",
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\Spell_Holy_SealOfProtection",
 			["debuffType"] = "Magic",
 		},
-		[208141] = {
-			["duration"] = 0,
-			["name"] = "冰霜射线",
-			["icon"] = "Interface\\Icons\\Spell_Frost_ChillingBlast",
+		[215307] = {
+			["duration"] = 90,
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_web_02",
+			["name"] = "痛苦之网",
 		},
 		[226175] = {
 			["duration"] = 600,
@@ -17343,55 +17373,53 @@ JamPlatesAccessoriesDB = {
 			["name"] = "保镖微缩装置",
 			["icon"] = "Interface\\Icons\\ability_siege_engineer_magnetic_lasso",
 		},
-		[215307] = {
-			["duration"] = 90,
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_web_02",
-			["name"] = "痛苦之网",
+		[216331] = {
+			["name"] = "复仇十字军",
+			["icon"] = "Interface\\Icons\\ability_paladin_veneration",
 		},
 		[219521] = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_SummonVoidWalker",
 			["duration"] = 6,
 		},
-		[212236] = {
-			["name"] = "盾牌格挡",
-			["icon"] = "Interface\\Icons\\INV_Shield_06",
+		[212598] = {
+			["icon"] = "Interface\\Icons\\INV_Cask_04",
+			["duration"] = 0,
 		},
-		[183571] = {
-			["duration"] = 9,
-			["icon"] = "Interface\\Icons\\sha_ability_mage_firestarter_nightmare",
-			["debuffType"] = "Magic",
+		[202393] = {
+			["icon"] = "Interface\\Icons\\Spell_Nature_BloodLust",
+			["duration"] = 30,
 		},
 		[159632] = {
 			["name"] = "饥肠辘辘",
 			["icon"] = "Interface\\Icons\\ability_fixated_state_red",
 		},
 		[217474] = {
-			["name"] = "扭曲观察者科里度斯的凝视",
 			["icon"] = "Interface\\Icons\\ability_monk_chicocoon",
+			["name"] = "扭曲观察者科里度斯的凝视",
 			["debuffType"] = "Magic",
 		},
-		[197546] = {
-			["icon"] = "Interface\\Icons\\inv_glaive_1h_npc_c_01",
-			["duration"] = 30,
-		},
-		[211210] = {
+		[209162] = {
 			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Spell_Holy_AuraMastery",
-			["name"] = "提尔的保护",
+			["icon"] = "Interface\\Icons\\ability_monk_summonserpentstatue",
+			["name"] = "神龙吐息",
 		},
-		[217352] = {
-			["name"] = "放电",
-			["icon"] = "Interface\\Icons\\ability_thunderking_lightningwhip",
+		[215816] = {
+			["name"] = "强烈燃烧",
+			["icon"] = "Interface\\Icons\\Spell_Fire_Incinerate",
+		},
+		[198924] = {
+			["duration"] = 6,
+			["icon"] = "INTERFACE\\ICONS\\spell_arcane_invocation",
+			["name"] = "加速",
+		},
+		[221571] = {
+			["name"] = "燃烧",
+			["icon"] = "Interface\\Icons\\Spell_Fire_Immolation",
 			["debuffType"] = "Magic",
-		},
-		[158486] = {
-			["duration"] = 0,
-			["name"] = "狩猎帽",
-			["icon"] = "Interface\\Icons\\inv_helm_cloth_petsafari_a_01",
 		},
 		[228224] = {
-			["icon"] = "Interface\\Icons\\ability_rogue_shuriken storm",
 			["name"] = "恐惧魔王的谎言",
+			["icon"] = "Interface\\Icons\\ability_rogue_shuriken storm",
 			["debuffType"] = "Magic",
 		},
 		[61295] = {
@@ -17404,10 +17432,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "邪能光束",
 			["icon"] = "Interface\\Icons\\Spell_Fire_FelFire",
 		},
-		[115192] = {
-			["duration"] = 3,
-			["icon"] = "Interface\\Icons\\rogue_subterfuge",
-			["name"] = "诡诈",
+		[207112] = {
+			["icon"] = "Interface\\Icons\\INV_Misc_Bandage_08",
+			["duration"] = 5,
 		},
 		[16511] = {
 			["duration"] = 22.902,
@@ -17419,21 +17446,23 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_bracer_64v1",
 		},
 		[165776] = {
-			["icon"] = "Interface\\Icons\\INV_Misc_Web_01",
 			["name"] = "覆盖着毒液的蛛网",
+			["icon"] = "Interface\\Icons\\INV_Misc_Web_01",
 			["debuffType"] = "Magic",
 		},
-		[10969] = {
-			["icon"] = "Interface\\Icons\\Ability_Mount_MechaStrider",
-			["duration"] = 0,
+		[215300] = {
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_web_02",
+			["duration"] = 90,
 		},
-		[207112] = {
-			["icon"] = "Interface\\Icons\\INV_Misc_Bandage_08",
-			["duration"] = 5,
+		[181516] = {
+			["duration"] = 4,
+			["icon"] = "INTERFACE\\ICONS\\warrior_talent_icon_singlemindedfury",
+			["debuffType"] = "",
 		},
-		[146198] = {
-			["name"] = "玉珑之精",
-			["icon"] = "Interface\\Icons\\monk_stance_wiseserpent",
+		[222786] = {
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\Ability_Rogue_BloodSplatter",
+			["name"] = "穿刺创伤",
 		},
 		[171919] = {
 			["duration"] = 10,
@@ -17445,19 +17474,18 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\spell_paladin_inquisition",
 			["name"] = "以眼还眼",
 		},
-		[221443] = {
-			["name"] = "嚎叫冰霜",
-			["duration"] = 4,
-			["icon"] = "INTERFACE\\ICONS\\spell_frost_ring of frost",
-			["debuffType"] = "Magic",
+		[217500] = {
+			["name"] = "背叛者的牢笼碎片",
+			["icon"] = "Interface\\Icons\\rogue_leeching_poison",
 		},
-		[215300] = {
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_web_02",
-			["duration"] = 90,
+		[199061] = {
+			["duration"] = 15,
+			["name"] = "劈砍灵魂",
+			["icon"] = "INTERFACE\\ICONS\\inv_polearm_2h_cataclysm_b_01",
 		},
 		[165777] = {
-			["icon"] = "Interface\\Icons\\INV_Misc_Web_01",
 			["name"] = "覆盖着毒液的蛛网",
+			["icon"] = "Interface\\Icons\\INV_Misc_Web_01",
 			["debuffType"] = "Magic",
 		},
 		[215429] = {
@@ -17465,9 +17493,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_thunderking_thunderstruck",
 			["debuffType"] = "Magic",
 		},
-		[180491] = {
-			["name"] = "灵魂纽带",
-			["icon"] = "INTERFACE\\ICONS\\spell_priest_shadoworbs",
+		[196870] = {
+			["icon"] = "Interface\\Icons\\Spell_Nature_StormReach",
+			["duration"] = 12,
 		},
 		[155028] = {
 			["name"] = "炽燃利齿",
@@ -17477,22 +17505,23 @@ JamPlatesAccessoriesDB = {
 			["name"] = "邪能烈焰",
 			["icon"] = "Interface\\Icons\\Spell_Fire_FelFire",
 		},
-		[193287] = {
-			["icon"] = "Interface\\Icons\\ACHIEVEMENT_BOSS_KINGYMIRON_03",
-			["duration"] = 300,
+		[194310] = {
+			["duration"] = 24,
+			["name"] = "溃烂之伤",
+			["icon"] = "Interface\\Icons\\spell_yorsahj_bloodboil_purpleoil",
 		},
 		[185229] = {
 			["name"] = "焰舐者",
 			["icon"] = "Interface\\Icons\\INV_Elemental_Mote_Fire01",
 		},
-		[146194] = {
-			["name"] = "雪怒之捷",
-			["icon"] = "Interface\\Icons\\monk_stance_whitetiger",
+		[210177] = {
+			["name"] = "尖刺盾牌",
+			["icon"] = "INTERFACE\\ICONS\\inv_shield_76",
 		},
-		[198405] = {
-			["name"] = "刺骨尖叫",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_PsychicScream",
-			["debuffType"] = "Magic",
+		[200953] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Ability_Warrior_IntensifyRage",
+			["name"] = "狂暴",
 		},
 		[199050] = {
 			["icon"] = "INTERFACE\\ICONS\\inv_polearm_2h_cataclysm_b_01",
@@ -17502,14 +17531,14 @@ JamPlatesAccessoriesDB = {
 			["name"] = "贵族源质徽记指环",
 			["icon"] = "Interface\\Icons\\inv_jewelry_ring_72",
 		},
-		[16856] = {
-			["name"] = "致死打击",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_SavageBlow",
+		[131347] = {
+			["duration"] = 0,
+			["name"] = "滑翔",
+			["icon"] = "Interface\\Icons\\ability_demonhunter_glide",
 		},
-		[13812] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\Spell_Fire_SelfDestruct",
-			["name"] = "爆炸陷阱",
+		[224508] = {
+			["icon"] = "Interface\\Icons\\ability_xavius_corruptionmeteor",
+			["duration"] = 5,
 		},
 		[197003] = {
 			["duration"] = 4,
@@ -17536,31 +17565,32 @@ JamPlatesAccessoriesDB = {
 			["name"] = "火舌舔舐",
 			["icon"] = "INTERFACE\\ICONS\\spell_shaman_improvedfirenova",
 		},
-		[232698] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Shadowform",
-			["name"] = "暗影形态",
+		[156428] = {
+			["icon"] = "Interface\\Icons\\trade_alchemy_dpotion_a23",
+			["duration"] = 25,
 		},
 		[200587] = {
 			["duration"] = 0,
 			["name"] = "邪能裂痕",
 			["icon"] = "Interface\\Icons\\Spell_Fire_FelHellfire",
 		},
-		[156428] = {
-			["icon"] = "Interface\\Icons\\trade_alchemy_dpotion_a23",
-			["duration"] = 25,
+		[127370] = {
+			["name"] = "血雨",
+			["icon"] = "Interface\\Icons\\achievement_raid_mantidraid03",
+		},
+		[53490] = {
+			["icon"] = "Interface\\Icons\\Ability_Warrior_BullRush",
+			["duration"] = 0.1,
 		},
 		[213896] = {
 			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
 			["duration"] = 8,
 		},
-		[17454] = {
-			["name"] = "原色机械陆行鸟",
-			["icon"] = "Interface\\Icons\\Ability_Mount_MechaStrider",
-		},
-		[53490] = {
-			["icon"] = "Interface\\Icons\\Ability_Warrior_BullRush",
-			["duration"] = 0.1,
+		[217851] = {
+			["name"] = "毒性污秽",
+			["duration"] = 5,
+			["icon"] = "Interface\\Icons\\Spell_Nature_CorrosiveBreath",
+			["debuffType"] = "Poison",
 		},
 		[91352] = {
 			["name"] = "极化",
@@ -17570,19 +17600,18 @@ JamPlatesAccessoriesDB = {
 			["name"] = "搏击冠军",
 			["icon"] = "Interface\\Icons\\inv_weapon_hand_30",
 		},
-		[220597] = {
-			["name"] = "充能箭",
-			["icon"] = "Interface\\Icons\\Spell_Arcane_MassDispel",
+		[202494] = {
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameRing",
+			["duration"] = 0,
 		},
 		[204683] = {
 			["duration"] = 8,
 			["name"] = "黑暗低语",
 			["icon"] = "Interface\\Icons\\Ability_Physical_Taunt",
 		},
-		[102543] = {
-			["duration"] = 30,
-			["name"] = "化身：丛林之王",
-			["icon"] = "Interface\\Icons\\spell_druid_incarnation",
+		[192767] = {
+			["name"] = "凡图斯符文：斯考匹隆",
+			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_suramar",
 		},
 		[222087] = {
 			["name"] = "神圣之火",
@@ -17590,32 +17619,31 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Holy_SearingLight",
 			["debuffType"] = "Magic",
 		},
-		[201983] = {
-			["icon"] = "Interface\\Icons\\Spell_Nature_ShamanRage",
-			["duration"] = 10,
+		[16856] = {
+			["name"] = "致死打击",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_SavageBlow",
 		},
-		[185089] = {
-			["name"] = "英姿勃发",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_BattleShout",
+		[156423] = {
+			["duration"] = 25,
+			["name"] = "德拉诺敏捷药水",
+			["icon"] = "Interface\\Icons\\trade_alchemy_dpotion_a27",
 		},
 		[190863] = {
 			["icon"] = "Interface\\Icons\\Spell_Nature_UnrelentingStorm",
 			["duration"] = 5,
 		},
-		[143612] = {
-			["name"] = "蓝色战鼓",
-			["icon"] = "Interface\\Icons\\ability_iyyokuk_drum_blue",
+		[172965] = {
+			["name"] = "枯萎凋零",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_DeathAndDecay",
 		},
 		[98007] = {
 			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Spell_Shaman_SpiritLink",
 			["name"] = "灵魂链接图腾",
+			["icon"] = "Interface\\Icons\\Spell_Shaman_SpiritLink",
 		},
-		[27243] = {
-			["name"] = "腐蚀之种",
-			["duration"] = 16.631,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_SeedOfDestruction",
-			["debuffType"] = "Magic",
+		[192765] = {
+			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_nightmare",
+			["duration"] = 313764,
 		},
 		[184721] = {
 			["name"] = "暗影箭雨",
@@ -17636,22 +17664,22 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Mount_JungleTiger",
 			["name"] = "猎豹守护",
 		},
-		[192765] = {
-			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_nightmare",
-			["duration"] = 313764,
+		[188669] = {
+			["icon"] = "Interface\\Icons\\Spell_Fire_BurningSpeed",
+			["duration"] = 1,
+		},
+		[204887] = {
+			["icon"] = "INTERFACE\\ICONS\\spell_arcane_rune",
+			["duration"] = 3,
 		},
 		[200389] = {
 			["duration"] = 7.323,
 			["icon"] = "Interface\\Icons\\Ability_Druid_Nourish",
 			["name"] = "栽培",
 		},
-		[226852] = {
-			["name"] = "扎奈苏的旅程",
-			["icon"] = "Interface\\Icons\\inv_belt_71",
-		},
-		[188669] = {
-			["icon"] = "Interface\\Icons\\Spell_Fire_BurningSpeed",
-			["duration"] = 1,
+		[156932] = {
+			["name"] = "崩裂",
+			["icon"] = "Interface\\Icons\\ability_rhyolith_magmaflow_whole",
 		},
 		[116947] = {
 			["name"] = "地缚术",
@@ -17659,9 +17687,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Nature_StrengthOfEarthTotem02",
 			["debuffType"] = "Magic",
 		},
-		[152279] = {
-			["name"] = "冰龙吐息",
-			["icon"] = "Interface\\Icons\\spell_deathknight_breathofsindragosa",
+		[226852] = {
+			["name"] = "扎奈苏的旅程",
+			["icon"] = "Interface\\Icons\\inv_belt_71",
 		},
 		[80604] = {
 			["name"] = "毁灭撕咬",
@@ -17669,37 +17697,38 @@ JamPlatesAccessoriesDB = {
 		},
 		[186258] = {
 			["duration"] = 9,
-			["icon"] = "Interface\\Icons\\Ability_Mount_JungleTiger",
 			["name"] = "猎豹守护",
+			["icon"] = "Interface\\Icons\\Ability_Mount_JungleTiger",
 		},
 		[199055] = {
 			["duration"] = 6,
 			["name"] = "毁灭释放",
 			["icon"] = "Interface\\Icons\\Ability_Shaman_Stormstrike",
 		},
-		[25771] = {
+		[195321] = {
 			["duration"] = 30,
-			["name"] = "自律",
-			["icon"] = "Interface\\Icons\\Spell_Holy_RemoveCurse",
+			["name"] = "转化力量",
+			["icon"] = "Interface\\Icons\\monk_ability_fistoffury",
 		},
-		[219380] = {
-			["duration"] = 180,
-			["icon"] = "Interface\\Icons\\Ability_Hunter_EagleEye",
-			["name"] = "召唤雄鹰",
+		[198904] = {
+			["name"] = "剧毒之矛",
+			["duration"] = 12,
+			["icon"] = "Interface\\Icons\\Ability_Poisons",
+			["debuffType"] = "Poison",
 		},
 		[102359] = {
-			["icon"] = "Interface\\Icons\\spell_druid_massentanglement",
 			["name"] = "群体缠绕",
+			["icon"] = "Interface\\Icons\\spell_druid_massentanglement",
 			["debuffType"] = "Magic",
 		},
 		[176533] = {
 			["name"] = "蔓延暗影",
 			["icon"] = "Interface\\Icons\\Ability_Rogue_EnvelopingShadows",
 		},
-		[207094] = {
-			["duration"] = 8,
-			["name"] = "泰坦之雷",
-			["icon"] = "Interface\\Icons\\inv_firearm_2h_artifactlegion_d_01",
+		[199416] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\icon_treasuremap",
+			["name"] = "苏拉玛的宝藏",
 		},
 		[185747] = {
 			["name"] = "邪能光束锁定",
@@ -17709,10 +17738,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "全能药剂",
 			["icon"] = "Interface\\Icons\\INV_Potion_02",
 		},
-		[184725] = {
-			["name"] = "暗影烈焰冲击",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowBolt",
-			["debuffType"] = "Magic",
+		[5171] = {
+			["duration"] = 36.062,
+			["icon"] = "Interface\\Icons\\Ability_Rogue_SliceDice",
+			["name"] = "切割",
 		},
 		[195473] = {
 			["duration"] = 12,
@@ -17737,32 +17766,32 @@ JamPlatesAccessoriesDB = {
 			["duration"] = 0,
 		},
 		[193938] = {
-			["icon"] = "Interface\\Icons\\spell_warlock_demonicportal_purple",
 			["name"] = "软泥爆炸",
+			["icon"] = "Interface\\Icons\\spell_warlock_demonicportal_purple",
 			["debuffType"] = "Magic",
 		},
-		[154253] = {
-			["name"] = "萨满之石：霜狼护佑",
-			["icon"] = "Interface\\Icons\\Ability_Mount_WhiteDireWolf",
+		[97359] = {
+			["duration"] = 0,
+			["name"] = "浴火角鹰兽",
+			["icon"] = "Interface\\Icons\\Ability_Mount_WarHippogryph",
 		},
-		[108839] = {
-			["name"] = "浮冰",
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\spell_mage_iceflows",
-			["debuffType"] = "Magic",
+		[203894] = {
+			["duration"] = 0,
+			["name"] = "雇佣守卫",
+			["icon"] = "Interface\\Icons\\inv_offhand_dalaran_d_01",
 		},
 		[142239] = {
 			["duration"] = 0,
 			["name"] = "搏击冠军",
 			["icon"] = "Interface\\Icons\\inv_weapon_hand_30",
 		},
-		[195279] = {
-			["icon"] = "Interface\\Icons\\INV_Sword_30",
-			["duration"] = 12,
+		[198079] = {
+			["icon"] = "Interface\\Icons\\Ability_Rogue_BloodyEye",
+			["duration"] = 5,
 		},
-		[227524] = {
-			["name"] = "能量虚空",
-			["icon"] = "Interface\\Icons\\spell_priest_void blast",
+		[126700] = {
+			["name"] = "胜利之涌",
+			["icon"] = "Interface\\Icons\\Spell_Holy_DivinePurpose",
 		},
 		[156060] = {
 			["duration"] = 12,
@@ -17770,13 +17799,15 @@ JamPlatesAccessoriesDB = {
 			["name"] = "兆瓦纤维",
 		},
 		[185237] = {
-			["name"] = "裂伤之触",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_ChillTouch",
+			["name"] = "裂伤之触",
 			["debuffType"] = "Magic",
 		},
-		[11319] = {
-			["name"] = "水上行走",
-			["icon"] = "Interface\\Icons\\INV_Potion_166",
+		[16870] = {
+			["name"] = "节能施法",
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_ManaBurn",
+			["debuffType"] = "Magic",
 		},
 		[173976] = {
 			["name"] = "利奥拉被击败",
@@ -17784,18 +17815,17 @@ JamPlatesAccessoriesDB = {
 		},
 		[227723] = {
 			["duration"] = 0,
-			["name"] = "魔力探测石",
 			["icon"] = "Interface\\Icons\\INV_Misc_Rune_10",
+			["name"] = "魔力探测石",
 		},
 		[191380] = {
 			["duration"] = 1.5,
 			["name"] = "远程大军之印",
 			["icon"] = "Interface\\Icons\\inv_misc_ammo_arrow_04",
 		},
-		[105771] = {
-			["duration"] = 1.5,
-			["name"] = "冲锋",
-			["icon"] = "Interface\\Icons\\ability_warrior_charge",
+		[110645] = {
+			["name"] = "进食充分",
+			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
 		},
 		[216974] = {
 			["name"] = "坏疽",
@@ -17806,24 +17836,24 @@ JamPlatesAccessoriesDB = {
 			["name"] = "死亡惩罚",
 			["icon"] = "Interface\\Icons\\inv_misc_bone_skull_01",
 		},
-		[31821] = {
-			["duration"] = 8,
-			["name"] = "光环掌握",
-			["icon"] = "Interface\\Icons\\Spell_Holy_AuraMastery",
+		[226407] = {
+			["name"] = "暗夜诅咒",
+			["duration"] = 12,
+			["icon"] = "Interface\\Icons\\artifactability_balancedruid_fullmoon",
+			["debuffType"] = "Magic",
 		},
 		[210320] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\Spell_Holy_DevotionAura",
 			["name"] = "虔诚光环",
 		},
-		[116841] = {
-			["duration"] = 6,
-			["name"] = "迅如猛虎",
-			["icon"] = "Interface\\Icons\\ability_monk_tigerslust",
+		[237744] = {
+			["name"] = "战神",
+			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
 		},
-		[204225] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyFrenzy",
-			["duration"] = 10,
+		[147083] = {
+			["name"] = "次级煞能残渣",
+			["icon"] = "Interface\\Icons\\sha_spell_fire_felfireward",
 		},
 		[110039] = {
 			["name"] = "实验体12-B",
@@ -17831,18 +17861,16 @@ JamPlatesAccessoriesDB = {
 		},
 		[77535] = {
 			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\Spell_DeathKnight_Butcher2",
 			["name"] = "鲜血护盾",
+			["icon"] = "Interface\\Icons\\Spell_DeathKnight_Butcher2",
 		},
-		[193223] = {
-			["name"] = "疯入膏肓",
-			["icon"] = "Interface\\Icons\\Achievement_Boss_GeneralVezax_01",
+		[204225] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyFrenzy",
+			["duration"] = 10,
 		},
-		[157736] = {
-			["name"] = "献祭",
-			["duration"] = 20.629,
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
-			["debuffType"] = "Magic",
+		[163532] = {
+			["name"] = "熔渣池",
+			["icon"] = "Interface\\Icons\\inv_misc_ring_firelands_3",
 		},
 		[185239] = {
 			["name"] = "安苏之光",
@@ -17852,10 +17880,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_enchanting_wod_crystalshard3",
 			["duration"] = 6,
 		},
-		[194674] = {
-			["duration"] = 4,
-			["icon"] = "Interface\\Icons\\INV_Spear_11",
-			["name"] = "带钩长矛",
+		[173790] = {
+			["name"] = "灵魂联结",
+			["icon"] = "Interface\\Icons\\Ability_Druid_DemoralizingRoar",
 		},
 		[170395] = {
 			["name"] = "苏卡的猎物",
@@ -17871,10 +17898,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_knife_1h_cataclysm_c_06",
 			["debuffType"] = "Magic",
 		},
-		[125174] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\ability_monk_touchofkarma",
-			["name"] = "业报之触",
+		[26064] = {
+			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Turtle",
+			["duration"] = 12,
 		},
 		[225678] = {
 			["duration"] = 1800,
@@ -17891,9 +17917,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_priest_angelicfeather",
 			["debuffType"] = "Magic",
 		},
-		[212415] = {
-			["name"] = "符文斧兵勇士",
-			["icon"] = "INTERFACE\\ICONS\\spell_shadow_rune",
+		[211903] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\INV_Misc_ArmorKit_23",
+			["name"] = "信仰之盾",
 		},
 		[105689] = {
 			["name"] = "春华合剂",
@@ -17904,19 +17931,18 @@ JamPlatesAccessoriesDB = {
 			["name"] = "搏击冠军",
 			["icon"] = "Interface\\Icons\\inv_weapon_hand_30",
 		},
-		[193018] = {
-			["icon"] = "Interface\\Icons\\ability_shawaterelemental_split",
-			["duration"] = 20,
+		[196175] = {
+			["icon"] = "Interface\\Icons\\inv_gizmo_adamantiteshells",
+			["duration"] = 8,
 		},
-		[5171] = {
-			["duration"] = 36.062,
-			["icon"] = "Interface\\Icons\\Ability_Rogue_SliceDice",
-			["name"] = "切割",
+		[170196] = {
+			["name"] = "撕裂旋风",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_BloodNova",
 		},
 		[156064] = {
 			["duration"] = 3600,
-			["name"] = "德拉诺强效敏捷合剂",
 			["icon"] = "Interface\\Icons\\trade_alchemy_dpotion_c12",
+			["name"] = "德拉诺强效敏捷合剂",
 		},
 		[185241] = {
 			["name"] = "谴责法令",
@@ -17929,8 +17955,8 @@ JamPlatesAccessoriesDB = {
 		},
 		[186265] = {
 			["duration"] = 8,
-			["name"] = "灵龟守护",
 			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Turtle",
+			["name"] = "灵龟守护",
 		},
 		[170397] = {
 			["name"] = "适者生存",
@@ -17941,23 +17967,23 @@ JamPlatesAccessoriesDB = {
 			["name"] = "搏击冠军",
 			["icon"] = "Interface\\Icons\\inv_weapon_hand_30",
 		},
-		[227848] = {
-			["name"] = "神圣之地",
-			["icon"] = "Interface\\Icons\\Spell_Holy_InnerFire",
+		[6648] = {
+			["name"] = "栗色马",
+			["icon"] = "Interface\\Icons\\Ability_Mount_RidingHorse",
 		},
-		[183828] = {
-			["name"] = "死亡烙印",
-			["icon"] = "Interface\\Icons\\warlock_summon_doomguard",
+		[196296] = {
+			["icon"] = "Interface\\Icons\\ability_thunderking_balllightning",
+			["duration"] = 3,
 		},
 		[213395] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\INV_Misc_ShadowEgg",
 			["name"] = "侵蚀之影",
 		},
-		[201365] = {
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Ability_Creature_Disease_02",
-			["debuffType"] = "Disease",
+		[214975] = {
+			["duration"] = 0,
+			["name"] = "抑心光环",
+			["icon"] = "Interface\\ICONS\\Ability_DeathKnight_HeartstopAura",
 		},
 		[210324] = {
 			["name"] = "复仇光环",
@@ -17976,9 +18002,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "搏击冠军",
 			["icon"] = "Interface\\Icons\\inv_weapon_hand_30",
 		},
-		[181968] = {
-			["name"] = "恶魔变形",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Metamorphosis",
+		[185014] = {
+			["name"] = "聚焦混乱",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_SoulLeech_1",
 		},
 		[212884] = {
 			["name"] = "电能风暴",
@@ -17986,8 +18012,8 @@ JamPlatesAccessoriesDB = {
 		},
 		[53365] = {
 			["duration"] = 15,
-			["name"] = "不洁之力",
 			["icon"] = "Interface\\Icons\\Spell_Holy_BlessingOfStrength",
+			["name"] = "不洁之力",
 		},
 		[144293] = {
 			["name"] = "精神鞭笞",
@@ -18011,9 +18037,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "诺甘农的预见",
 			["icon"] = "Interface\\Icons\\Spell_Arcane_FocusedPower",
 		},
-		[144459] = {
-			["name"] = "激光灼烧",
-			["icon"] = "Interface\\Icons\\ability_deathwing_grasping_tendrils",
+		[196665] = {
+			["icon"] = "Interface\\Icons\\Spell_Arcane_ArcaneTorrent",
+			["duration"] = 0,
 		},
 		[67556] = {
 			["duration"] = 0,
@@ -18048,18 +18074,20 @@ JamPlatesAccessoriesDB = {
 			["name"] = "搏击冠军",
 			["icon"] = "Interface\\Icons\\inv_weapon_hand_30",
 		},
-		[88331] = {
-			["name"] = "火山石幼龙",
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_stonedragonred",
+		[212570] = {
+			["name"] = "败战之魂",
+			["icon"] = "Interface\\Icons\\Achievement_Boss_GeneralVezax_01",
 		},
 		[212886] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\Spell_DeathKnight_BloodBoil",
 			["name"] = "梦魇腐蚀",
 		},
-		[221633] = {
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
-			["duration"] = 12,
+		[124280] = {
+			["name"] = "业报之触",
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\ability_monk_touchofkarma",
+			["debuffType"] = "Magic",
 		},
 		[185245] = {
 			["duration"] = 3,
@@ -18070,10 +18098,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "明镜",
 			["icon"] = "Interface\\Icons\\INV_Enchant_ShardPrismaticSmall",
 		},
-		[200243] = {
-			["duration"] = 20,
-			["name"] = "梦魇乍醒",
-			["icon"] = "Interface\\Icons\\sha_ability_rogue_bloodyeye_nightmare",
+		[204488] = {
+			["duration"] = 30,
+			["name"] = "怒火聚焦",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_FocusedRage",
 		},
 		[207256] = {
 			["name"] = "湮没",
@@ -18084,9 +18112,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_weapon_hand_30",
 			["name"] = "搏击冠军",
 		},
-		[191900] = {
-			["icon"] = "Interface\\Icons\\Spell_Frost_SummonWaterElemental",
-			["duration"] = 0.8,
+		[39801] = {
+			["name"] = "紫色骑乘虚空鳐",
+			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_NetherRay",
 		},
 		[147367] = {
 			["duration"] = 600,
@@ -18094,24 +18122,23 @@ JamPlatesAccessoriesDB = {
 			["name"] = "武器大师",
 		},
 		[184734] = {
-			["name"] = "地火斩",
 			["icon"] = "Interface\\Icons\\Spell_Fire_FlameBlades",
+			["name"] = "地火斩",
 			["debuffType"] = "Magic",
 		},
 		[80354] = {
 			["duration"] = 600,
-			["name"] = "时空错位",
 			["icon"] = "INTERFACE\\ICONS\\ability_mage_timewarp",
+			["name"] = "时空错位",
 		},
 		[214423] = {
 			["duration"] = 15,
 			["name"] = "山峰形态",
 			["icon"] = "Interface\\Icons\\INV_Elemental_Primal_Earth",
 		},
-		[224449] = {
-			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\Spell_Nature_Web",
-			["debuffType"] = "Magic",
+		[155196] = {
+			["name"] = "锁定",
+			["icon"] = "Interface\\Icons\\ability_fixated_state_red",
 		},
 		[145832] = {
 			["name"] = "强化亚煞极之触",
@@ -18122,20 +18149,20 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_weapon_hand_30",
 			["name"] = "搏击冠军",
 		},
-		[233149] = {
-			["duration"] = 812457.984,
-			["name"] = "考古任务",
-			["icon"] = "INTERFACE\\ICONS\\trade_archaeology",
+		[61447] = {
+			["duration"] = 0,
+			["name"] = "旅行者的苔原猛犸象",
+			["icon"] = "Interface\\Icons\\Ability_Mount_Mammoth_Brown_3seater",
 		},
 		[196508] = {
 			["duration"] = 8,
 			["icon"] = "Interface\\Icons\\Spell_Shadow_SiphonMana",
 			["name"] = "精神鞭笞",
 		},
-		[217495] = {
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameRing",
-			["debuffType"] = "Magic",
+		[192925] = {
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\inv_artifact_bloodoftheassassinated",
+			["name"] = "遇刺者之血",
 		},
 		[148392] = {
 			["duration"] = 0,
@@ -18147,42 +18174,42 @@ JamPlatesAccessoriesDB = {
 			["name"] = "淤血",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_LifeDrain",
 		},
-		[81256] = {
-			["duration"] = 14,
-			["icon"] = "Interface\\Icons\\INV_Sword_07",
-			["name"] = "符文刃舞",
+		[194084] = {
+			["duration"] = 16,
+			["icon"] = "Interface\\Icons\\Spell_Fire_FlameTounge",
+			["name"] = "火舌",
 		},
 		[215448] = {
 			["icon"] = "Interface\\Icons\\Spell_Holy_SealOfValor",
 			["duration"] = 0,
 		},
-		[116095] = {
-			["duration"] = 8.397,
-			["name"] = "金刚震",
-			["icon"] = "Interface\\Icons\\Ability_ShockWave",
+		[185422] = {
+			["name"] = "暗影之舞",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_ShadowDance",
 		},
 		[216472] = {
 			["name"] = "动荡",
 			["icon"] = "Interface\\Icons\\spell_mage_unstablemagic",
 		},
-		[223427] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\inv_herbalism_70_nightmaredreamleaf",
-			["name"] = "梦魇孢子",
+		[145629] = {
+			["name"] = "反魔法领域",
+			["icon"] = "Interface\\Icons\\Spell_DeathKnight_AntiMagicZone",
 		},
 		[156071] = {
 			["duration"] = 7200.006,
 			["name"] = "德拉诺力量合剂",
 			["icon"] = "Interface\\Icons\\trade_alchemy_dpotion_c23",
 		},
-		[131568] = {
-			["icon"] = "Interface\\Icons\\INV_Misc_Fork&Knife",
-			["duration"] = 6,
+		[173183] = {
+			["name"] = "元素冲击：急速",
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\shaman_talent_elementalblast",
+			["debuffType"] = "Magic",
 		},
-		[355] = {
-			["duration"] = 3,
-			["icon"] = "Interface\\Icons\\Spell_Nature_Reincarnation",
-			["name"] = "嘲讽",
+		[116095] = {
+			["duration"] = 8.397,
+			["name"] = "金刚震",
+			["icon"] = "Interface\\Icons\\Ability_ShockWave",
 		},
 		[198557] = {
 			["icon"] = "Interface\\Icons\\ability_fomor_boss_shout",
@@ -18221,19 +18248,18 @@ JamPlatesAccessoriesDB = {
 			["name"] = "毒性能量",
 			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_06",
 		},
-		[200657] = {
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Ability_Paladin_BlessedHands",
-			["name"] = "白银之手的力量",
+		[202477] = {
+			["duration"] = 0,
+			["name"] = "伪装",
+			["icon"] = "Interface\\Icons\\inv_helm_mask_fittedalpha_b_01_nightborne_02",
 		},
 		[170405] = {
 			["name"] = "玛拉卡的血腥召唤",
 			["icon"] = "Interface\\Icons\\ability_ironmaidens_maraksbloodcalling",
 		},
-		[184380] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\Spell_Nature_ElementalShields",
-			["debuffType"] = "Poison",
+		[63560] = {
+			["name"] = "黑暗突变",
+			["icon"] = "INTERFACE\\ICONS\\achievement_boss_festergutrotface",
 		},
 		[208284] = {
 			["name"] = "月神艾露恩的力量",
@@ -18241,9 +18267,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_boots_leather_raiddruid_j_01",
 			["debuffType"] = "Magic",
 		},
-		[215785] = {
-			["name"] = "灼热之手",
-			["icon"] = "Interface\\Icons\\Spell_Fire_PlayingWithFire",
+		[46924] = {
+			["name"] = "剑刃风暴",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_Bladestorm",
 		},
 		[197023] = {
 			["name"] = "穷追猛砍",
@@ -18268,21 +18294,22 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\trade_alchemy_potione6",
 		},
 		[228248] = {
-			["name"] = "冰舌舔舐",
 			["icon"] = "Interface\\Icons\\spell_frost_frozenorb",
+			["name"] = "冰舌舔舐",
 			["debuffType"] = "Magic",
 		},
-		[145389] = {
-			["name"] = "时空错乱",
-			["icon"] = "Interface\\Icons\\spell_mage_altertime",
+		[23251] = {
+			["name"] = "迅捷森林狼",
+			["icon"] = "Interface\\Icons\\Ability_Mount_WhiteDireWolf",
 		},
-		[88335] = {
-			["name"] = "东风幼龙",
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_stormdragonred",
+		[200657] = {
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\Ability_Paladin_BlessedHands",
+			["name"] = "白银之手的力量",
 		},
-		[188010] = {
-			["name"] = "野蛮",
-			["icon"] = "INTERFACE\\ICONS\\warrior_talent_icon_furyintheblood",
+		[209512] = {
+			["name"] = "分裂的能量 ",
+			["icon"] = "Interface\\Icons\\sha_spell_fire_blueflamestrike",
 		},
 		[148396] = {
 			["name"] = "库卡隆战狼",
@@ -18298,10 +18325,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "灵魂壁障",
 			["icon"] = "Interface\\Icons\\inv_glaive_1h_artifactaldrochi_d_05",
 		},
-		[193565] = {
-			["duration"] = 0,
-			["name"] = "战刃",
-			["icon"] = "Interface\\Icons\\inv_glaive_1h_npc_c_01",
+		[42776] = {
+			["name"] = "幽灵虎",
+			["icon"] = "Interface\\Icons\\ability_mount_spectraltiger",
 		},
 		[228249] = {
 			["name"] = "炼狱箭",
@@ -18311,9 +18337,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "暴风雪",
 			["icon"] = "Interface\\Icons\\Spell_Frost_IceStorm",
 		},
-		[114051] = {
-			["name"] = "升腾",
-			["icon"] = "Interface\\Icons\\Spell_Fire_ElementalDevastation",
+		[88335] = {
+			["name"] = "东风幼龙",
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_stormdragonred",
 		},
 		[221595] = {
 			["duration"] = 0,
@@ -18324,30 +18350,31 @@ JamPlatesAccessoriesDB = {
 			["name"] = "奥能脉冲",
 			["icon"] = "Interface\\Icons\\spell_mage_arcaneorb_nightborne",
 		},
-		[187990] = {
-			["name"] = "幻影腐蚀",
-			["icon"] = "Interface\\Icons\\spell_fel_elementaldevastation",
+		[185562] = {
+			["name"] = "暗月火酒",
+			["icon"] = "Interface\\Icons\\inv_misc_flaskofvolatility",
 		},
-		[195222] = {
-			["duration"] = 8,
-			["name"] = "风暴之鞭",
-			["icon"] = "Interface\\Icons\\Spell_Lightning_LightningBolt01",
+		[109856] = {
+			["name"] = "怒火之语",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FlameBlades",
 		},
 		[194978] = {
 			["icon"] = "INTERFACE\\ICONS\\achievement_character_gnome_female",
 			["duration"] = 0,
 		},
-		[187099] = {
-			["name"] = "暗影残渣",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowMend",
+		[3355] = {
+			["name"] = "冰冻陷阱",
+			["duration"] = 60,
+			["icon"] = "Interface\\Icons\\Spell_Frost_ChainsOfIce",
+			["debuffType"] = "Magic",
 		},
 		[220572] = {
 			["icon"] = "INTERFACE\\ICONS\\spell_deathvortex",
 			["duration"] = 0,
 		},
-		[175841] = {
-			["name"] = "德拉诺水上行走",
-			["icon"] = "Interface\\Icons\\trade_alchemy_dpotion_b10",
+		[162908] = {
+			["icon"] = "INTERFACE\\ICONS\\trade_archaeology_whitehydrafigurine",
+			["duration"] = 0,
 		},
 		[201121] = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_PainSpike",
@@ -18362,23 +18389,24 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_weapon_shortblade_62",
 			["duration"] = 12.978,
 		},
-		[196290] = {
-			["icon"] = "Interface\\Icons\\ability_thunderking_balllightning",
-			["duration"] = 3,
+		[214529] = {
+			["duration"] = 25,
+			["name"] = "梦魇之矛",
+			["icon"] = "Interface\\Icons\\sha_inv_elemental_primal_shadow_nightmare",
 		},
-		[108843] = {
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\Spell_Fire_BurningSpeed",
-			["name"] = "炽热疾速",
+		[142945] = {
+			["name"] = "诡异之雾",
+			["icon"] = "Interface\\Icons\\ability_xaril_masterpoisoner_green",
 		},
 		[207776] = {
-			["icon"] = "INTERFACE\\ICONS\\warrior_talent_icon_furyintheblood",
 			["name"] = "弗吉达之怒",
+			["icon"] = "INTERFACE\\ICONS\\warrior_talent_icon_furyintheblood",
 			["debuffType"] = "Magic",
 		},
-		[24723] = {
-			["name"] = "骷髅装束",
-			["icon"] = "Interface\\Icons\\Ability_Rogue_Disguise",
+		[223946] = {
+			["duration"] = 0,
+			["name"] = "黑暗闪电",
+			["icon"] = "Interface\\Icons\\Ability_Vehicle_ElectroCharge",
 		},
 		[196515] = {
 			["name"] = "魔法禁锢",
@@ -18419,9 +18447,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\spell_warlock_soulburn_haunt",
 			["duration"] = 15,
 		},
-		[202455] = {
-			["icon"] = "Interface\\Icons\\INV_Enchant_VoidSphere",
-			["duration"] = 0,
+		[149033] = {
+			["name"] = "被吞噬的信念",
+			["icon"] = "Interface\\Icons\\Spell_Holy_PowerInfusion",
 		},
 		[221598] = {
 			["icon"] = "Interface\\Icons\\spell_arcane_blast_nightborne",
@@ -18437,13 +18465,13 @@ JamPlatesAccessoriesDB = {
 			["name"] = "睡眠恐惧",
 			["icon"] = "Interface\\Icons\\ability_warlock_howlofterror",
 		},
-		[187103] = {
-			["name"] = "暗影残渣",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowMend",
+		[210504] = {
+			["icon"] = "Interface\\Icons\\Ability_Rogue_DeviousPoisons",
+			["duration"] = 9,
 		},
-		[230346] = {
-			["name"] = "空中冲刺",
-			["icon"] = "Interface\\Icons\\ability_demonhunter_felrush",
+		[44185] = {
+			["icon"] = "Interface\\Icons\\INV_Misc_Bag_28_Halloween",
+			["duration"] = 900,
 		},
 		[207778] = {
 			["duration"] = 6,
@@ -18455,9 +18483,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Sap",
 			["name"] = "闷棍",
 		},
-		[219220] = {
-			["icon"] = "Interface\\Icons\\INV_Misc_Head_Undead_01",
-			["duration"] = 3,
+		[188453] = {
+			["duration"] = 10,
+			["icon"] = "Interface\\Icons\\Spell_Nature_FaerieFire",
+			["debuffType"] = "Magic",
 		},
 		[156079] = {
 			["duration"] = 3600,
@@ -18468,10 +18497,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "进食充分",
 			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
 		},
-		[470] = {
-			["duration"] = 0,
-			["name"] = "黑马",
-			["icon"] = "Interface\\Icons\\Ability_Mount_RidingHorse",
+		[212572] = {
+			["name"] = "石血之拥",
+			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_04",
 		},
 		[210850] = {
 			["icon"] = "Interface\\Icons\\ability_priest_voidentropy",
@@ -18481,17 +18509,18 @@ JamPlatesAccessoriesDB = {
 			["name"] = "锁喉",
 			["icon"] = "Interface\\Icons\\Ability_Rogue_Garrote",
 		},
-		[182755] = {
-			["icon"] = "Interface\\Icons\\achievement_character_orc_male_brn",
-			["duration"] = 0,
+		[60302] = {
+			["name"] = "陨星磨石",
+			["icon"] = "Interface\\Icons\\Ability_Rogue_Feint",
 		},
 		[171436] = {
 			["name"] = "踏血小戈隆",
 			["icon"] = "Interface\\Icons\\inv_lessergronnmount_red",
 		},
-		[26064] = {
-			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Turtle",
-			["duration"] = 12,
+		[23338] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Ability_Mount_BlackPanther",
+			["name"] = "迅捷雷刃豹",
 		},
 		[217505] = {
 			["duration"] = 6,
@@ -18506,29 +18535,29 @@ JamPlatesAccessoriesDB = {
 			["name"] = "河豚鱼",
 			["icon"] = "Interface\\Icons\\inv_fishing_f_sleeper3",
 		},
+		[182755] = {
+			["icon"] = "Interface\\Icons\\achievement_character_orc_male_brn",
+			["duration"] = 0,
+		},
 		[90898] = {
 			["name"] = "黑暗卷须",
 			["icon"] = "Interface\\Icons\\INV_Misc_Herb_07",
 		},
-		[193686] = {
-			["icon"] = "Interface\\Icons\\Ability_CriticalStrike",
-			["duration"] = 20,
-		},
-		[199590] = {
-			["icon"] = "Interface\\Icons\\INV_Misc_Head_Vrykul",
-			["duration"] = 0,
+		[175020] = {
+			["name"] = "穿刺",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_BloodBath",
 		},
 		[163247] = {
 			["name"] = "雷象之怒",
 			["icon"] = "Interface\\Icons\\spell_beastmaster_elekk",
 		},
-		[156401] = {
-			["name"] = "熔火炉渣",
-			["icon"] = "Interface\\Icons\\INV_SummerFest_FireSpirit",
+		[161291] = {
+			["name"] = "恐翼之狂焰",
+			["icon"] = "Interface\\Icons\\spell_beastmaster_rylak",
 		},
-		[203774] = {
-			["name"] = "石化",
-			["icon"] = "Interface\\Icons\\INV_Misc_Statue_05",
+		[146046] = {
+			["name"] = "醍醐灌顶",
+			["icon"] = "Interface\\Icons\\INV_Misc_Gem_Bloodstone_01",
 		},
 		[160688] = {
 			["duration"] = 600,
@@ -18553,10 +18582,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Hunter_SwiftStrike",
 			["duration"] = 0,
 		},
-		[201846] = {
-			["duration"] = 12,
-			["name"] = "风暴使者",
-			["icon"] = "Interface\\Icons\\Spell_Nature_StormReach",
+		[115078] = {
+			["name"] = "分筋错骨",
+			["icon"] = "Interface\\Icons\\ability_monk_paralysis",
 		},
 		[192425] = {
 			["name"] = "毒素冲动",
@@ -18564,13 +18592,15 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Rogue_DeviousPoisons",
 			["debuffType"] = "Poison",
 		},
-		[226512] = {
-			["name"] = "鲜血脓液",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_BloodBoil",
+		[194085] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_LifeDrain02",
+			["name"] = "折磨梦境",
+			["debuffType"] = "Magic",
 		},
-		[167413] = {
-			["name"] = "锁定时间",
-			["icon"] = "Interface\\Icons\\Spell_Holy_BorrowedTime",
+		[142073] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\inv_pegasusmount",
+			["name"] = "炉石天马",
 		},
 		[185771] = {
 			["name"] = "火焰之盾",
@@ -18592,35 +18622,36 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Throw",
 			["duration"] = 0,
 		},
-		[172780] = {
-			["icon"] = "Interface\\Icons\\achievement_brewery_2",
-			["duration"] = 4,
+		[211672] = {
+			["name"] = "毁伤血肉",
+			["icon"] = "Interface\\Icons\\ability_deathwing_bloodcorruption_earth",
 		},
 		[143286] = {
 			["name"] = "渗透煞能",
 			["icon"] = "Interface\\Icons\\sha_inv_elemental_primal_shadow",
 		},
-		[2094] = {
-			["name"] = "致盲",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_MindSteal",
+		[228483] = {
+			["name"] = "烈焰魔心",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FlameBolt",
 		},
 		[1833] = {
 			["duration"] = 2,
 			["icon"] = "Interface\\Icons\\Ability_CheapShot",
 			["name"] = "偷袭",
 		},
-		[187878] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\spell_shaman_crashlightning",
-			["name"] = "毁灭闪电",
+		[199918] = {
+			["duration"] = 20,
+			["name"] = "暗影冲撞",
+			["icon"] = "Interface\\Icons\\sha_spell_fire_bluehellfire",
 		},
 		[231329] = {
 			["icon"] = "Interface\\Icons\\Spell_Nature_ElementalShields",
 			["duration"] = 6,
 		},
-		[200291] = {
-			["icon"] = "Interface\\Icons\\Ability_Rogue_FanofKnives",
-			["duration"] = 5,
+		[204517] = {
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\spell_warlock_harvestoflife",
+			["debuffType"] = "Magic",
 		},
 		[199593] = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_RallyingCry",
@@ -18664,23 +18695,24 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Mount_MountainRam",
 			["name"] = "迅捷美酒节赛羊",
 		},
-		[184238] = {
-			["name"] = "颤抖！",
-			["icon"] = "Interface\\Icons\\ability_fomor_boss_shout",
+		[221093] = {
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
+			["duration"] = 0,
 		},
-		[196723] = {
-			["icon"] = "Interface\\Icons\\ability_monk_blackoutkick",
-			["duration"] = 3,
+		[48025] = {
+			["duration"] = 0,
+			["name"] = "无头骑士的坐骑",
+			["icon"] = "Interface\\Icons\\Ability_Mount_NightmareHorse",
 		},
-		[228576] = {
-			["name"] = "被诱惑",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_SoothingKiss",
-			["debuffType"] = "Magic",
+		[221805] = {
+			["duration"] = 0,
+			["name"] = "吸血传染",
+			["icon"] = "Interface\\Icons\\Spell_Nature_NullifyPoison",
 		},
-		[546] = {
-			["duration"] = 600,
-			["name"] = "水上行走",
-			["icon"] = "Interface\\Icons\\Spell_Frost_WindWalkOn",
+		[194279] = {
+			["duration"] = 6.188,
+			["name"] = "铁蒺藜",
+			["icon"] = "Interface\\Icons\\ability_ironmaidens_incindiarydevice",
 		},
 		[68589] = {
 			["name"] = "诱惑香水",
@@ -18695,14 +18727,16 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_dragonchromaticmount",
 			["duration"] = 0,
 		},
-		[219610] = {
-			["duration"] = 6,
-			["name"] = "穿冰破雪",
-			["icon"] = "Interface\\Icons\\ability_mage_frostjaw",
+		[12654] = {
+			["name"] = "点燃",
+			["duration"] = 9.352,
+			["icon"] = "Interface\\Icons\\Spell_Fire_Incinerate",
+			["debuffType"] = "Magic",
 		},
-		[191208] = {
-			["icon"] = "Interface\\Icons\\Ability_Rogue_Disguise",
-			["duration"] = 3600,
+		[192229] = {
+			["duration"] = 0,
+			["name"] = "下水道守卫",
+			["icon"] = "Interface\\Icons\\Achievement_Reputation_KirinTor",
 		},
 		[18499] = {
 			["name"] = "狂暴之怒",
@@ -18719,47 +18753,49 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Mount_Undeadhorse",
 			["name"] = "红色骷髅战马",
 		},
-		[214529] = {
-			["duration"] = 25,
-			["name"] = "梦魇之矛",
-			["icon"] = "Interface\\Icons\\sha_inv_elemental_primal_shadow_nightmare",
+		[185065] = {
+			["icon"] = "Interface\\Icons\\ability_bossfelorcs_necromancer_orange",
+			["name"] = "死灵印记",
+			["debuffType"] = "Magic",
 		},
-		[232405] = {
-			["name"] = "原始火刃豹",
-			["icon"] = "Interface\\ICONS\\INV_FireCatMount",
+		[236077] = {
+			["name"] = "缴械",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_Disarm",
 		},
 		[211881] = {
 			["duration"] = 2,
 			["icon"] = "Interface\\Icons\\ability_bossfellord_felspike",
 			["name"] = "邪能爆发",
 		},
-		[191977] = {
-			["icon"] = "Interface\\Icons\\INV_Spear_07",
-			["duration"] = 12,
+		[216282] = {
+			["name"] = "血性狂乱",
+			["icon"] = "Interface\\Icons\\sha_ability_rogue_bloodyeye_nightmare",
 		},
 		[200620] = {
 			["icon"] = "Interface\\Icons\\Spell_Frost_IceClaw",
 			["duration"] = 8,
 		},
-		[215552] = {
-			["name"] = "苍白魅力",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_AnimateDead",
+		[213056] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Shadesofdarkness",
+			["duration"] = 30,
 		},
-		[204484] = {
-			["icon"] = "Interface\\Icons\\inv_misc_bugsprayer",
-			["duration"] = 3,
+		[119899] = {
+			["name"] = "灼疗主人",
+			["duration"] = 12,
+			["icon"] = "Interface\\Icons\\spell_volatilefiregreen",
+			["debuffType"] = "Magic",
 		},
 		[210346] = {
 			["icon"] = "Interface\\Icons\\sha_ability_warrior_bloodnova_nightmare",
 			["duration"] = 45,
 		},
-		[202866] = {
-			["icon"] = "Interface\\Icons\\Spell_Shadow_NightOfTheDead",
-			["duration"] = 15,
+		[222238] = {
+			["name"] = "声威牙白骏马",
+			["icon"] = "Interface\\Icons\\inv_horse2mountlight",
 		},
-		[132103] = {
-			["name"] = "铜墙铁壁",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldMastery",
+		[171761] = {
+			["name"] = "美酒节旗帜",
+			["icon"] = "Interface\\Icons\\INV_Holiday_BrewfestBuff_01",
 		},
 		[170932] = {
 			["icon"] = "Interface\\Icons\\Achievement_Halloween_Spider_01",
@@ -18774,17 +18810,18 @@ JamPlatesAccessoriesDB = {
 			["name"] = "黯淡林木奖章",
 			["icon"] = "Interface\\Icons\\inv_misc_trinketpanda_08",
 		},
-		[60302] = {
-			["name"] = "陨星磨石",
-			["icon"] = "Interface\\Icons\\Ability_Rogue_Feint",
+		[158712] = {
+			["name"] = "血之气息",
+			["icon"] = "Interface\\Icons\\ability_warrior_bloodfrenzy",
 		},
 		[197550] = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_DeathPact",
 			["duration"] = 0,
 		},
-		[6648] = {
-			["name"] = "栗色马",
-			["icon"] = "Interface\\Icons\\Ability_Mount_RidingHorse",
+		[210655] = {
+			["duration"] = 5,
+			["name"] = "阿莎曼的庇护",
+			["icon"] = "Interface\\Icons\\Ability_Druid_CatForm",
 		},
 		[186289] = {
 			["duration"] = 10,
@@ -18809,10 +18846,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "锁定",
 			["icon"] = "Interface\\Icons\\ability_fixated_state_purple",
 		},
-		[211939] = {
-			["duration"] = 30,
-			["name"] = "上古之梦",
-			["icon"] = "Interface\\Icons\\INV_Misc_Head_Dragon_Green",
+		[206930] = {
+			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\INV_Weapon_Shortblade_40",
+			["name"] = "心脏打击",
 		},
 		[193456] = {
 			["duration"] = 4237.487,
@@ -18823,21 +18860,22 @@ JamPlatesAccessoriesDB = {
 			["name"] = "抑制光环",
 			["icon"] = "Interface\\Icons\\ability_bossdarkvindicator_auraofcontempt",
 		},
-		[225818] = {
-			["icon"] = "Interface\\Icons\\Spell_Magic_ManaGain",
-			["duration"] = 1800,
+		[191977] = {
+			["icon"] = "Interface\\Icons\\INV_Spear_07",
+			["duration"] = 12,
 		},
-		[190570] = {
-			["name"] = "挫锐",
-			["icon"] = "Interface\\Icons\\Spell_Misc_EmotionAfraid",
+		[198374] = {
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\Ability_ShockWave",
+			["name"] = "断筋",
 		},
-		[206567] = {
-			["icon"] = "Interface\\Icons\\Ability_Druid_TwilightsWrath",
-			["duration"] = 0,
+		[196727] = {
+			["name"] = "嚎镇八方",
+			["icon"] = "Interface\\Icons\\Ability_Physical_Taunt",
 		},
 		[204206] = {
-			["icon"] = "INTERFACE\\ICONS\\spell_frost_piercing chill",
 			["name"] = "冰冻",
+			["icon"] = "INTERFACE\\ICONS\\spell_frost_piercing chill",
 			["debuffType"] = "Magic",
 		},
 		[184243] = {
@@ -18849,10 +18887,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "装死",
 			["icon"] = "Interface\\Icons\\Ability_Rogue_CheatDeath",
 		},
-		[229083] = {
-			["name"] = "炽热冲击",
-			["icon"] = "Interface\\Icons\\Ability_Mage_FireStarter",
-			["debuffType"] = "Magic",
+		[97821] = {
+			["duration"] = 300,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_DeadofNight",
+			["name"] = "虚空之触",
 		},
 		[193969] = {
 			["duration"] = 6,
@@ -18864,8 +18902,8 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Alchemy_EndlessFlask_04",
 		},
 		[207278] = {
-			["name"] = "奥术锁定",
 			["icon"] = "Interface\\Icons\\ability_socererking_arcaneacceleration",
+			["name"] = "奥术锁定",
 			["debuffType"] = "Magic",
 		},
 		[199600] = {
@@ -18883,11 +18921,10 @@ JamPlatesAccessoriesDB = {
 			["name"] = "闪避",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadowWard",
 		},
-		[192083] = {
-			["name"] = "乌索尔的印记",
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\ability_druid_markofursol",
-			["debuffType"] = "Magic",
+		[183465] = {
+			["duration"] = 4,
+			["name"] = "粘性胆汁",
+			["icon"] = "Interface\\Icons\\INV_Misc_Web_01",
 		},
 		[189363] = {
 			["name"] = "燃烧之刃",
@@ -18897,53 +18934,51 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Holy_BlessedLife",
 			["duration"] = 0,
 		},
-		[200684] = {
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\Spell_Nature_FocusedMind",
-			["debuffType"] = "Poison",
+		[207844] = {
+			["duration"] = 0,
+			["name"] = "卡库善的风暴之鳞腕轮",
+			["icon"] = "Interface\\ICONS\\INV_Gloves_Plate_DeathKnight_M_01",
 		},
-		[205290] = {
-			["name"] = "灰烬觉醒",
-			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\inv_sword_2h_artifactashbringer_d_01",
-			["debuffType"] = "Magic",
+		[208612] = {
+			["name"] = "涅墨西斯",
+			["icon"] = "INTERFACE\\ICONS\\achievement_dungeon_ulduarraid_icegiant_01",
 		},
 		[126434] = {
 			["duration"] = 0,
-			["name"] = "土水派勇士",
 			["icon"] = "INTERFACE\\ICONS\\inv_misc_tournaments_tabard_human",
+			["name"] = "土水派勇士",
 		},
-		[213990] = {
-			["duration"] = 15.569,
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_monsterhorn_08",
-			["name"] = "碎片钻孔",
+		[603] = {
+			["name"] = "末日降临",
+			["duration"] = 18.964,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_AuraOfDarkness",
+			["debuffType"] = "Curse",
 		},
 		[159675] = {
 			["name"] = "战歌之印",
 			["icon"] = "Interface\\Icons\\Spell_Misc_WarsongFocus",
 		},
-		[156772] = {
-			["name"] = "燃烧射击",
-			["icon"] = "Interface\\Icons\\ability_hunter_crossfire",
+		[235027] = {
+			["name"] = "大师刺客的决意",
+			["icon"] = "Interface\\Icons\\INV_Weapon_ShortBlade_25",
 		},
 		[189364] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\inv_lessergronnmount_red",
 			["name"] = "煤拳小戈隆",
 		},
-		[202477] = {
-			["duration"] = 0,
-			["name"] = "伪装",
-			["icon"] = "Interface\\Icons\\inv_helm_mask_fittedalpha_b_01_nightborne_02",
+		[210918] = {
+			["name"] = "灵体形态",
+			["icon"] = "Interface\\Icons\\Spell_Shaman_AstralShift",
 		},
 		[210863] = {
 			["icon"] = "Interface\\Icons\\ability_priest_voidentropy",
 			["duration"] = 10,
 		},
-		[176048] = {
-			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\Ability_Druid_ChallangingRoar",
-			["debuffType"] = "",
+		[227847] = {
+			["duration"] = 5.538,
+			["icon"] = "Interface\\Icons\\Ability_Warrior_Bladestorm",
+			["name"] = "剑刃风暴",
 		},
 		[224172] = {
 			["name"] = "狩猎大师的激励",
@@ -18961,35 +18996,33 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Sword_48",
 			["duration"] = 0,
 		},
-		[25046] = {
-			["name"] = "奥术洪流",
-			["duration"] = 2,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Teleport",
-			["debuffType"] = "Magic",
+		[213990] = {
+			["duration"] = 15.569,
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_monsterhorn_08",
+			["name"] = "碎片钻孔",
 		},
 		[202162] = {
 			["name"] = "金钟罩",
 			["icon"] = "Interface\\Icons\\ability_monk_guard",
 		},
-		[165889] = {
-			["icon"] = "Interface\\Icons\\Ability_Paladin_RighteousVengeance",
-			["name"] = "正义之心",
-			["debuffType"] = "Magic",
+		[223203] = {
+			["duration"] = 0,
+			["name"] = "下水道守卫",
+			["icon"] = "Interface\\Icons\\Achievement_Reputation_KirinTor",
 		},
-		[209388] = {
-			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\Spell_Holy_PureOfHeart",
-			["name"] = "秩序壁垒",
+		[171622] = {
+			["duration"] = 0,
+			["name"] = "斑点草地践踏者",
+			["icon"] = "Interface\\Icons\\ability_mount_elekkdraenormount",
 		},
 		[199603] = {
 			["duration"] = 36,
 			["name"] = "骷髅黑帆",
 			["icon"] = "Interface\\Icons\\ability_rogue_rollthebones01",
 		},
-		[207342] = {
-			["duration"] = 60,
-			["icon"] = "Interface\\Icons\\Ability_Druid_ChallangingRoar",
-			["debuffType"] = "",
+		[186870] = {
+			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
+			["duration"] = 12,
 		},
 		[143297] = {
 			["name"] = "煞能喷溅",
@@ -19013,24 +19046,22 @@ JamPlatesAccessoriesDB = {
 			["name"] = "邪能飞轮",
 			["icon"] = "Interface\\Icons\\ability_arakkoa_spinning_blade",
 		},
-		[202225] = {
-			["duration"] = 5,
-			["name"] = "狂怒冲锋",
-			["icon"] = "Interface\\Icons\\spell_warrior_barbarian",
+		[221670] = {
+			["icon"] = "Interface\\Icons\\Spell_Holy_DivineSpirit",
+			["duration"] = 12,
 		},
 		[191414] = {
 			["name"] = "野兽坚韧",
 			["icon"] = "Interface\\Icons\\Ability_Hunter_KillCommand",
 		},
-		[225254] = {
-			["name"] = "强力减速",
-			["icon"] = "Interface\\Icons\\Spell_Nature_Slow",
-			["debuffType"] = "Magic",
-		},
-		[221672] = {
+		[215558] = {
 			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\inv_moosemount2",
-			["name"] = "风暴之触雄鹿",
+			["icon"] = "Interface\\Icons\\inv_ratmount",
+			["name"] = "骑乘巨鼠",
+		},
+		[88331] = {
+			["name"] = "火山石幼龙",
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_stonedragonred",
 		},
 		[96491] = {
 			["duration"] = 0,
@@ -19062,14 +19093,16 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\inv_misc_tournaments_tabard_orc",
 			["name"] = "火金派勇士",
 		},
-		[703] = {
-			["duration"] = 18,
-			["icon"] = "Interface\\Icons\\Ability_Rogue_Garrote",
-			["name"] = "锁喉",
+		[210927] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\shaman_pvp_staticcling",
+			["name"] = "静电附着",
 		},
-		[131108] = {
-			["icon"] = "Interface\\Icons\\inv_pet_babyshark",
-			["duration"] = 12,
+		[135700] = {
+			["name"] = "节能施法",
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_ManaBurn",
+			["debuffType"] = "Magic",
 		},
 		[197046] = {
 			["name"] = "致伤药膏",
@@ -19083,23 +19116,23 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_monk_soothingmists",
 			["debuffType"] = "Magic",
 		},
+		[703] = {
+			["duration"] = 18,
+			["icon"] = "Interface\\Icons\\Ability_Rogue_Garrote",
+			["name"] = "锁喉",
+		},
+		[219057] = {
+			["icon"] = "Interface\\Icons\\ability_ironmaidens_convulsiveshadows",
+			["name"] = "虚空撕裂",
+			["debuffType"] = "Magic",
+		},
+		[120178] = {
+			["name"] = "游学者符记",
+			["icon"] = "Interface\\Icons\\inv_misc_trinketpanda_04",
+		},
 		[162313] = {
 			["name"] = "变性",
 			["icon"] = "Interface\\Icons\\achievement_boss_mogufemales",
-		},
-		[219057] = {
-			["name"] = "虚空撕裂",
-			["icon"] = "Interface\\Icons\\ability_ironmaidens_convulsiveshadows",
-			["debuffType"] = "Magic",
-		},
-		[193530] = {
-			["duration"] = 10,
-			["name"] = "野性守护",
-			["icon"] = "Interface\\Icons\\Spell_Nature_ProtectionformNature",
-		},
-		[221365] = {
-			["icon"] = "Interface\\Icons\\spell_druid_bearhug",
-			["duration"] = 0,
 		},
 		[204213] = {
 			["name"] = "净化邪恶",
@@ -19107,10 +19140,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Mage_FireStarter",
 			["debuffType"] = "Magic",
 		},
-		[208579] = {
-			["duration"] = 56.485,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_DemonicFortitude",
-			["name"] = "涅墨西斯",
+		[200183] = {
+			["name"] = "神圣化身",
+			["icon"] = "Interface\\Icons\\ability_priest_ascension",
 		},
 		[205237] = {
 			["duration"] = 15,
@@ -19122,18 +19154,18 @@ JamPlatesAccessoriesDB = {
 			["name"] = "军情七处情报",
 			["icon"] = "Interface\\Icons\\INV_Misc_Map_01",
 		},
+		[177175] = {
+			["name"] = "大法师的炽燃",
+			["icon"] = "Interface\\Icons\\spell_mage_overpowered",
+		},
 		[225771] = {
 			["name"] = "时光转换",
 			["icon"] = "INTERFACE\\ICONS\\spell_arcane_invocation",
 		},
-		[202231] = {
-			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\rogue_leeching_poison",
-			["name"] = "吸血",
-		},
-		[214002] = {
-			["icon"] = "Interface\\Icons\\ability_hunter_murderofcrows",
+		[171014] = {
 			["duration"] = 5,
+			["icon"] = "Interface\\Icons\\Spell_Fire_SoulBurn",
+			["name"] = "沸腾",
 		},
 		[183227] = {
 			["name"] = "混乱之箭",
@@ -19153,9 +19185,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_paladin_empoweredsealsjustice",
 			["duration"] = 0,
 		},
-		[184357] = {
-			["name"] = "污血",
-			["icon"] = "Interface\\Icons\\inv_misc_boilingblood",
+		[183416] = {
+			["name"] = "牺牲光环",
+			["icon"] = "Interface\\Icons\\ability_deathwing_bloodcorruption_earth",
 		},
 		[173502] = {
 			["name"] = "机枪",
@@ -19175,26 +19207,25 @@ JamPlatesAccessoriesDB = {
 			["name"] = "邪罪契约",
 			["icon"] = "Interface\\Icons\\ability_warlock_fireandbrimstonegreen",
 		},
-		[5211] = {
-			["duration"] = 2.5,
-			["icon"] = "Interface\\Icons\\Ability_Druid_Bash",
-			["name"] = "蛮力猛击",
+		[41635] = {
+			["name"] = "愈合祷言",
+			["duration"] = 30,
+			["icon"] = "Interface\\Icons\\Spell_Holy_PrayerOfMendingtga",
+			["debuffType"] = "Magic",
 		},
 		[100332] = {
 			["duration"] = 0,
 			["name"] = "勇猛的战驹",
 			["icon"] = "Interface\\Icons\\ability_mount_alliancepvpmount",
 		},
-		[63796] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\INV_Misc_EngGizmos_03",
-			["name"] = "米米尔隆的头部",
+		[184364] = {
+			["duration"] = 8,
+			["name"] = "狂怒回复",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_FocusedRage",
 		},
-		[41635] = {
-			["name"] = "愈合祷言",
-			["duration"] = 30,
-			["icon"] = "Interface\\Icons\\Spell_Holy_PrayerOfMendingtga",
-			["debuffType"] = "Magic",
+		[155181] = {
+			["name"] = "装填中",
+			["icon"] = "Interface\\Icons\\INV_Gizmo_FuelCell",
 		},
 		[755] = {
 			["name"] = "生命通道",
@@ -19210,23 +19241,23 @@ JamPlatesAccessoriesDB = {
 			["debuffType"] = "Magic",
 		},
 		[220084] = {
-			["icon"] = "Interface\\Icons\\Spell_Holy_RemoveCurse",
 			["name"] = "乌萨吉的诅咒",
+			["icon"] = "Interface\\Icons\\Spell_Holy_RemoveCurse",
 			["debuffType"] = "Curse",
 		},
-		[147083] = {
-			["name"] = "次级煞能残渣",
-			["icon"] = "Interface\\Icons\\sha_spell_fire_felfireward",
+		[118038] = {
+			["duration"] = 8,
+			["name"] = "剑在人在",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_Challange",
 		},
 		[25603] = {
 			["duration"] = 5,
 			["icon"] = "Interface\\Icons\\Spell_Nature_Slow",
 			["debuffType"] = "Magic",
 		},
-		[156132] = {
-			["duration"] = 300,
-			["name"] = "世界缩小器",
-			["icon"] = "Interface\\Icons\\inv_misc_enggizmos_09",
+		[148541] = {
+			["name"] = "日落黄昏",
+			["icon"] = "INTERFACE\\ICONS\\achievement_zone_mount hyjal",
 		},
 		[222132] = {
 			["duration"] = 3,
@@ -19266,27 +19297,28 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_PsychicScream",
 			["duration"] = 6,
 		},
-		[166021] = {
-			["name"] = "病变打击",
-			["icon"] = "Interface\\Icons\\Ability_Rogue_FeignDeath",
-		},
 		[192517] = {
 			["icon"] = "INTERFACE\\ICONS\\ability_deathknight_brittlebones",
 			["duration"] = 20,
 		},
+		[212988] = {
+			["duration"] = 4,
+			["icon"] = "Interface\\Icons\\artifactability_vengeancedemonhunter_painbringer",
+			["name"] = "痛苦使者",
+		},
 		[44544] = {
 			["duration"] = 15,
-			["name"] = "寒冰指",
 			["icon"] = "Interface\\Icons\\Ability_Mage_WintersGrasp",
+			["name"] = "寒冰指",
 		},
 		[190909] = {
 			["duration"] = 6,
-			["name"] = "利爪之印",
 			["icon"] = "Interface\\Icons\\classicon_druid",
+			["name"] = "利爪之印",
 		},
-		[201255] = {
-			["icon"] = "Interface\\Icons\\inv_icon_shadowcouncilorb_purple",
-			["duration"] = 0,
+		[175668] = {
+			["name"] = "投掷战锤",
+			["icon"] = "Interface\\Icons\\inv_hammer_08",
 		},
 		[155078] = {
 			["name"] = "压迫打击",
@@ -19303,9 +19335,11 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Achievement_Character_Tauren_Male",
 			["name"] = "重拳先生的回忆",
 		},
-		[202899] = {
-			["name"] = "乌拉的祝福",
-			["icon"] = "Interface\\Icons\\Spell_Holy_InnerFire",
+		[192083] = {
+			["name"] = "乌索尔的印记",
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\ability_druid_markofursol",
+			["debuffType"] = "Magic",
 		},
 		[185791] = {
 			["icon"] = "Interface\\Icons\\Ability_Hunter_MastersCall",
@@ -19321,42 +19355,40 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Misc_Flower_02",
 			["debuffType"] = "Magic",
 		},
-		[208899] = {
-			["duration"] = 6.647,
-			["name"] = "女王赦令",
-			["icon"] = "INTERFACE\\ICONS\\inv_misc_volatilewater",
+		[198590] = {
+			["name"] = "吸取灵魂",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Haunting",
 		},
-		[116267] = {
+		[165909] = {
+			["name"] = "秩序之源",
+			["icon"] = "Interface\\Icons\\ability_paladin_blindinglight",
+			["debuffType"] = "Magic",
+		},
+		[204731] = {
 			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Ability_Mage_IncantersAbsorbtion",
-			["name"] = "咒术洪流",
+			["icon"] = "Interface\\Icons\\Ability_Creature_Cursed_05",
+			["name"] = "恐惧蔓延",
 		},
-		[184256] = {
-			["name"] = "邪能灼烧",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelFire",
-		},
-		[225787] = {
-			["duration"] = 0,
-			["name"] = "战士的印记",
-			["icon"] = "Interface\\Icons\\inv_legionadventure",
+		[187805] = {
+			["name"] = "伊瑟拉鲁斯",
+			["icon"] = "Interface\\Icons\\inv_jewelry_ring_89",
 		},
 		[144330] = {
 			["name"] = "钢铁囚笼",
 			["icon"] = "Interface\\Icons\\inv_misc_lockboxghostiron",
 		},
-		[853] = {
-			["name"] = "制裁之锤",
-			["duration"] = 3,
-			["icon"] = "Interface\\Icons\\Spell_Holy_SealOfMight",
-			["debuffType"] = "Magic",
-		},
-		[196107] = {
-			["icon"] = "Interface\\Icons\\INV_Misc_Head_Murloc_01",
+		[201733] = {
+			["icon"] = "Interface\\Icons\\spell_nature_insect_swarm2",
 			["duration"] = 0,
 		},
-		[149032] = {
-			["name"] = "被吞噬的希望",
-			["icon"] = "Interface\\Icons\\Spell_Holy_PowerInfusion",
+		[184913] = {
+			["name"] = "急速",
+			["icon"] = "Interface\\Icons\\ability_rogue_sprint_blue",
+		},
+		[208899] = {
+			["duration"] = 6.647,
+			["icon"] = "INTERFACE\\ICONS\\inv_misc_volatilewater",
+			["name"] = "女王赦令",
 		},
 		[228278] = {
 			["name"] = "挫志怒吼",
@@ -19386,22 +19418,23 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Shield_06",
 			["duration"] = 9,
 		},
-		[198590] = {
-			["name"] = "吸取灵魂",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Haunting",
+		[186305] = {
+			["duration"] = 0,
+			["name"] = "地火恐狼",
+			["icon"] = "Interface\\Icons\\inv_wolfdraenor_felmount",
 		},
 		[195007] = {
 			["name"] = "生命精华",
 			["icon"] = "Interface\\Icons\\Spell_Holy_SearingLight",
 		},
-		[194099] = {
-			["name"] = "怨毒吐息",
-			["icon"] = "Interface\\Icons\\inv_pet_diseasedsquirrel",
-			["debuffType"] = "Disease",
+		[218625] = {
+			["icon"] = "Interface\\Icons\\spell_fel_incinerate",
+			["duration"] = 8,
 		},
-		[147554] = {
-			["name"] = "亚煞极之血",
-			["icon"] = "Interface\\Icons\\Ability_Warlock_EverlastingAffliction",
+		[180750] = {
+			["duration"] = 3237.784,
+			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+			["name"] = "进食充分",
 		},
 		[180163] = {
 			["name"] = "野蛮打击",
@@ -19411,9 +19444,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "不朽暴君",
 			["icon"] = "Interface\\Icons\\Spell_Nature_UnyeildingStamina",
 		},
-		[70234] = {
-			["name"] = "“魅法”香水",
-			["icon"] = "INTERFACE\\ICONS\\inv_inscription_inkpurple04",
+		[230844] = {
+			["name"] = "拳手的健壮蜥蜴",
+			["icon"] = "Interface\\ICONS\\INV_BasaliskMount",
 		},
 		[185794] = {
 			["icon"] = "Interface\\Icons\\Spell_Fire_Incinerate",
@@ -19430,8 +19463,8 @@ JamPlatesAccessoriesDB = {
 			["name"] = "那是我的！",
 		},
 		[228280] = {
-			["name"] = "忠诚誓言",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_Charm",
+			["name"] = "忠诚誓言",
 			["debuffType"] = "Magic",
 		},
 		[61309] = {
@@ -19450,12 +19483,13 @@ JamPlatesAccessoriesDB = {
 		},
 		[193473] = {
 			["duration"] = 15,
-			["name"] = "精神鞭笞",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_SiphonMana",
+			["name"] = "精神鞭笞",
 		},
-		[191606] = {
-			["name"] = "地狱火之四",
-			["icon"] = "Interface\\Icons\\70_inscription_deck_hellfire_4",
+		[24858] = {
+			["duration"] = 0,
+			["name"] = "枭兽形态",
+			["icon"] = "Interface\\Icons\\Spell_Nature_ForceOfNature",
 		},
 		[182212] = {
 			["name"] = "召唤传送门",
@@ -19471,38 +19505,39 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
 			["debuffType"] = "Magic",
 		},
-		[196126] = {
-			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
-			["duration"] = 6,
+		[181275] = {
+			["icon"] = "Interface\\Icons\\spell_warlock_summonterrorguard",
+			["name"] = "军团诅咒",
+			["debuffType"] = "Curse",
 		},
 		[217020] = {
 			["name"] = "狂热",
 			["icon"] = "Interface\\Icons\\Spell_Holy_SealOfBlood",
 		},
-		[181275] = {
-			["name"] = "军团诅咒",
-			["icon"] = "Interface\\Icons\\spell_warlock_summonterrorguard",
-			["debuffType"] = "Curse",
+		[112948] = {
+			["name"] = "寒冰炸弹",
+			["duration"] = 12,
+			["icon"] = "Interface\\Icons\\spell_mage_frostbomb",
+			["debuffType"] = "Magic",
 		},
 		[148429] = {
 			["duration"] = 600,
 			["name"] = "护火者之誓",
 			["icon"] = "Interface\\Icons\\INV_SummerFest_FireDrink",
 		},
-		[192090] = {
-			["duration"] = 21.533,
-			["icon"] = "INTERFACE\\ICONS\\spell_druid_thrash",
-			["name"] = "痛击",
+		[201236] = {
+			["duration"] = 0,
+			["name"] = "自然之赐",
+			["icon"] = "Interface\\Icons\\Spell_Nature_HealingTouch",
 		},
-		[192002] = {
-			["duration"] = 20,
-			["name"] = "食物和饮水",
-			["icon"] = "Interface\\Icons\\INV_Drink_18",
+		[179743] = {
+			["name"] = "邪能爆破",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelRainOfFire",
 		},
 		[81141] = {
 			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Ability_Warrior_BloodNova",
 			["name"] = "赤色天灾",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_BloodNova",
 		},
 		[224187] = {
 			["icon"] = "Interface\\Icons\\ability_socererking_arcaneacceleration",
@@ -19527,9 +19562,11 @@ JamPlatesAccessoriesDB = {
 			["name"] = "阿达尔的祝福",
 			["icon"] = "Interface\\Icons\\Spell_Holy_SpiritualGuidence",
 		},
-		[221708] = {
-			["name"] = "守备官之骇",
-			["icon"] = "Interface\\Icons\\spell_paladin_holyprism",
+		[48438] = {
+			["name"] = "野性成长",
+			["duration"] = 7,
+			["icon"] = "Interface\\Icons\\Ability_Druid_Flourish",
+			["debuffType"] = "Magic",
 		},
 		[178119] = {
 			["name"] = "快速学习",
@@ -19553,18 +19590,17 @@ JamPlatesAccessoriesDB = {
 			["debuffType"] = "Magic",
 		},
 		[225724] = {
-			["name"] = "暗夜井的宁静",
 			["icon"] = "Interface\\Icons\\Spell_Holy_MindSooth",
+			["name"] = "暗夜井的宁静",
 			["debuffType"] = "Magic",
 		},
-		[9459] = {
-			["name"] = "腐蚀泥浆",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_AnimateDead",
-			["debuffType"] = "Magic",
+		[131108] = {
+			["icon"] = "Interface\\Icons\\inv_pet_babyshark",
+			["duration"] = 12,
 		},
-		[142931] = {
-			["name"] = "血脉暴露",
-			["icon"] = "INTERFACE\\ICONS\\ability_rogue_sanguinaryvein",
+		[225778] = {
+			["name"] = "反冲",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelImmolation",
 		},
 		[121836] = {
 			["duration"] = 0,
@@ -19587,15 +19623,14 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Cat",
 			["debuffType"] = "Magic",
 		},
-		[207386] = {
-			["duration"] = 6,
-			["name"] = "春暖花开",
-			["icon"] = "Interface\\Icons\\inv_misc_trailofflowers",
+		[152262] = {
+			["name"] = "炽天使",
+			["icon"] = "Interface\\Icons\\ability_paladin_seraphim",
 		},
-		[214035] = {
-			["name"] = "奥术充能",
-			["icon"] = "Interface\\Icons\\ability_socererking_arcanefortification",
-			["debuffType"] = "Magic",
+		[193565] = {
+			["duration"] = 0,
+			["name"] = "战刃",
+			["icon"] = "Interface\\Icons\\inv_glaive_1h_npc_c_01",
 		},
 		[164812] = {
 			["name"] = "月火术",
@@ -19624,24 +19659,23 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_BloodBath",
 			["duration"] = 0,
 		},
-		[211990] = {
-			["duration"] = 8,
-			["name"] = "狂暴精华",
-			["icon"] = "INTERFACE\\ICONS\\spell_lifegivingspeed",
+		[186403] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Achievement_BG_masterofallBGs",
+			["name"] = "战争印记",
 		},
 		[96499] = {
 			["name"] = "迅捷祖利安黑豹",
 			["icon"] = "Interface\\Icons\\Ability_Mount_BlackPanther",
 		},
-		[194235] = {
-			["duration"] = 0,
-			["name"] = "虚空撕裂",
-			["icon"] = "Interface\\Icons\\ability_priest_voidentropy",
+		[205495] = {
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\inv_hand_1h_artifactstormfist_d_01",
+			["name"] = "风暴守护者",
 		},
-		[186403] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Achievement_BG_masterofallBGs",
-			["name"] = "战争印记",
+		[219220] = {
+			["icon"] = "Interface\\Icons\\INV_Misc_Head_Undead_01",
+			["duration"] = 3,
 		},
 		[121837] = {
 			["name"] = "翡翠猎豹",
@@ -19652,49 +19686,50 @@ JamPlatesAccessoriesDB = {
 			["name"] = "启迪",
 			["icon"] = "Interface\\Icons\\monk_ability_transcendence",
 		},
-		[175668] = {
-			["name"] = "投掷战锤",
-			["icon"] = "Interface\\Icons\\inv_hammer_08",
+		[166592] = {
+			["duration"] = 300,
+			["name"] = "守备官盔甲打磨包",
+			["icon"] = "Interface\\Icons\\inv_misc_legarmorkit",
 		},
-		[126700] = {
-			["name"] = "胜利之涌",
-			["icon"] = "Interface\\Icons\\Spell_Holy_DivinePurpose",
-		},
-		[164545] = {
-			["name"] = "日光增效",
-			["duration"] = 40,
-			["icon"] = "Interface\\Icons\\spell_nature_wrathv2",
+		[224703] = {
+			["icon"] = "Interface\\Icons\\warrior_disruptingshout",
+			["name"] = "震耳咆哮",
 			["debuffType"] = "Magic",
 		},
-		[226322] = {
-			["name"] = "稳固的灵魂烈焰",
-			["icon"] = "Interface\\Icons\\Spell_Fire_FlameBolt",
+		[142533] = {
+			["name"] = "毒素：红色",
+			["icon"] = "Interface\\Icons\\ability_xaril_masterpoisoner_red",
 		},
-		[202270] = {
-			["icon"] = "Interface\\Icons\\ability_paladin_bladeofjusticeblue",
-			["duration"] = 5.496,
+		[184358] = {
+			["name"] = "邪能狂怒",
+			["icon"] = "Interface\\Icons\\Spell_Fire_ElementalDevastation",
+		},
+		[196189] = {
+			["duration"] = 6,
+			["name"] = "血爪",
+			["icon"] = "Interface\\Icons\\Ability_Hunter_EagleEye",
 		},
 		[202181] = {
 			["icon"] = "INTERFACE\\ICONS\\achievement_dungeon_the stonecore_slabhide",
 			["duration"] = 6,
 		},
-		[156214] = {
-			["name"] = "震颤暗影",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_DevouringPlague",
-			["debuffType"] = "Magic",
+		[66] = {
+			["duration"] = 3,
+			["name"] = "隐形术",
+			["icon"] = "Interface\\Icons\\Ability_Mage_Invisibility",
 		},
 		[174540] = {
-			["name"] = "幽灵打击",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_Haunting",
+			["name"] = "幽灵打击",
 			["debuffType"] = "Magic",
 		},
 		[228287] = {
 			["icon"] = "Interface\\Icons\\ability_monk_cranekick_new",
 			["duration"] = 15,
 		},
-		[1098] = {
-			["name"] = "奴役恶魔",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_EnslaveDemon",
+		[70771] = {
+			["name"] = "情人卡",
+			["icon"] = "Interface\\Icons\\INV_ValentinesCard02",
 		},
 		[200646] = {
 			["duration"] = 3,
@@ -19724,14 +19759,14 @@ JamPlatesAccessoriesDB = {
 			["name"] = "维伦的未来预言",
 			["icon"] = "Interface\\Icons\\Spell_Holy_HealingFocus",
 		},
-		[208929] = {
-			["duration"] = 10,
-			["name"] = "腐化吐息",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_SoulLeech",
+		[226327] = {
+			["duration"] = 3600.001,
+			["name"] = "活跃的灵魂烈焰",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelFlameRing",
 		},
-		[97097] = {
-			["icon"] = "Interface\\Icons\\Achievement_Character_Orc_Male",
-			["duration"] = 0,
+		[208416] = {
+			["name"] = "十万火急",
+			["icon"] = "Interface\\Icons\\INV_Misc_PocketWatch_02",
 		},
 		[171982] = {
 			["name"] = "恶魔协同",
@@ -19755,9 +19790,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "琥珀巨蝎",
 			["icon"] = "Interface\\Icons\\ability_mount_hordescorpionamber",
 		},
-		[43198] = {
-			["name"] = "耐力",
-			["icon"] = "Interface\\Icons\\Spell_Nature_UnyeildingStamina",
+		[209332] = {
+			["name"] = "痛苦真理",
+			["icon"] = "Interface\\Icons\\Spell_Holy_RetributionAura",
 			["debuffType"] = "Magic",
 		},
 		[236479] = {
@@ -19768,17 +19803,19 @@ JamPlatesAccessoriesDB = {
 			["name"] = "翡翠捕梦者",
 			["icon"] = "Interface\\Icons\\inv_helmet_81",
 		},
-		[162490] = {
-			["name"] = "燃烧",
-			["icon"] = "Interface\\Icons\\Ability_Mage_FireStarter",
+		[12975] = {
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\Spell_Holy_AshesToAshes",
+			["name"] = "破釜沉舟",
 		},
 		[225730] = {
 			["name"] = "奥术附魔",
 			["icon"] = "Interface\\Icons\\Spell_Holy_RemoveCurse",
 		},
-		[13730] = {
-			["icon"] = "Interface\\Icons\\Ability_Warrior_WarCry",
-			["duration"] = 20,
+		[226325] = {
+			["duration"] = 3600.001,
+			["name"] = "敏捷的灵魂烈焰",
+			["icon"] = "Interface\\Icons\\Spell_Fire_BlueFlameBreath",
 		},
 		[157139] = {
 			["name"] = "折脊碎椎",
@@ -19794,45 +19831,46 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_warrior_dragonroar",
 			["name"] = "巨龙怒吼",
 		},
-		[208934] = {
-			["icon"] = "Interface\\Icons\\INV_Banner_03",
-			["duration"] = 0,
+		[36899] = {
+			["name"] = "传送器故障",
+			["icon"] = "Interface\\Icons\\Spell_Nature_WispHeal",
 		},
-		[144452] = {
-			["name"] = "净化",
-			["icon"] = "Interface\\Icons\\Spell_Holy_DevineAegis",
+		[222308] = {
+			["name"] = "萨萨里安的印记",
+			["icon"] = "Interface\\Icons\\ability_deathknight_deathsiphon",
 		},
 		[3714] = {
 			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Spell_DeathKnight_PathOfFrost",
 			["name"] = "冰霜之路",
+			["icon"] = "Interface\\Icons\\Spell_DeathKnight_PathOfFrost",
 		},
 		[10789] = {
 			["duration"] = 0,
 			["name"] = "斑点霜刃豹",
 			["icon"] = "Interface\\Icons\\Ability_Mount_WhiteTiger",
 		},
-		[124219] = {
-			["name"] = "进食充分",
-			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+		[187459] = {
+			["icon"] = "Interface\\Icons\\INV_Ore_FelIron",
+			["name"] = "魔能震击",
+			["debuffType"] = "Magic",
 		},
-		[134847] = {
-			["name"] = "派对动物",
-			["icon"] = "Interface\\Icons\\INV_Misc_DiscoBall_01",
+		[214118] = {
+			["icon"] = "Interface\\Icons\\INV_Cask_02",
+			["duration"] = 15,
 		},
 		[51714] = {
 			["duration"] = 26.927,
-			["icon"] = "Interface\\Icons\\Spell_DeathKnight_FrozenRuneWeapon",
 			["name"] = "锋锐之霜",
+			["icon"] = "Interface\\Icons\\Spell_DeathKnight_FrozenRuneWeapon",
 		},
-		[219589] = {
-			["name"] = "闷烧",
-			["icon"] = "Interface\\Icons\\Ability_Mage_MoltenArmor",
+		[17735] = {
+			["duration"] = 5,
+			["name"] = "受难",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_BlackPlague",
 		},
-		[191034] = {
-			["duration"] = 6.896,
-			["name"] = "星辰坠落",
-			["icon"] = "Interface\\Icons\\Ability_Druid_Starfall",
+		[63896] = {
+			["icon"] = "Interface\\Icons\\Ability_Warrior_BullRush",
+			["duration"] = 12,
 		},
 		[142808] = {
 			["name"] = "炎界",
@@ -19855,9 +19893,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "野蛮咆哮",
 			["icon"] = "Interface\\Icons\\Ability_Druid_SkinTeeth",
 		},
-		[224934] = {
-			["icon"] = "INTERFACE\\ICONS\\spell_warlock_demonsoul",
-			["duration"] = 10,
+		[171630] = {
+			["icon"] = "Interface\\Icons\\inv_giantboarmount_brown",
+			["duration"] = 0,
 		},
 		[211400] = {
 			["name"] = "静电附着",
@@ -19867,20 +19905,19 @@ JamPlatesAccessoriesDB = {
 			["name"] = "震天怒吼",
 			["icon"] = "Interface\\Icons\\Ability_Warrior_BattleShout",
 		},
-		[204335] = {
-			["name"] = "圣光护盾",
-			["icon"] = "Interface\\Icons\\Spell_Holy_GreaterBlessingofLight",
-			["debuffType"] = "Magic",
+		[162370] = {
+			["name"] = "晶化弹幕",
+			["icon"] = "Interface\\Icons\\Spell_Holiday_ToW_SpiceCloud",
 		},
-		[1330] = {
-			["duration"] = 3,
-			["icon"] = "Interface\\Icons\\Ability_Rogue_Garrote",
-			["name"] = "锁喉 - 沉默",
+		[196782] = {
+			["name"] = "爆发",
+			["duration"] = 6,
+			["icon"] = "INTERFACE\\ICONS\\spell_deathvortex",
+			["debuffType"] = "Disease",
 		},
-		[122470] = {
-			["duration"] = 10,
-			["name"] = "业报之触",
-			["icon"] = "Interface\\Icons\\ability_monk_touchofkarma",
+		[144459] = {
+			["name"] = "激光灼烧",
+			["icon"] = "Interface\\Icons\\ability_deathwing_grasping_tendrils",
 		},
 		[148440] = {
 			["name"] = "意志薄弱",
@@ -19892,24 +19929,25 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "INTERFACE\\ICONS\\spell_shaman_firenova",
 			["debuffType"] = "Magic",
 		},
-		[90215] = {
-			["duration"] = 6,
-			["name"] = "冲击波",
-			["icon"] = "Interface\\Icons\\Spell_Holy_Excorcism_02",
+		[1330] = {
+			["duration"] = 3,
+			["icon"] = "Interface\\Icons\\Ability_Rogue_Garrote",
+			["name"] = "锁喉 - 沉默",
 		},
 		[223686] = {
 			["duration"] = 9,
 			["icon"] = "Interface\\Icons\\inv_enchant_essencearcanelarge",
 			["name"] = "永夜能量",
 		},
-		[207982] = {
-			["duration"] = 30,
-			["icon"] = "Interface\\Icons\\Ability_Warrior_FocusedRage",
-			["name"] = "怒火聚焦",
+		[193607] = {
+			["duration"] = 6,
+			["name"] = "二连击",
+			["icon"] = "Interface\\Icons\\spell_deathknight_festering_strike",
 		},
-		[171537] = {
-			["name"] = "收割旋风",
-			["icon"] = "Interface\\Icons\\INV_MISC_HOOK_01",
+		[108843] = {
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\Spell_Fire_BurningSpeed",
+			["name"] = "炽热疾速",
 		},
 		[200652] = {
 			["duration"] = 10.001,
@@ -19925,13 +19963,15 @@ JamPlatesAccessoriesDB = {
 			["name"] = "进食充分",
 			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
 		},
-		[158345] = {
-			["name"] = "护盾消失",
-			["icon"] = "Interface\\Icons\\INV_Misc_EngGizmos_01",
+		[201332] = {
+			["duration"] = 3600,
+			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+			["name"] = "进食充分",
 		},
-		[196666] = {
-			["icon"] = "Interface\\Icons\\Spell_DeathKnight_PathOfFrost",
-			["duration"] = 0,
+		[69203] = {
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\inv_pet_babyshark",
+			["name"] = "恶毒之咬",
 		},
 		[190927] = {
 			["icon"] = "Interface\\Icons\\ability_hunter_harpoon",
@@ -19941,14 +19981,15 @@ JamPlatesAccessoriesDB = {
 			["name"] = "暴风城战马",
 			["icon"] = "Interface\\Icons\\Ability_Mount_RidingHorse",
 		},
-		[205372] = {
+		[184416] = {
+			["name"] = "瘟疫之种",
 			["duration"] = 6,
-			["icon"] = "Interface\\Icons\\spell_priest_voidsear",
-			["name"] = "虚空射线",
+			["icon"] = "Interface\\Icons\\inv_misc_herb_plaguebloom",
+			["debuffType"] = "Disease",
 		},
-		[176136] = {
-			["name"] = "恶魔变形",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_DemonForm",
+		[187050] = {
+			["name"] = "军团标记",
+			["icon"] = "Interface\\Icons\\spell_warlock_demonbolt",
 		},
 		[90361] = {
 			["name"] = "灵魂治愈",
@@ -19958,8 +19999,8 @@ JamPlatesAccessoriesDB = {
 		},
 		[35079] = {
 			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\Ability_Hunter_Misdirection",
 			["name"] = "误导",
+			["icon"] = "Interface\\Icons\\Ability_Hunter_Misdirection",
 		},
 		[198094] = {
 			["name"] = "寒冰护体",
@@ -19969,22 +20010,22 @@ JamPlatesAccessoriesDB = {
 		},
 		[223176] = {
 			["duration"] = 8,
-			["name"] = "公平游戏",
 			["icon"] = "Interface\\Icons\\ability_hisek_aim",
+			["name"] = "公平游戏",
 		},
-		[136] = {
-			["name"] = "治疗宠物",
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\Ability_Hunter_MendPet",
+		[213600] = {
+			["duration"] = 2,
+			["icon"] = "Interface\\Icons\\ability_vehicle_sonicshockwave",
 			["debuffType"] = "Magic",
 		},
-		[199345] = {
-			["icon"] = "Interface\\Icons\\ability_skyreach_wind",
-			["duration"] = 8,
+		[220273] = {
+			["name"] = "狂野法力魔杖",
+			["icon"] = "Interface\\Icons\\inv_wand_1h_draenorraid_d_01purple",
 		},
-		[221673] = {
-			["icon"] = "Interface\\Icons\\Ability_Mount_BlackDireWolf",
-			["duration"] = 0,
+		[205372] = {
+			["duration"] = 6,
+			["icon"] = "Interface\\Icons\\spell_priest_voidsear",
+			["name"] = "虚空射线",
 		},
 		[200654] = {
 			["duration"] = 10,
@@ -20000,9 +20041,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\spell_deathknight_necroticplague",
 			["name"] = "枯萎凋零",
 		},
-		[196154] = {
-			["icon"] = "Interface\\Icons\\spell_sandstorm",
-			["duration"] = 0,
+		[176199] = {
+			["icon"] = "Interface\\Icons\\inv_misc_fieryspices",
+			["duration"] = 20,
 		},
 		[68607] = {
 			["name"] = "喷洒诱惑香水",
@@ -20010,13 +20051,13 @@ JamPlatesAccessoriesDB = {
 		},
 		[162264] = {
 			["duration"] = 30,
-			["name"] = "恶魔变形",
 			["icon"] = "Interface\\Icons\\ability_demonhunter_metamorphasisdps",
+			["name"] = "恶魔变形",
 		},
-		[209332] = {
-			["icon"] = "Interface\\Icons\\Spell_Holy_RetributionAura",
-			["name"] = "痛苦真理",
-			["debuffType"] = "Magic",
+		[211510] = {
+			["duration"] = 0,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_EnslaveDemon",
+			["name"] = "命源",
 		},
 		[126705] = {
 			["duration"] = 20,
@@ -20045,21 +20086,18 @@ JamPlatesAccessoriesDB = {
 			["name"] = "鬼魂",
 			["icon"] = "Interface\\Icons\\Ability_Vanish",
 		},
-		[196189] = {
-			["duration"] = 6,
-			["name"] = "血爪",
-			["icon"] = "Interface\\Icons\\Ability_Hunter_EagleEye",
+		[236200] = {
+			["name"] = "唤醒者的忠诚",
+			["icon"] = "Interface\\Icons\\inv_offhand_1h_artifactskulloferedar_d_01",
 		},
 		[220107] = {
-			["icon"] = "Interface\\Icons\\Spell_Frost_FrostArmor",
 			["name"] = "霜寒",
+			["icon"] = "Interface\\Icons\\Spell_Frost_FrostArmor",
 			["debuffType"] = "Magic",
 		},
-		[119899] = {
-			["name"] = "灼疗主人",
-			["duration"] = 12,
-			["icon"] = "Interface\\Icons\\spell_volatilefiregreen",
-			["debuffType"] = "Magic",
+		[184396] = {
+			["name"] = "邪能腐蚀",
+			["icon"] = "Interface\\Icons\\inv_belt_pvpwarlock_e_01",
 		},
 		[200656] = {
 			["duration"] = 10,
@@ -20070,10 +20108,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Drink_18",
 			["duration"] = 20,
 		},
-		[217243] = {
-			["duration"] = 5,
-			["name"] = "低吼",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_DeathScream",
+		[156070] = {
+			["duration"] = 3600,
+			["icon"] = "Interface\\Icons\\trade_alchemy_dpotion_c25",
+			["name"] = "德拉诺智力合剂",
 		},
 		[198097] = {
 			["name"] = "迟缓毒液",
@@ -20104,10 +20142,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_deathwing_bloodcorruption_earth",
 			["duration"] = 0,
 		},
-		[44212] = {
-			["duration"] = 3600.005,
-			["name"] = "南瓜灯！",
-			["icon"] = "Interface\\Icons\\INV_Misc_Bag_28_Halloween",
+		[26272] = {
+			["name"] = "PX-238冬幕欢乐制造器",
+			["icon"] = "Interface\\Icons\\Spell_Frost_FrostShock",
 		},
 		[59650] = {
 			["duration"] = 0,
@@ -20122,10 +20159,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\inv_misc_head_dragon_bronze_nightmare",
 			["duration"] = 0,
 		},
-		[219622] = {
-			["duration"] = 1200,
-			["name"] = "试验药水",
-			["icon"] = "Interface\\Icons\\inv_holiday_tow_spicepotion03",
+		[142878] = {
+			["name"] = "魔法灵龙",
+			["icon"] = "Interface\\Icons\\inv_faeriedragonmount",
 		},
 		[25990] = {
 			["name"] = "格拉库的肉松蛋糕",
@@ -20148,31 +20184,32 @@ JamPlatesAccessoriesDB = {
 			["name"] = "时之风",
 			["icon"] = "Interface\\Icons\\spell_fire_windsofwoe",
 		},
-		[62124] = {
-			["duration"] = 3,
-			["icon"] = "Interface\\Icons\\Spell_Holy_UnyieldingFaith",
-			["name"] = "清算之手",
+		[160832] = {
+			["duration"] = 3600,
+			["name"] = "进食充分",
+			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
 		},
 		[223181] = {
 			["icon"] = "Interface\\Icons\\inv_misc_head_dragon_black_nightmare",
 			["duration"] = 0,
 		},
-		[227473] = {
-			["name"] = "回旋利刃",
-			["icon"] = "Interface\\Icons\\warrior_wild_strike",
+		[166401] = {
+			["name"] = "燃烧躯体",
+			["icon"] = "Interface\\Icons\\Ability_Mage_LivingBomb",
+			["debuffType"] = "Magic",
 		},
-		[44827] = {
-			["name"] = "飞行驯鹿",
-			["icon"] = "Interface\\Icons\\INV_Misc_Branch_01",
+		[155743] = {
+			["name"] = "熔渣池",
+			["icon"] = "Interface\\Icons\\inv_misc_ring_firelands_3",
 		},
 		[204242] = {
 			["duration"] = 10,
-			["name"] = "奉献",
 			["icon"] = "Interface\\Icons\\Spell_Holy_InnerFire",
+			["name"] = "奉献",
 		},
-		[184913] = {
-			["name"] = "急速",
-			["icon"] = "Interface\\Icons\\ability_rogue_sprint_blue",
+		[9798] = {
+			["name"] = "辐射",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_CorpseExplode",
 		},
 		[217551] = {
 			["name"] = "黑暗之门柱石",
@@ -20182,39 +20219,39 @@ JamPlatesAccessoriesDB = {
 			["name"] = "雄壮狮鹫",
 			["icon"] = "Interface\\Icons\\inv_misc_elitegryphon",
 		},
-		[165979] = {
-			["name"] = "燃烧",
-			["icon"] = "Interface\\Icons\\INV_SummerFest_FireSpirit",
+		[146022] = {
+			["name"] = "净化",
+			["icon"] = "Interface\\Icons\\Spell_Holy_DevineAegis",
 		},
 		[13445] = {
 			["duration"] = 15,
 			["name"] = "撕裂",
 			["icon"] = "Interface\\Icons\\Ability_Gouge",
 		},
-		[143974] = {
-			["name"] = "盾击",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldBash",
+		[194038] = {
+			["name"] = "淤血",
+			["icon"] = "Interface\\Icons\\Ability_Gouge",
 		},
-		[9798] = {
-			["name"] = "辐射",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_CorpseExplode",
+		[147476] = {
+			["name"] = "永曦露水",
+			["icon"] = "Interface\\Icons\\INV_DRINK_14",
 		},
 		[216528] = {
 			["duration"] = 3250.194,
 			["icon"] = "Interface\\Icons\\Ability_Shaman_WaterShield",
 			["name"] = "水语者的祝福",
 		},
-		[146022] = {
-			["name"] = "净化",
-			["icon"] = "Interface\\Icons\\Spell_Holy_DevineAegis",
+		[61230] = {
+			["icon"] = "Interface\\Icons\\ability_mount_swiftpurplewindrider",
+			["duration"] = 0,
 		},
 		[201172] = {
 			["icon"] = "Interface\\Icons\\spell_priest_voidtendrils",
 			["duration"] = 30,
 		},
-		[210504] = {
-			["icon"] = "Interface\\Icons\\Ability_Rogue_DeviousPoisons",
-			["duration"] = 9,
+		[97097] = {
+			["icon"] = "Interface\\Icons\\Achievement_Character_Orc_Male",
+			["duration"] = 0,
 		},
 		[194006] = {
 			["name"] = "软泥潭",
@@ -20230,21 +20267,18 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_Requiem",
 			["debuffType"] = "Magic",
 		},
-		[104773] = {
-			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_DemonicTactics",
-			["name"] = "不灭决心",
+		[193018] = {
+			["icon"] = "Interface\\Icons\\ability_shawaterelemental_split",
+			["duration"] = 20,
 		},
-		[48438] = {
-			["name"] = "野性成长",
-			["duration"] = 7,
-			["icon"] = "Interface\\Icons\\Ability_Druid_Flourish",
-			["debuffType"] = "Magic",
+		[201365] = {
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\Ability_Creature_Disease_02",
+			["debuffType"] = "Disease",
 		},
-		[94794] = {
-			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\Spell_Fire_FlameBlades",
-			["name"] = "火箭燃料泄漏",
+		[107845] = {
+			["name"] = "生命缚誓者的仆从",
+			["icon"] = "Interface\\Icons\\Ability_Mount_Drake_Red",
 		},
 		[225743] = {
 			["duration"] = 20,
@@ -20253,22 +20287,20 @@ JamPlatesAccessoriesDB = {
 		},
 		[115191] = {
 			["duration"] = 0,
-			["name"] = "潜行",
 			["icon"] = "Interface\\Icons\\Ability_Stealth",
+			["name"] = "潜行",
 		},
-		[188501] = {
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\ability_demonhunter_spectralsight",
-			["name"] = "幽灵视觉",
+		[213115] = {
+			["name"] = "血牙寡妇蛛",
+			["icon"] = "Interface\\Icons\\inv_spidermount",
 		},
 		[206804] = {
 			["name"] = "从天而降",
 			["icon"] = "Interface\\Icons\\ability_demonhunter_rain from above",
 		},
-		[48181] = {
-			["name"] = "鬼影缠身",
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Ability_Warlock_Haunt",
+		[69179] = {
+			["name"] = "奥术洪流",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Teleport",
 			["debuffType"] = "Magic",
 		},
 		[138213] = {
@@ -20285,14 +20317,13 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Warrior_Shockwave",
 			["duration"] = 4,
 		},
-		[162915] = {
-			["name"] = "督军之魂",
-			["icon"] = "Interface\\Icons\\inv_misc_pvp_trinket",
+		[159336] = {
+			["name"] = "钢铁意志",
+			["icon"] = "Interface\\Icons\\ability_ironmaidens_ironwill",
 		},
-		[200273] = {
-			["duration"] = 0,
-			["name"] = "懦弱",
-			["icon"] = "Interface\\Icons\\sha_spell_warlock_demonsoul_nightmare",
+		[107079] = {
+			["name"] = "震山掌",
+			["icon"] = "Interface\\Icons\\pandarenracial_quiveringpain",
 		},
 		[202198] = {
 			["icon"] = "Interface\\Icons\\inv_pet_ basilisk",
@@ -20323,23 +20354,22 @@ JamPlatesAccessoriesDB = {
 			["name"] = "不稳定爆破",
 			["icon"] = "Interface\\Icons\\Spell_Shaman_StaticShock",
 		},
-		[50613] = {
-			["name"] = "奥术洪流",
-			["duration"] = 2,
-			["icon"] = "Interface\\Icons\\Spell_Shadow_Teleport",
-			["debuffType"] = "Magic",
+		[124219] = {
+			["name"] = "进食充分",
+			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
 		},
 		[24711] = {
 			["icon"] = "Interface\\Icons\\Ability_Kick",
 			["duration"] = 3600.008,
 		},
-		[164353] = {
-			["name"] = "萨格雷伪装",
-			["icon"] = "Interface\\Icons\\spell_fel_incinerate",
+		[221261] = {
+			["name"] = "时光洪流",
+			["icon"] = "Interface\\Icons\\spell_mage_altertime_active",
 		},
-		[26656] = {
-			["name"] = "黑色其拉作战坦克",
-			["icon"] = "Interface\\Icons\\INV_Misc_QirajiCrystal_05",
+		[219788] = {
+			["duration"] = 0,
+			["name"] = "埋骨之所",
+			["icon"] = "INTERFACE\\ICONS\\ability_deathknight_brittlebones",
 		},
 		[207318] = {
 			["duration"] = 0,
@@ -20355,10 +20385,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "圣光灌注",
 			["icon"] = "Interface\\Icons\\Ability_Paladin_InfusionofLight",
 		},
-		[44153] = {
-			["duration"] = 0,
-			["name"] = "飞行器",
-			["icon"] = "Interface\\Icons\\Ability_Mount_Gyrocoptor",
+		[54452] = {
+			["name"] = "法能药剂",
+			["icon"] = "Interface\\Icons\\INV_Potion_96",
 		},
 		[217556] = {
 			["icon"] = "Interface\\Icons\\ability_hunter_murderofcrows",
@@ -20369,9 +20398,9 @@ JamPlatesAccessoriesDB = {
 			["name"] = "佯攻",
 			["icon"] = "Interface\\Icons\\Ability_Rogue_Feint",
 		},
-		[155741] = {
-			["name"] = "恐惧渡鸦",
-			["icon"] = "Interface\\Icons\\inv_ravenlordmount",
+		[201818] = {
+			["name"] = "古代维库指环",
+			["icon"] = "Interface\\Icons\\inv_fishing_lure_kelp",
 		},
 		[194522] = {
 			["name"] = "爆裂熔炉",
@@ -20383,9 +20412,9 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_shaman_repulsiontotem",
 			["duration"] = 0,
 		},
-		[175765] = {
-			["name"] = "粉碎打击",
-			["icon"] = "INTERFACE\\ICONS\\ability_warrior_colossussmash",
+		[171626] = {
+			["name"] = "装甲铁牙践踏者",
+			["icon"] = "Interface\\Icons\\inv_iron horde elekk",
 		},
 		[196058] = {
 			["name"] = "昏睡毒素",
@@ -20393,10 +20422,10 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_03",
 			["debuffType"] = "Poison",
 		},
-		[17735] = {
-			["duration"] = 5,
-			["name"] = "受难",
-			["icon"] = "Interface\\Icons\\Spell_Shadow_BlackPlague",
+		[197105] = {
+			["duration"] = 8,
+			["icon"] = "Interface\\Icons\\INV_Misc_Fish_04",
+			["debuffType"] = "Magic",
 		},
 		[94462] = {
 			["duration"] = 0,
@@ -20417,22 +20446,22 @@ JamPlatesAccessoriesDB = {
 			["name"] = "热血咆哮",
 			["icon"] = "INTERFACE\\ICONS\\spell_druid_stamedingroar",
 		},
-		[211543] = {
-			["name"] = "吞噬",
-			["icon"] = "Interface\\Icons\\INV_Misc_MonsterSpiderCarapace_01",
+		[90708] = {
+			["name"] = "公会战旗",
+			["icon"] = "Interface\\Icons\\inv_misc_tournaments_banner_orc",
 		},
-		[146594] = {
-			["name"] = "泰坦之赐",
-			["icon"] = "Interface\\Icons\\Achievement_Dungeon_UlduarRaid_Titan_01",
+		[189031] = {
+			["name"] = "玷污",
+			["icon"] = "Interface\\Icons\\ability_malkorok_blightofyshaarj_yellow",
 		},
 		[200154] = {
 			["duration"] = 30,
 			["name"] = "燃烧之恨",
 			["icon"] = "Interface\\Icons\\ability_fixated_state_red",
 		},
-		[104269] = {
-			["name"] = "喝水",
-			["icon"] = "Interface\\Icons\\INV_Drink_18",
+		[189544] = {
+			["name"] = "残废术",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_Cripple",
 		},
 		[205273] = {
 			["duration"] = 6,
@@ -20445,22 +20474,22 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\spell_mage_arcaneorb",
 			["debuffType"] = "Magic",
 		},
-		[160883] = {
-			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
-			["duration"] = 3600,
+		[182925] = {
+			["name"] = "恶毒鬼魅",
+			["icon"] = "Interface\\Icons\\Trade_Engineering",
 		},
 		[194524] = {
 			["icon"] = "Interface\\Icons\\ACHIEVEMENT_BOSS_KINGYMIRON_03",
 			["duration"] = 120,
 		},
-		[184359] = {
-			["name"] = "狂怒",
-			["icon"] = "Interface\\Icons\\Spell_Holy_BlessingOfStrength",
-			["debuffType"] = "",
+		[202852] = {
+			["name"] = "急救",
+			["icon"] = "Interface\\Icons\\Spell_Holy_Heal",
 		},
-		[161291] = {
-			["name"] = "恐翼之狂焰",
-			["icon"] = "Interface\\Icons\\spell_beastmaster_rylak",
+		[207458] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_SeedOfDestruction",
+			["name"] = "梦魇孢子",
+			["debuffType"] = "Magic",
 		},
 		[196060] = {
 			["duration"] = 12,
@@ -20485,14 +20514,13 @@ JamPlatesAccessoriesDB = {
 			["name"] = "势如破竹",
 			["icon"] = "Interface\\Icons\\Ability_Creature_Cursed_04",
 		},
-		[75614] = {
-			["duration"] = 0,
-			["name"] = "星骓",
-			["icon"] = "INTERFACE\\ICONS\\ability_mount_celestialhorse",
+		[160893] = {
+			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+			["duration"] = 3229.24,
 		},
-		[202852] = {
-			["name"] = "急救",
-			["icon"] = "Interface\\Icons\\Spell_Holy_Heal",
+		[127308] = {
+			["name"] = "巨型棕色龙龟",
+			["icon"] = "Interface\\Icons\\ability_mount_pandaranmountepicbrown",
 		},
 		[124408] = {
 			["name"] = "雷霆翡翠云端翔龙",
@@ -20519,36 +20547,37 @@ JamPlatesAccessoriesDB = {
 			["name"] = "三叉戟已装备",
 			["icon"] = "Interface\\Icons\\inv_polearm_2h_misc_spearfishingrod",
 		},
-		[17481] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\Ability_Mount_Undeadhorse",
-			["name"] = "瑞文戴尔的死亡战马",
-		},
-		[189552] = {
-			["name"] = "不稳定的护盾",
-			["icon"] = "Interface\\Icons\\warlock_sacrificial_pact",
+		[155777] = {
+			["name"] = "回春术（萌芽）",
+			["duration"] = 15,
+			["icon"] = "Interface\\Icons\\spell_druid_germination",
 			["debuffType"] = "Magic",
 		},
-		[142315] = {
-			["name"] = "酸性血液",
-			["icon"] = "Interface\\Icons\\ability_creature_poison_03",
+		[196107] = {
+			["icon"] = "Interface\\Icons\\INV_Misc_Head_Murloc_01",
+			["duration"] = 0,
+		},
+		[232405] = {
+			["name"] = "原始火刃豹",
+			["icon"] = "Interface\\ICONS\\INV_FireCatMount",
 		},
 		[118522] = {
-			["name"] = "元素冲击：爆击",
 			["icon"] = "Interface\\Icons\\shaman_talent_elementalblast",
+			["name"] = "元素冲击：爆击",
 			["debuffType"] = "Magic",
 		},
-		[183433] = {
-			["icon"] = "INTERFACE\\ICONS\\ability_hunter_pet_worm",
-			["duration"] = 8,
+		[155267] = {
+			["name"] = "禁锢",
+			["icon"] = "INTERFACE\\ICONS\\spell_shaman_bindelemental",
 		},
 		[156136] = {
 			["icon"] = "Interface\\Icons\\inv_misc_enggizmos_36",
 			["duration"] = 0,
 		},
-		[58615] = {
-			["name"] = "野蛮角斗士的虚空幼龙",
-			["icon"] = "Interface\\Icons\\Ability_Mount_NetherDrakeElite",
+		[222719] = {
+			["duration"] = 15,
+			["name"] = "污秽",
+			["icon"] = "INTERFACE\\ICONS\\trade_archaeology_bloodysatyrscepter",
 		},
 		[161255] = {
 			["name"] = "急救",
@@ -20559,19 +20588,18 @@ JamPlatesAccessoriesDB = {
 			["name"] = "幽灵驭风者",
 			["icon"] = "Interface\\Icons\\ability_mount_spectralwyvern",
 		},
-		[46628] = {
-			["duration"] = 0,
-			["name"] = "迅捷白色陆行鸟",
-			["icon"] = "Interface\\Icons\\Ability_Mount_CockatriceMountElite_White",
+		[188534] = {
+			["duration"] = 3600,
+			["icon"] = "Interface\\Icons\\Spell_Misc_Food",
+			["name"] = "进食充分",
 		},
 		[199646] = {
 			["name"] = "吞噬之怒",
 			["icon"] = "Interface\\Icons\\Spell_Holy_ConsumeMagic",
 		},
-		[210027] = {
-			["name"] = "共享光明",
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Spell_Holy_PowerWordShield",
+		[209516] = {
+			["icon"] = "Interface\\Icons\\Spell_Fire_BlueFireNova",
+			["name"] = "魔法之牙",
 			["debuffType"] = "Magic",
 		},
 		[155625] = {
@@ -20584,30 +20612,27 @@ JamPlatesAccessoriesDB = {
 			["name"] = "野兔星座",
 			["icon"] = "Interface\\ICONS\\INV_Pet_CelestialRabbit",
 		},
-		[123725] = {
-			["name"] = "火焰之息",
-			["duration"] = 8,
-			["icon"] = "Interface\\Icons\\ability_monk_breathoffire",
-			["debuffType"] = "Magic",
+		[190616] = {
+			["name"] = "腐蚀邪能污秽",
+			["icon"] = "Interface\\Icons\\Spell_Nature_CorrosiveBreath",
+			["debuffType"] = "Poison",
 		},
 		[214491] = {
 			["duration"] = 0,
 			["icon"] = "Interface\\Icons\\ability_socererking_arcanemines",
 			["name"] = "妨害畸体",
 		},
-		[173183] = {
-			["name"] = "元素冲击：急速",
-			["duration"] = 10,
-			["icon"] = "Interface\\Icons\\shaman_talent_elementalblast",
-			["debuffType"] = "Magic",
+		[189560] = {
+			["name"] = "腐臭蜂群",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_CarrionSwarm",
 		},
 		[231895] = {
 			["name"] = "征伐",
 			["icon"] = "Interface\\Icons\\Ability_Paladin_SanctifiedWrath",
 		},
 		[236502] = {
-			["icon"] = "Interface\\Icons\\Spell_Nature_HealingWaveGreater",
 			["name"] = "潮汐使者",
+			["icon"] = "Interface\\Icons\\Spell_Nature_HealingWaveGreater",
 			["debuffType"] = "Magic",
 		},
 		[196064] = {
@@ -20615,9 +20640,11 @@ JamPlatesAccessoriesDB = {
 			["name"] = "撕裂之咬",
 			["icon"] = "Interface\\Icons\\INV_Misc_MonsterFang_02",
 		},
-		[149033] = {
-			["name"] = "被吞噬的信念",
-			["icon"] = "Interface\\Icons\\Spell_Holy_PowerInfusion",
+		[206961] = {
+			["name"] = "森严威仪",
+			["duration"] = 3,
+			["icon"] = "Interface\\Icons\\Spell_Shadow_AuraOfDarkness",
+			["debuffType"] = "Magic",
 		},
 		[225753] = {
 			["name"] = "巨龙星座",
@@ -20625,8 +20652,8 @@ JamPlatesAccessoriesDB = {
 		},
 		[201695] = {
 			["duration"] = 3600,
-			["icon"] = "Interface\\Icons\\INV_Misc_Food_01",
 			["name"] = "进食充分",
+			["icon"] = "Interface\\Icons\\INV_Misc_Food_01",
 		},
 		[148972] = {
 			["name"] = "恐惧战马",
@@ -20638,40 +20665,42 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Shadow_Teleport",
 			["debuffType"] = "Magic",
 		},
-		[196727] = {
-			["name"] = "嚎镇八方",
-			["icon"] = "Interface\\Icons\\Ability_Physical_Taunt",
+		[118611] = {
+			["name"] = "魔丝蛾刻像",
+			["icon"] = "Interface\\Icons\\inv_inscription_pigment_bug01",
 		},
-		[213115] = {
-			["name"] = "血牙寡妇蛛",
-			["icon"] = "Interface\\Icons\\inv_spidermount",
+		[194684] = {
+			["icon"] = "Interface\\Icons\\Spell_Shadow_DeathScream",
+			["duration"] = 2,
 		},
-		[215159] = {
-			["name"] = "失落已久的角鹰兽",
-			["icon"] = "Interface\\Icons\\Ability_Mount_WarHippogryph",
+		[213620] = {
+			["duration"] = 8,
+			["name"] = "残酷切割",
+			["icon"] = "Interface\\Icons\\ability_skeer_bloodletting",
 		},
-		[102746] = {
-			["name"] = "睿智之灵",
-			["icon"] = "Interface\\Icons\\Spell_Holy_ChampionsBond",
-		},
-		[214128] = {
-			["duration"] = 10,
-			["name"] = "增速",
-			["icon"] = "Interface\\Icons\\INV_Enchant_ShardBrilliantSmall",
-		},
-		[202358] = {
-			["icon"] = "Interface\\Icons\\INV_DataCrystal12",
+		[75614] = {
 			["duration"] = 0,
+			["name"] = "星骓",
+			["icon"] = "INTERFACE\\ICONS\\ability_mount_celestialhorse",
+		},
+		[228461] = {
+			["duration"] = 12,
+			["name"] = "魔力的滋味",
+			["icon"] = "Interface\\Icons\\inv_70_dungeon_ring6a",
+		},
+		[198780] = {
+			["name"] = "战斗怒吼",
+			["icon"] = "Interface\\Icons\\Ability_Warrior_BattleShout",
 		},
 		[206303] = {
 			["duration"] = 2,
 			["icon"] = "INTERFACE\\ICONS\\ability_warlock_soulswap",
 			["name"] = "侵蚀灵魂",
 		},
-		[221805] = {
-			["duration"] = 0,
-			["name"] = "吸血传染",
-			["icon"] = "Interface\\Icons\\Spell_Nature_NullifyPoison",
+		[203898] = {
+			["duration"] = 12,
+			["name"] = "侧击撕碎",
+			["icon"] = "Interface\\Icons\\Ability_GhoulFrenzy",
 		},
 		[211422] = {
 			["duration"] = 4,
@@ -20680,8 +20709,8 @@ JamPlatesAccessoriesDB = {
 		},
 		[220124] = {
 			["duration"] = 0,
-			["name"] = "骑乘巨鼠缰绳",
 			["icon"] = "Interface\\Icons\\inv_ratmount",
+			["name"] = "骑乘巨鼠缰绳",
 		},
 		[224731] = {
 			["duration"] = 6,
@@ -20693,14 +20722,13 @@ JamPlatesAccessoriesDB = {
 			["name"] = "虚空镇压",
 			["icon"] = "Interface\\Icons\\Ability_Mage_NetherWindPresence",
 		},
-		[198780] = {
-			["name"] = "战斗怒吼",
-			["icon"] = "Interface\\Icons\\Ability_Warrior_BattleShout",
+		[185993] = {
+			["name"] = "幻影秘境",
+			["icon"] = "Interface\\Icons\\ability_priest_phantasm",
 		},
-		[209527] = {
-			["duration"] = 0,
-			["name"] = "混乱",
-			["icon"] = "Interface\\Icons\\Achievement_BG_kill_flag_carrierWSG",
+		[213427] = {
+			["icon"] = "Interface\\Icons\\Spell_Frost_Stun",
+			["duration"] = 1.5,
 		},
 		[214494] = {
 			["duration"] = 15,
@@ -20715,15 +20743,14 @@ JamPlatesAccessoriesDB = {
 			["name"] = "猎豹守护",
 			["icon"] = "Interface\\Icons\\Ability_Mount_JungleTiger",
 		},
-		[203894] = {
-			["duration"] = 0,
-			["name"] = "雇佣守卫",
-			["icon"] = "Interface\\Icons\\inv_offhand_dalaran_d_01",
+		[171619] = {
+			["name"] = "苔原冰蹄牛",
+			["icon"] = "Interface\\Icons\\inv_clefthoofdraenormount_blue",
 		},
-		[223350] = {
-			["duration"] = 10.001,
-			["icon"] = "Interface\\Icons\\ability_fixated_state_green",
-			["name"] = "狂野奔跑",
+		[220288] = {
+			["duration"] = 4.5,
+			["name"] = "烹骨",
+			["icon"] = "Interface\\Icons\\spell_yorsahj_bloodboil_orange",
 		},
 		[188389] = {
 			["name"] = "烈焰震击",
@@ -20736,27 +20763,26 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\ability_siege_engineer_superheated",
 		},
 		[197603] = {
-			["icon"] = "Interface\\Icons\\Ability_Stealth",
 			["name"] = "黑暗之拥",
+			["icon"] = "Interface\\Icons\\Ability_Stealth",
 			["debuffType"] = "Magic",
 		},
-		[145568] = {
-			["name"] = "碎骨重锤",
-			["icon"] = "INTERFACE\\ICONS\\ability_deathknight_brittlebones",
+		[186515] = {
+			["icon"] = "Interface\\Icons\\Spell_Magic_GreaterBlessingofKings",
+			["duration"] = 600,
 		},
-		[176785] = {
-			["name"] = "救魂者",
-			["icon"] = "Interface\\Icons\\INV_DataCrystal01",
+		[184469] = {
+			["name"] = "提振精神",
+			["icon"] = "Interface\\Icons\\Spell_Shadow_SoulLeech_2",
 		},
 		[72968] = {
 			["duration"] = 0,
-			["name"] = "小宝的丝带",
 			["icon"] = "Interface\\Icons\\INV_Misc_Ribbon_01",
+			["name"] = "小宝的丝带",
 		},
-		[81261] = {
-			["duration"] = 0,
-			["icon"] = "Interface\\Icons\\ability_vehicle_sonicshockwave",
-			["name"] = "日光术",
+		[148539] = {
+			["name"] = "暴风雨",
+			["icon"] = "Interface\\Icons\\INV_Elemental_Mote_Water01",
 		},
 		[196068] = {
 			["name"] = "镇压协议",
@@ -20766,26 +20792,26 @@ JamPlatesAccessoriesDB = {
 			["name"] = "碎甲",
 			["icon"] = "Interface\\Icons\\Ability_Warrior_Riposte",
 		},
-		[191629] = {
-			["name"] = "不朽之六",
-			["icon"] = "Interface\\Icons\\70_inscription_deck_promises_6",
+		[192094] = {
+			["icon"] = "Interface\\Icons\\INV_Spear_07",
+			["duration"] = 5,
 		},
 		[226269] = {
 			["name"] = "折磨",
 			["icon"] = "Interface\\Icons\\Spell_Shadow_ShadeTrueSight",
 		},
-		[70771] = {
-			["name"] = "情人卡",
-			["icon"] = "Interface\\Icons\\INV_ValentinesCard02",
+		[186362] = {
+			["name"] = "古尔丹之怒",
+			["icon"] = "Interface\\Icons\\warlock_curse_shadow_aura",
 		},
 		[186343] = {
 			["duration"] = 12,
 			["name"] = "锈化弯刀",
 			["icon"] = "INTERFACE\\ICONS\\trade_archaeology_rustedsteakknife",
 		},
-		[186515] = {
-			["icon"] = "Interface\\Icons\\Spell_Magic_GreaterBlessingofKings",
-			["duration"] = 600,
+		[118116] = {
+			["name"] = "震耳尖啸",
+			["icon"] = "Interface\\Icons\\Ability_Hunter_Pet_Bat",
 		},
 		[199652] = {
 			["icon"] = "Interface\\Icons\\Ability_Hunter_SwiftStrike",
@@ -20795,18 +20821,18 @@ JamPlatesAccessoriesDB = {
 			["name"] = "燃烧",
 			["icon"] = "Interface\\Icons\\Spell_Fire_Immolation",
 		},
-		[104934] = {
-			["name"] = "进食",
-			["icon"] = "Interface\\Icons\\INV_Misc_Fork&Knife",
+		[193440] = {
+			["name"] = "恶魔之怒",
+			["icon"] = "Interface\\Icons\\spell_warlock_demonwrath",
 		},
 		[209378] = {
 			["name"] = "剑刃旋风",
 			["icon"] = "Interface\\Icons\\ability_butcher_whirl",
 		},
-		[219788] = {
-			["duration"] = 0,
-			["name"] = "埋骨之所",
-			["icon"] = "INTERFACE\\ICONS\\ability_deathknight_brittlebones",
+		[198121] = {
+			["icon"] = "Interface\\Icons\\Spell_Frost_FrostArmor",
+			["name"] = "冰霜撕咬",
+			["debuffType"] = "Magic",
 		},
 		[194022] = {
 			["name"] = "意志坚定",
@@ -20830,14 +20856,14 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\INV_Misc_Bomb_03",
 			["duration"] = 0,
 		},
-		[155315] = {
-			["name"] = "萨满之石：烈焰之触",
-			["icon"] = "Interface\\Icons\\Spell_Shaman_LavaBurst",
+		[182957] = {
+			["duration"] = 0,
+			["name"] = "风暴峡湾的宝藏",
+			["icon"] = "Interface\\Icons\\icon_treasuremap",
 		},
-		[198121] = {
-			["name"] = "冰霜撕咬",
-			["icon"] = "Interface\\Icons\\Spell_Frost_FrostArmor",
-			["debuffType"] = "Magic",
+		[184238] = {
+			["name"] = "颤抖！",
+			["icon"] = "Interface\\Icons\\ability_fomor_boss_shout",
 		},
 		[140276] = {
 			["name"] = "撕裂",
@@ -20851,15 +20877,14 @@ JamPlatesAccessoriesDB = {
 			["name"] = "开拓者",
 			["icon"] = "Interface\\Icons\\Ability_Hunter_AspectMastery",
 		},
-		[205473] = {
-			["duration"] = 61,
-			["icon"] = "Interface\\Icons\\Spell_Frost_IceShard",
-			["name"] = "冰刺",
+		[211110] = {
+			["name"] = "深黯孢子",
+			["icon"] = "Interface\\Icons\\inv_misc_herb_starflower",
 		},
-		[207844] = {
-			["duration"] = 0,
-			["name"] = "卡库善的风暴之鳞腕轮",
-			["icon"] = "Interface\\ICONS\\INV_Gloves_Plate_DeathKnight_M_01",
+		[191464] = {
+			["duration"] = 214823.008,
+			["name"] = "凡图斯符文：乌索克",
+			["icon"] = "Interface\\Icons\\70_inscription_vantus_rune_nightmare",
 		},
 		[200166] = {
 			["duration"] = 3,
@@ -20871,20 +20896,18 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_Holy_InnerFire",
 			["name"] = "奉献",
 		},
-		[160452] = {
-			["icon"] = "Interface\\Icons\\Spell_Arcane_MassDispel",
-			["name"] = "虚空之风",
-			["debuffType"] = "Magic",
+		[210607] = {
+			["name"] = "约纳特的聚焦",
+			["icon"] = "Interface\\Icons\\Spell_Nature_HealingWaveGreater",
 		},
 		[222177] = {
 			["duration"] = 0,
 			["name"] = "阴影中的死神",
 			["icon"] = "Interface\\Icons\\ability_rogue_energeticrecovery",
 		},
-		[195767] = {
-			["duration"] = 4,
-			["icon"] = "Interface\\Icons\\Ability_Warlock_ShadowFlame",
-			["name"] = "黑暗之槌",
+		[165830] = {
+			["name"] = "爆击",
+			["icon"] = "Interface\\Icons\\Ability_Creature_Poison_06",
 		},
 		[165871] = {
 			["name"] = "真空虚空",
@@ -20895,15 +20918,14 @@ JamPlatesAccessoriesDB = {
 			["icon"] = "Interface\\Icons\\Spell_DeathKnight_SummonDeathCharger",
 			["name"] = "阿彻鲁斯死亡战马",
 		},
-		[186305] = {
-			["duration"] = 0,
-			["name"] = "地火恐狼",
-			["icon"] = "Interface\\Icons\\inv_wolfdraenor_felmount",
+		[184256] = {
+			["name"] = "邪能灼烧",
+			["icon"] = "Interface\\Icons\\Spell_Fire_FelFire",
 		},
-		[207033] = {
-			["duration"] = 15,
-			["icon"] = "Interface\\Icons\\Ability_Druid_FerociousBite",
-			["name"] = "狂野怒火",
+		[202425] = {
+			["name"] = "艾露恩的战士",
+			["icon"] = "Interface\\Icons\\Spell_Holy_ElunesGrace",
+			["debuffType"] = "Magic",
 		},
 	},
 	["Player-810-0158BF4B"] = {
@@ -20911,15 +20933,15 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 			["direction"] = true,
 			["scale"] = 1,
-			["showPlayerBuff"] = true,
+			["showHostileBuff"] = true,
 			["showFriendlyDebuff"] = true,
-			["yOffset"] = 14,
+			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
 			["ShowBorder"] = true,
 			["showTime"] = true,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["anchor"] = "TOPRIGHT",
+			["yOffset"] = 14,
 			["showDefaultTime"] = false,
 			["xOffset"] = 0,
 			["relative"] = "LEFT",
@@ -20927,22 +20949,22 @@ JamPlatesAccessoriesDB = {
 			["width"] = 17,
 			["showHostileDebuff"] = true,
 			["x"] = 0,
-			["showPetDebuff"] = true,
+			["anchor"] = "TOPRIGHT",
 			["filter"] = {
 			},
 			["showFriendlyBuff"] = true,
 			["height"] = 17,
 			["y"] = 0,
-			["showHostileBuff"] = true,
+			["showPlayerBuff"] = true,
 		},
 		["threat"] = {
 			["enabled"] = false,
 			["x"] = -1,
 			["y"] = 10,
-			["scale"] = 1,
 			["anchor"] = "LEFT",
-			["relative"] = "BOTTOMRIGHT",
 			["height"] = 32,
+			["relative"] = "BOTTOMRIGHT",
+			["scale"] = 1,
 			["width"] = 32,
 		},
 		["name"] = "悠悠龟",
@@ -20954,36 +20976,36 @@ JamPlatesAccessoriesDB = {
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
-			["ShowBorder"] = true,
+			["anchor"] = "BOTTOMLEFT",
 			["showTime"] = true,
 			["yOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["showPlayerBuff"] = true,
+			["xOffset"] = -5,
 			["showDefaultTime"] = false,
-			["showHostileDebuff"] = false,
+			["showPlayerBuff"] = true,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["width"] = 17,
+			["defaultEnabled"] = false,
 			["y"] = 0,
 			["x"] = 0,
-			["showFriendlyBuff"] = false,
+			["height"] = 17,
 			["filter"] = {
 			},
-			["height"] = 17,
-			["defaultEnabled"] = false,
-			["xOffset"] = -5,
-			["anchor"] = "BOTTOMLEFT",
+			["showFriendlyBuff"] = false,
+			["showHostileDebuff"] = false,
+			["width"] = 17,
+			["ShowBorder"] = true,
 		},
 		["id"] = "Player-810-0158BF4B",
 		["combat"] = {
 			["enabled"] = true,
 			["x"] = 0,
 			["y"] = 0,
-			["scale"] = 1,
 			["anchor"] = "LEFT",
-			["relative"] = "RIGHT",
 			["height"] = 25,
+			["relative"] = "RIGHT",
+			["scale"] = 1,
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -21000,29 +21022,29 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 			["direction"] = true,
 			["scale"] = 1,
-			["showPlayerBuff"] = true,
+			["showHostileBuff"] = true,
 			["showFriendlyDebuff"] = true,
-			["yOffset"] = 14,
+			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
 			["ShowBorder"] = true,
 			["showTime"] = true,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["anchor"] = "TOPRIGHT",
-			["showDefaultTime"] = false,
 			["xOffset"] = 0,
+			["showDefaultTime"] = false,
+			["yOffset"] = 14,
 			["relative"] = "LEFT",
 			["growth"] = false,
 			["width"] = 17,
 			["showHostileDebuff"] = true,
 			["x"] = 0,
-			["showPetDebuff"] = true,
+			["anchor"] = "TOPRIGHT",
 			["filter"] = {
 			},
 			["showFriendlyBuff"] = true,
 			["height"] = 17,
 			["y"] = 0,
-			["showHostileBuff"] = true,
+			["showPlayerBuff"] = true,
 		},
 		["threat"] = {
 			["enabled"] = false,
@@ -21043,26 +21065,26 @@ JamPlatesAccessoriesDB = {
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
-			["ShowBorder"] = true,
+			["anchor"] = "BOTTOMLEFT",
 			["showTime"] = true,
-			["yOffset"] = 0,
+			["xOffset"] = -5,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["showPlayerBuff"] = true,
+			["yOffset"] = 0,
 			["showDefaultTime"] = false,
-			["showHostileDebuff"] = false,
+			["showPlayerBuff"] = true,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["width"] = 17,
+			["defaultEnabled"] = false,
 			["y"] = 0,
 			["x"] = 0,
-			["showFriendlyBuff"] = false,
+			["height"] = 17,
 			["filter"] = {
 			},
-			["height"] = 17,
-			["defaultEnabled"] = false,
-			["xOffset"] = -5,
-			["anchor"] = "BOTTOMLEFT",
+			["showFriendlyBuff"] = false,
+			["showHostileDebuff"] = false,
+			["width"] = 17,
+			["ShowBorder"] = true,
 		},
 		["id"] = "Player-810-033DB09B",
 		["combat"] = {
@@ -21102,13 +21124,13 @@ JamPlatesAccessoriesDB = {
 			["anchor"] = "RIGHT",
 		},
 		["threat"] = {
-			["y"] = 10,
-			["x"] = -1,
 			["enabled"] = false,
-			["height"] = 32,
+			["x"] = -1,
+			["y"] = 10,
 			["scale"] = 1,
-			["relative"] = "BOTTOMRIGHT",
 			["anchor"] = "LEFT",
+			["relative"] = "BOTTOMRIGHT",
+			["height"] = 32,
 			["width"] = 32,
 		},
 		["name"] = "悠悠蛋",
@@ -21119,7 +21141,7 @@ JamPlatesAccessoriesDB = {
 			["scale"] = 1,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["y"] = 0,
 			["x"] = 0,
 			["anchor"] = "BOTTOMLEFT",
@@ -21128,27 +21150,27 @@ JamPlatesAccessoriesDB = {
 			["ShowBorder"] = true,
 			["height"] = 17,
 			["invert"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 		},
 		["id"] = "Player-3752-0387F202",
 		["cp"] = {
-			["y"] = -2,
-			["x"] = 0,
 			["enabled"] = true,
-			["height"] = 16,
+			["x"] = 0,
+			["y"] = -2,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "CENTER",
+			["relative"] = "BOTTOM",
+			["height"] = 16,
 			["width"] = 12,
 		},
 		["combat"] = {
-			["y"] = -4,
-			["x"] = 0,
 			["enabled"] = true,
-			["height"] = 25,
+			["x"] = 0,
+			["y"] = -4,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "BOTTOM",
+			["relative"] = "BOTTOM",
+			["height"] = 25,
 			["width"] = 25,
 		},
 	},
@@ -21161,88 +21183,88 @@ JamPlatesAccessoriesDB = {
 			["showFriendlyDebuff"] = true,
 			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
-			["ShowBorder"] = true,
-			["showTime"] = true,
 			["anchor"] = "RIGHT",
+			["showTime"] = true,
+			["yOffset"] = 14,
 			["enabled"] = true,
 			["showPetBuff"] = true,
 			["xOffset"] = 0,
 			["showDefaultTime"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 			["relative"] = "LEFT",
 			["growth"] = false,
-			["width"] = 17,
-			["y"] = 0,
+			["ShowPet"] = true,
+			["showHostileDebuff"] = true,
 			["x"] = 0,
 			["height"] = 17,
 			["filter"] = {
 			},
 			["showFriendlyBuff"] = true,
-			["showHostileDebuff"] = true,
+			["y"] = 0,
 			["showPlayerBuff"] = true,
-			["yOffset"] = 14,
+			["ShowBorder"] = true,
 		},
 		["threat"] = {
-			["y"] = 10,
-			["x"] = -1,
 			["enabled"] = false,
-			["scale"] = 1,
+			["x"] = -1,
+			["y"] = 10,
 			["anchor"] = "LEFT",
-			["relative"] = "BOTTOMRIGHT",
 			["height"] = 32,
+			["relative"] = "BOTTOMRIGHT",
+			["scale"] = 1,
 			["width"] = 32,
 		},
 		["name"] = "赞达拉使者",
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["xOffset"] = -5,
+			["scale"] = 1,
 			["showHostileBuff"] = false,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
 			["yOffset"] = 0,
 			["showPlayerDebuff"] = true,
-			["anchor"] = "BOTTOMLEFT",
+			["ShowBorder"] = true,
 			["invert"] = false,
 			["showTime"] = true,
-			["showPlayerBuff"] = true,
+			["xOffset"] = -5,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["showFriendlyBuff"] = false,
+			["height"] = 17,
 			["showDefaultTime"] = false,
-			["y"] = 0,
+			["ShowPet"] = true,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
-			["showHostileDebuff"] = false,
-			["x"] = 0,
 			["defaultEnabled"] = false,
+			["y"] = 0,
+			["x"] = 0,
+			["showHostileDebuff"] = false,
 			["filter"] = {
 			},
-			["height"] = 17,
+			["showFriendlyBuff"] = false,
 			["width"] = 17,
-			["scale"] = 1,
-			["ShowBorder"] = true,
+			["showPlayerBuff"] = true,
+			["anchor"] = "BOTTOMLEFT",
 		},
 		["id"] = "Player-810-01C489E3",
 		["cp"] = {
-			["y"] = -2,
-			["x"] = 0,
 			["enabled"] = true,
-			["anchor"] = "CENTER",
-			["height"] = 16,
-			["relative"] = "BOTTOM",
+			["x"] = 0,
+			["y"] = -2,
 			["scale"] = 1,
+			["anchor"] = "CENTER",
+			["relative"] = "BOTTOM",
+			["height"] = 16,
 			["width"] = 12,
 		},
 		["combat"] = {
-			["y"] = -4,
-			["x"] = 0,
 			["enabled"] = true,
-			["scale"] = 1,
+			["x"] = 0,
+			["y"] = -4,
 			["anchor"] = "BOTTOM",
-			["relative"] = "BOTTOM",
 			["height"] = 25,
+			["relative"] = "BOTTOM",
+			["scale"] = 1,
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -21261,36 +21283,36 @@ JamPlatesAccessoriesDB = {
 			["scale"] = 1,
 			["showPlayerBuff"] = true,
 			["showFriendlyDebuff"] = true,
-			["yOffset"] = 14,
+			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
 			["ShowBorder"] = true,
 			["showTime"] = true,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["anchor"] = "TOPRIGHT",
-			["showDefaultTime"] = false,
 			["xOffset"] = 0,
+			["showDefaultTime"] = false,
+			["yOffset"] = 14,
 			["relative"] = "LEFT",
 			["growth"] = false,
 			["width"] = 17,
-			["showHostileDebuff"] = true,
+			["y"] = 0,
 			["x"] = 0,
-			["showPetDebuff"] = true,
+			["anchor"] = "TOPRIGHT",
 			["filter"] = {
 			},
-			["showFriendlyBuff"] = true,
 			["height"] = 17,
-			["y"] = 0,
+			["showFriendlyBuff"] = true,
+			["showHostileDebuff"] = true,
 			["showHostileBuff"] = true,
 		},
 		["threat"] = {
-			["enabled"] = false,
-			["x"] = -1,
 			["y"] = 10,
-			["anchor"] = "LEFT",
-			["height"] = 32,
-			["relative"] = "BOTTOMRIGHT",
+			["x"] = -1,
+			["enabled"] = false,
 			["scale"] = 1,
+			["anchor"] = "LEFT",
+			["relative"] = "BOTTOMRIGHT",
+			["height"] = 32,
 			["width"] = 32,
 		},
 		["name"] = "云飞",
@@ -21307,31 +21329,31 @@ JamPlatesAccessoriesDB = {
 			["yOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["showPlayerBuff"] = true,
+			["xOffset"] = -5,
 			["showDefaultTime"] = false,
-			["showHostileDebuff"] = false,
+			["showPlayerBuff"] = true,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
 			["width"] = 17,
-			["y"] = 0,
+			["showHostileDebuff"] = false,
 			["x"] = 0,
-			["showFriendlyBuff"] = false,
+			["height"] = 17,
 			["filter"] = {
 			},
-			["height"] = 17,
+			["showFriendlyBuff"] = false,
+			["y"] = 0,
 			["defaultEnabled"] = false,
-			["xOffset"] = -5,
 			["anchor"] = "BOTTOMLEFT",
 		},
 		["id"] = "Player-810-032D7BC4",
 		["combat"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = 0,
-			["anchor"] = "LEFT",
-			["height"] = 25,
-			["relative"] = "RIGHT",
+			["x"] = 0,
+			["enabled"] = true,
 			["scale"] = 1,
+			["anchor"] = "LEFT",
+			["relative"] = "RIGHT",
+			["height"] = 25,
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -21348,16 +21370,16 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 			["direction"] = true,
 			["scale"] = 1,
-			["showHostileBuff"] = true,
+			["showPlayerBuff"] = true,
 			["showFriendlyDebuff"] = true,
 			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
 			["ShowBorder"] = true,
 			["showTime"] = true,
-			["anchor"] = "RIGHT",
+			["xOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["xOffset"] = 0,
+			["yOffset"] = 14,
 			["showDefaultTime"] = false,
 			["ShowPet"] = true,
 			["relative"] = "LEFT",
@@ -21370,50 +21392,50 @@ JamPlatesAccessoriesDB = {
 			},
 			["showFriendlyBuff"] = true,
 			["showHostileDebuff"] = true,
-			["showPlayerBuff"] = true,
-			["yOffset"] = 14,
+			["showHostileBuff"] = true,
+			["anchor"] = "RIGHT",
 		},
 		["threat"] = {
 			["y"] = 10,
 			["x"] = -1,
 			["enabled"] = false,
-			["height"] = 32,
 			["scale"] = 1,
-			["relative"] = "BOTTOMRIGHT",
 			["anchor"] = "LEFT",
+			["relative"] = "BOTTOMRIGHT",
+			["height"] = 32,
 			["width"] = 32,
 		},
 		["name"] = "最初的悠悠",
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["xOffset"] = -5,
-			["showHostileBuff"] = false,
+			["scale"] = 1,
+			["showPlayerBuff"] = false,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
-			["yOffset"] = 0,
+			["xOffset"] = -5,
 			["showPlayerDebuff"] = false,
-			["anchor"] = "BOTTOMLEFT",
-			["invert"] = false,
+			["ShowBorder"] = true,
 			["showTime"] = true,
-			["showPlayerBuff"] = false,
+			["invert"] = false,
+			["yOffset"] = 0,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["showFriendlyBuff"] = false,
+			["height"] = 17,
 			["showDefaultTime"] = false,
-			["y"] = 0,
+			["ShowPet"] = true,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
-			["showHostileDebuff"] = false,
+			["width"] = 17,
+			["y"] = 0,
 			["x"] = 0,
-			["defaultEnabled"] = false,
+			["showHostileDebuff"] = false,
 			["filter"] = {
 			},
-			["height"] = 17,
-			["width"] = 17,
-			["scale"] = 1,
-			["ShowBorder"] = true,
+			["showFriendlyBuff"] = false,
+			["defaultEnabled"] = false,
+			["showHostileBuff"] = false,
+			["anchor"] = "BOTTOMLEFT",
 		},
 		["id"] = "Player-1509-02720A2F",
 		["cp"] = {
@@ -21430,10 +21452,10 @@ JamPlatesAccessoriesDB = {
 			["y"] = -4,
 			["x"] = 0,
 			["enabled"] = true,
-			["height"] = 25,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "BOTTOM",
+			["relative"] = "BOTTOM",
+			["height"] = 25,
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -21463,13 +21485,13 @@ JamPlatesAccessoriesDB = {
 			["anchor"] = "RIGHT",
 		},
 		["threat"] = {
-			["y"] = 10,
-			["x"] = -1,
 			["enabled"] = false,
-			["height"] = 32,
+			["x"] = -1,
+			["y"] = 10,
 			["scale"] = 1,
-			["relative"] = "BOTTOMRIGHT",
 			["anchor"] = "LEFT",
+			["relative"] = "BOTTOMRIGHT",
+			["height"] = 32,
 			["width"] = 32,
 		},
 		["name"] = "那总一号",
@@ -21480,7 +21502,7 @@ JamPlatesAccessoriesDB = {
 			["scale"] = 1,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 			["y"] = 0,
 			["x"] = 0,
 			["anchor"] = "BOTTOMLEFT",
@@ -21489,27 +21511,27 @@ JamPlatesAccessoriesDB = {
 			["ShowBorder"] = true,
 			["height"] = 17,
 			["invert"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 		},
 		["id"] = "Player-810-031E6BD9",
 		["cp"] = {
-			["y"] = -2,
-			["x"] = 0,
 			["enabled"] = true,
-			["height"] = 16,
+			["x"] = 0,
+			["y"] = -2,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "CENTER",
+			["relative"] = "BOTTOM",
+			["height"] = 16,
 			["width"] = 12,
 		},
 		["combat"] = {
-			["y"] = -4,
-			["x"] = 0,
 			["enabled"] = true,
-			["height"] = 25,
+			["x"] = 0,
+			["y"] = -4,
 			["scale"] = 1,
-			["relative"] = "BOTTOM",
 			["anchor"] = "BOTTOM",
+			["relative"] = "BOTTOM",
+			["height"] = 25,
 			["width"] = 25,
 		},
 	},
@@ -21531,24 +21553,24 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 		},
 		["threat"] = {
-			["enabled"] = false,
-			["x"] = -1,
 			["y"] = 10,
-			["anchor"] = "LEFT",
+			["x"] = -1,
+			["enabled"] = false,
 			["height"] = 32,
-			["relative"] = "BOTTOMRIGHT",
 			["scale"] = 1,
+			["relative"] = "BOTTOMRIGHT",
+			["anchor"] = "LEFT",
 			["width"] = 32,
 		},
 		["name"] = "default",
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 			["scale"] = 1,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["y"] = 0,
 			["x"] = 0,
 			["ShowBorder"] = true,
@@ -21561,23 +21583,23 @@ JamPlatesAccessoriesDB = {
 		},
 		["id"] = "default",
 		["cp"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -2,
-			["anchor"] = "CENTER",
+			["x"] = 0,
+			["enabled"] = true,
 			["height"] = 16,
-			["relative"] = "BOTTOM",
 			["scale"] = 1,
+			["relative"] = "BOTTOM",
+			["anchor"] = "CENTER",
 			["width"] = 12,
 		},
 		["combat"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = -4,
-			["anchor"] = "BOTTOM",
+			["x"] = 0,
+			["enabled"] = true,
 			["height"] = 25,
-			["relative"] = "BOTTOM",
 			["scale"] = 1,
+			["relative"] = "BOTTOM",
+			["anchor"] = "BOTTOM",
 			["width"] = 25,
 		},
 	},
@@ -21590,68 +21612,68 @@ JamPlatesAccessoriesDB = {
 			["showFriendlyDebuff"] = true,
 			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
-			["ShowBorder"] = true,
-			["showTime"] = true,
 			["anchor"] = "RIGHT",
+			["showTime"] = true,
+			["yOffset"] = 14,
 			["enabled"] = true,
 			["showPetBuff"] = true,
 			["xOffset"] = 0,
 			["showDefaultTime"] = false,
-			["ShowPet"] = true,
+			["width"] = 17,
 			["relative"] = "LEFT",
 			["growth"] = false,
-			["width"] = 17,
-			["y"] = 0,
+			["ShowPet"] = true,
+			["showHostileDebuff"] = true,
 			["x"] = 0,
 			["height"] = 17,
 			["filter"] = {
 			},
 			["showFriendlyBuff"] = true,
-			["showHostileDebuff"] = true,
+			["y"] = 0,
 			["showPlayerBuff"] = true,
-			["yOffset"] = 14,
+			["ShowBorder"] = true,
 		},
 		["threat"] = {
-			["y"] = 10,
-			["x"] = -1,
 			["enabled"] = false,
-			["height"] = 32,
-			["scale"] = 1,
-			["relative"] = "BOTTOMRIGHT",
+			["x"] = -1,
+			["y"] = 10,
 			["anchor"] = "LEFT",
+			["height"] = 32,
+			["relative"] = "BOTTOMRIGHT",
+			["scale"] = 1,
 			["width"] = 32,
 		},
 		["name"] = "梁帅",
 		["aura"] = {
 			["BPR"] = 6,
 			["direction"] = false,
-			["xOffset"] = -5,
+			["scale"] = 1,
 			["showHostileBuff"] = false,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
 			["yOffset"] = 0,
 			["showPlayerDebuff"] = true,
-			["anchor"] = "BOTTOMLEFT",
-			["invert"] = false,
+			["ShowBorder"] = true,
 			["showTime"] = true,
-			["showPlayerBuff"] = true,
+			["invert"] = false,
+			["xOffset"] = -5,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["showFriendlyBuff"] = false,
+			["height"] = 17,
 			["showDefaultTime"] = false,
-			["y"] = 0,
+			["ShowPet"] = true,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
-			["showHostileDebuff"] = false,
-			["x"] = 0,
 			["defaultEnabled"] = false,
+			["y"] = 0,
+			["x"] = 0,
+			["showHostileDebuff"] = false,
 			["filter"] = {
 			},
-			["height"] = 17,
+			["showFriendlyBuff"] = false,
 			["width"] = 17,
-			["scale"] = 1,
-			["ShowBorder"] = true,
+			["showPlayerBuff"] = true,
+			["anchor"] = "BOTTOMLEFT",
 		},
 		["id"] = "Player-810-032CB517",
 		["cp"] = {
@@ -21665,13 +21687,13 @@ JamPlatesAccessoriesDB = {
 			["width"] = 12,
 		},
 		["combat"] = {
-			["y"] = -4,
-			["x"] = 0,
 			["enabled"] = true,
-			["height"] = 25,
-			["scale"] = 1,
-			["relative"] = "BOTTOM",
+			["x"] = 0,
+			["y"] = -4,
 			["anchor"] = "BOTTOM",
+			["height"] = 25,
+			["relative"] = "BOTTOM",
+			["scale"] = 1,
 			["width"] = 25,
 		},
 		["resource"] = {
@@ -21690,37 +21712,37 @@ JamPlatesAccessoriesDB = {
 			["scale"] = 1,
 			["showPlayerBuff"] = true,
 			["showFriendlyDebuff"] = true,
-			["yOffset"] = 14,
+			["showPetDebuff"] = true,
 			["showPlayerDebuff"] = true,
 			["ShowBorder"] = true,
 			["showTime"] = true,
-			["anchor"] = "RIGHT",
+			["yOffset"] = 14,
 			["enabled"] = true,
 			["showPetBuff"] = true,
 			["xOffset"] = 0,
 			["showDefaultTime"] = false,
-			["width"] = 17,
+			["ShowPet"] = true,
 			["relative"] = "LEFT",
 			["growth"] = false,
-			["ShowPet"] = true,
-			["showHostileDebuff"] = true,
+			["width"] = 17,
+			["y"] = 0,
 			["x"] = 0,
 			["height"] = 17,
 			["filter"] = {
 			},
 			["showFriendlyBuff"] = true,
-			["y"] = 0,
+			["showHostileDebuff"] = true,
 			["showHostileBuff"] = true,
-			["showPetDebuff"] = true,
+			["anchor"] = "RIGHT",
 		},
 		["threat"] = {
-			["enabled"] = false,
-			["x"] = -1,
 			["y"] = 10,
-			["height"] = 32,
+			["x"] = -1,
+			["enabled"] = false,
 			["scale"] = 1,
-			["relative"] = "BOTTOMRIGHT",
 			["anchor"] = "LEFT",
+			["relative"] = "BOTTOMRIGHT",
+			["height"] = 32,
 			["width"] = 32,
 		},
 		["name"] = "海上五月花",
@@ -21728,42 +21750,42 @@ JamPlatesAccessoriesDB = {
 			["BPR"] = 6,
 			["direction"] = false,
 			["scale"] = 1,
-			["showHostileBuff"] = false,
+			["showPlayerBuff"] = true,
 			["showFriendlyDebuff"] = false,
 			["showPetDebuff"] = true,
 			["yOffset"] = 0,
 			["showPlayerDebuff"] = true,
-			["anchor"] = "BOTTOMLEFT",
-			["showTime"] = true,
+			["ShowBorder"] = true,
 			["invert"] = false,
-			["showPlayerBuff"] = true,
+			["showTime"] = true,
+			["xOffset"] = -5,
 			["enabled"] = true,
 			["showPetBuff"] = true,
-			["showFriendlyBuff"] = false,
+			["height"] = 17,
 			["showDefaultTime"] = false,
-			["y"] = 0,
+			["ShowPet"] = true,
 			["relative"] = "TOPLEFT",
 			["growth"] = false,
 			["width"] = 17,
-			["showHostileDebuff"] = false,
+			["y"] = 0,
 			["x"] = 0,
-			["defaultEnabled"] = false,
+			["showHostileDebuff"] = false,
 			["filter"] = {
 			},
-			["height"] = 17,
-			["ShowPet"] = true,
-			["xOffset"] = -5,
-			["ShowBorder"] = true,
+			["showFriendlyBuff"] = false,
+			["defaultEnabled"] = false,
+			["showHostileBuff"] = false,
+			["anchor"] = "BOTTOMLEFT",
 		},
 		["id"] = "Player-810-03349255",
 		["combat"] = {
-			["enabled"] = true,
-			["x"] = 0,
 			["y"] = 0,
-			["height"] = 25,
+			["x"] = 0,
+			["enabled"] = true,
 			["scale"] = 1,
-			["relative"] = "RIGHT",
 			["anchor"] = "LEFT",
+			["relative"] = "RIGHT",
+			["height"] = 25,
 			["width"] = 25,
 		},
 		["resource"] = {

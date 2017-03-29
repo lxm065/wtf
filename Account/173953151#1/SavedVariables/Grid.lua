@@ -27,65 +27,65 @@ GridDB = {
 			["profiles"] = {
 				["Default"] = {
 					["colors"] = {
-						["PALADIN"] = {
-							["b"] = 0.73,
-							["g"] = 0.55,
-							["r"] = 0.96,
-						},
-						["MAGE"] = {
-							["b"] = 0.94,
-							["g"] = 0.8,
-							["r"] = 0.41,
-						},
-						["DRUID"] = {
-							["b"] = 0.04,
-							["g"] = 0.49,
-							["r"] = 1,
-						},
-						["MONK"] = {
-							["r"] = 0,
-							["g"] = 1,
-							["b"] = 0.59,
-						},
-						["DEATHKNIGHT"] = {
-							["b"] = 0.23,
-							["g"] = 0.12,
-							["r"] = 0.77,
-						},
-						["PRIEST"] = {
-							["b"] = 1,
-							["g"] = 1,
-							["r"] = 1,
-						},
 						["HUNTER"] = {
-							["b"] = 0.45,
-							["g"] = 0.83,
 							["r"] = 0.67,
-						},
-						["WARLOCK"] = {
-							["b"] = 0.79,
-							["g"] = 0.51,
-							["r"] = 0.58,
-						},
-						["DEMONHUNTER"] = {
-							["r"] = 0.64,
-							["g"] = 0.19,
-							["b"] = 0.79,
-						},
-						["WARRIOR"] = {
-							["b"] = 0.43,
-							["g"] = 0.61,
-							["r"] = 0.78,
+							["g"] = 0.83,
+							["b"] = 0.45,
 						},
 						["SHAMAN"] = {
-							["b"] = 0.87,
+							["r"] = 0,
 							["g"] = 0.44,
+							["b"] = 0.87,
+						},
+						["MAGE"] = {
+							["r"] = 0.41,
+							["g"] = 0.8,
+							["b"] = 0.94,
+						},
+						["DRUID"] = {
+							["r"] = 1,
+							["g"] = 0.49,
+							["b"] = 0.04,
+						},
+						["MONK"] = {
+							["b"] = 0.59,
+							["g"] = 1,
 							["r"] = 0,
 						},
-						["ROGUE"] = {
-							["b"] = 0.41,
-							["g"] = 0.96,
+						["DEATHKNIGHT"] = {
+							["r"] = 0.77,
+							["g"] = 0.12,
+							["b"] = 0.23,
+						},
+						["PRIEST"] = {
 							["r"] = 1,
+							["g"] = 1,
+							["b"] = 1,
+						},
+						["WARRIOR"] = {
+							["r"] = 0.78,
+							["g"] = 0.61,
+							["b"] = 0.43,
+						},
+						["WARLOCK"] = {
+							["r"] = 0.58,
+							["g"] = 0.51,
+							["b"] = 0.79,
+						},
+						["DEMONHUNTER"] = {
+							["b"] = 0.79,
+							["g"] = 0.19,
+							["r"] = 0.64,
+						},
+						["PALADIN"] = {
+							["r"] = 0.96,
+							["g"] = 0.55,
+							["b"] = 0.73,
+						},
+						["ROGUE"] = {
+							["r"] = 1,
+							["g"] = 0.96,
+							["b"] = 0.41,
 						},
 					},
 				},
@@ -106,86 +106,6 @@ GridDB = {
 		["GridRoster"] = {
 		},
 		["GridStatusName"] = {
-		},
-		["GridStatusRes"] = {
-		},
-		["GridBorderStyle"] = {
-		},
-		["GridMBStatus"] = {
-		},
-		["GridStatusRaidDebuff"] = {
-			["profiles"] = {
-				["Default"] = {
-					["isFirst"] = false,
-				},
-			},
-		},
-		["GridStatusTarget"] = {
-		},
-		["GridBuffIcons"] = {
-		},
-		["GridStatusRole"] = {
-		},
-		["GridStatusGroup"] = {
-		},
-		["GridStatusMouseover"] = {
-		},
-		["GridCooldownText"] = {
-		},
-		["GridStatusVoiceComm"] = {
-		},
-		["GridFrame"] = {
-			["profiles"] = {
-				["Default"] = {
-					["statusmap"] = {
-						["icontop"] = {
-						},
-						["iconleft"] = {
-						},
-						["iconbottom"] = {
-						},
-						["icon"] = {
-							["alert_Sinestra"] = true,
-						},
-						["manabar"] = {
-							["unit_mana"] = true,
-						},
-						["iconright"] = {
-						},
-						["cornertextbottomright"] = {
-						},
-					},
-					["texture"] = "TukNorm",
-				},
-			},
-		},
-		["GridStatusMana"] = {
-		},
-		["GridStatusThreat"] = {
-		},
-		["GridStatusSinestra"] = {
-		},
-		["GridStatusHots"] = {
-		},
-		["GridStatusReadyCheck"] = {
-		},
-		["GridLayoutManager"] = {
-		},
-		["GridIndicatorSideIcons"] = {
-		},
-		["GridStatusRaidIcon"] = {
-		},
-		["GridLayout"] = {
-			["profiles"] = {
-				["Default"] = {
-					["anchorRel"] = "TOPLEFT",
-					["PosX"] = 27,
-					["PosY"] = -356,
-					["layout"] = "5人小队",
-				},
-			},
-		},
-		["GridStatusEnemyTarget"] = {
 		},
 		["GridStatusAuras"] = {
 			["profiles"] = {
@@ -223,6 +143,86 @@ GridDB = {
 				},
 			},
 		},
+		["GridBorderStyle"] = {
+		},
+		["GridMBStatus"] = {
+		},
+		["GridStatusEnemyTarget"] = {
+		},
+		["GridStatusRaidDebuff"] = {
+			["profiles"] = {
+				["Default"] = {
+					["isFirst"] = false,
+				},
+			},
+		},
+		["GridLayout"] = {
+			["profiles"] = {
+				["Default"] = {
+					["anchorRel"] = "TOPLEFT",
+					["PosX"] = 10,
+					["PosY"] = -274,
+					["layout"] = "5人小队",
+				},
+			},
+		},
+		["GridStatusRole"] = {
+		},
+		["GridIndicatorSideIcons"] = {
+		},
+		["GridLayoutManager"] = {
+		},
+		["GridStatusVoiceComm"] = {
+		},
+		["GridStatusHots"] = {
+		},
+		["GridFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["statusmap"] = {
+						["icontop"] = {
+						},
+						["iconleft"] = {
+						},
+						["iconbottom"] = {
+						},
+						["icon"] = {
+							["alert_Sinestra"] = true,
+						},
+						["manabar"] = {
+							["unit_mana"] = true,
+						},
+						["iconright"] = {
+						},
+						["cornertextbottomright"] = {
+						},
+					},
+					["texture"] = "TukNorm",
+				},
+			},
+		},
+		["GridStatusThreat"] = {
+		},
+		["GridStatusMana"] = {
+		},
+		["GridStatusSinestra"] = {
+		},
+		["GridCooldownText"] = {
+		},
+		["GridStatusReadyCheck"] = {
+		},
+		["GridStatusMouseover"] = {
+		},
+		["GridStatusGroup"] = {
+		},
+		["GridStatusRaidIcon"] = {
+		},
+		["GridBuffIcons"] = {
+		},
+		["GridStatusTarget"] = {
+		},
+		["GridStatusRes"] = {
+		},
 	},
 	["profileKeys"] = {
 		["海上五月花 - 火羽山"] = "Default",
@@ -235,20 +235,20 @@ GridDB = {
 		["妈蛋 - 末日祷告祭坛"] = "Default",
 		["最初的悠悠 - 日落沼泽"] = "Default",
 		["Bbxl - 迦罗娜"] = "Default",
-		["赞达拉使者 - 火羽山"] = "Default",
+		["猛牛悠悠乳 - 火羽山"] = "Default",
 		["小学生放假了 - 火羽山"] = "Default",
 		["搞个大新闻 - 迦罗娜"] = "Default",
-		["猛牛悠悠乳 - 火羽山"] = "Default",
+		["悠悠骑 - 末日祷告祭坛"] = "Default",
 		["梁帅 - 迦罗娜"] = "Default",
 		["最后的悠悠 - 火羽山"] = "Default",
 		["云飞 - 迦罗娜"] = "Default",
 		["兮兮妹 - 末日祷告祭坛"] = "Default",
-		["杀猪刀猴赛雷 - 火羽山"] = "Default",
 		["打小怪的 - 迦罗娜"] = "Default",
-		["最后的悠悠 - 迦罗娜"] = "Default",
 		["悠悠龟 - 冬拥湖"] = "Default",
+		["最后的悠悠 - 迦罗娜"] = "Default",
+		["杀猪刀猴赛雷 - 火羽山"] = "Default",
 		["悠悠龟 - 迦罗娜"] = "Default",
-		["悠悠骑 - 末日祷告祭坛"] = "Default",
+		["赞达拉使者 - 火羽山"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

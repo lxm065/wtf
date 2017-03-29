@@ -5,6 +5,7 @@ MEETINGSTONE_CHARACTER_DB = {
 	},
 	["profiles"] = {
 		["悠悠龟 - 火羽山"] = {
+			["worldQuestHelp"] = true,
 			["chatGroupListening"] = {
 				["APP_WHISPER"] = {
 					nil, -- [1]

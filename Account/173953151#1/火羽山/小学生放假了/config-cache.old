@@ -1,20 +1,16 @@
 SET autoLootDefault "1"
 SET autoQuestPopUps "v##$"
-SET trackedQuests "v'f('\}'uQ'Us(:I&HP&HS&I$'70'Mn'T'Wh"
+SET trackedQuests "v'70'T'Mn&HP&HS&I$'Us'Wh'\}'f('uQ(:I"
 SET hardTrackedQuests "v"
 SET trackedWorldQuests "v"
 SET hardTrackedWorldQuests "v"
 SET trackedAchievements "v"
 SET lockedWorldMap "0"
 SET showPartyPets "1"
-SET cameraSavedDistance "28.499987"
+SET cameraSavedDistance "28.500000"
 SET cameraSavedVehicleDistance "50.000000"
 SET cameraSavedPetBattleDistance "15.000"
-<<<<<<< HEAD
-SET cameraSavedPitch "38.103508"
-=======
-SET cameraSavedPitch "24.903530"
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+SET cameraSavedPitch "23.524746"
 SET showBattlefieldMinimap "2"
 SET talentPointsSpent "1"
 SET guildRosterView "playerStatus"

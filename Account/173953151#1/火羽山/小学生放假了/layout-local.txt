@@ -4,17 +4,8 @@ FrameLevel: 1
 Anchor: LEFT
 X: 104
 Y: -220
-W: 160
-H: 28
-Frame: ObjectiveTrackerFrame
-FrameLevel: 1
-Anchor: BOTTOMRIGHT
-X: -154
-Y: 0
-W: 235
-H: 959
-<<<<<<< HEAD
-=======
+W: 127
+H: 21
 Frame: CharacterFrame
 FrameLevel: 1
 Anchor: TOPLEFT
@@ -22,7 +13,6 @@ X: 16
 Y: -116
 W: 338
 H: 424
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: RematchDialog
 FrameLevel: 1
 Anchor: BOTTOM
@@ -37,8 +27,6 @@ X: 20
 Y: -177
 W: 165
 H: 262
-<<<<<<< HEAD
-=======
 Frame: _NPCScanButton
 FrameLevel: 1
 Anchor: TOP
@@ -46,7 +34,6 @@ X: 0
 Y: -90
 W: 150
 H: 42
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: DBMMinimapButton
 FrameLevel: 8
 Anchor: TOPRIGHT
@@ -61,23 +48,6 @@ X: 8
 Y: 96
 W: 560
 H: 650
-<<<<<<< HEAD
-Frame: _NPCScanButton
-FrameLevel: 1
-Anchor: TOP
-X: 0
-Y: -90
-W: 150
-H: 42
-Frame: CharacterFrame
-FrameLevel: 1
-Anchor: TOPLEFT
-X: 16
-Y: -116
-W: 338
-H: 424
-=======
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
 Frame: CombuctorFrameinventory
 FrameLevel: 1
 Anchor: CENTER

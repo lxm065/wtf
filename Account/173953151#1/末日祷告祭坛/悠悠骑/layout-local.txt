@@ -4,8 +4,8 @@ FrameLevel: 1
 Anchor: LEFT
 X: 11
 Y: 158
-W: 160
-H: 28
+W: 119
+H: 21
 Frame: WhisperPopFrame
 FrameLevel: 1
 Anchor: LEFT
@@ -36,8 +36,8 @@ W: 345
 H: 480
 Frame: RematchPetCard
 FrameLevel: 1
-Anchor: CENTER
-X: 102
-Y: 133
+Anchor: TOPRIGHT
+X: -292
+Y: -61
 W: 260
-H: 428
+H: 423

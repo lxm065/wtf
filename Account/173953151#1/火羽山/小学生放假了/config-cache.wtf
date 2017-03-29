@@ -7,17 +7,10 @@ SET hardTrackedWorldQuests "v"
 SET trackedAchievements "v"
 SET lockedWorldMap "0"
 SET showPartyPets "1"
-<<<<<<< HEAD
 SET cameraSavedDistance "28.500000"
 SET cameraSavedVehicleDistance "50.000000"
 SET cameraSavedPetBattleDistance "15.000"
-SET cameraSavedPitch "38.553612"
-=======
-SET cameraSavedDistance "28.499987"
-SET cameraSavedVehicleDistance "50.000000"
-SET cameraSavedPetBattleDistance "15.000"
-SET cameraSavedPitch "38.103508"
->>>>>>> ea55915f94f63337fd3d3d33a9c76fad4f782f53
+SET cameraSavedPitch "42.574726"
 SET showBattlefieldMinimap "2"
 SET talentPointsSpent "1"
 SET guildRosterView "playerStatus"

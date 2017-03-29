@@ -22,11 +22,11 @@ GridClickSetsForTalents = {
 			["alt-"] = {
 				["type"] = "spellId:203538",
 			},
-			["ctrl-"] = {
-				["type"] = "spellId:203528",
-			},
 			["shift-"] = {
 				["type"] = "spellId:203539",
+			},
+			["ctrl-"] = {
+				["type"] = "spellId:203528",
 			},
 		},
 		["2"] = {
@@ -77,11 +77,11 @@ GridClickSetsForTalents = {
 			["alt-"] = {
 				["type"] = "spellId:203538",
 			},
-			["ctrl-"] = {
-				["type"] = "spellId:203528",
-			},
 			["shift-"] = {
 				["type"] = "spellId:203539",
+			},
+			["ctrl-"] = {
+				["type"] = "spellId:203528",
 			},
 		},
 		["2"] = {
