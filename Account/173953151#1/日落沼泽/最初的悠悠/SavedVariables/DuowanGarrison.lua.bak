@@ -1,8 +1,6 @@
 
 MasterPlanPC = {
-	["version"] = "0.66",
-	["complete"] = {
-	},
+	["version"] = "0.105",
 }
 SVPC_GarrisonMissionManager = {
 	["ingored_followers"] = {

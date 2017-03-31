@@ -11,6 +11,7 @@ GarrisonCommander-Broker: enabled
 GarrisonMissionManager: enabled
 HandyNotes_DraenorTreasures: enabled
 Mapster: enabled
+MeetingStone: enabled
 MySlot: enabled
 Postal: enabled
 QuestHubber_Azeroth: enabled

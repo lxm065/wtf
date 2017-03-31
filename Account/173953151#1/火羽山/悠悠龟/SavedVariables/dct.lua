@@ -983,14 +983,14 @@ DCT_SAVE_PERCHAR = {
 		["sound"] = "",
 	},
 	["DCT_PRETEXTNAME"] = "none",
-	["DCT_SPECBUFFFADE"] = {
-	},
 	["DCT_SSColor1"] = {
 		["color"] = {
 			1, -- [1]
 			1, -- [2]
 			1, -- [3]
 		},
+	},
+	["DCT_SPECBUFFFADE"] = {
 	},
 	["DCT_SSColor8"] = {
 		["color"] = {

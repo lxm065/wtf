@@ -5,7 +5,7 @@ DuowanAddon_BattleInfoDB = {
 	["autoleave"] = true,
 	["showhelp"] = true,
 	["igleft"] = true,
-	["sayto"] = "自己",
 	["selfsay"] = true,
+	["sayto"] = "自己",
 	["autorelease"] = false,
 }

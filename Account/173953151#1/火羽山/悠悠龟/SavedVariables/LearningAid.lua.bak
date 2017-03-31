@@ -1,17 +1,9 @@
 
 LearningAid_Character = {
 	["dataVersion"] = 1,
-	["version"] = "1.11.2",
-	["guildSpells"] = {
-		[83967] = true,
-		[83968] = true,
-		[83958] = true,
-	},
+	["version"] = "1.13a1",
 	["actions"] = {
 		{
 		}, -- [1]
-		{
-		}, -- [2]
 	},
-	["guild"] = "Loft",
 }

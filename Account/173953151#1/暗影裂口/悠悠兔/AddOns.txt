@@ -107,7 +107,7 @@ HunterMod: disabled
 LearningAid: disabled
 Love: disabled
 Mapster: disabled
-MeetingStone: disabled
+MeetingStone: enabled
 Mendeleev: disabled
 MerchantAssist: disabled
 MySlot: enabled

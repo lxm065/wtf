@@ -9,8 +9,8 @@ TomTomDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["poi"] = {
-				["setClosest"] = true,
+			["block"] = {
+				["enable"] = false,
 			},
 		},
 	},

@@ -5,6 +5,13 @@ MEETINGSTONE_CHARACTER_DB = {
 	},
 	["profiles"] = {
 		["帅帅爹 - 末日祷告祭坛"] = {
+			["settings"] = {
+				["storage"] = {
+					["y"] = -32.3079833984375,
+					["x"] = 2.46185302734375,
+					["scale"] = 1,
+				},
+			},
 			["searchHistoryList"] = {
 				"3-110-412-0", -- [1]
 				"3-15-400-0", -- [2]

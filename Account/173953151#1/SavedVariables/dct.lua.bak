@@ -3,17 +3,17 @@ DCT_SAVE = {
 }
 DCT_FONT_SAVE = {
 	{
-		["path"] = "Fonts\\ZYHei.TTF",
+		["path"] = "Fonts\\ARHei.TTF",
 		["name"] = "黑体(中英)",
 		["active"] = true,
 	}, -- [1]
 	{
-		["path"] = "Fonts\\ZYKai_C.TTF",
+		["path"] = "Fonts\\ARKai_C.TTF",
 		["name"] = "楷体C(中英)",
 		["active"] = true,
 	}, -- [2]
 	{
-		["path"] = "Fonts\\ZYKai_T.TTF",
+		["path"] = "Fonts\\ARKai_T.TTF",
 		["name"] = "楷体T(中英)",
 		["active"] = true,
 	}, -- [3]

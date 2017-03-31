@@ -1,10 +1,10 @@
 
 GatherMate2DB = {
-	["global"] = {
-		["data_version"] = 2,
-	},
 	["profileKeys"] = {
 		["悠悠龟 - 火羽山"] = "Default",
+	},
+	["global"] = {
+		["data_version"] = 4,
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -12,8 +12,16 @@ GatherMate2DB = {
 	},
 }
 GatherMate2HerbDB = {
+	[971] = {
+	},
+	[976] = {
+	},
 }
 GatherMate2MineDB = {
+	[971] = {
+	},
+	[976] = {
+	},
 }
 GatherMate2FishDB = {
 }

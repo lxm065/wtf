@@ -1,33 +1,5 @@
 
 TD_DB_BATTLEPETSCRIPT_GLOBAL = {
-	["profileKeys"] = {
-		["海上五月花 - 火羽山"] = "Default",
-		["悠悠战 - 末日祷告祭坛"] = "Default",
-		["厦门妇幼 - 末日祷告祭坛"] = "Default",
-		["帅帅爹 - 末日祷告祭坛"] = "Default",
-		["最后的悠悠 - 火羽山"] = "Default",
-		["亦可赛艇 - 迦罗娜"] = "Default",
-		["悠悠龟 - 火羽山"] = "Default",
-		["妈蛋 - 末日祷告祭坛"] = "Default",
-		["最初的悠悠 - 日落沼泽"] = "Default",
-		["最初的悠悠 - 迦罗娜"] = "Default",
-		["最后的悠悠 - 迦罗娜"] = "Default",
-		["Bbxl - 迦罗娜"] = "Default",
-		["猴赛雷杀猪刀 - 火羽山"] = "Default",
-		["小学生放假了 - 火羽山"] = "Default",
-		["搞个大新闻 - 迦罗娜"] = "Default",
-		["猛牛悠悠乳 - 火羽山"] = "Default",
-		["梁帅 - 迦罗娜"] = "Default",
-		["Dxnbz - 安东尼达斯"] = "Default",
-		["云飞 - 迦罗娜"] = "Default",
-		["兮兮妹 - 末日祷告祭坛"] = "Default",
-		["打小怪的 - 迦罗娜"] = "Default",
-		["悠悠龟 - 冬拥湖"] = "Default",
-		["杀猪刀猴赛雷 - 火羽山"] = "Default",
-		["悠悠骑 - 末日祷告祭坛"] = "Default",
-		["悠悠龟 - 迦罗娜"] = "Default",
-		["赞达拉使者 - 火羽山"] = "Default",
-	},
 	["global"] = {
 		["scripts"] = {
 			["Base"] = {
@@ -236,30 +208,30 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 					["name"] = "新建脚本 54",
 					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(亚煞极余孽).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
 				},
-				["1387;1387;1387:1479;1482"] = {
-					["author"] = "最后的悠悠-迦罗娜",
-					["name"] = "新建脚本 91",
-					["code"] = "change(#2) [enemy(鲁库斯).active]\nuse(旋紧发条) [self.aura(增压).exists]\nuse(增压) [self.aura(旋紧发条).exists]\nuse(旋紧发条)",
+				["557;456;1276:1400;1401;1402"] = {
+					["author"] = "兮兮妹-末日祷告祭坛",
+					["name"] = "新建脚本 84",
+					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(月月).active]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nability(染疫之爪) [ self.round = 3 ]\nendif",
 				},
 				["310;293:1508;1509;1510"] = {
 					["author"] = "云飞-迦罗娜",
 					["name"] = "新建脚本 33",
 					["code"] = "quit",
 				},
-				["557;456;374:1400;1401;1402"] = {
-					["author"] = "兮兮妹-末日祷告祭坛",
-					["name"] = "新建脚本 88",
-					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(黑羔羊).active]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nability(染疫之爪) [ self.round = 3 ]\nendif",
+				["85;1537:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 17",
+					["code"] = "if [ self(步行炸弹).active ]\n    ability(毒烟) [ self.round = 1 ]\n    ability(猛击) [ self.round = 2 ]\n    ability(猛击) [ self.round = 3 ]\n    ability(猛击) [ self.round = 4 ]\n    ability(自爆) [ self.round = 5 ]\nendif",
 				},
 				["557;456;320:1400;1401;1402"] = {
 					["author"] = "兮兮妹-末日祷告祭坛",
 					["name"] = "新建脚本 38",
 					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(小泰蕾苟萨).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
 				},
-				["557;456;266:1400;1401;1402"] = {
-					["author"] = "兮兮妹-末日祷告祭坛",
-					["name"] = "新建脚本 86",
-					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(化石幼兽).active]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nability(染疫之爪) [ self.round = 3 ]\nendif",
+				["557;456;1567:1400;1401;1402"] = {
+					["author"] = "最后的悠悠-迦罗娜",
+					["name"] = "新建脚本 62",
+					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(哨兵之友).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
 				},
 				["1532;1537;627:1866"] = {
 					["author"] = "悠悠龟-火羽山",
@@ -271,25 +243,25 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 					["name"] = "新建脚本 85",
 					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(兔子).active]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nability(染疫之爪) [ self.round = 3 ]\nendif",
 				},
-				["557;456;383:1400;1401;1402"] = {
+				["489;310;293:1508;1509;1510"] = {
+					["author"] = "云飞-迦罗娜",
+					["name"] = "新建脚本 31",
+					["code"] = "change(next) [ self.dead ]\nif [ self(奥妮克希亚的雏龙).active ]\n    ability(扫尾) [ weather(灼燃大地) ]\n    ability(灼燃大地)\nendif\nif [ self(巫毒雕像).active ]\n    ability(狂野魔法) [ self.round = 1 ]\n    ability(烈焰吐息) [ self.round = 2 ]\n    ability(烈焰吐息) [ self.round = 3 ]\n    ability(狂野魔法) [ self.round = 4 ]\n    ability(烈焰吐息) [ self.round = 5 ]\n    ability(烈焰吐息) [ self.round = 6 ]\nendif",
+				},
+				["1238;1532;1532:1195"] = {
 					["author"] = "最后的悠悠-迦罗娜",
-					["name"] = "新建脚本 81",
-					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(锦绣阔步者).active]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nability(染疫之爪) [ self.round = 3 ]\nendif",
+					["name"] = "新建脚本 69",
+					["code"] = "change(next) [ self.dead ]\nif [self(幼年瓦格里).active ]\nability(鬼影缠身)\nendif\nif [ self(伊奇).active ]\n    ability(群殴) [ enemy.aura(黑爪).exists ]\n    ability(黑爪)\nendif",
 				},
 				["1387;1387;1885:1866"] = {
 					["author"] = "悠悠龟-火羽山",
 					["name"] = "新建脚本 10",
 					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
 				},
-				["1532;1537;1211:1866"] = {
-					["author"] = "悠悠龟-火羽山",
-					["name"] = "新建脚本 19",
-					["code"] = "change(next) [ self.dead ]\nif [ self(伊奇).active ]\nability(黑爪) [ self.round = 1 ]\nability(黑爪) [ self.round = 2]\nability(群殴) [ self.round = 3 ]\nendif\nif [ self(伊奇).active ]\nability(黑爪) [ self.round = 1 ]\nability(黑爪) [ self.round = 2]\nability(群殴) [ self.round = 3 ]\nendif\nability(自爆)",
-				},
-				["557;456;1511:1400;1401;1402"] = {
-					["author"] = "兮兮妹-末日祷告祭坛",
-					["name"] = "新建脚本 42",
-					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(爱情鸟雏鸟).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
+				["557;456;175:1400;1401;1402"] = {
+					["author"] = "最后的悠悠-迦罗娜",
+					["name"] = "新建脚本 51",
+					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(凤凰宝宝).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
 				},
 				["1238;1532;1532:1187"] = {
 					["author"] = "最后的悠悠-迦罗娜",
@@ -311,15 +283,15 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 					["name"] = "新建脚本 50",
 					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(幼年瓦格里).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
 				},
-				["557;456;1802:1400;1401;1402"] = {
-					["author"] = "最后的悠悠-迦罗娜",
-					["name"] = "新建脚本 52",
-					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(腐臭小水花).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
+				["557;456;1632:1400;1401;1402"] = {
+					["author"] = "兮兮妹-末日祷告祭坛",
+					["name"] = "新建脚本 40",
+					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(微型炎刃防御者).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
 				},
-				["291;85;844:1192"] = {
-					["author"] = "最初的悠悠-日落沼泽",
-					["name"] = "新建脚本 74",
-					["code"] = "change(next) [ self.dead ]\nif [self(唱歌的向日葵).active ]\nchange(next) [weather(晴天)]\nability(太阳光)\nendif\n\n    ability(自爆)",
+				["1387;1387;1634:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 9",
+					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
 				},
 				["489;310;1266:1508;1509;1510"] = {
 					["author"] = "最后的悠悠-迦罗娜",
@@ -336,20 +308,20 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 					["name"] = "新建脚本 89",
 					["code"] = "quit",
 				},
-				["1532;1537;1537:1866"] = {
+				["85;1634:1866"] = {
 					["author"] = "悠悠龟-火羽山",
-					["name"] = "新建脚本 18",
-					["code"] = "change(next) [ self.dead ]\nif [ self(伊奇).active ]\nability(黑爪) [ self.round = 1 ]\nability(黑爪) [ self.round = 2]\nability(群殴) [ self.round = 3 ]\nendif\nif [ self(伊奇).active ]\nability(黑爪) [ self.round = 1 ]\nability(黑爪) [ self.round = 2]\nability(群殴) [ self.round = 3 ]\nendif\nability(自爆)",
+					["name"] = "新建脚本 13",
+					["code"] = "if [ self(步行炸弹).active ]\n    ability(毒烟) [ self.round = 1 ]\n    ability(猛击) [ self.round = 2 ]\n    ability(猛击) [ self.round = 3 ]\n    ability(猛击) [ self.round = 4 ]\n    ability(自爆) [ self.round = 5 ]\nendif",
 				},
 				["557;456;1931:1400;1401;1402"] = {
 					["author"] = "兮兮妹-末日祷告祭坛",
 					["name"] = "新建脚本 47",
 					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(宫廷书记).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
 				},
-				["85;1885:1866"] = {
-					["author"] = "悠悠龟-火羽山",
-					["name"] = "新建脚本 6",
-					["code"] = "if [ self(步行炸弹).active ]\n    ability(毒烟) [ self.round = 1 ]\n    ability(猛击) [ self.round = 2 ]\n    ability(猛击) [ self.round = 3 ]\n    ability(猛击) [ self.round = 4 ]\n    ability(自爆) [ self.round = 5 ]\nendif",
+				["557;456;1890:1400;1401;1402"] = {
+					["author"] = "兮兮妹-末日祷告祭坛",
+					["name"] = "新建脚本 41",
+					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(矮脚幼犬).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
 				},
 				["85;1211:1866"] = {
 					["author"] = "悠悠龟-火羽山",
@@ -361,10 +333,10 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 					["name"] = "新建脚本 21",
 					["code"] = "change(next) [ self.dead ]\nif [ self(伊奇).active ]\nability(黑爪) [ self.round = 1 ]\nability(黑爪) [ self.round = 2]\nability(群殴) [ self.round = 3 ]\nendif\nif [ self(伊奇).active ]\nability(黑爪) [ self.round = 1 ]\nability(黑爪) [ self.round = 2]\nability(群殴) [ self.round = 3 ]\nendif\nability(自爆)",
 				},
-				["557;456;441:1400;1401;1402"] = {
-					["author"] = "最后的悠悠-迦罗娜",
-					["name"] = "新建脚本 83",
-					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(高山野兔).active]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nability(染疫之爪) [ self.round = 3 ]\nendif",
+				["85;1885:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 6",
+					["code"] = "if [ self(步行炸弹).active ]\n    ability(毒烟) [ self.round = 1 ]\n    ability(猛击) [ self.round = 2 ]\n    ability(猛击) [ self.round = 3 ]\n    ability(猛击) [ self.round = 4 ]\n    ability(自爆) [ self.round = 5 ]\nendif",
 				},
 				["557;456;190:1400;1401;1402"] = {
 					["author"] = "最后的悠悠-迦罗娜",
@@ -386,20 +358,20 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 					["name"] = "新建脚本 35",
 					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [ self(虚空精灵龙).active ]\n    ability(月火术) [ self.round = 1 ]\n    ability(奥术冲击) [ self.round = 2 ]\n    ability(奥术冲击) [ self.round = 3 ]\n    ability(奥术冲击) [ self.round = 4 ]\n    ability(奥术冲击) [ self.round = 5 ]\n    ability(生命交换) [ self.round = 6 ]\n    ability(月火术) [ self.round = 7 ]\nendif\nability(幽魂之咬)\nchange(#3)\nif [ self(烈焰先驱者).active ]\nchange(#2)\nability(染疫之爪)\nability(幽魂之咬)\nendif",
 				},
-				["1387;1538:1866"] = {
-					["author"] = "悠悠龟-火羽山",
-					["name"] = "新建脚本 26",
-					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
+				["557;456;325:1400;1401;1402"] = {
+					["author"] = "兮兮妹-末日祷告祭坛",
+					["name"] = "新建脚本 45",
+					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(艳羽卡利鸟).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
 				},
 				["1387;1211:1866"] = {
 					["author"] = "悠悠龟-火羽山",
 					["name"] = "新建脚本 2",
 					["code"] = "if [self(钢铁星弹).active]\nability(旋紧发条) [self.round = 1]\nability(毒烟) [self.round = 2]\nability(旋紧发条) [self.round = 3]\nability(自爆) [self.round = 4]\nendif",
 				},
-				["1387;85;1537:1866"] = {
+				["85;456:1866"] = {
 					["author"] = "悠悠龟-火羽山",
-					["name"] = "新建脚本 16",
-					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
+					["name"] = "新建脚本 25",
+					["code"] = "if [ self(步行炸弹).active ]\n    ability(毒烟) [ self.round = 1 ]\n    ability(猛击) [ self.round = 2 ]\n    ability(猛击) [ self.round = 3 ]\n    ability(猛击) [ self.round = 4 ]\n    ability(自爆) [ self.round = 5 ]\nendif",
 				},
 				["1387;1387;627:1866"] = {
 					["author"] = "悠悠龟-火羽山",
@@ -411,92 +383,92 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 					["name"] = "新建脚本 30",
 					["code"] = "if [ self(步行炸弹).active ]\n    ability(毒烟) [ self.round = 1 ]\n    ability(猛击) [ self.round = 2 ]\n    ability(猛击) [ self.round = 3 ]\n    ability(猛击) [ self.round = 4 ]\n    ability(自爆) [ self.round = 5 ]\nendif",
 				},
-				["85;456:1866"] = {
+				["1387;85;1537:1866"] = {
 					["author"] = "悠悠龟-火羽山",
-					["name"] = "新建脚本 25",
-					["code"] = "if [ self(步行炸弹).active ]\n    ability(毒烟) [ self.round = 1 ]\n    ability(猛击) [ self.round = 2 ]\n    ability(猛击) [ self.round = 3 ]\n    ability(猛击) [ self.round = 4 ]\n    ability(自爆) [ self.round = 5 ]\nendif",
+					["name"] = "新建脚本 16",
+					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
 				},
-				["557;456;325:1400;1401;1402"] = {
-					["author"] = "兮兮妹-末日祷告祭坛",
-					["name"] = "新建脚本 45",
-					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(艳羽卡利鸟).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
+				["1387;1538:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 26",
+					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
 				},
 				["557;456;467:1400;1401;1402"] = {
 					["author"] = "最后的悠悠-迦罗娜",
 					["name"] = "新建脚本 56",
 					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(蜣螂).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
 				},
-				["557;456;1890:1400;1401;1402"] = {
-					["author"] = "兮兮妹-末日祷告祭坛",
-					["name"] = "新建脚本 41",
-					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(矮脚幼犬).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
+				["557;456;441:1400;1401;1402"] = {
+					["author"] = "最后的悠悠-迦罗娜",
+					["name"] = "新建脚本 83",
+					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(高山野兔).active]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nability(染疫之爪) [ self.round = 3 ]\nendif",
 				},
 				["1238;1532;1532:1189"] = {
 					["author"] = "最后的悠悠-迦罗娜",
 					["name"] = "新建脚本 68",
 					["code"] = "change(next) [ self.dead ]\nif [self(幼年瓦格里).active ]\nability(鬼影缠身)\nendif\nif [ self(伊奇).active ]\n    ability(群殴) [ enemy.aura(黑爪).exists ]\n    ability(黑爪)\nendif",
 				},
-				["85;1634:1866"] = {
+				["1532;1537;1537:1866"] = {
 					["author"] = "悠悠龟-火羽山",
-					["name"] = "新建脚本 13",
-					["code"] = "if [ self(步行炸弹).active ]\n    ability(毒烟) [ self.round = 1 ]\n    ability(猛击) [ self.round = 2 ]\n    ability(猛击) [ self.round = 3 ]\n    ability(猛击) [ self.round = 4 ]\n    ability(自爆) [ self.round = 5 ]\nendif",
+					["name"] = "新建脚本 18",
+					["code"] = "change(next) [ self.dead ]\nif [ self(伊奇).active ]\nability(黑爪) [ self.round = 1 ]\nability(黑爪) [ self.round = 2]\nability(群殴) [ self.round = 3 ]\nendif\nif [ self(伊奇).active ]\nability(黑爪) [ self.round = 1 ]\nability(黑爪) [ self.round = 2]\nability(群殴) [ self.round = 3 ]\nendif\nability(自爆)",
 				},
-				["1387;1387;1634:1866"] = {
-					["author"] = "悠悠龟-火羽山",
-					["name"] = "新建脚本 9",
-					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
+				["291;85;844:1192"] = {
+					["author"] = "最初的悠悠-日落沼泽",
+					["name"] = "新建脚本 74",
+					["code"] = "change(next) [ self.dead ]\nif [self(唱歌的向日葵).active ]\nchange(next) [weather(晴天)]\nability(太阳光)\nendif\n\n    ability(自爆)",
 				},
-				["557;456;1632:1400;1401;1402"] = {
-					["author"] = "兮兮妹-末日祷告祭坛",
-					["name"] = "新建脚本 40",
-					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(微型炎刃防御者).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
+				["557;456;1802:1400;1401;1402"] = {
+					["author"] = "最后的悠悠-迦罗娜",
+					["name"] = "新建脚本 52",
+					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(腐臭小水花).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
 				},
 				["1387;85;456:1866"] = {
 					["author"] = "悠悠龟-火羽山",
 					["name"] = "新建脚本 24",
 					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
 				},
-				["557;456;175:1400;1401;1402"] = {
-					["author"] = "最后的悠悠-迦罗娜",
-					["name"] = "新建脚本 51",
-					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(凤凰宝宝).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
+				["557;456;1511:1400;1401;1402"] = {
+					["author"] = "兮兮妹-末日祷告祭坛",
+					["name"] = "新建脚本 42",
+					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(爱情鸟雏鸟).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
 				},
-				["1238;1532;1532:1195"] = {
-					["author"] = "最后的悠悠-迦罗娜",
-					["name"] = "新建脚本 69",
-					["code"] = "change(next) [ self.dead ]\nif [self(幼年瓦格里).active ]\nability(鬼影缠身)\nendif\nif [ self(伊奇).active ]\n    ability(群殴) [ enemy.aura(黑爪).exists ]\n    ability(黑爪)\nendif",
+				["1532;1537;1211:1866"] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "新建脚本 19",
+					["code"] = "change(next) [ self.dead ]\nif [ self(伊奇).active ]\nability(黑爪) [ self.round = 1 ]\nability(黑爪) [ self.round = 2]\nability(群殴) [ self.round = 3 ]\nendif\nif [ self(伊奇).active ]\nability(黑爪) [ self.round = 1 ]\nability(黑爪) [ self.round = 2]\nability(群殴) [ self.round = 3 ]\nendif\nability(自爆)",
 				},
-				["489;310;293:1508;1509;1510"] = {
-					["author"] = "云飞-迦罗娜",
-					["name"] = "新建脚本 31",
-					["code"] = "change(next) [ self.dead ]\nif [ self(奥妮克希亚的雏龙).active ]\n    ability(扫尾) [ weather(灼燃大地) ]\n    ability(灼燃大地)\nendif\nif [ self(巫毒雕像).active ]\n    ability(狂野魔法) [ self.round = 1 ]\n    ability(烈焰吐息) [ self.round = 2 ]\n    ability(烈焰吐息) [ self.round = 3 ]\n    ability(狂野魔法) [ self.round = 4 ]\n    ability(烈焰吐息) [ self.round = 5 ]\n    ability(烈焰吐息) [ self.round = 6 ]\nendif",
+				["557;456;383:1400;1401;1402"] = {
+					["author"] = "最后的悠悠-迦罗娜",
+					["name"] = "新建脚本 81",
+					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(锦绣阔步者).active]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nability(染疫之爪) [ self.round = 3 ]\nendif",
 				},
 				["557;456;339:1400;1401;1402"] = {
 					["author"] = "最后的悠悠-迦罗娜",
 					["name"] = "新建脚本 48",
 					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(暗月飞艇).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
 				},
-				["557;456;1567:1400;1401;1402"] = {
-					["author"] = "最后的悠悠-迦罗娜",
-					["name"] = "新建脚本 62",
-					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(哨兵之友).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
-				},
-				["85;1537:1866"] = {
-					["author"] = "悠悠龟-火羽山",
-					["name"] = "新建脚本 17",
-					["code"] = "if [ self(步行炸弹).active ]\n    ability(毒烟) [ self.round = 1 ]\n    ability(猛击) [ self.round = 2 ]\n    ability(猛击) [ self.round = 3 ]\n    ability(猛击) [ self.round = 4 ]\n    ability(自爆) [ self.round = 5 ]\nendif",
-				},
-				["557;456;1276:1400;1401;1402"] = {
+				["557;456;266:1400;1401;1402"] = {
 					["author"] = "兮兮妹-末日祷告祭坛",
-					["name"] = "新建脚本 84",
-					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(月月).active]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nability(染疫之爪) [ self.round = 3 ]\nendif",
+					["name"] = "新建脚本 86",
+					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(化石幼兽).active]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nability(染疫之爪) [ self.round = 3 ]\nendif",
+				},
+				["557;456;374:1400;1401;1402"] = {
+					["author"] = "兮兮妹-末日祷告祭坛",
+					["name"] = "新建脚本 88",
+					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\nif [enemy(泰莉).active]\n    ability(生命交换) \n    ability(月火术)\n    ability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(黑羔羊).active]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nability(染疫之爪) [ self.round = 3 ]\nendif",
+				},
+				["1387;1387;1387:1479;1482"] = {
+					["author"] = "最后的悠悠-迦罗娜",
+					["name"] = "新建脚本 91",
+					["code"] = "change(#2) [enemy(鲁库斯).active]\nuse(旋紧发条) [self.aura(增压).exists]\nuse(增压) [self.aura(旋紧发条).exists]\nuse(旋紧发条)",
 				},
 			},
 			["Rematch"] = {
 				[72285] = {
 					["author"] = "兮兮妹-末日祷告祭坛",
 					["name"] = "二：赤芝，赤精的雏鸟",
-					["code"] = "change(next) [ self.dead ]\nif [self(幼年瓦格里).active ]\nability(鬼影缠身)\nendif\nif [ self(伊奇).active ]\n    ability(群殴) [ enemy.aura(黑爪).exists ]\n    ability(黑爪)\nendif",
+					["code"] = "change(next) [ self.dead ]\nif [ self(心火小鬼).active ]\nability(自燃) [ self.round = 1 ]\nability(狂野魔法) [ self.round = 2 ]\nchange(#2) [ self.round = 3 ]\nendif\n\nif [ self(翡翠软泥怪).active ]\nability(酸蚀粘液) [ self.round = 1 ]\nability(腐蚀) [ self.round = 2 ]\nability(吸收)\nendif\nability(吸收)",
 				},
 				[85519] = {
 					["author"] = "小学生放假了-火羽山",
@@ -512,6 +484,11 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 					["author"] = "兮兮妹-末日祷告祭坛",
 					["name"] = "C祝踏岚",
 					["code"] = "change(凋零雄鹰) [ self.aura(昏迷).exists ]\nchange(凋零雄鹰) [ enemy.aura(嚎叫).exists ]\nif [ enemy(小丹).active ]\nuse(嚎叫) [self.aura(缭乱之舞).exists]\nuse(缭乱之舞)\nuse(幽魂之咬)\nendif\n\nif [ enemy(小杰).active &  self(凋零雄鹰).active]\nuse(幽魂之咬)\nendif\n\nif [ enemy(小杰).active ]\nchange(座狼幼崽)\nuse(嚎叫)\nendif\n\nif [ enemy(小龙).active ]\nchange(座狼幼崽)\nuse(嚎叫)\nendif\n\nif [ enemy(小龙).active &  self(凋零雄鹰).active]\nuse(幽魂之咬)\nendif",
+				},
+				[85622] = {
+					["author"] = "帅帅爹-末日祷告祭坛",
+					["name"] = "2（二野猪）",
+					["code"] = "change(#2) [enemy(鲁库斯).active]\nuse(旋紧发条) [self.aura(增压).exists]\nuse(增压) [self.aura(旋紧发条).exists]\nuse(旋紧发条)",
 				},
 				[85626] = {
 					["author"] = "最后的悠悠-迦罗娜",
@@ -573,45 +550,45 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 					["name"] = "四：玉兰，玉珑的子嗣",
 					["code"] = "change(next) [ self.dead ]\nif [ self(唱歌的向日葵).active ]\n    change(next) [ weather(晴天) ]\n    ability(太阳光)\nendif\nability(自爆)\nability(日光术) [ self.aura(光合作用).exists ]\nability(光合作用)",
 				},
-				[85634] = {
-					["author"] = "最后的悠悠-迦罗娜",
-					["name"] = "~15三魔仆",
-					["code"] = "if [self(奥妮克希亚的雏龙).active]\nability(扫尾) [weather(灼燃大地)]\nability(灼燃大地)\nendif\nquit [self(痛苦的雏龙).dead]\nchange(next) [self.dead]\nability(扫尾)",
-				},
-				[68464] = {
-					["author"] = "悠悠骑-末日祷告祭坛",
-					["name"] = "2熊猫人微风之灵",
-					["code"] = "change(next) [ self.dead ]\nif [ enemy(灰翅蛾).active ]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [ enemy(哨尾).active ]\n    ability(生命交换)\n    ability(奥术冲击)\n    ability(奥术冲击)\nability(奥术冲击)\nendif\n\nif [ enemy(熊猫人风灵).active & self(节点雏龙).active]\n\nability(奥术风暴) [ self.round = 1 ]\nability(法力澎湃) [ self.round = 2 ]\nendif\n\nif [ enemy(熊猫人风灵).active ]\nchange(#3)\nchange(节点雏龙)\nendif",
-				},
-				[85659] = {
+				[71927] = {
 					["author"] = "兮兮妹-末日祷告祭坛",
-					["name"] = "4大嘴鸟",
-					["code"] = "change(next) [ self.dead ]\nif [enemy(大嘴鸟).active]\nability(奥术风暴)\nability(法力澎湃)\nability(扫尾)\nendif\nability(自爆)",
+					["name"] = "B陈·风暴烈酒",
+					["code"] = "change(机械斧喙鸟) [ self.aura(昏睡).exists ]\nchange(next) [ self.dead ]\nif [ enemy(唐莎).active ]\nuse(错乱)\nuse(空袭)\nendif\n\nif [ enemy(叽叽).active ]\nchange(#3) [ !self(#3).played ]\nuse(离地升空)\nuse(错乱)\nuse(空袭)\nuse(汹涌)\nendif",
 				},
 				[71929] = {
 					["author"] = "兮兮妹-末日祷告祭坛",
 					["name"] = "1“腌菜”苏利·麦克莱利",
 					["code"] = "if [ enemy(袜子).active ]\nuse(旋紧发条) [self.aura(增压).exists]\nuse(增压) [self.aura(旋紧发条).exists]\nuse(旋紧发条)\nendif\n\nif [ enemy(莫特).active ]\nuse(旋紧发条) [self.aura(增压).exists]\nuse(增压) [self.aura(加速).exists]\nuse(强力球)\nendif\nif [ enemy(里奇).active &  self(钢铁星弹).active ]\nstandby\nendif\n\nchange(#3) [ !self(#3).played ]\n\nif [ self(伊奇).active ]\n    ability(群殴) [ enemy.aura(黑爪).exists ]\n    ability(黑爪)\nendif",
 				},
+				[85659] = {
+					["author"] = "兮兮妹-末日祷告祭坛",
+					["name"] = "4大嘴鸟",
+					["code"] = "change(next) [ self.dead ]\nif [enemy(大嘴鸟).active]\nability(奥术风暴)\nability(法力澎湃)\nability(扫尾)\nendif\nability(自爆)",
+				},
+				[68464] = {
+					["author"] = "悠悠骑-末日祷告祭坛",
+					["name"] = "2熊猫人微风之灵",
+					["code"] = "change(next) [ self.dead ]\nif [ enemy(灰翅蛾).active ]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [ enemy(哨尾).active ]\n    ability(生命交换)\n    ability(奥术冲击)\n    ability(奥术冲击)\nability(奥术冲击)\nendif\n\nif [ enemy(熊猫人风灵).active & self(节点雏龙).active]\n\nability(奥术风暴) [ self.round = 1 ]\nability(法力澎湃) [ self.round = 2 ]\nendif\n\nif [ enemy(熊猫人风灵).active ]\nchange(#3)\nchange(节点雏龙)\nendif",
+				},
 				[71933] = {
 					["author"] = "兮兮妹-末日祷告祭坛",
 					["name"] = "～4布林顿4000",
 					["code"] = "change(next) [ self.dead ]\nif [ enemy(阿怒).active ]\nability(汹涌) [ self.round = 1 ]\nability(湍流旋涡) [ self.round = 2 ]\nability(汹涌) [ self.round = 3 ]\nability(汹涌) \nendif\n\n\nif [ enemy(存钱罐).active ]\nability(汹涌) \n        ability(黑爪) [ self.round = 1 ]\n    ability(狩猎小队) [ self.round = 2 ]   \nability(原始嗥叫)\nendif\nability(原始嗥叫)\nability(黑爪)\n\nif [ enemy(小布).active ]\n    ability(燃烧) [ enemy.aura(献祭).exists ]\n    ability(献祭)\nendif",
 				},
-				[68560] = {
+				[66733] = {
 					["author"] = "兮兮妹-末日祷告祭坛",
-					["name"] = "5灰蹄",
-					["code"] = "change(next) [ self.dead ]\nif [ self(唱歌的向日葵).active ]\n    change(next) [ weather(晴天) ]\n    ability(太阳光)\nendif\nability(自爆)\nability(日光术)",
+					["name"] = "4莫鲁克",
+					["code"] = "if [ enemy(雕木者).active ]\n    ability(蠕行真菌) [ self.round = 1 ]\n    ability(奔踏) [ self.round = 2 ]\n    ability(奔踏) [ self.round = 3 ]\n    ability(奔踏) [ self.round = 4 ]\n    ability(吞噬) [ self.round = 5 ]\n    ability(奔踏) [ self.round = 6 ]\nendif\nability(奔踏) [ enemy(光之行者).active & self(被感染的松鼠).active ]\nchange(#3) [ !self(#3).played ]\nif [ enemy(光之行者).active ]\n    change(虚空精灵龙)\n    ability(奥术冲击)\nendif\nif [ enemy(针背龟).active ]\n    standby [ self.aura(昏迷).exists ]\n    ability(月火术)\n    ability(生命交换)\n    ability(奥术冲击) [ weather(月光) ]\nendif",
 				},
 				[87124] = {
 					["author"] = "悠悠龟-火羽山",
 					["name"] = "影月谷：阿什雷",
 					["code"] = "if [ self(步行炸弹).active ]\n  ability(猛击) [ enemy.aura(雷区).exists ]\n  ability(雷区)\nendif\n\nif [ enemy(多多).active ]\nability(自爆) [ enemy.hpp< 34 ]\nability(猛击)\nendif",
 				},
-				[85629] = {
-					["author"] = "最后的悠悠-迦罗娜",
-					["name"] = "~10冰与火之歌",
-					["code"] = "if [ enemy.aura(嚎叫).exists ]\nchange(明镜水黾)\nability(抽水)\nendif\nquit [self(克洛玛尼斯).dead]\nchange(克洛玛尼斯) [self.aura(抽水).exists]\nability(嚎叫)\nif [self(明镜水黾).active]\nability(抽水)\nendif",
+				[66918] = {
+					["author"] = "最初的悠悠-日落沼泽",
+					["name"] = "~11探索者祖什",
+					["code"] = "if [ enemy(金刚钻).active ]\nability(湍流旋涡)\nability(猛咬)\nendif\n\nif [ enemy(莫乐斯).active ]\nability(治疗波)\nability(湍流旋涡) [ enemy.aura(潜水).exists ]\nability(猛咬)\nendif\nchange(#3) [ !self(#3).played ]\nif [ enemy(莫乐斯).active ]\nchange(#2)\nability(诱饵)\nability(空袭)\nendif\n\nif [ enemy(掠影者).active ]\nability(空袭)\nendif",
 				},
 				[68561] = {
 					["author"] = "兮兮妹-末日祷告祭坛",
@@ -643,95 +620,123 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 					["name"] = "杰里米·费舍尔",
 					["code"] = "change(next) [ self.dead ]\nif [ enemy(审判).active ]\n  ability(雷霆之箭)\n  ability(吐息)\nendif\n\nif [ enemy(叮当坦克).active ]\n  ability(雷霆之箭)\n  ability(吐息)\nendif",
 				},
-				[105386] = {
-					["author"] = "悠悠龟-火羽山",
-					["name"] = "5风暴峡湾：瑞迪尔",
-					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
+				[66739] = {
+					["author"] = "兮兮妹-末日祷告祭坛",
+					["name"] = "7废土行者苏游",
+					["code"] = "change(next) [ self.dead ]\nif [ enemy(碎石蟹).active]\nability(月火术) [ self.round = 1 ]\nability(奥术冲击) [ self.round = 2 ]\nability(隐没) [ self.round = 3 ]\nability(奥术冲击) [ self.round = 4 ]\nability(奥术冲击) [ self.round = 5 ]\nability(奥术冲击) [ self.round = 6 ]\nability(奥术冲击) [ self.round = 7 ]\nendif\n\nif [ enemy(磨杵).active]\nability(隐没)\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [ enemy(损毁者).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nability(自爆) [ enemy.hpp<44 ]\nendif",
 				},
 				[66741] = {
 					["author"] = "兮兮妹-末日祷告祭坛",
 					["name"] = "8天选者亚济",
 					["code"] = "change(next) [ self.dead ]\nif [ enemy(唧唧).active]\nability(旋紧发条) [ self.round = 1 ]\nability(强力球) [ self.round = 2 ]\nability(增压) [ self.round = 3 ]\nability(旋紧发条) [ self.round = 4 ]\nendif\n\nif [ enemy(鞭风者).active]\nability(旋紧发条)\nendif\n\nif [ enemy(晶须猫).active]\nability(自爆) [ enemy.hpp<44 ]\n\nability(旋紧发条)\nendif",
 				},
-				[68565] = {
-					["author"] = "悠悠骑-末日祷告祭坛",
-					["name"] = "2尼顿",
-					["code"] = "change(next) [ self.dead ]\nif [self(唱歌的向日葵).active ]\nchange(next) [weather(晴天)]\nability(太阳光)\nendif\nif [ self(赤红孢子).active ]\n    ability(自爆)\nendif",
-				},
-				[105387] = {
-					["author"] = "悠悠龟-火羽山",
-					["name"] = "5风暴峡湾：安杜斯",
-					["code"] = "if [ self(伊奇).active ]\n    ability(群殴) [ enemy.aura(黑爪).exists ]\n    ability(黑爪)\nendif",
-				},
-				[71926] = {
+				[71930] = {
 					["author"] = "兮兮妹-末日祷告祭坛",
-					["name"] = "3游学者周卓",
-					["code"] = "change(next) [ self.dead ]\nif [ enemy(智慧).active ]\nchange(next)\nability(奥术冲击) [ weather(月光) ]\n  ability(月火术)\nendif\nif [ enemy(耐心).active ]\n ability(生命交换)\n ability(奥术冲击)\n ability(脚踢)\n ability(迅猛突袭)\nendif",
-				},
-				[68465] = {
-					["author"] = "兮兮妹-末日祷告祭坛",
-					["name"] = "1熊猫人雷霆之灵",
-					["code"] = "change(next) [ self.dead ]\nif [self(高山野兔).active]\n    ability(乱舞) [ self.round = 1 ]\n    ability(躲闪) [ self.round = 2 ]\n    ability(奔踏) [ self.round = 3 ]\n    ability(奔踏) [ self.round = 4 ]\n    ability(奔踏) [ self.round = 5 ]\n    ability(乱舞) [ self.round = 6 ]\n    ability(乱舞) [ self.round = 7 ]\n    \n    ability(躲闪) [ self.round = 9 ]\n    ability(奔踏) [ self.round = 10 ]\n    ability(奔踏) [ self.round = 11 ]\n    ability(乱舞) [ self.round = 13 ]\nendif\nif [enemy(泥团).active & self(暗月飞艇).active]\n    ability(飞弹)\nendif \n    \nif [enemy(钻地鼠达纳克).active & self(暗月飞艇).active] \nability(自爆) [ enemy.hpp<44 ]\nability(诱饵) [enemy.aura(石肤术).exists]\n    ability(飞弹)\n   \nendif",
+					["name"] = "～1匿踪大师琪麟",
+					["code"] = "change(next) [ self.dead ]\nif [ self(伊奇).active ]\n    ability(群殴) [ enemy.aura(黑爪).exists ]\n    ability(黑爪)\nendif\n\nability(自爆) [ self(步行炸弹).active & enemy(夏天).active]\n\nif [ self(步行炸弹).active ]\n    ability(雷区)\n    ability(猛击)\nendif\n\nif [ self(暗月坦克).active ]\n    ability(震慑)\n    ability(离子炮)\nendif",
 				},
 				[79179] = {
 					["author"] = "最后的悠悠-迦罗娜",
 					["name"] = "斯奎特-暗黑三人",
 					["code"] = "change(next) [ self.dead ]\nchange(next) [self.aura(昏迷).exists]\nif [enemy(迪波斯).active]\nability(奥术冲击) [weather(月光)]\nability(月火术)\nendif\n\nif [enemy(泰莉).active]\nability(生命交换) \nability(月火术)\nability(奥术冲击)\nendif\n\nif [enemy(泰莉).active & self(凋零雄鹰).active]\nability(幽魂之咬) [ self.round = 1 ]\nability(染疫之爪) [ self.round = 2 ]\nendif\n\nif [self(#3).active ]\nchange(凋零雄鹰)\nability(染疫之爪)\nability(幽魂之咬)\nendif\n\nif [enemy(帕兹尔).active & self(凋零雄鹰).active]\nability(染疫之爪) [ self.round = 1 ]\nability(幽魂之咬) [ self.round = 2 ]\nendif",
 				},
+				[71926] = {
+					["author"] = "兮兮妹-末日祷告祭坛",
+					["name"] = "3游学者周卓",
+					["code"] = "change(next) [ self.dead ]\nif [ enemy(智慧).active ]\nstandby [ !self.aura(狂野魔法).exists & self(#1).active ]\nchange(#2) [ !self(#2).played ]\nability(奥术冲击) [ weather(月光) ]\n  ability(月火术)\nendif\nif [ enemy(耐心).active ]\n ability(生命交换)\n ability(奥术冲击)\n ability(脚踢)\n ability(迅猛突袭)\nendif\n\nif [ enemy(知识).active ]\n ability(迅猛突袭)\n ability(脚踢)\nendif",
+				},
+				[68465] = {
+					["author"] = "兮兮妹-末日祷告祭坛",
+					["name"] = "1熊猫人雷霆之灵",
+					["code"] = "change(next) [ self.dead ]\nif [self(高山野兔).active]\n    ability(乱舞) [ self.round = 1 ]\n    ability(躲闪) [ self.round = 2 ]\n    ability(奔踏) [ self.round = 3 ]\n    ability(奔踏) [ self.round = 4 ]\n    ability(奔踏) [ self.round = 5 ]\n    ability(乱舞) [ self.round = 6 ]\n    ability(乱舞) [ self.round = 7 ]\n    \n    ability(躲闪) [ self.round = 9 ]\n    ability(奔踏) [ self.round = 10 ]\n    ability(奔踏) [ self.round = 11 ]\n    ability(乱舞) [ self.round = 13 ]\nendif\nif [enemy(泥团).active & self(暗月飞艇).active]\n    ability(飞弹)\nendif \n    \nif [enemy(钻地鼠达纳克).active & self(暗月飞艇).active] \nability(自爆) [ enemy.hpp<44 ]\nability(诱饵) [enemy.aura(石肤术).exists]\n    ability(飞弹)\n   \nendif",
+				},
 				[71934] = {
 					["author"] = "兮兮妹-末日祷告祭坛",
 					["name"] = "2艾恩·戈德布鲁姆博士",
-					["code"] = "change(#1) [ self.dead ]\n\nif [ enemy(三角小龙).active &  self(节点雏龙).active]\nability(扫尾)\nendif\nif [ enemy(尖啸龙).active &  self(节点雏龙).active]\nability(法力澎湃) [ weather(奥术之风) ]\nability(奥术风暴)\nendif\nif [ enemy(尖啸龙).active ]\nability(诱饵)\nchange(节点雏龙)\nendif\n\n\nif [ enemy(三角小龙).active &  self(暗月飞艇).active]\nability(飞弹)\nendif",
+					["code"] = "change(#1) [ self.dead ]\n\nif [ enemy(三角小龙).active &  self(节点雏龙).active]\nability(扫尾)\nendif\nif [ enemy(尖啸龙).active &  self(节点雏龙).active]\nability(法力澎湃) [ weather(奥术之风) ]\nability(奥术风暴)\nendif\n\nif [ enemy(尖啸龙).active &  self(暗月飞艇).active]\nability(诱饵) [ !self(#2).played ]\nchange(节点雏龙)\nability(飞弹)\nendif\n\n\nif [ enemy(三角小龙).active &  self(暗月飞艇).active]\nability(飞弹)\nendif\n\nif [ enemy(混沌).active &  self(暗月飞艇).active]\nability(诱饵)\nability(自爆) [ enemy.hpp< 34 ]\nability(飞弹)\nendif",
 				},
-				[71930] = {
-					["author"] = "兮兮妹-末日祷告祭坛",
-					["name"] = "～1匿踪大师琪麟",
-					["code"] = "change(next) [ self.dead ]\nif [ self(伊奇).active ]\n    ability(群殴) [ enemy.aura(黑爪).exists ]\n    ability(黑爪)\nendif\n\nability(自爆) [ self(步行炸弹).active & enemy(夏天).active]\n\nif [ self(步行炸弹).active ]\n    ability(雷区)\n    ability(猛击)\nendif\n\nif [ self(暗月坦克).active ]\n    ability(震慑)\n    ability(离子炮)\nendif",
+				[105387] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "5风暴峡湾：安杜斯",
+					["code"] = "if [ self(伊奇).active ]\n    ability(群殴) [ enemy.aura(黑爪).exists ]\n    ability(黑爪)\nendif",
+				},
+				[68565] = {
+					["author"] = "悠悠骑-末日祷告祭坛",
+					["name"] = "2尼顿",
+					["code"] = "change(next) [ self.dead ]\nif [self(唱歌的向日葵).active ]\nchange(next) [weather(晴天)]\nability(太阳光)\nendif\nif [ self(赤红孢子).active ]\n    ability(自爆)\nendif",
 				},
 				[72009] = {
 					["author"] = "兮兮妹-末日祷告祭坛",
 					["name"] = "一：雪福，雪怒的幼崽",
 					["code"] = "change(next) [ self.dead ]\nif [ self(赞达拉袭胫者).active ]\n    ability(狩猎小队) [ enemy.aura(黑爪).exists ]\n    ability(黑爪)\nendif\n\nif [ self(小布).active ]\n    ability(金币雨) [ self.round = 1 ]\n    ability(自我复制) [ self.round = 2 ]\nendif",
 				},
-				[66739] = {
-					["author"] = "兮兮妹-末日祷告祭坛",
-					["name"] = "7废土行者苏游",
-					["code"] = "change(next) [ self.dead ]\nif [ enemy(碎石蟹).active]\nability(月火术) [ self.round = 1 ]\nability(奥术冲击) [ self.round = 2 ]\nability(隐没) [ self.round = 3 ]\nability(奥术冲击) [ self.round = 4 ]\nability(奥术冲击) [ self.round = 5 ]\nability(奥术冲击) [ self.round = 6 ]\nability(奥术冲击) [ self.round = 7 ]\nendif\n\nif [ enemy(磨杵).active]\nability(隐没)\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nendif\n\nif [ enemy(损毁者).active]\n    ability(奥术冲击) [weather(月光)]\n    ability(月火术)\nability(自爆) [ enemy.hpp<44 ]\nendif",
+				[105386] = {
+					["author"] = "悠悠龟-火羽山",
+					["name"] = "5风暴峡湾：瑞迪尔",
+					["code"] = "if [ self(钢铁星弹).active ]\n    ability(旋紧发条) [ self.round = 1 ]\n    ability(毒烟) [ self.round = 2 ]\n    ability(旋紧发条) [ self.round = 3 ]\n    ability(自爆) [ self.round = 4 ]\nendif",
 				},
 				[85625] = {
 					["author"] = "最后的悠悠-迦罗娜",
 					["name"] = "6(两个戈隆小巨人)",
 					["code"] = "standby [self.aura(昏迷).exists]\nif [enemy(考姆利).active]\nuse(血牙) [enemy.hpp<44]\nuse(狩猎小队) [enemy.aura(黑爪).exists]\nuse(黑爪)\nendif\nif [enemy(高姆利).active]\nchange(#1) [self.dead]\nchange(#2) [enemy.aura(黑爪).exists]\nuse(血牙) [enemy.hpp<36]\nuse(狩猎小队) [enemy.aura(黑爪).exists]\nuse(黑爪)\nendif",
 				},
-				[66918] = {
-					["author"] = "最初的悠悠-日落沼泽",
-					["name"] = "~11探索者祖什",
-					["code"] = "if [ enemy(金刚钻).active ]\nability(湍流旋涡)\nability(猛咬)\nendif\n\nif [ enemy(莫乐斯).active ]\nability(治疗波)\nability(湍流旋涡) [ enemy.aura(潜水).exists ]\nability(猛咬)\nendif\nchange(#3) [ !self(#3).played ]\nif [ enemy(莫乐斯).active ]\nchange(#2)\nability(诱饵)\nability(空袭)\nendif\n\nif [ enemy(掠影者).active ]\nability(空袭)\nendif",
+				[85629] = {
+					["author"] = "最后的悠悠-迦罗娜",
+					["name"] = "~10冰与火之歌",
+					["code"] = "if [ enemy.aura(嚎叫).exists ]\nchange(明镜水黾)\nability(抽水)\nendif\nquit [self(克洛玛尼斯).dead]\nchange(克洛玛尼斯) [self.aura(抽水).exists]\nability(嚎叫)\nif [self(明镜水黾).active]\nability(抽水)\nendif",
 				},
-				[66733] = {
+				[68560] = {
 					["author"] = "兮兮妹-末日祷告祭坛",
-					["name"] = "4莫鲁克",
-					["code"] = "if [ enemy(雕木者).active ]\n    ability(蠕行真菌) [ self.round = 1 ]\n    ability(奔踏) [ self.round = 2 ]\n    ability(奔踏) [ self.round = 3 ]\n    ability(奔踏) [ self.round = 4 ]\n    ability(吞噬) [ self.round = 5 ]\n    ability(奔踏) [ self.round = 6 ]\nendif\nability(奔踏) [ enemy(光之行者).active & self(被感染的松鼠).active ]\nchange(#3) [ !self(#3).played ]\nif [ enemy(光之行者).active ]\n    change(虚空精灵龙)\n    ability(奥术冲击)\nendif\nif [ enemy(针背龟).active ]\n    standby [ self.aura(昏迷).exists ]\n    ability(月火术)\n    ability(生命交换)\n    ability(奥术冲击) [ weather(月光) ]\nendif",
+					["name"] = "5灰蹄",
+					["code"] = "change(next) [ self.dead ]\nif [ self(唱歌的向日葵).active ]\n    change(next) [ weather(晴天) ]\n    ability(太阳光)\nendif\nability(自爆)\nability(日光术)",
 				},
 				[68564] = {
 					["author"] = "兮兮妹-末日祷告祭坛",
 					["name"] = "1多斯里加",
 					["code"] = "change(next) [ self.dead ]\nif [self(幼年瓦格里).active ]\nability(鬼影缠身)\nendif\nif [ self(伊奇).active ]\n    ability(群殴) [ enemy.aura(黑爪).exists ]\n    ability(黑爪)\nendif",
 				},
-				[71927] = {
-					["author"] = "兮兮妹-末日祷告祭坛",
-					["name"] = "B陈·风暴烈酒",
-					["code"] = "change(机械斧喙鸟) [ self.aura(昏睡).exists ]\nchange(next) [ self.dead ]\nif [ enemy(唐莎).active ]\nuse(错乱)\nuse(空袭)\nendif\n\nif [ enemy(叽叽).active ]\nchange(#3) [ !self(#3).played ]\nuse(离地升空)\nuse(错乱)\nuse(空袭)\nuse(汹涌)\nendif",
+				[85634] = {
+					["author"] = "最后的悠悠-迦罗娜",
+					["name"] = "~15三魔仆",
+					["code"] = "if [self(奥妮克希亚的雏龙).active]\nability(扫尾) [weather(灼燃大地)]\nability(灼燃大地)\nendif\nquit [self(痛苦的雏龙).dead]\nchange(next) [self.dead]\nability(扫尾)",
 				},
 			},
 		},
 	},
+	["profileKeys"] = {
+		["海上五月花 - 火羽山"] = "Default",
+		["悠悠战 - 末日祷告祭坛"] = "Default",
+		["厦门妇幼 - 末日祷告祭坛"] = "Default",
+		["帅帅爹 - 末日祷告祭坛"] = "Default",
+		["最后的悠悠 - 火羽山"] = "Default",
+		["亦可赛艇 - 迦罗娜"] = "Default",
+		["悠悠龟 - 火羽山"] = "Default",
+		["妈蛋 - 末日祷告祭坛"] = "Default",
+		["最初的悠悠 - 日落沼泽"] = "Default",
+		["赞达拉使者 - 火羽山"] = "Default",
+		["最后的悠悠 - 迦罗娜"] = "Default",
+		["Bbxl - 迦罗娜"] = "Default",
+		["悠悠骑 - 末日祷告祭坛"] = "Default",
+		["小学生放假了 - 火羽山"] = "Default",
+		["搞个大新闻 - 迦罗娜"] = "Default",
+		["猛牛悠悠乳 - 火羽山"] = "Default",
+		["梁帅 - 迦罗娜"] = "Default",
+		["杀猪刀猴赛雷 - 火羽山"] = "Default",
+		["云飞 - 迦罗娜"] = "Default",
+		["Dxnbz - 安东尼达斯"] = "Default",
+		["悠悠龟 - 冬拥湖"] = "Default",
+		["打小怪的 - 迦罗娜"] = "Default",
+		["兮兮妹 - 末日祷告祭坛"] = "Default",
+		["猴赛雷杀猪刀 - 火羽山"] = "Default",
+		["悠悠龟 - 迦罗娜"] = "Default",
+		["最初的悠悠 - 迦罗娜"] = "Default",
+	},
 	["profiles"] = {
 		["Default"] = {
 			["position"] = {
-				["y"] = 71.2022094726563,
-				["x"] = 89.8456344604492,
-				["point"] = "LEFT",
+				["y"] = 98.2785339355469,
+				["x"] = -34.0003662109375,
+				["point"] = "RIGHT",
 				["scale"] = 1,
 			},
 		},

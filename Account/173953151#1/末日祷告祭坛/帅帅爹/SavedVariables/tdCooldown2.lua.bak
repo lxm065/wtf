@@ -3,19 +3,11 @@ tCDblackData = {
 }
 tCDcoolingData = {
 	{
-		["spell"] = "传送",
-		["name"] = "达拉然炉石",
-		["start"] = 546.723,
-		["duration"] = 1200,
-		["icon"] = 1444943,
-		["rank"] = 0,
-	}, -- [1]
-	{
 		["spell"] = "要塞炉石",
 		["name"] = "要塞炉石",
-		["start"] = 602.189,
+		["start"] = 14615.002,
 		["duration"] = 1200,
 		["icon"] = 1041860,
 		["rank"] = 0,
-	}, -- [2]
+	}, -- [1]
 }

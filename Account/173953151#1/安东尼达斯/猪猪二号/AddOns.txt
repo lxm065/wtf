@@ -13,6 +13,7 @@ GarrisonMissionManager: enabled
 HPetBattleAny: disabled
 HandyNotes_DraenorTreasures: enabled
 Mapster: enabled
+MeetingStone: enabled
 MySlot: enabled
 NewbieAssistant: enabled
 Postal: enabled

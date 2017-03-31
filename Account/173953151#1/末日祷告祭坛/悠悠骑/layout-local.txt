@@ -1,11 +1,4 @@
 Version: 1
-Frame: AccountantClassicMoneyInfoFrame
-FrameLevel: 1
-Anchor: LEFT
-X: 11
-Y: 158
-W: 119
-H: 21
 Frame: WhisperPopFrame
 FrameLevel: 1
 Anchor: LEFT
@@ -27,6 +20,13 @@ X: -210
 Y: -163
 W: 31
 H: 31
+Frame: AccountantClassicMoneyInfoFrame
+FrameLevel: 1
+Anchor: LEFT
+X: 11
+Y: 158
+W: 160
+H: 21
 Frame: CombuctorFrameinventory
 FrameLevel: 1
 Anchor: CENTER
@@ -37,7 +37,7 @@ H: 480
 Frame: RematchPetCard
 FrameLevel: 1
 Anchor: TOPRIGHT
-X: -292
-Y: -61
+X: -147
+Y: 0
 W: 260
-H: 423
+H: 428

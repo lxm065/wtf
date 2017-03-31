@@ -9,11 +9,13 @@ oRA3DB = {
 		},
 		["ReadyCheck"] = {
 		},
+		["Loot"] = {
+		},
 		["Alerts"] = {
 		},
-		["GuildRepairs"] = {
+		["Rings"] = {
 		},
-		["Loot"] = {
+		["GuildRepairs"] = {
 		},
 		["Promote"] = {
 		},
